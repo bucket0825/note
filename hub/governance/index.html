@@ -153,7 +153,7 @@ function renderLog() {
     var mon = String(d.getMonth()+1).padStart(2,'0');
     var ic = e.status === 'ok' ? '<span style="color:#b5dbc5;font-size:18px">✓</span>' : '<span style="color:#e0b84a;font-size:18px">⚠</span>';
     html += '<div class="log-entry '+(e.status==='warn'?'has-issue':'ok-entry')+'">';
-    html += '<div class="le-left"><div class="le-day">'+day+'<span style="font-size:9px;font-weight:600;color:#9e9586">일</span></div><div class="le-mon">'+mon+'월</div><div class="le-badge '+(e.type||'weekly')+'">'+（TYPE_LABEL[e.type]||e.type)+'</div></div>';
+    html += '<div class="le-left"><div class="le-day">'+day+'<span style="font-size:9px;font-weight:600;color:#9e9586">일</span></div><div class="le-mon">'+mon+'월</div><div class="le-badge '+(e.type||'weekly')+'">'+(TYPE_LABEL[e.type]||e.type)+'</div></div>';
     html += '<div class="le-center"><div class="le-summary">'+e.summary+'</div></div>';
     html += '<div class="le-ic">'+ic+'</div></div>';
   });
