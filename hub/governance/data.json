@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-25T00:00:00.000000",
+  "updated": "2026-07-25T14:44:12.917104",
   "log": [
+    {
+      "id": "weekly-20260725",
+      "type": "weekly",
+      "date": "2026-07-25",
+      "status": "warn",
+      "summary": "위반 9건 · 0파일 스캔"
+    },
     {
       "id": "monthly-20260725",
       "type": "monthly",
@@ -14,13 +21,6 @@
       "date": "2026-07-25",
       "status": "ok",
       "summary": "cron 자동화 등록 완료 · 격주감사 격주 금요일 00:10 · 신설업무 분류결정판 자동생성"
-    },
-    {
-      "id": "weekly-20260725",
-      "type": "weekly",
-      "date": "2026-07-25",
-      "status": "ok",
-      "summary": "cron 자동화 등록 완료 · 주간감사 매주 월요일 00:10"
     },
     {
       "id": "monthly-20260724",
