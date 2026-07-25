@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-24T17:31:42.244372",
+  "updated": "2026-07-25T00:00:00.000000",
   "log": [
+    {
+      "id": "monthly-20260725",
+      "type": "monthly",
+      "date": "2026-07-25",
+      "status": "ok",
+      "summary": "cron 자동화 등록 완료 · 4주감사 4주마다 토요일 00:10 · 거버넌스 최초 수립"
+    },
+    {
+      "id": "biweekly-20260725",
+      "type": "biweekly",
+      "date": "2026-07-25",
+      "status": "ok",
+      "summary": "cron 자동화 등록 완료 · 격주감사 격주 금요일 00:10 · 신설업무 분류결정판 자동생성"
+    },
+    {
+      "id": "weekly-20260725",
+      "type": "weekly",
+      "date": "2026-07-25",
+      "status": "ok",
+      "summary": "cron 자동화 등록 완료 · 주간감사 매주 월요일 00:10"
+    },
     {
       "id": "monthly-20260724",
       "type": "monthly",
