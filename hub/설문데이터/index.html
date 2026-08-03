@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>maydly · 설문데이터</title>
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" />
+<style>
+  :root{
+    --bg:#F5F7EF; --card:#FFFFFF; --line:#E4EAD6; --line2:#EEF2E6;
+    --green:#4A7A35; --green-l:#7DAB5A; --mint:#EAF2DC;
+    --ink:#2A3820; --sub:#6A8055; --sub-l:#9CB183; --warn:#B98A3C;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--ink);font-family:'Pretendard','Noto Sans KR',sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:920px;margin:0 auto;padding:0 18px 60px;position:relative;}
+  .clover{position:fixed;color:#CFE0B4;opacity:.5;pointer-events:none;user-select:none;z-index:0;}
+  .c1{top:90px;right:20px;font-size:26px;} .c2{bottom:60px;left:16px;font-size:20px;} .c3{top:46%;right:28px;font-size:15px;opacity:.35;}
+
+  .gate{min-height:82vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;position:relative;z-index:1;padding:20px;}
+  .gate .glogo{font-size:34px;margin-bottom:12px;}
+  .gate h1{font-size:22px;font-weight:800;margin-bottom:8px;}
+  .gate p{font-size:13px;color:var(--sub);margin-bottom:26px;line-height:1.8;}
+  .gbtn{display:inline-flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px 22px;font-size:14px;font-weight:600;color:var(--ink);cursor:pointer;box-shadow:0 2px 8px rgba(42,56,32,.06);}
+  .gbtn:hover{border-color:var(--green-l);}
+  .gbtn .g{font-weight:800;color:#4285F4;}
+  .gate .lock{font-size:11.5px;color:var(--sub-l);margin-top:18px;}
+  .gate .err{color:#c0392b;font-size:12.5px;margin-top:16px;}
+
+  header{padding:26px 0 16px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;position:relative;z-index:1;}
+  .title{display:flex;align-items:baseline;gap:10px;}
+  .title h1{font-size:22px;font-weight:800;letter-spacing:-.5px;}
+  .title .clv{font-size:18px;} .title .tag{font-size:12px;color:var(--sub);font-weight:500;}
+  .whoami{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:12.5px;}
+  .whoami .dot{width:7px;height:7px;border-radius:50%;background:var(--green-l);}
+  .whoami .out{margin-left:6px;color:var(--sub-l);cursor:pointer;font-size:11.5px;text-decoration:underline;}
+
+  .startline{font-size:11.5px;color:var(--sub);margin-bottom:14px;position:relative;z-index:1;}
+  .startline b{color:var(--green);}
+
+  .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:0 0 16px;position:relative;z-index:1;}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;}
+  .stat .k{font-size:11.5px;color:var(--sub);margin-bottom:8px;}
+  .stat .v{font-size:26px;font-weight:800;letter-spacing:-1px;}
+  .stat .v small{font-size:13px;font-weight:600;color:var(--sub);margin-left:3px;}
+  .stat .d{font-size:11px;color:var(--green-l);margin-top:4px;}
+  .stat.today{background:var(--mint);border-color:#CFE0B4;}
+
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:16px;position:relative;z-index:1;}
+  .panel h2{font-size:13px;font-weight:700;color:var(--ink);margin-bottom:16px;display:flex;align-items:center;gap:6px;justify-content:space-between;flex-wrap:wrap;}
+  .panel h2 .mut{font-weight:500;color:var(--sub-l);font-size:11.5px;}
+
+  .daily{display:flex;align-items:flex-end;gap:6px;height:130px;padding-top:6px;}
+  .day{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px;height:100%;justify-content:flex-end;}
+  .day .cnt{font-size:10.5px;color:var(--sub);font-weight:600;}
+  .day .col{width:100%;max-width:26px;background:var(--green-l);border-radius:5px 5px 0 0;min-height:3px;}
+  .day.hi .col{background:var(--green);}
+  .day .dl{font-size:9.5px;color:var(--sub-l);white-space:nowrap;}
+  .day.today .dl{color:var(--green);font-weight:700;}
+
+  .toolbar{display:flex;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
+  .search{flex:1;min-width:180px;display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:9px 13px;}
+  .search input{border:none;outline:none;flex:1;font-size:13px;font-family:inherit;color:var(--ink);background:transparent;}
+  .filters{display:flex;gap:6px;flex-wrap:wrap;}
+  .fbtn{background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 13px;font-size:12px;color:var(--sub);cursor:pointer;}
+  .fbtn.on{background:var(--green);border-color:var(--green);color:#fff;}
+
+  .tbl-wrap{overflow:auto;max-height:520px;border:1px solid var(--line2);border-radius:10px;}
+  table{width:100%;border-collapse:collapse;font-size:12.5px;min-width:560px;}
+  thead th{position:sticky;top:0;background:#F8FAF3;text-align:left;font-weight:600;color:var(--sub);font-size:11px;padding:11px 10px;border-bottom:1px solid var(--line);white-space:nowrap;z-index:1;}
+  td{padding:11px 10px;border-bottom:1px solid var(--line2);vertical-align:top;}
+  tr:last-child td{border-bottom:none;}
+  .nm{font-weight:700;white-space:nowrap;}
+  .keep{color:var(--ink);max-width:300px;}
+  .ig a{color:var(--green);text-decoration:none;white-space:nowrap;}
+  .badge{display:inline-block;border-radius:999px;padding:4px 11px;font-size:11px;font-weight:600;white-space:nowrap;cursor:pointer;user-select:none;}
+  .badge:hover{filter:brightness(.97);}
+  .b-신규{background:#FBEED6;color:var(--warn);} .b-상담중{background:#E1EFF8;color:#3B7AA0;}
+  .b-예약{background:var(--mint);color:var(--green);} .b-완료{background:#EEE;color:#888;}
+  .date{color:var(--sub);white-space:nowrap;font-size:11.5px;}
+  .empty{text-align:center;color:var(--sub-l);font-size:12.5px;padding:36px 0;line-height:1.9;}
+
+  .note{font-size:11.5px;color:var(--sub);line-height:1.8;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;position:relative;z-index:1;}
+  .note b{color:var(--green);}
+  .hint{font-size:11px;color:var(--sub-l);margin:2px 0 0 2px;}
+  @media(max-width:760px){ .stats{grid-template-columns:repeat(2,1fr);} .day .cnt{font-size:9.5px;} .day .dl{font-size:8.5px;} }
+</style>
+</head>
+<body>
+  <span class="clover c1">🍀</span><span class="clover c2">🍀</span><span class="clover c3">🍀</span>
+
+  <!-- 로그인 게이트 -->
+  <div class="gate" id="gate">
+    <div class="glogo">🍀🔒</div>
+    <h1>설문데이터</h1>
+    <p>고객 문의 DB · 개인 자료용<br>명진 구글 계정으로만 열 수 있어요.</p>
+    <button class="gbtn" id="loginBtn"><span class="g">G</span> 구글 계정으로 로그인</button>
+    <div class="err" id="gateErr" style="display:none"></div>
+    <div class="lock">bucket0825@gmail.com 계정만 열람 가능</div>
+  </div>
+
+  <!-- 대시보드 -->
+  <div class="wrap" id="dash" style="display:none">
+    <header>
+      <div class="title"><span class="clv">🍀</span><h1>설문데이터</h1><span class="tag">고객 문의 DB · 개인 자료용</span></div>
+      <div class="whoami">🔒 <span class="dot"></span> <span id="who">명진</span> <span class="out" id="logoutBtn">로그아웃</span></div>
+    </header>
+    <div class="startline">🧪 <b>검증 모드</b> (테스트 컬렉션) · 실가동 데이터 수집 시작: <b>2026-08-01</b></div>
+    <div class="stats" id="stats"></div>
+    <div class="panel"><h2 id="daily-h">일별 문의 추이</h2><div class="daily" id="daily"></div></div>
+    <div class="panel">
+      <h2><span>문의 목록 <span class="mut" id="cnt-label"></span></span></h2>
+      <div class="toolbar">
+        <div class="search">🔎 <input id="q" type="text" placeholder="성함·인스타·내용 검색"></div>
+        <div class="filters" id="filters"></div>
+      </div>
+      <div class="tbl-wrap"><table>
+        <thead><tr><th>날짜</th><th>성함</th><th>남기고 싶은 나</th><th>인스타</th><th>상태</th></tr></thead>
+        <tbody id="tbody"></tbody>
+      </table></div>
+      <div class="hint">· 상태 배지를 <b>누르면</b> 신규 → 상담중 → 예약 → 완료 순으로 바뀌어요.</div>
+    </div>
+    <div class="note">🍀 <b>개인 자료용</b> · 고객이 시안 폼을 작성하면 여기에 <b>자동으로</b> 쌓여요(bucket0825 구글 로그인만 열람). 통계·일별건수는 자동 계산.</div>
+  </div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+  import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged, setPersistence, browserLocalPersistence } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+  import { getFirestore, collection, query, orderBy, onSnapshot, updateDoc, doc } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
+
+  // ── 설정 (subin-routine 재사용, 공개 apiKey는 비밀 아님) ──
+  const cfg = { apiKey:"AIzaSyBfyRE7CNENjgSfe25xHAdr87gOllpYtvM", authDomain:"subin-routine.firebaseapp.com", projectId:"subin-routine" };
+  const ALLOWED = "bucket0825@gmail.com";
+  const COLLECTION = "maydly_inquiries_test"; // ⚠️ 검증용. 8/1 실가동 시 "maydly_inquiries"로 변경
+  const STATUSES = ['신규','상담중','예약','완료'];
+
+  const app = initializeApp(cfg);
+  const auth = getAuth(app), db = getFirestore(app);
+  setPersistence(auth, browserLocalPersistence);
+
+  let DATA = [], unsub = null, activeFilter = 'all';
+  const $ = (id)=>document.getElementById(id);
+
+  $('loginBtn').addEventListener('click', async ()=>{
+    try{ await signInWithPopup(auth, new GoogleAuthProvider()); }
+    catch(e){ showGateErr('로그인이 취소되었거나 실패했어요. 다시 시도해주세요.'); }
+  });
+  $('logoutBtn').addEventListener('click', ()=> signOut(auth));
+  $('q').addEventListener('input', render);
+
+  function showGateErr(m){ const e=$('gateErr'); e.textContent=m; e.style.display='block'; }
+
+  onAuthStateChanged(auth, (user)=>{
+    if(user && user.email === ALLOWED){
+      $('gate').style.display='none'; $('dash').style.display='block';
+      $('who').textContent = (user.displayName||'명진');
+      subscribe();
+    } else {
+      if(unsub){ unsub(); unsub=null; }
+      $('dash').style.display='none'; $('gate').style.display='flex';
+      if(user && user.email !== ALLOWED){
+        showGateErr('이 계정('+user.email+')은 열람 권한이 없어요. bucket0825@gmail.com으로 로그인해주세요.');
+        signOut(auth);
+      }
+    }
+  });
+
+  function subscribe(){
+    if(unsub) unsub();
+    const qy = query(collection(db, COLLECTION), orderBy('ts','desc'));
+    unsub = onSnapshot(qy, (snap)=>{
+      DATA = snap.docs.map(d=>{
+        const x = d.data();
+        const dt = x.ts && x.ts.toDate ? x.ts.toDate() : new Date();
+        return { id:d.id, name:x.name||'', keep:x.keep||'', insta:x.insta||'', status:x.status||'신규', iso: toISO(dt) };
+      });
+      render();
+    }, (err)=>{
+      $('tbody').innerHTML = '<tr><td colspan="5" class="empty">데이터를 불러오지 못했어요.<br>보안 규칙이 아직 설정되지 않았을 수 있어요.</td></tr>';
+    });
+  }
+
+  window.cycleStatus = async (id)=>{
+    const e = DATA.find(x=>x.id===id); if(!e) return;
+    const next = STATUSES[(STATUSES.indexOf(e.status)+1)%STATUSES.length];
+    try{ await updateDoc(doc(db, COLLECTION, id), { status: next }); }
+    catch(err){ alert('상태 변경 실패(권한 확인 필요)'); }
+  };
+  window.setFilter = (k)=>{ activeFilter=k; render(); };
+
+  function toISO(d){ const z=n=>String(n).padStart(2,'0'); return d.getFullYear()+'-'+z(d.getMonth()+1)+'-'+z(d.getDate()); }
+  function todayISO(){ return toISO(new Date()); }
+  function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function computeStats(){
+    const T = todayISO();
+    const today = DATA.filter(x=>x.iso===T).length;
+    const month = DATA.filter(x=>x.iso.slice(0,7)===T.slice(0,7)).length;
+    const total = DATA.length;
+    const days=[], cnts=[];
+    for(let k=13;k>=0;k--){ const dt=new Date(); dt.setDate(dt.getDate()-k); const iso=toISO(dt); days.push(iso); cnts.push(DATA.filter(x=>x.iso===iso).length); }
+    const sum = cnts.reduce((a,b)=>a+b,0), avg=(sum/14).toFixed(1);
+    const booked = DATA.filter(x=>x.status==='예약'||x.status==='완료').length;
+    const rate = total? Math.round(booked/total*100):0;
+    return {today,month,total,avg,booked,rate,days,cnts,T};
+  }
+
+  function render(){
+    const s = computeStats();
+    $('stats').innerHTML =
+      tile('오늘', s.today+'<small>건</small>', s.T.slice(5), true)
+      + tile('이번 달', s.month+'<small>건</small>', (+s.T.slice(5,7))+'월')
+      + tile('일 평균', s.avg+'<small>건</small>', '최근 14일')
+      + tile('전체 문의', s.total+'<small>건</small>', '수집 이후')
+      + tile('예약 전환', s.booked+'<small>건</small>', '전환율 '+s.rate+'%');
+    const max = Math.max(...s.cnts, 1);
+    $('daily-h').innerHTML = '<span>일별 문의 추이 <span class="mut">최근 14일</span></span><span class="mut">일 평균 '+s.avg+'건</span>';
+    $('daily').innerHTML = s.days.map((iso,i)=>{
+      const c=s.cnts[i], h=Math.round(c/max*100), isT=iso===s.T, hi=c>=Math.ceil(max*0.7);
+      return '<div class="day'+(isT?' today':'')+(hi?' hi':'')+'"><span class="cnt">'+c+'</span><div class="col" style="height:'+Math.max(h,3)+'%"></div><span class="dl">'+(isT?'오늘':(+iso.slice(8)))+'</span></div>';
+    }).join('');
+    const counts={all:DATA.length}; STATUSES.forEach(st=>counts[st]=DATA.filter(x=>x.status===st).length);
+    $('filters').innerHTML = fbtn('all','전체',counts.all)+STATUSES.map(st=>fbtn(st,st,counts[st])).join('');
+    const qv=($('q').value||'').trim().toLowerCase();
+    let rows=DATA.slice().filter(x=>{
+      if(activeFilter!=='all' && x.status!==activeFilter) return false;
+      if(!qv) return true; return (x.name+' '+x.keep+' '+x.insta).toLowerCase().indexOf(qv)>=0;
+    });
+    $('cnt-label').textContent='총 '+rows.length+'건'+(qv||activeFilter!=='all'?' (필터됨)':' · 최신순');
+    const tb=$('tbody');
+    if(!DATA.length){ tb.innerHTML='<tr><td colspan="5" class="empty">아직 문의가 없어요.<br>2026-08-01부터 시안 폼 작성분이 여기 쌓여요 🍀</td></tr>'; return; }
+    if(!rows.length){ tb.innerHTML='<tr><td colspan="5" class="empty">조건에 맞는 문의가 없어요.</td></tr>'; return; }
+    tb.innerHTML=rows.map(x=>'<tr>'
+      +'<td class="date">'+x.iso.slice(5)+'</td>'
+      +'<td class="nm">'+esc(x.name)+'</td>'
+      +'<td class="keep">'+esc(x.keep)+'</td>'
+      +'<td class="ig"><a href="https://www.instagram.com/'+esc(x.insta)+'/" target="_blank">@'+esc(x.insta)+'</a></td>'
+      +'<td><span class="badge b-'+x.status+'" onclick="cycleStatus(\''+x.id+'\')" title="눌러서 상태 변경">'+x.status+'</span></td>'
+      +'</tr>').join('');
+  }
+  function tile(k,v,d,today){ return '<div class="stat'+(today?' today':'')+'"><div class="k">'+k+'</div><div class="v">'+v+'</div><div class="d">'+d+'</div></div>'; }
+  function fbtn(key,label,n){ return '<span class="fbtn'+(activeFilter===key?' on':'')+'" onclick="setFilter(\''+key+'\')">'+label+' '+n+'</span>'; }
+</script>
+</body>
+</html>
