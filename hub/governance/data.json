@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-25T14:50:00.000000",
+  "updated": "2026-08-04T13:22:45.386253",
   "log": [
+    {
+      "id": "weekly-20260804",
+      "type": "weekly",
+      "date": "2026-08-04",
+      "status": "warn",
+      "summary": "위반 8건 · 0파일 스캔"
+    },
     {
       "id": "monthly-20260725-audit",
       "type": "monthly",
