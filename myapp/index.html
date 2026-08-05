@@ -1321,10 +1321,21 @@ var period='월';           // 월/3개월/6개월/12개월 (달력정렬: 분�
 var viewYM=null;           // {y,m} 기준점
 var selDay=null;           // 'YYYY-MM-DD'
 var moneyView='cal';       // cal(달력/막대) | summary(요약)
+var moneyAutoJumped=false;  // 가계부 첫 열람 시, 이번 달이 비었으면 최근 거래월로 1회 자동 이동
 function curYM(){if(viewYM)return viewYM;var d=new Date();return {y:d.getFullYear(),m:d.getMonth()};}
 function pad(n){return (n<10?'0':'')+n;}
 function keyOf(d){return d.slice(0,7);}
 function pcnt(){return period==='월'?1:period==='3개월'?3:period==='6개월'?6:12;}
+function latestLedgerYM(){var mx='';for(var i=0;i<ledger.length;i++){var d=(ledger[i].date||'')+'';if(d>mx)mx=d;}if(mx.length<7)return null;return {y:+mx.slice(0,4),m:+mx.slice(5,7)-1};}
+// 데이터는 있는데 '이번 달'이 비어 보이면(마지막 가져오기가 지난달이라 등) 데이터가 사라진 걸로 오해함.
+// 가계부에 데이터가 로드된 뒤 최초 렌더 1회에 한해, 이번 달이 비었으면 가장 최근 거래가 있는 달로 이동한다.
+function maybeJumpMoney(){
+  if(moneyAutoJumped||viewYM||!ledger.length)return;   // 이미 이동했거나 사용자가 직접 이동했거나 데이터 없으면 패스
+  var cur=curYM();var curKey=cur.y+'-'+pad(cur.m+1);var has=false;
+  for(var i=0;i<ledger.length;i++){if(keyOf(ledger[i].date||'')===curKey){has=true;break;}}
+  if(!has){var ly=latestLedgerYM();if(ly)viewYM=ly;}
+  moneyAutoJumped=true;
+}
 
 function renderPtabs(){
   var ps=['월','3개월','6개월','12개월'];
@@ -1365,6 +1376,7 @@ function sumReal(list){
 // 통장 실제 증감 = 모든 입출금 합 (이체·충전 다 포함 → 계좌간 이동은 자연히 상쇄)
 function netChange(list){return list.reduce(function(s,t){return s+(t.type==='in'?t.amt:-t.amt);},0);}
 function renderMoney(){
+  maybeJumpMoney();
   renderPtabs();renderVtabs();
   var list=txInPeriod();var s=sumReal(list);var net=netChange(list);
   document.getElementById('mIn').textContent=won(s.i);
