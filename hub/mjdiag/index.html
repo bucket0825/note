@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>명진앱 데이터 진단</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Pretendard','Apple SD Gothic Neo',-apple-system,sans-serif;background:#f0f6ef;color:#2a352a;line-height:1.6;padding:24px 16px 60px}
+.wrap{max-width:480px;margin:0 auto}
+h1{font-size:19px;font-weight:800;margin-bottom:4px}
+.sub{font-size:12.5px;color:#7a8a78;margin-bottom:16px}
+.card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:12px;box-shadow:0 3px 12px rgba(79,120,79,.08)}
+button{width:100%;font-size:15px;font-weight:700;padding:12px;border:none;border-radius:10px;background:#4f9a6a;color:#fff;cursor:pointer}
+.who{font-size:12.5px;color:#4f9a6a;font-weight:700;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:6px}
+td{padding:6px 4px;border-bottom:1px solid #eef2ea}
+td.k{color:#54654f}td.v{text-align:right;font-weight:700;font-family:monospace}
+td.v.zero{color:#c2503b}td.v.ok{color:#2f7a3a}
+#msg{font-size:12.5px;color:#7a8a78;margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>명진앱 데이터 진단 🔍</h1>
+  <div class="sub">구글에 저장된(Firestore mjApp) 데이터가 실제로 몇 건 있는지 확인만 합니다. <b>아무것도 안 바꿉니다.</b></div>
+  <div class="card">
+    <div class="who" id="who">로그인 안 됨</div>
+    <button id="btn" onclick="doLogin()">구글로 로그인 (bucket0825)</button>
+    <div id="msg"></div>
+    <table id="tbl"></table>
+  </div>
+</div>
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, setPersistence, browserLocalPersistence } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+import { getFirestore, doc, getDoc } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
+const cfg={apiKey:"AIzaSyBfyRE7CNENjgSfe25xHAdr87gOllpYtvM",authDomain:"subin-routine.firebaseapp.com",projectId:"subin-routine"};
+const app=initializeApp(cfg,"mjdiag"), auth=getAuth(app), db=getFirestore(app);
+setPersistence(auth, browserLocalPersistence).catch(()=>{});
+const KINDS=['ledger','shoots','photos','buys','owns','todos','wishes','chals','infos','moods'];
+const LABEL={ledger:'가계부',shoots:'촬영',photos:'사진맵',buys:'구매',owns:'보유',todos:'투두',wishes:'위시',chals:'챌린지',infos:'정보',moods:'기분'};
+function msg(t){ document.getElementById('msg').textContent=t||''; }
+window.doLogin=async()=>{ try{ await signInWithPopup(auth,new GoogleAuthProvider()); }catch(e){ msg('로그인 실패: '+(e.code||e.message)); } };
+function count(kind,obj){ if(obj==null)return '없음(문서 X)'; try{ const j=JSON.parse(obj.json!==undefined?obj.json:JSON.stringify(obj));
+  if(Array.isArray(j))return j.length+'건';
+  if(kind==='photos')return (Object.keys(j.map||j).length)+'명';
+  if(kind==='buys')return ((j.items||[]).length)+'건';
+  if(kind==='moods')return (Object.keys(j).length)+'개';
+  return JSON.stringify(j).length+'byte'; }catch(e){ return '읽기오류'; } }
+onAuthStateChanged(auth, async (user)=>{
+  document.getElementById('who').textContent=user?('로그인됨: '+user.email):'로그인 안 됨';
+  if(!user)return;
+  msg('Firestore(mjApp) 읽는 중…');
+  let html='';
+  for(const k of KINDS){
+    let c='—'; try{ const s=await getDoc(doc(db,'mjApp',k)); c = s.exists()? count(k, s.data()) : '없음(문서 X)'; }catch(e){ c='오류:'+(e.code||e.message); }
+    const isZero=/없음|^0건|^0명|^0개/.test(c);
+    html+='<tr><td class="k">'+(LABEL[k]||k)+' ('+k+')</td><td class="v '+(isZero?'zero':'ok')+'">'+c+'</td></tr>';
+  }
+  document.getElementById('tbl').innerHTML=html;
+  msg('완료 — 이 표를 캡처해서 알려주세요.');
+});
+</script>
+</body>
+</html>
