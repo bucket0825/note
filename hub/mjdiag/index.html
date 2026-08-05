@@ -61,6 +61,18 @@ onAuthStateChanged(auth, async (user)=>{
   }
   document.getElementById('tbl').innerHTML=html;
   msg('완료 — 이 표를 캡처해서 알려주세요.');
+  // ledger 심층: 연도별 분포 + 날짜범위 (앱이 왜 안 뿌리는지 진단)
+  try{
+    const ls=await getDoc(doc(db,'mjApp','ledger'));
+    if(ls.exists()){ const arr=JSON.parse(ls.data().json); const yr={}; let mn='9', mx='0';
+      arr.forEach(e=>{ const d=(e.date||'')+''; if(d.length>=4){ yr[d.slice(0,4)]=(yr[d.slice(0,4)]||0)+1; if(d<mn)mn=d; if(d>mx)mx=d; } });
+      let h='<tr><td class="k" style="padding-top:12px;color:#4f9a6a;font-weight:800">가계부 상세(구글 실데이터)</td><td></td></tr>';
+      h+='<tr><td class="k">총 건수</td><td class="v ok">'+arr.length+'건</td></tr>';
+      h+='<tr><td class="k">날짜 범위</td><td class="v ok" style="font-size:11px">'+mn+' ~ '+mx+'</td></tr>';
+      Object.keys(yr).sort().forEach(y=>{ h+='<tr><td class="k">'+y+'년</td><td class="v ok">'+yr[y]+'건</td></tr>'; });
+      document.getElementById('tbl').innerHTML += h;
+    }
+  }catch(e){ document.getElementById('tbl').innerHTML += '<tr><td class="k">ledger 분석</td><td class="v zero">오류:'+(e.message||e)+'</td></tr>'; }
 });
 </script>
 </body>
