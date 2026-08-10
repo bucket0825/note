@@ -1,0 +1,1 @@
+var ORDER=['sapporo','tokyo','ibaraki','shizuoka','osaka','nagoya','komatsu','hiroshima','okayama','yonago','takamatsu','matsuyama','fukuoka','kitakyushu','saga','oita','kumamoto','nagasaki','kagoshima','okinawa'];
