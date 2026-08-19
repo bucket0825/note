@@ -1983,13 +1983,47 @@ function ensureOwns(){
 }
 /* 공유파일(PC 편집본) 동기화 — 클라우드 동기화가 켜져 있으면 그쪽이 우선이라 스킵.
    버전이 바뀐 배포가 올라오면 (클라우드 미연결 기기의) 구매/보유가 최신화된다. file://에선 조용히 스킵. */
+var _gearWait=0;
 function syncGear(){
+  /* MJAPP는 <script type="module">(defer)에서 정의되므로 이 시점엔 아직 없을 수 있다.
+     준비 전에 판정하면 로그인 기기도 비로그인으로 오인하므로 ready까지 기다린다(최대 3초). */
+  if(!(window.MJAPP&&window.MJAPP.ready)&&_gearWait<30){_gearWait++;setTimeout(syncGear,100);return;}
   if(syncOn())return;                          // 클라우드 연결 시 클라우드가 원본
   try{
     fetch('gear-data.json',{cache:'no-store'}).then(function(r){return r&&r.ok?r.json():null;}).then(function(g){
       if(!g||!g.version||localStorage.getItem('gear_ver')===g.version)return;
-      if(Array.isArray(g.plan)){localStorage.setItem(PLANKEY,JSON.stringify({v:'app-sync',items:g.plan,del:[]}));}
-      if(Array.isArray(g.own)){localStorage.setItem(K.own,JSON.stringify(g.own.map(function(o,i){return {id:o.id||(i+1),name:o.name,cat:o.cat,desc:o.desc||'',price:o.price||0,paid:o.paid||0,status:o.status||''};})));}
+      /* 구매계획 — _k 기준 「가산 머지」. 통째 교체하지 않는다.
+         del(구매완료·삭제 묘비)을 그대로 보존해 이미 산 장비가 되살아나지 않게 한다. */
+      if(Array.isArray(g.plan)){
+        var cur=null;try{cur=JSON.parse(localStorage.getItem(PLANKEY)||'null');}catch(e){}
+        var items=(cur&&Array.isArray(cur.items))?cur.items.slice():(Array.isArray(cur)?cur.slice():[]);
+        var del=(cur&&Array.isArray(cur.del))?cur.del.slice():[];
+        var have={};items.forEach(function(it){if(it&&it._k!=null)have[it._k]=1;});
+        var mr=0;items.forEach(function(it){if(+it.rank>mr)mr=+it.rank;});
+        var ch=false;
+        g.plan.forEach(function(p){
+          if(!p||p._k==null)return;
+          if(del.indexOf(p._k)>=0)return;      // 이미 사거나 지운 것은 다시 넣지 않는다
+          if(have[p._k])return;                // 기존 항목은 로컬 편집을 존중해 건드리지 않는다
+          var q={};for(var kk in p)q[kk]=p[kk];
+          q.rank=++mr;items.push(q);ch=true;
+        });
+        if(ch)localStorage.setItem(PLANKEY,JSON.stringify({v:'app-sync',items:items,del:del}));
+      }
+      /* 보유장비 — 이름 기준으로 없는 것만 추가. 구매완료로 생긴 로컬 항목(paid)을 지키기 위함. */
+      if(Array.isArray(g.own)){
+        var co=[];try{co=JSON.parse(localStorage.getItem(K.own)||'[]');}catch(e){}
+        if(!Array.isArray(co))co=[];
+        var seen={},mx=0;
+        co.forEach(function(o){if(o){if(o.name)seen[o.name]=1;if(+o.id>mx)mx=+o.id;}});
+        var oc=false;
+        g.own.forEach(function(o){
+          if(!o||!o.name||seen[o.name])return;
+          co.push({id:++mx,name:o.name,cat:o.cat,desc:o.desc||'',price:o.price||0,paid:o.paid||0,status:o.status||''});
+          oc=true;
+        });
+        if(oc)localStorage.setItem(K.own,JSON.stringify(co));
+      }
       localStorage.setItem('gear_ver',g.version);
       reloadAll();renderBuy();renderOwn();
     }).catch(function(){});
