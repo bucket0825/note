@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>국내 여행지도 · 실지도 (프로토타입)</title>
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="common.css">
+<style>
+/* 실지도 전용 핀 */
+.lp{display:flex;flex-direction:column;align-items:center;transform:translate(-50%,-100%);cursor:pointer}
+.lp .dot{width:30px;height:30px;border-radius:50% 50% 50% 2px;background:var(--clover);transform:rotate(45deg);
+  box-shadow:0 3px 8px rgba(60,90,60,.4);display:grid;place-items:center;border:2px solid #fff}
+.lp .dot b{transform:rotate(-45deg);font-size:14px;line-height:1}
+.lp .lab{margin-top:5px;background:rgba(255,255,255,.94);padding:2px 8px;border-radius:999px;font-size:11.5px;
+  font-weight:700;color:var(--ink);white-space:nowrap;box-shadow:0 1px 4px rgba(0,0,0,.12)}
+.lp:hover .dot{background:var(--clover-deep)}
+.leaflet-container{background:#dcebf2;font-family:inherit}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="mark">🍀</div><div class="t">국내 여행지도<small>maydly · 실지도</small></div>
+  <div class="badge">검색·핀</div>
+  <a href="사진출처.html" style="margin-left:8px;font-size:.72rem;color:#4c8c4a;text-decoration:none;white-space:nowrap;align-self:center">사진 출처 →</a></div>
+<div class="search-box">
+  <input id="citySearch" type="text" autocomplete="off" placeholder="🔍 도시 검색 (예: 경주 · 여수 · 강릉 · 남해)">
+  <div class="search-results" id="searchResults"></div>
+</div>
+<div id="map"></div>
+<div class="preview" id="preview"></div>
+<div class="detail" id="detail"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data/city_kr.js"></script>
+<script src="common.js"></script>
+<script src="data/guides_kr.js"></script>
+<script>
+var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
+// 무료 타일 (CARTO Voyager · 키 불필요) — 부드럽고 깔끔
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{
+  maxZoom:13, minZoom:6, subdomains:'abcd',
+  attribution:'© OpenStreetMap · © CARTO'
+}).addTo(map);
+
+(window.ORDER||Object.keys(CITY)).forEach(function(k){
+  var pos = COORDS[k]; var c = CITY[k]; if(!pos||!c) return;
+  var icon = L.divIcon({className:'', html:'<div class="lp"><div class="dot"><b>🍀</b></div><div class="lab">'+ (c.nm||k) +'</div></div>', iconSize:[0,0], iconAnchor:[0,0]});
+  L.marker(pos,{icon:icon}).addTo(map).on('click',function(){ showPreview(k); });
+});
+setupSearch(map);
+</script>
+</body>
+</html>

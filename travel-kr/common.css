@@ -1,0 +1,107 @@
+/* 공유 스타일 — 지도 프로토타입 (실지도 · 그림지도 공용) */
+:root{
+  --bg:#f7f6f1; --card:#fff; --ink:#2f3b33; --ink-soft:#6b7a6f; --line:#e7e6df;
+  --clover:#5a9a5f; --clover-deep:#3f7a44; --clover-soft:#eaf3ea;
+  --gold:#e0a53d; --sea:#dCEBF2;
+  --shadow:0 8px 30px rgba(50,70,55,.14);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{font-family:'Pretendard',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--ink);
+  -webkit-font-smoothing:antialiased;overflow:hidden}
+
+/* 상단 브랜드바 */
+.topbar{position:fixed;top:0;left:0;right:0;height:56px;z-index:600;display:flex;align-items:center;gap:9px;
+  padding:0 16px;background:rgba(247,246,241,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.topbar .mark{width:30px;height:30px;border-radius:9px;background:var(--clover-soft);display:grid;place-items:center;font-size:17px}
+.topbar .t{font-weight:800;font-size:16px;letter-spacing:-.01em}
+.topbar .t small{font-weight:600;color:var(--ink-soft);font-size:12px;margin-left:5px}
+.topbar .badge{margin-left:auto;font-size:11px;font-weight:700;color:var(--clover-deep);background:var(--clover-soft);
+  padding:5px 10px;border-radius:999px}
+
+/* 지도 영역 */
+#map{position:fixed;top:56px;left:0;right:0;bottom:0}
+
+/* 도시 검색 */
+.search-box{position:fixed;top:66px;left:50%;transform:translateX(-50%);z-index:650;width:min(430px,calc(100vw - 24px))}
+.search-box input{width:100%;box-sizing:border-box;border:1px solid var(--line);background:#fff;border-radius:12px;
+  padding:11px 15px;font-size:15px;font-family:inherit;color:var(--ink);box-shadow:0 6px 20px rgba(50,70,55,.16);outline:none}
+.search-box input:focus{border-color:var(--clover)}
+.search-results{margin-top:6px;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;
+  box-shadow:0 10px 28px rgba(50,70,55,.2);display:none;max-height:60vh;overflow-y:auto}
+.sr-item{padding:11px 15px;cursor:pointer;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f2f1ea;font-size:14px}
+.sr-item:last-child{border-bottom:none}
+.sr-item:hover{background:var(--clover-soft)}
+.sr-item b{font-weight:700}
+.sr-item .sr-tag{font-size:10px;font-weight:700;color:var(--clover-deep);background:var(--clover-soft);padding:2px 7px;border-radius:6px}
+.sr-item .sr-reg{margin-left:auto;font-size:12px;color:var(--ink-soft)}
+.sr-none{padding:14px 15px;color:var(--ink-soft);font-size:13.5px}
+
+/* 핀(그림지도용 공통 마커 룩) */
+.pin{cursor:pointer;transition:transform .15s}
+.pin:hover{transform:scale(1.15)}
+
+/* 미리보기 카드 (핀 클릭 → 하단에서 올라옴) "오 여기?" */
+.preview{position:fixed;left:50%;bottom:18px;transform:translateX(-50%) translateY(140%);z-index:700;
+  width:min(440px,calc(100vw - 28px));background:var(--card);border-radius:18px;box-shadow:var(--shadow);
+  overflow:hidden;transition:transform .3s cubic-bezier(.2,.8,.2,1);border:1px solid var(--line)}
+.preview.on{transform:translateX(-50%) translateY(0)}
+.preview .pv-img{height:150px;background:#eee center/cover no-repeat;position:relative}
+.preview .pv-img .reg{position:absolute;top:10px;left:10px;background:rgba(255,255,255,.9);padding:4px 11px;
+  border-radius:999px;font-size:12px;font-weight:700}
+.preview .pv-x{position:absolute;top:9px;right:10px;width:28px;height:28px;border-radius:50%;border:none;
+  background:rgba(255,255,255,.9);font-size:16px;cursor:pointer;color:var(--ink)}
+.preview .pv-body{padding:13px 16px 16px}
+.preview .pv-title{font-size:19px;font-weight:800;letter-spacing:-.01em}
+.preview .pv-title small{font-size:12px;color:var(--ink-soft);font-weight:600;margin-left:6px}
+.preview .pv-mood{font-size:13px;color:var(--clover-deep);font-weight:600;margin-top:5px;line-height:1.45}
+.preview .pv-see{font-size:12.5px;color:var(--ink-soft);margin-top:7px}
+.preview .pv-btn{display:block;width:100%;margin-top:13px;padding:13px;border:none;border-radius:12px;
+  background:var(--clover);color:#fff;font-size:14.5px;font-weight:800;font-family:inherit;cursor:pointer}
+
+/* 상세 패널 (버튼 → 전체 오버레이) */
+.detail{position:fixed;inset:0;z-index:800;background:var(--bg);transform:translateY(100%);
+  transition:transform .32s cubic-bezier(.2,.8,.2,1);overflow-y:auto;overscroll-behavior:contain}
+.detail.on{transform:translateY(0)}
+.detail .d-hero{height:230px;background:#ddd center/cover no-repeat;position:relative}
+.detail .d-scrim{position:absolute;inset:0;background:linear-gradient(to top,rgba(20,30,24,.78),rgba(20,30,24,.05) 55%)}
+.detail .d-back{position:absolute;top:14px;left:14px;z-index:2;border:none;background:rgba(255,255,255,.92);
+  padding:9px 14px;border-radius:999px;font-size:13px;font-weight:700;cursor:pointer;font-family:inherit;color:var(--ink)}
+.detail .d-hcap{position:absolute;left:18px;right:18px;bottom:16px;z-index:2;color:#fff}
+.detail .d-eyebrow{font-size:12px;font-weight:700;letter-spacing:.08em;opacity:.9}
+.detail .d-title{font-size:25px;font-weight:800;margin-top:3px;letter-spacing:-.02em}
+.detail .d-route{font-size:13px;margin-top:6px;opacity:.95;line-height:1.4}
+.d-wrap{max-width:620px;margin:0 auto;padding:16px 16px 60px}
+.d-summary{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 15px;box-shadow:var(--shadow)}
+.d-sumrow{display:flex;gap:9px;align-items:flex-start;font-size:13.5px;line-height:1.5;padding:3px 0}
+.d-sumrow b{font-weight:800}
+.d-dayhead{display:flex;align-items:center;gap:10px;margin:24px 2px 12px}
+.d-daybadge{background:var(--clover);color:#fff;font-size:11.5px;font-weight:800;padding:4px 10px;border-radius:999px;flex-shrink:0}
+.d-daytitle{font-size:16px;font-weight:800}
+.d-daytitle small{display:block;font-size:12px;color:var(--ink-soft);font-weight:600;margin-top:1px}
+.d-spot{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:11px;box-shadow:0 4px 16px rgba(60,80,60,.07)}
+.d-spot .sp-img{height:150px;background:#eee center/cover no-repeat}
+.d-spot .sp-gallery{display:flex;gap:3px}
+.d-spot .sp-gallery .sp-gimg{flex:1;height:118px;background:#e8e8e2 center/cover no-repeat}
+.d-spot .sp-in{padding:12px 14px 14px}
+.d-spot .sp-name{font-size:15.5px;font-weight:800}
+.d-spot .sp-rom{font-size:12.5px;color:var(--ink-soft);margin-top:2px}
+.d-spot .sp-meta{display:flex;flex-wrap:wrap;gap:6px;margin:9px 0}
+.d-spot .sp-meta span{background:var(--clover-soft);color:var(--clover-deep);font-size:11.5px;font-weight:600;padding:3px 9px;border-radius:7px}
+.d-spot .sp-desc{font-size:13.5px;line-height:1.6;color:#40473f;margin-top:4px}
+.d-spot .sp-todo{margin:10px 0 0;padding:10px 12px;background:#fafaf6;border-radius:10px}
+.d-spot .sp-todo li{list-style:none;font-size:13px;padding:3px 0 3px 20px;position:relative;line-height:1.4}
+.d-spot .sp-todo li::before{content:"◦";position:absolute;left:6px;color:var(--clover)}
+.d-spot .sp-line{font-size:13px;margin-top:8px;line-height:1.5}
+.d-spot .sp-line.eat{color:#a5702a}
+.d-spot .sp-line.tip{color:var(--clover-deep)}
+.d-prep{background:#fff8ea;border:1px solid #ecd9a3;border-radius:12px;padding:13px 15px;margin-top:18px;font-size:13px;line-height:1.6;color:#7a6320}
+.d-prep .prep-title{font-weight:800;margin-bottom:8px}
+.prep-grid{display:grid;gap:6px}
+.prep-row{display:flex;gap:9px;align-items:baseline}
+.prep-row .prep-k{flex-shrink:0;font-weight:700;min-width:64px}
+.prep-row .prep-v{color:#6b5a2a}
+/* 사진 준비중 플레이스홀더 배지 */
+.noimg{position:absolute;left:10px;bottom:10px;background:rgba(255,255,255,.85);color:#6b7a6f;
+  font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px}
+.preview .pv-img,.detail .d-hero{position:relative}
