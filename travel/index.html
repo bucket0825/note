@@ -27,6 +27,38 @@
 .maploading{position:absolute;inset:0;display:none;align-items:center;justify-content:center;background:rgba(250,248,243,.85);
   z-index:400;font-weight:700;color:var(--clover,#4c8c4a)}
 .maploading.on{display:flex}
+/* 내 장소 저장 */
+.myfab{position:fixed;right:14px;bottom:18px;z-index:700;display:flex;flex-direction:column;gap:9px;align-items:flex-end}
+.myfab button{border:none;border-radius:999px;font-weight:750;font-size:13.5px;cursor:pointer;box-shadow:0 4px 14px rgba(50,70,55,.28);font-family:inherit;padding:11px 16px}
+.myfab .mf-add{background:var(--clover,#4c8c4a);color:#fff}
+.myfab .mf-add.arm{background:#e0663c}
+.myfab .mf-list{background:#fff;color:var(--ink);font-size:12.5px;padding:9px 14px}
+.mtip{position:fixed;top:120px;left:50%;transform:translateX(-50%);z-index:660;background:rgba(224,102,60,.96);color:#fff;padding:8px 16px;border-radius:999px;font-size:13px;font-weight:650;display:none;box-shadow:0 4px 14px rgba(0,0,0,.2);white-space:nowrap}
+.mtip.on{display:block}
+.mypin{width:26px;height:26px;border-radius:50% 50% 50% 2px;transform:rotate(45deg);display:grid;place-items:center;border:2px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,.35);font-size:12px}
+.mypin b{transform:rotate(-45deg);line-height:1}
+.pmodal,.plist-sheet{position:fixed;inset:0;z-index:1000;background:rgba(20,30,24,.45);display:none;align-items:flex-end;justify-content:center}
+.pmodal.on,.plist-sheet.on{display:flex}
+.pbox,.plbox{background:#fff;width:min(460px,100%);border-radius:18px 18px 0 0;padding:20px}
+.plbox{max-height:75vh;overflow-y:auto}
+.pbox h3,.plbox h3{margin:0 0 14px;font-size:16px;display:flex;justify-content:space-between;align-items:center}
+.pcats{display:flex;gap:8px;margin-bottom:13px}
+.pcats button{flex:1;padding:12px 6px;border:1.5px solid var(--line);border-radius:12px;background:#fff;cursor:pointer;font-family:inherit;font-size:13px;font-weight:650;color:var(--sub)}
+.pcats button.on{border-color:var(--clover);background:var(--clover-soft,#eef4ec);color:var(--clover-deep,#357a51)}
+.pbox input,.pbox textarea{width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:14px;font-family:inherit;margin-bottom:10px;color:var(--ink)}
+.pbox textarea{resize:vertical;min-height:56px}
+.pbtns{display:flex;gap:8px;margin-top:4px}
+.pbtns button{flex:1;padding:12px;border:none;border-radius:11px;font-weight:700;font-size:14px;cursor:pointer;font-family:inherit}
+.pbtns .psave{background:var(--clover,#4c8c4a);color:#fff}
+.pbtns .pcancel{background:#eee;color:var(--ink)}
+.plitem{display:flex;gap:10px;padding:11px 0;border-bottom:1px solid var(--line);align-items:flex-start}
+.plitem .pe{font-size:20px}
+.plitem .pin{flex:1;min-width:0}
+.plitem .pnm{font-weight:700;font-size:14px}
+.plitem .pmemo{font-size:12.5px;color:var(--sub);margin-top:2px;word-break:break-word}
+.plitem .pdel{border:none;background:none;color:#c55;cursor:pointer;font-size:12.5px;font-weight:600;flex:0 0 auto}
+.plempty{color:var(--sub);text-align:center;padding:30px 0;font-size:13.5px;line-height:1.7}
+.xbtn{border:none;background:none;font-size:18px;cursor:pointer;color:var(--sub)}
 </style>
 </head>
 <body>
@@ -45,6 +77,27 @@
 <div class="preview" id="preview"></div>
 <div class="detail" id="detail"></div>
 <button id="fixedBack" class="fixed-back" onclick="closeDetail()">‹ 지도로</button>
+<!-- 내 장소 -->
+<div class="myfab">
+  <button class="mf-list" onclick="openPList()">📑 내 장소</button>
+  <button class="mf-add" id="mfAdd" onclick="armAdd()">➕ 장소 추가</button>
+</div>
+<div class="mtip" id="mtip">📍 지도에서 저장할 위치를 눌러주세요</div>
+<div class="pmodal" id="pmodal"><div class="pbox">
+  <h3 id="pmTitle">📍 내 장소 저장</h3>
+  <div class="pcats" id="pcats">
+    <button data-cat="food" onclick="selCat('food',this)">🍜 맛집</button>
+    <button data-cat="photo" onclick="selCat('photo',this)">📸 촬영지</button>
+    <button data-cat="spot" onclick="selCat('spot',this)">🏛 관광지</button>
+  </div>
+  <input id="pName" autocomplete="off" placeholder="장소 이름 (예: OO식당 · OO전망대)">
+  <textarea id="pMemo" placeholder="메모 (선택) — 뭐가 좋았는지, 꿀팁 등"></textarea>
+  <div class="pbtns"><button class="pcancel" onclick="closePModal()">취소</button><button class="psave" onclick="savePlace()">저장</button></div>
+</div></div>
+<div class="plist-sheet" id="plist"><div class="plbox">
+  <h3><span>📑 내 장소</span><button class="xbtn" onclick="closePList()">×</button></h3>
+  <div id="plitems"></div>
+</div></div>
 
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -89,6 +142,7 @@ function activate(cc){
   document.querySelectorAll('.ctab').forEach(function(t){ t.classList.toggle('on', t.getAttribute('data-c')===cc); });
   document.getElementById('citySearch').placeholder = PH[cc];
   document.getElementById('creditLink').href = (cc==='jp') ? '사진출처.html' : '../travel-kr/사진출처.html';
+  window.COUNTRY = cc; if(window.renderMyPlaces) renderMyPlaces();
 }
 
 function loadJP(done){
@@ -119,6 +173,60 @@ function renderCountry(cc){
 // 초기 국가: URL ?c=jp 면 일본, 아니면 국내 (딥링크 지원)
 var _initC = (new URLSearchParams(location.search).get('c')==='jp') ? 'jp' : 'kr';
 renderCountry(_initC);
+</script>
+<script>
+/* ===== 내 장소 저장 (localStorage · 추후 구글 동기화로 교체) ===== */
+var MYPLACES = [];
+try { MYPLACES = JSON.parse(localStorage.getItem('maydly_travel_places')||'[]'); } catch(e){ MYPLACES=[]; }
+var MYMARKERS = [];
+var _armed=false, _pendLL=null, _selCat=null, _editId=null;
+var CATS = { food:{e:'🍜',l:'맛집',c:'#e0663c'}, photo:{e:'📸',l:'촬영지',c:'#3d7fd6'}, spot:{e:'🏛',l:'관광지',c:'#4c8c4a'} };
+function saveMP(){ try{ localStorage.setItem('maydly_travel_places', JSON.stringify(MYPLACES)); }catch(e){} }
+function armAdd(){ _armed=!_armed; document.getElementById('mtip').classList.toggle('on',_armed); document.getElementById('mfAdd').classList.toggle('arm',_armed); document.getElementById('mfAdd').textContent=_armed?'✕ 취소':'➕ 장소 추가'; }
+map.on('click', function(e){ if(_armed){ _pendLL=e.latlng; armAdd(); openPModal(null); } });
+function selCat(cat,btn){ _selCat=cat; document.querySelectorAll('#pcats button').forEach(function(b){ b.classList.toggle('on', b===btn); }); }
+function openPModal(edit){
+  _editId = edit? edit.id : null; _selCat = edit? edit.cat : null;
+  document.getElementById('pmTitle').textContent = edit? '✏️ 내 장소 수정' : '📍 내 장소 저장';
+  document.getElementById('pName').value = edit? edit.name : '';
+  document.getElementById('pMemo').value = edit? (edit.memo||'') : '';
+  document.querySelectorAll('#pcats button').forEach(function(b){ b.classList.toggle('on', edit && b.getAttribute('data-cat')===edit.cat); });
+  document.getElementById('pmodal').classList.add('on');
+  setTimeout(function(){ document.getElementById('pName').focus(); }, 50);
+}
+function closePModal(){ document.getElementById('pmodal').classList.remove('on'); _pendLL=null; _editId=null; }
+function savePlace(){
+  if(!_selCat){ alert('카테고리를 골라주세요 (맛집·촬영지·관광지)'); return; }
+  var name=document.getElementById('pName').value.trim();
+  if(!name){ alert('장소 이름을 적어주세요'); return; }
+  var memo=document.getElementById('pMemo').value.trim();
+  if(_editId){ var p=MYPLACES.filter(function(x){return x.id===_editId;})[0]; if(p){ p.name=name; p.cat=_selCat; p.memo=memo; } }
+  else { MYPLACES.push({ id:'p'+Date.now()+Math.floor(Math.random()*1000), name:name, lat:_pendLL.lat, lng:_pendLL.lng, cat:_selCat, memo:memo, country:window.COUNTRY||'kr', source:'manual', ts:Date.now() }); }
+  saveMP(); renderMyPlaces(); closePModal();
+}
+function renderMyPlaces(){
+  MYMARKERS.forEach(function(m){ map.removeLayer(m); }); MYMARKERS=[];
+  var cc=window.COUNTRY||'kr';
+  MYPLACES.filter(function(p){ return p.country===cc; }).forEach(function(p){
+    var cat=CATS[p.cat]||CATS.spot;
+    var icon=L.divIcon({className:'', html:'<div class="mypin" style="background:'+cat.c+'"><b>'+cat.e+'</b></div>', iconSize:[26,26], iconAnchor:[13,26]});
+    var m=L.marker([p.lat,p.lng],{icon:icon,zIndexOffset:1000}).addTo(map).on('click', (function(pp){ return function(){ openPModal(pp); }; })(p));
+    MYMARKERS.push(m);
+  });
+}
+window.renderMyPlaces = renderMyPlaces;
+function openPList(){
+  var el=document.getElementById('plitems'); var cc=window.COUNTRY||'kr';
+  var list=MYPLACES.filter(function(p){ return p.country===cc; }).sort(function(a,b){ return b.ts-a.ts; });
+  if(!list.length){ el.innerHTML='<div class="plempty">아직 저장한 장소가 없어요.<br><b>➕ 장소 추가</b> → 지도를 눌러 저장해보세요.<br>('+((cc==='jp')?'일본':'국내')+' 탭 기준)</div>'; }
+  else { el.innerHTML=list.map(function(p){ var cat=CATS[p.cat]||CATS.spot;
+    return '<div class="plitem"><div class="pe">'+cat.e+'</div><div class="pin"><div class="pnm">'+esc(p.name)+' <span style="font-size:11px;color:#aaa;font-weight:500">'+cat.l+'</span></div>'+(p.memo?'<div class="pmemo">'+esc(p.memo)+'</div>':'')+'</div><button class="pdel" onclick="delPlace(\''+p.id+'\')">삭제</button></div>';
+  }).join(''); }
+  document.getElementById('plist').classList.add('on');
+}
+function closePList(){ document.getElementById('plist').classList.remove('on'); }
+function delPlace(id){ if(!confirm('이 장소를 삭제할까요?')) return; MYPLACES=MYPLACES.filter(function(p){ return p.id!==id; }); saveMP(); renderMyPlaces(); openPList(); }
+renderMyPlaces();
 </script>
 </body>
 </html>
