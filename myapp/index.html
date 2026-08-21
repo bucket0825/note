@@ -321,7 +321,7 @@ body{font-family:'Pretendard','Apple SD Gothic Neo',-apple-system,BlinkMacSystem
   <div class="hd"><div class="wm"><span class="wmk"><svg viewBox="0 0 100 100" width="15" height="15" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="wm" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#86d2a0"/><stop offset="0.55" stop-color="#4f9a6a"/><stop offset="1" stop-color="#357a51"/></linearGradient><linearGradient id="wms" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4f9a6a"/><stop offset="1" stop-color="#2f6a45"/></linearGradient></defs><g transform="translate(50,53)" fill="url(#wm)" ><path d="M0 0 C-2.4,-10.5 -17,-15.5 -17,-27.5 C-17,-36.5 -8,-40.5 0,-32.5 C8,-40.5 17,-36.5 17,-27.5 C17,-15.5 2.4,-10.5 0,0 Z"/><path d="M0 0 C-2.4,-10.5 -17,-15.5 -17,-27.5 C-17,-36.5 -8,-40.5 0,-32.5 C8,-40.5 17,-36.5 17,-27.5 C17,-15.5 2.4,-10.5 0,0 Z" transform="rotate(90)"/><path d="M0 0 C-2.4,-10.5 -17,-15.5 -17,-27.5 C-17,-36.5 -8,-40.5 0,-32.5 C8,-40.5 17,-36.5 17,-27.5 C17,-15.5 2.4,-10.5 0,0 Z" transform="rotate(180)"/><path d="M0 0 C-2.4,-10.5 -17,-15.5 -17,-27.5 C-17,-36.5 -8,-40.5 0,-32.5 C8,-40.5 17,-36.5 17,-27.5 C17,-15.5 2.4,-10.5 0,0 Z" transform="rotate(270)"/><circle cx="0" cy="0" r="2.6" fill="#357a51" opacity="0.5"/><path d="M-6,-20 C-9,-26 -6,-31 -1,-31" stroke="#fff" stroke-opacity="0.35" stroke-width="2" fill="none" stroke-linecap="round"/></g></svg></span>maydly · 명진앱</div><div style="display:flex;align-items:center;gap:8px"><a href="https://maydly.github.io/note/hub/" style="text-decoration:none;font-size:11px;font-weight:700;color:#4f9a6a;background:#e9f2e7;border:1px solid #d8e5d6;padding:4px 10px;border-radius:14px;white-space:nowrap">← 허브</a><div class="sync" data-sync onclick="sheetSync()" style="cursor:pointer">☁ 이 기기 저장</div></div></div>
   <div class="h1">구매계획</div><div class="sub">순위대로 · 구매완료하면 가계부·보유현황 자동</div>
   <div id="buyList"></div>
-  <div style="text-align:center;margin-top:12px"><span onclick="resetBuysFromGear()" style="font-size:11.5px;color:#c2a99e;cursor:pointer;text-decoration:underline">🔄 순서를 장비비교(gear-data) 기준으로 복구</span></div>
+  <div style="text-align:center;margin-top:12px"><span onclick="resetBuysFromGear()" style="font-size:11.5px;color:#c2a99e;cursor:pointer;text-decoration:underline">🔄 순서만 장비비교(gear-data) 기준으로 되돌리기</span></div>
 </div>
 <!-- 참고·구매처 -->
 <div class="scr" id="s-src">
@@ -491,16 +491,31 @@ function loadBuys(){
 }
 function saveBuys(){buys.forEach(function(b,i){b.rank=i+1;});try{localStorage.setItem(PLANKEY,JSON.stringify({v:'app-sync',items:buys,del:buyDel}));}catch(e){}}
 function moveBuy(id,dir){var i=buys.findIndex(function(x){return String(x.id)===String(id);});if(i<0)return;var j=i+dir;if(j<0||j>=buys.length)return;var t=buys[i];buys[i]=buys[j];buys[j]=t;saveBuys();pushSoon('buys');renderBuy();}
-/* 구매계획 순서를 장비비교 공유파일(gear-data.json) 기준으로 되돌리고 클라우드에 반영(덮어쓰기) */
+/* 구매계획 「순서」만 gear-data.json 기준으로 되돌린다.
+   항목을 지우지 않고, 이미 사거나 지운 것(묘비)도 되살리지 않는다 —
+   예전엔 통째 교체라 직접 넣은 항목이 사라지고 산 물건이 되살아났다. */
 function resetBuysFromGear(){
-  if(!confirm('구매계획 순서를 장비비교(gear-data) 기준 15개로 되돌릴까요?\n지금 클라우드 순서를 덮어써서 모든 기기가 이 순서로 통일됩니다.'))return;
+  if(!confirm('구매계획 순서를 장비비교(gear-data) 기준으로 되돌릴까요?\n\n· 순서만 바꿉니다 — 직접 넣으신 항목은 지워지지 않고 뒤로 갑니다\n· 이미 사거나 지운 항목은 다시 살아나지 않습니다'))return;
   setSyncBadge('복구중…');
   fetch('gear-data.json',{cache:'no-store'}).then(function(r){return r&&r.ok?r.json():null;}).then(function(g){
     if(!g||!Array.isArray(g.plan)){toast('gear-data를 못 읽었어요');return;}
-    buys=g.plan.map(function(o,i){return {_k:(o._k!=null?o._k:null),id:o.id||(i+1),name:o.name,cat:o.cat||'기타',best:+o.best||0,avg:+o.avg||0,max:(+o.max||+o.cap||0),memo:o.memo||'',rank:i+1};});
-    buyDel=[];saveBuys();renderBuy();
-    if(syncOn())cloudPush('buys').then(function(){toast('순서 복구 완료 · 클라우드 반영됨(다른 기기는 새로고침)');});
-    else toast('순서 복구 완료(이 기기)');
+    var order={},n=0;
+    g.plan.forEach(function(p){if(p&&p._k!=null&&order[p._k]==null)order[p._k]=++n;});
+    var have={},mid=0;
+    buys.forEach(function(b){if(b._k!=null)have[b._k]=1;if(+b.id>mid)mid=+b.id;});
+    var added=0;
+    g.plan.forEach(function(p){
+      if(!p||p._k==null||have[p._k]||buyDel.indexOf(p._k)>=0)return;
+      var q={};for(var kk in p)q[kk]=p[kk];
+      q.id=++mid;buys.push(q);added++;});
+    var tail=0;
+    buys.forEach(function(b){b._ord=(b._k!=null&&order[b._k])?order[b._k]:(n+(++tail));});
+    buys.sort(function(a,b){return a._ord-b._ord;});
+    buys.forEach(function(b){delete b._ord;});
+    saveBuys();renderBuy();
+    var msg='순서 복구 완료'+(added?' · '+added+'건 새로 들어옴':'');
+    if(syncOn())cloudPush('buys').then(function(){toast(msg+' · 클라우드 반영됨(다른 기기는 새로고침)');});
+    else toast(msg+'(이 기기)');
   }).catch(function(){toast('복구 실패 — 네트워크 확인');setSyncBadge('오류');});
 }
 function reloadAll(){todos=load(K.todo,[]);buys=loadBuys();owns=load(K.own,[]);ledger=load(K.led,[]);shoots=load(K.shoot,[]);wishes=load(K.wish,[]);chals=load(K.chal,[]);infos=load(K.info,[]);moods=load(K.mood,{});loadPhotos();}
