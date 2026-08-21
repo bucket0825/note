@@ -2,7 +2,7 @@
    데이터: window.TVIMG(이미지), CITY(도시), ORDER(순서) 는 data/*.js 에서 로드됨 */
 
 // 20개 도시 좌표 [위도, 경도]
-const COORDS = {
+var COORDS = {
   sapporo:[43.062,141.354], tokyo:[35.6762,139.6503], ibaraki:[36.37,140.47],
   shizuoka:[34.976,138.383], osaka:[34.6937,135.5023], nagoya:[35.1815,136.9066],
   komatsu:[36.5613,136.6562], hiroshima:[34.3853,132.4553], okayama:[34.6551,133.9195],
