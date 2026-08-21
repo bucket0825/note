@@ -1464,3 +1464,34 @@ body.support-page .support-index-links a{
     font-size:10px;
   }
 }
+
+/* ===== 폰(≤900px): 좌측 고정 레일이 본문과 겹치던 문제 수정 (260822) =====
+   - 좌측 여백 예약 제거(본문 전체폭 사용)
+   - .fixed-compare-jump(비교군 인덱스) 숨김
+   - .page-jump(바로가기)를 고정 세로 오버레이 → 정적 가로 스크롤 바로 전환 */
+@media(max-width:900px){
+  body,
+  body.has-fixed-compare-jump,
+  body.dense-compare-rail{padding-left:0 !important;}
+  .fixed-compare-jump{display:none !important;}
+  .page-jump{
+    position:static !important;
+    top:auto !important;
+    left:auto !important;
+    right:auto !important;
+    transform:none !important;
+    width:auto !important;
+    max-height:none !important;
+    display:flex !important;
+    flex-wrap:nowrap !important;
+    align-items:center !important;
+    overflow-x:auto !important;
+    overflow-y:visible !important;
+    gap:6px !important;
+    margin:2px 0 16px !important;
+    -webkit-overflow-scrolling:touch;
+  }
+  .page-jump::-webkit-scrollbar{display:none}
+  .page-jump strong{flex:0 0 auto !important;align-self:center !important;padding-right:4px !important;}
+  .page-jump a{flex:0 0 auto !important;white-space:nowrap !important;}
+}
