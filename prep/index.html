@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>maydly · 개인 문서</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ctext y='32' font-size='32'%3E%F0%9F%A7%AD%3C/text%3E%3C/svg%3E">
+<style>
+:root{
+  --bg:#fbfbfd;--alt:#f5f5f7;--card:#fff;--ink:#1d1d1f;--sub:#6e6e73;--faint:#86868b;
+  --line:#e8e8ed;--line2:#d2d2d7;--clover:#2f8f5b;--clover-soft:#eaf5ee;--clover-ink:#1f6b41;
+  --amber:#a1670f;--amber-soft:#fdf3e3;--amber-line:#ecd9bf;
+  --red:#9c3626;--red-soft:#fdeeeb;--red-line:#f0cfc7;--radius:20px;
+  --font:-apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Segoe UI",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.65;letter-spacing:-.01em;-webkit-font-smoothing:antialiased}
+
+/* ── 로그인 게이트 ── */
+#gate{position:fixed;inset:0;background:#f0f6ef;z-index:90;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;padding:24px;text-align:center}
+#gate .gw{font-size:34px;font-weight:800;letter-spacing:-.8px;color:#2b2926}
+#gate .gw .d{color:var(--clover)}
+#gate .gs{font-size:13.5px;color:#8f887d;margin-top:-2px}
+#gate .lock{font-size:12.5px;color:#a2988c;max-width:330px;line-height:1.6;margin-top:6px}
+#loginBtn{margin-top:14px;font-family:inherit;font-size:15px;font-weight:640;color:#fff;background:var(--clover);border:none;border-radius:980px;padding:13px 28px;cursor:pointer;display:inline-flex;align-items:center;gap:9px}
+#loginBtn:hover{background:#287c4e}
+#gateErr{display:none;font-size:13px;color:var(--red);background:var(--red-soft);border:1px solid var(--red-line);border-radius:12px;padding:10px 14px;max-width:360px;margin-top:12px;line-height:1.6}
+
+/* ── 상단 바 ── */
+#bar{position:sticky;top:0;z-index:20;display:none;align-items:center;gap:9px;flex-wrap:wrap;
+  background:rgba(251,251,253,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:9px 16px}
+#bar a,#bar button{font-family:inherit;font-size:12.5px;font-weight:640;color:var(--sub);background:#fff;
+  border:1px solid var(--line2);border-radius:980px;padding:6px 14px;cursor:pointer;text-decoration:none;white-space:nowrap}
+#bar a:hover,#bar button:hover{border-color:var(--clover);color:var(--clover-ink)}
+#bar .who{font-size:12.5px;color:var(--faint);margin-left:auto;display:flex;align-items:center;gap:6px}
+#bar .who b{color:var(--clover-ink);font-weight:640}
+#pickWrap{position:relative;overflow:hidden;display:inline-block}
+#pickWrap input{position:absolute;inset:0;opacity:0;cursor:pointer;font-size:100px}
+
+/* ── 본문 컨테이너 ── */
+#doc{display:none}
+#msg{display:none;max-width:640px;margin:60px auto;padding:0 20px;text-align:center}
+#msg .box{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:30px 28px;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+#msg h2{font-size:19px;font-weight:660;letter-spacing:-.02em;margin-bottom:10px}
+#msg p{font-size:14.5px;color:var(--sub);line-height:1.7;margin-bottom:8px}
+#msg .up{margin-top:18px;position:relative;overflow:hidden;display:inline-block}
+#msg .up span{display:inline-block;font-size:14.5px;font-weight:640;color:#fff;background:var(--clover);border-radius:980px;padding:12px 26px}
+#msg .up input{position:absolute;inset:0;opacity:0;cursor:pointer;font-size:100px}
+.toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(14px);opacity:0;pointer-events:none;
+  background:#2b2926;color:#fff;font-size:13.5px;border-radius:980px;padding:10px 20px;z-index:80;transition:.25s}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+
+/* ── 불러온 문서 안에서 쓰는 체크박스 스타일 ── */
+#doc .chk li::before{display:none}
+#doc .chk li{padding-left:29px}
+#doc .chk li input[type=checkbox]{position:absolute;left:0;top:9px;width:17px;height:17px;accent-color:var(--clover);cursor:pointer;margin:0}
+#doc .chk li.no input[type=checkbox]{accent-color:var(--amber)}
+#doc .chk li.x input[type=checkbox]{accent-color:var(--red)}
+#doc .chk li label{cursor:pointer;display:block}
+#doc .chk li.done label,#doc .chk li.done label b{color:var(--faint)}
+#doc .chk li.done label{text-decoration:line-through;text-decoration-color:var(--line2);text-decoration-thickness:1px}
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <div class="gw">maydly<span class="d">.</span></div>
+  <div class="gs">개인 문서</div>
+  <div class="lock">🔒 이 문서는 <b>구글 로그인</b>으로 잠겨 있습니다.<br>내용은 서버(Firestore)에 있고, 로그인한 계정만 불러올 수 있습니다.</div>
+  <button id="loginBtn">🍀 구글로 로그인</button>
+  <div id="gateErr"></div>
+</div>
+
+<div id="bar">
+  <a href="https://maydly.github.io/note/hub/">← 허브</a>
+  <label id="pickWrap"><button type="button">문서 업데이트</button><input type="file" accept=".html,text/html" id="pick2"></label>
+  <button id="logoutBtn">로그아웃</button>
+  <div class="who"><span id="stamp"></span> <b id="who"></b></div>
+</div>
+
+<div id="msg"><div class="box" id="msgBox"></div></div>
+<div id="doc"></div>
+<div class="toast" id="toast"></div>
+
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged, setPersistence, browserLocalPersistence } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+import { getFirestore, doc, getDoc, setDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
+
+/* 설정 — subin-routine 재사용. 공개 apiKey는 비밀이 아님 */
+const cfg = { apiKey:"AIzaSyBfyRE7CNENjgSfe25xHAdr87gOllpYtvM", authDomain:"subin-routine.firebaseapp.com", projectId:"subin-routine" };
+const ALLOWED = "bucket0825@gmail.com";
+const COL = "maydly_docs", DOCID = "prep";
+
+const app = initializeApp(cfg);
+const auth = getAuth(app), db = getFirestore(app);
+setPersistence(auth, browserLocalPersistence);
+
+const $ = (id)=>document.getElementById(id);
+let _tt; function toast(m){const t=$('toast');t.textContent=m;t.classList.add('on');clearTimeout(_tt);_tt=setTimeout(()=>t.classList.remove('on'),2400);}
+function showMsg(html){ $('msgBox').innerHTML=html; $('msg').style.display='block'; $('doc').style.display='none'; }
+function hideMsg(){ $('msg').style.display='none'; }
+function gateErr(m){ const e=$('gateErr'); e.innerHTML=m; e.style.display='block'; }
+
+$('loginBtn').addEventListener('click', async ()=>{
+  try{ await signInWithPopup(auth, new GoogleAuthProvider()); }
+  catch(e){ gateErr('로그인이 취소되었거나 실패했어요. 다시 시도해주세요.<br><small>'+(e.code||'')+'</small>'); }
+});
+$('logoutBtn').addEventListener('click', ()=> signOut(auth));
+
+onAuthStateChanged(auth, async (user)=>{
+  if(user && user.email === ALLOWED){
+    $('gate').style.display='none'; $('bar').style.display='flex';
+    $('who').textContent = (user.displayName||'명진');
+    await load();
+  } else {
+    $('bar').style.display='none'; $('doc').style.display='none'; hideMsg();
+    $('gate').style.display='flex';
+    if(user && user.email !== ALLOWED){
+      gateErr('이 계정('+user.email+')은 열람 권한이 없어요.<br>bucket0825@gmail.com으로 로그인해주세요.');
+      signOut(auth);
+    }
+  }
+});
+
+/* ── 문서 불러오기 ── */
+async function load(){
+  showMsg('<h2>불러오는 중…</h2>');
+  let snap;
+  try{ snap = await getDoc(doc(db, COL, DOCID)); }
+  catch(e){
+    showMsg('<h2>문서를 불러오지 못했어요</h2>'
+      +'<p>Firestore 보안 규칙에서 <b>'+COL+'</b> 컬렉션 접근이 아직 열려 있지 않을 수 있어요.</p>'
+      +'<p style="font-size:13px;color:#86868b">오류: '+(e.code||e.message)+'</p>');
+    return;
+  }
+  if(!snap.exists() || !snap.data().html){
+    showMsg('<h2>아직 문서가 올라가 있지 않아요</h2>'
+      +'<p>맥에서 Drive 작업폴더의 <b>HTML 파일</b>을 골라 한 번만 올려주세요.<br>'
+      +'올린 뒤로는 폰에서도 로그인만 하면 바로 열립니다.</p>'
+      +'<label class="up"><span>📄 문서 파일 올리기</span><input type="file" accept=".html,text/html" id="pick1"></label>');
+    wirePicker($('pick1'));
+    return;
+  }
+  render(snap.data());
+}
+
+function render(d){
+  hideMsg();
+  const host = $('doc');
+  host.innerHTML='';
+  const parsed = new DOMParser().parseFromString(d.html, 'text/html');
+  /* 스타일은 별도 태그로 옮겨 심는다 (innerHTML 안의 style은 브라우저마다 다름) */
+  parsed.querySelectorAll('style').forEach(st=>{
+    const s=document.createElement('style'); s.textContent=st.textContent; document.head.appendChild(s);
+  });
+  /* 스크립트는 절대 실행하지 않는다 — 체크 기능은 이 페이지 코드가 담당 */
+  parsed.querySelectorAll('script,style,#gate,#bar,.backhub').forEach(n=>n.remove());
+  host.innerHTML = parsed.body.innerHTML;
+  host.style.display='block';
+  const at = d.at && d.at.toDate ? d.at.toDate() : null;
+  $('stamp').textContent = at ? ('갱신 '+at.toISOString().slice(0,10)) : '';
+  enhance();
+}
+
+/* ── 체크박스 (상태는 이 기기 브라우저에 저장) ── */
+function enhance(){
+  const PRE='maydly_prep_chk';
+  let store={}; try{ store=JSON.parse(localStorage.getItem(PRE)||'{}'); }catch(e){ store={}; }
+  const save=()=>{ try{ localStorage.setItem(PRE, JSON.stringify(store)); }catch(e){} };
+  const key=(s)=>{ let h=0; for(let i=0;i<s.length;i++){ h=(h*31+s.charCodeAt(i))|0; } return (h>>>0).toString(36); };
+
+  document.querySelectorAll('#doc ul.chk > li').forEach(li=>{
+    const k=key(li.textContent.trim());
+    const cb=document.createElement('input'); cb.type='checkbox'; cb.id=PRE+'_'+k;
+    const lab=document.createElement('label'); lab.htmlFor=cb.id;
+    while(li.firstChild){ lab.appendChild(li.firstChild); }
+    li.appendChild(cb); li.appendChild(lab);
+    cb.checked=!!store[k];
+    li.classList.toggle('done', cb.checked);
+    cb.addEventListener('change', ()=>{
+      li.classList.toggle('done', cb.checked);
+      if(cb.checked){ store[k]=1; } else { delete store[k]; }
+      save(); prog();
+    });
+  });
+
+  const rst=document.getElementById('btnReset');
+  if(rst) rst.addEventListener('click', ()=>{
+    if(!confirm('체크한 내용을 모두 지웁니다. 계속할까요?')) return;
+    store={}; save();
+    document.querySelectorAll('#doc ul.chk > li').forEach(li=>{
+      const cb=li.querySelector('input[type=checkbox]'); if(cb){ cb.checked=false; li.classList.remove('done'); }
+    });
+    prog();
+  });
+  prog();
+}
+
+function prog(){
+  const box=document.getElementById('progBox'); if(!box) return;
+  const scope=document.getElementById(box.dataset.scope)||document;
+  const boxes=[...scope.querySelectorAll('.chk input[type=checkbox]')];
+  const nEl=document.getElementById('pDone'), tEl=document.getElementById('pTotal'),
+        bEl=document.getElementById('pBar'), mEl=document.getElementById('pMsg');
+  if(!nEl||!bEl||!mEl) return;
+  if(tEl) tEl.textContent=boxes.length;
+  const d=boxes.filter(b=>b.checked).length, t=boxes.length||1;
+  nEl.textContent=d; bEl.style.width=Math.round(d/t*100)+'%';
+  box.classList.remove('low','mid');
+  const msgs = { low: box.dataset.low||'', mid: box.dataset.mid||'', high: box.dataset.high||'' };
+  if(d<12){ box.classList.add('low');  mEl.innerHTML = msgs.low; }
+  else if(d<16){ box.classList.add('mid'); mEl.innerHTML = msgs.mid; }
+  else { mEl.innerHTML = msgs.high; }
+}
+
+/* ── 업로드 ── */
+function wirePicker(el){
+  if(!el) return;
+  el.addEventListener('change', async ()=>{
+    const f=el.files && el.files[0]; if(!f) return;
+    const txt = await f.text();
+    if(txt.length < 500 || !/<body/i.test(txt)){ toast('HTML 문서 파일이 아닌 것 같아요'); el.value=''; return; }
+    if(!confirm('「'+f.name+'」 내용으로 서버 문서를 덮어씁니다.\n(체크한 내용은 이 기기에 그대로 남습니다)\n계속할까요?')) { el.value=''; return; }
+    try{
+      await setDoc(doc(db, COL, DOCID), { html: txt, at: serverTimestamp(), by: auth.currentUser.email, name: f.name });
+      toast('올렸어요 · 다시 불러옵니다');
+      el.value=''; await load();
+    }catch(e){
+      toast('업로드 실패: '+(e.code||e.message));
+    }
+  });
+}
+wirePicker($('pick2'));
+</script>
+</body>
+</html>
