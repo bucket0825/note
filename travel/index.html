@@ -6,7 +6,7 @@
 <title>여행지도 · 일본 & 국내 (maydly)</title>
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="common.css?v=2">
+<link rel="stylesheet" href="common.css?v=3">
 <style>
 /* 실지도 전용 핀 */
 .lp{display:flex;flex-direction:column;align-items:center;transform:translate(-50%,-100%);cursor:pointer}
@@ -44,16 +44,18 @@
 <div id="map"><div class="maploading" id="maploading">일본 지도 불러오는 중…</div></div>
 <div class="preview" id="preview"></div>
 <div class="detail" id="detail"></div>
+<button id="fixedBack" class="fixed-back" onclick="closeDetail()">‹ 지도로</button>
+
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <!-- 국내 데이터 먼저(가벼움) → 백업 → 리셋 -->
-<script src="data/city_kr.js?v=2"></script>
-<script src="data/guides_kr.js?v=2"></script>
+<script src="data/city_kr.js?v=3"></script>
+<script src="data/guides_kr.js?v=3"></script>
 <script>
   window.CITY_KR = CITY; window.COORDS_KR = COORDS;
   window.CITY = {}; window.COORDS = {};   // 일본 로드가 국내를 오염시키지 않게 리셋
 </script>
-<script src="common.js?v=2"></script>
+<script src="common.js?v=3"></script>
 <script>
 /* ===== 통합 여행지도: 국내 ↔ 일본 탭 전환 ===== */
 var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
@@ -104,7 +106,7 @@ function loadJP(done){
       window.CITY_JP = CITY; window.COORDS_JP = COORDS; window.ORDER_JP = window.ORDER || null;
       JP_LOADED = true; ld.classList.remove('on'); done(); return;
     }
-    var s = document.createElement('script'); s.src = files[i++] + "?v=2";
+    var s = document.createElement('script'); s.src = files[i++] + "?v=3";
     s.onload = next; s.onerror = next; document.head.appendChild(s);
   })();
 }

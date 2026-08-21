@@ -21,6 +21,9 @@ function noImgTag(key){ return hasImg(key) ? '' : '<span class="noimg">📷 사�
 function cityPhoto(k, c){
   if(window.CITYPHOTO && window.CITYPHOTO[k]) return window.CITYPHOTO[k];
   var u = img(c.hero); if(u) return u;
+  var sp = c.spots||[];
+  for(var i=0;i<sp.length;i++){ if(sp[i].imgs && sp[i].imgs.length) return sp[i].imgs[0]; }
+  if(c.days){ for(var d=0;d<c.days.length;d++){ var ds=c.days[d].spots||[]; for(var j=0;j<ds.length;j++){ if(ds[j].imgs && ds[j].imgs.length) return ds[j].imgs[0]; } } }
   return '';
 }
 function heroStyle(k,c){ var u=cityPhoto(k,c); return u ? 'background-image:url('+u+')' : 'background:linear-gradient(135deg,#dfeee1,#c6ddce)'; }
@@ -45,7 +48,8 @@ function showPreview(k){
   var c = CITY[k]; if(!c) return;
   var el = document.getElementById('preview');
   el.innerHTML =
-    '<div class="pv-img" style="'+heroStyle(k,c)+'">'
+    '<div class="pv-img">'
+    + (cityPhoto(k,c)?'<img class="pv-photo" src="'+cityPhoto(k,c)+'" alt="">':'')
     + '<span class="reg">'+esc(c.region||'')+'</span>'+heroNoImg(k,c)
     + '<button class="pv-x" onclick="hidePreview()">×</button></div>'
     + '<div class="pv-body">'
@@ -80,8 +84,7 @@ function spotHTML(s){
 function openDetail(k){
   var c = CITY[k]; if(!c) return;
   var d = document.getElementById('detail');
-  var h = '<div class="d-hero" style="'+heroStyle(k,c)+'">'+heroNoImg(k,c)+'<div class="d-scrim"></div>'
-    + '<button class="d-back" onclick="closeDetail()">‹ 지도로</button>'
+  var h = '<div class="d-hero">'+(cityPhoto(k,c)?'<img class="d-photo" src="'+cityPhoto(k,c)+'" alt="">':'')+heroNoImg(k,c)+'<div class="d-scrim"></div>'
     + '<div class="d-hcap"><div class="d-eyebrow">'+esc(c.region||'일본')+'</div>'
     + '<div class="d-title">'+esc(c.title||c.nm)+'</div>'
     + (c.route?'<div class="d-route">'+esc(c.route)+'</div>':'')+'</div></div>';
@@ -111,8 +114,9 @@ function openDetail(k){
   h += '</div>';
   d.innerHTML = h;
   d.classList.add('on'); d.scrollTop = 0;
+  var fb=document.getElementById('fixedBack'); if(fb) fb.classList.add('on');
 }
-function closeDetail(){ document.getElementById('detail').classList.remove('on'); }
+function closeDetail(){ document.getElementById('detail').classList.remove('on'); var fb=document.getElementById('fixedBack'); if(fb) fb.classList.remove('on'); }
 
 // ESC 로 닫기
 document.addEventListener('keydown',function(e){ if(e.key==='Escape'){ closeDetail(); hidePreview(); document.getElementById('searchResults').style.display='none'; } });

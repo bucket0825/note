@@ -6,7 +6,7 @@
 <title>국내 여행지도 · 실지도 (프로토타입)</title>
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="common.css?v=3">
 <style>
 /* 실지도 전용 핀 */
 .lp{display:flex;flex-direction:column;align-items:center;transform:translate(-50%,-100%);cursor:pointer}
@@ -30,11 +30,13 @@
 <div id="map"></div>
 <div class="preview" id="preview"></div>
 <div class="detail" id="detail"></div>
+<button id="fixedBack" class="fixed-back" onclick="closeDetail()">‹ 지도로</button>
+
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="data/city_kr.js"></script>
-<script src="common.js"></script>
-<script src="data/guides_kr.js"></script>
+<script src="data/city_kr.js?v=3"></script>
+<script src="common.js?v=3"></script>
+<script src="data/guides_kr.js?v=3"></script>
 <script>
 var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
 // 무료 타일 (CARTO Voyager · 키 불필요) — 부드럽고 깔끔

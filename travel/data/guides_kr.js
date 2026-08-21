@@ -26,9 +26,9 @@ Object.assign(CITY, {
     "tip": "마을 입구 주차장에서 셔틀버스를 타야 마을까지 들어간다. 실제 주민이 거주하므로 사진 촬영과 문 안쪽 출입은 예의를 지키자.",
     "eat": "간고등어 정식, 헛제사밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Korea-Andong-Hahoe.Village-02.jpg/500px-Korea-Andong-Hahoe.Village-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Andong-Hahoe_Folk_Village-02.jpg/500px-Korea-Andong-Hahoe_Folk_Village-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Korea-Andong-Hahoe_Folk_Village-04.jpg/500px-Korea-Andong-Hahoe_Folk_Village-04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Korea-Andong-Hahoe.Village-02.jpg/500px-Korea-Andong-Hahoe.Village-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Andong-Hahoe_Folk_Village-02.jpg/500px-Korea-Andong-Hahoe_Folk_Village-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Korea-Andong-Hahoe_Folk_Village-04.jpg/500px-Korea-Andong-Hahoe_Folk_Village-04.jpg"
     ]
    },
    {
@@ -64,9 +64,9 @@ Object.assign(CITY, {
     "tip": "선성수상길(예끼마을 물 위 부교)이 가까워 함께 묶어 다니기 좋다.",
     "eat": "안동식혜, 건진국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG/500px-Korea-Andong-Dosan_Seowon_3025-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dosanseowon1.jpg/500px-Dosanseowon1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jeong_Seon-Dosan_Seowon.jpg/500px-Jeong_Seon-Dosan_Seowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG/500px-Korea-Andong-Dosan_Seowon_3025-06.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dosanseowon1.jpg/500px-Dosanseowon1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jeong_Seon-Dosan_Seowon.jpg/500px-Jeong_Seon-Dosan_Seowon.jpg"
     ]
    },
    {
@@ -85,9 +85,9 @@ Object.assign(CITY, {
     ],
     "tip": "하회마을에서 가깝지만 진입로가 좁고 비포장 구간이 있다. 주말엔 셔틀 운행 여부를 미리 확인하자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg/330px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg/330px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg"
     ]
    },
    {
@@ -107,9 +107,9 @@ Object.assign(CITY, {
     "tip": "분수는 계절·시간대별로 가동 시간이 정해져 있으니 도착 전 확인. 여름 밤이 가장 시원하고 붐빈다.",
     "eat": "안동찜닭, 마약옥수수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/500px-Woryeong_Bridge_Andong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Woryeonggyo%2C_Andong.jpg/330px-Woryeonggyo%2C_Andong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Woryeonggyo_at_night.jpg/330px-Woryeonggyo_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/500px-Woryeong_Bridge_Andong.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Woryeonggyo%2C_Andong.jpg/330px-Woryeonggyo%2C_Andong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Woryeonggyo_at_night.jpg/330px-Woryeonggyo_at_night.jpg"
     ]
    },
    {
@@ -128,9 +128,9 @@ Object.assign(CITY, {
     ],
     "tip": "고즈넉한 산사라 아침이나 늦은 오후 빛이 특히 곱다. 오르막 산길이니 편한 신발을 권한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dharma_Wheel_%282%29.svg/500px-Dharma_Wheel_%282%29.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dharma_Wheel_%282%29.svg/500px-Dharma_Wheel_%282%29.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg"
     ]
    },
    {
@@ -149,9 +149,9 @@ Object.assign(CITY, {
     ],
     "tip": "안동역·월영교와 가까워 시내 코스로 묶기 좋다. 조용한 유적이니 차분히 둘러보자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Andong_ImCheongGak.jpg/500px-Andong_ImCheongGak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GunJaJeong_in_Andong_ImCheongGak.jpg/500px-GunJaJeong_in_Andong_ImCheongGak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg/120px-20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Andong_ImCheongGak.jpg/500px-Andong_ImCheongGak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GunJaJeong_in_Andong_ImCheongGak.jpg/500px-GunJaJeong_in_Andong_ImCheongGak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg/120px-20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg"
     ]
    }
   ]
@@ -181,9 +181,9 @@ Object.assign(CITY, {
     "tip": "갯벌체험은 물때(썰물) 시간을 미리 확인해야 한다. 주말 저녁 방조제는 정체가 심하니 낙조 전에 미리 들어가면 편하다.",
     "eat": "바지락칼국수, 조개구이, 대부도 포도",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Daebudo_NASA-WW.jpg/500px-Daebudo_NASA-WW.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/500px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Daebudo_NASA-WW.jpg/500px-Daebudo_NASA-WW.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/500px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG"
     ]
    },
    {
@@ -202,9 +202,9 @@ Object.assign(CITY, {
     "tip": "주차는 무료다. 해질 무렵 올라가면 낙조와 야경을 함께 볼 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg/500px-Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sihwa_Lake_World_Wind.jpg/500px-Sihwa_Lake_World_Wind.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg/500px-Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sihwa_Lake_World_Wind.jpg/500px-Sihwa_Lake_World_Wind.jpg"
     ]
    },
    {
@@ -224,9 +224,9 @@ Object.assign(CITY, {
     "tip": "주차장에서 전망대까지 편도 약 40분~1시간 걷는다. 일몰 시각을 확인하고 조금 일찍 출발하는 게 좋다. 걷기 편한 신발은 필수.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg"
     ]
    },
    {
@@ -246,7 +246,7 @@ Object.assign(CITY, {
     "tip": "바닷길은 썰물 때만 열린다(하루 두 번, 약 4시간). 반드시 물때표를 확인하고 밀물 시간 전에 나와야 한다.",
     "eat": "탄도항 해산물, 조개구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wind_turbine_%289521512971%29.jpg/500px-Wind_turbine_%289521512971%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wind_turbine_%289521512971%29.jpg/500px-Wind_turbine_%289521512971%29.jpg"
     ]
    },
    {
@@ -266,9 +266,9 @@ Object.assign(CITY, {
     "tip": "그늘이 적어 여름엔 모자와 물을 챙기는 게 좋다. 새를 보기엔 이른 아침이 가장 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg/500px-KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ansan_Swamp_Reed_Park_08.JPG/250px-Ansan_Swamp_Reed_Park_08.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ansan_Swamp_Reed_Park_09.JPG/250px-Ansan_Swamp_Reed_Park_09.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg/500px-KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ansan_Swamp_Reed_Park_08.JPG/250px-Ansan_Swamp_Reed_Park_08.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ansan_Swamp_Reed_Park_09.JPG/250px-Ansan_Swamp_Reed_Park_09.JPG"
     ]
    },
    {
@@ -349,9 +349,9 @@ Object.assign(CITY, {
     "tip": "식당(솔리)은 점심때 대기가 길다. 조금 이르게 가거나 평일이 여유롭다. 장독대는 오전 햇살에 특히 예쁘다.",
     "eat": "서일농원 된장찌개 정식·장아찌 한상",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg/330px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg/330px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg"
     ]
    },
    {
@@ -371,7 +371,7 @@ Object.assign(CITY, {
     "tip": "국보 괘불은 상시 공개가 아니라 특정일에만 내걸린다. 방문 전 공개 일정을 확인하면 헛걸음을 던다.",
     "eat": "죽산면 인근 손두부·산채 밥상",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -408,7 +408,7 @@ Object.assign(CITY, {
     "tip": "산성 진입로에 벚나무가 늘어서 봄이면 숨은 벚꽃 명소가 된다. 오르막이 있으니 운동화를 권한다.",
     "eat": "죽산면 재래시장 국수·순대",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jukjusanseong.jpg/500px-Jukjusanseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jukjusanseong.jpg/500px-Jukjusanseong.jpg"
     ]
    },
    {
@@ -489,7 +489,7 @@ Object.assign(CITY, {
     "tip": "안양예술공원 안에 있어 산책과 묶으면 좋다. 실내 위주라 비 오는 날에도 무난하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kimchungup_Architecture_Museum.jpg/500px-Kimchungup_Architecture_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kimchungup_Architecture_Museum.jpg/500px-Kimchungup_Architecture_Museum.jpg"
     ]
    },
    {
@@ -508,8 +508,8 @@ Object.assign(CITY, {
     "tip": "차로 중턱까지 오를 수 있지만 길이 좁고 가파르다. 등산으로 오르면 왕복 2시간쯤 잡는 게 안전하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg/500px-%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg/500px-%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -563,9 +563,9 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정은 대개 4월 초중순, 주말엔 사람이 몰린다. 평촌·범계 쪽 학의천 구간이 특히 벚꽃이 촘촘하다.",
     "eat": "평촌 범계 로데오거리가 가까워 산책 뒤 식사·카페 고르기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG"
     ]
    }
   ]
@@ -596,9 +596,9 @@ Object.assign(CITY, {
     "tip": "실제 주민이 거주하는 곳이라 열린 대문이라도 사유 공간은 조용히. 주차장은 마을 입구에 있고 안쪽은 도보로 돈다.",
     "eat": "마을 어귀 손두부·파전과 연엽주(집에서 빚은 막걸리)를 파는 집이 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oeam_Folk_Village_2010.JPG/500px-Oeam_Folk_Village_2010.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Oeam_Folk_Village%2C_2006_%282%29.jpg/120px-Oeam_Folk_Village%2C_2006_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oeam_Folk_Village%2C_2006_%283%29.jpg/120px-Oeam_Folk_Village%2C_2006_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oeam_Folk_Village_2010.JPG/500px-Oeam_Folk_Village_2010.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Oeam_Folk_Village%2C_2006_%282%29.jpg/120px-Oeam_Folk_Village%2C_2006_%282%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oeam_Folk_Village%2C_2006_%283%29.jpg/120px-Oeam_Folk_Village%2C_2006_%283%29.jpg"
     ]
    },
    {
@@ -619,9 +619,9 @@ Object.assign(CITY, {
     "tip": "입장은 무료이며 부지가 넓으니 걷기 편한 신발로. 매주 월요일 기념관은 휴관일 수 있으니 확인하고 간다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg/500px-%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg/500px-%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg"
     ]
    },
    {
@@ -642,7 +642,7 @@ Object.assign(CITY, {
     "tip": "미사·전례 시간에는 관람이 제한되니 조용히. 주차장에서 성당까지 완만한 오르막을 조금 걷는다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg/500px-%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg/500px-%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg"
     ]
    },
    {
@@ -681,7 +681,7 @@ Object.assign(CITY, {
     "tip": "대중탕·호텔 사우나·가족탕 등 시설마다 요금과 분위기가 다르니 취향껏 고른다. 역과 온천단지가 붙어 있어 뚜벅이 여행에 유리하다.",
     "eat": "온양온천시장의 순대·호떡·아산 특산 배로 만든 주전부리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg/500px-1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg/500px-1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg"
     ]
    },
    {
@@ -748,9 +748,9 @@ Object.assign(CITY, {
     "tip": "세조길이 법주사 매표소 근처에서 시작되니, 절 관람과 계곡 산책을 자연스럽게 이어서 하면 좋다.",
     "eat": "속리산 입구 식당가의 산채정식·더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/500px-Beopjusa_Temple_Stay_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg/500px-%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/500px-Beopjusa_Temple_Stay_South_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg/500px-%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg"
     ]
    },
    {
@@ -770,9 +770,9 @@ Object.assign(CITY, {
     ],
     "tip": "문장대는 왕복 7~8km 산행이라 등산화와 물이 필수. 가벼운 산책만 원하면 세조길만 걸어도 충분하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg/500px-Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munjangdae.jpg/500px-Munjangdae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg/500px-Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munjangdae.jpg/500px-Munjangdae.jpg"
     ]
    },
    {
@@ -791,7 +791,7 @@ Object.assign(CITY, {
     ],
     "tip": "도로변에 있어 오가는 길에 잠깐 들르기 좋다. 조금 더 가면 '부인' 격인 서원리 소나무(정부인송)도 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/500px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/500px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg"
     ]
    },
    {
@@ -830,9 +830,9 @@ Object.assign(CITY, {
     ],
     "tip": "보은 읍내에서 가까워 접근이 쉽다. 그늘이 적으니 여름엔 모자와 물을 챙기는 게 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Samnyeon_sanseong1.jpg/500px-Samnyeon_sanseong1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Samnyeon_sanseong2.jpg/250px-Samnyeon_sanseong2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Samnyeon_sanseong3.jpg/250px-Samnyeon_sanseong3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Samnyeon_sanseong1.jpg/500px-Samnyeon_sanseong1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Samnyeon_sanseong2.jpg/250px-Samnyeon_sanseong2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Samnyeon_sanseong3.jpg/250px-Samnyeon_sanseong3.jpg"
     ]
    },
    {
@@ -878,7 +878,7 @@ Object.assign(CITY, {
     "tip": "워낙 넓어 트램 이용을 권한다(2시간 내외). 도보 전체 관람은 3~4시간 걸린다. 표는 매표소에서 현장 구매 가능. 가격은 약 5,000원 수준으로 변동될 수 있다.",
     "eat": "제철 가을이면 춘양·봉화 송이 요리, 사철 봉화한약우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg/500px-%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg/500px-%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg"
     ]
    },
    {
@@ -898,9 +898,9 @@ Object.assign(CITY, {
     "tip": "코스가 1시간짜리부터 9시간짜리까지 다양하다. 하늘다리까지는 가벼운 반나절 코스로도 닿을 수 있다. 가을 단풍철엔 주차가 몹시 붐빈다.",
     "eat": "청량산 입구 산채비빔밥과 더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg/500px-Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BH-CHNmt-Kch1.jpg/960px-BH-CHNmt-Kch1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg/500px-Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BH-CHNmt-Kch1.jpg/960px-BH-CHNmt-Kch1.jpg"
     ]
    },
    {
@@ -920,7 +920,7 @@ Object.assign(CITY, {
     "tip": "닭실마을 전통 한과가 유명하다 — 마을에서 직접 빚은 유과를 살 수 있다. 한옥스테이 체험도 가능하다.",
     "eat": "닭실마을 전통 한과(유과)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -940,7 +940,7 @@ Object.assign(CITY, {
     "tip": "산타마을은 연중 상시가 아니라 연 4회 시즌(겨울·여름 등)으로 운영된다 — 방문 전 봉화군·코레일 일정을 확인하자. 협곡열차는 예약을 권한다.",
     "eat": "분천역 주변 간식, 봉화 산골 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Buncheonst.jpg/500px-Buncheonst.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Buncheonst.jpg/500px-Buncheonst.jpg"
     ]
    },
    {
@@ -959,7 +959,7 @@ Object.assign(CITY, {
     "tip": "올라가는 산길이 가파르니 승용차 운전에 주의한다. 일출과 운해 명소로도 알려져 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg/500px-%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg/500px-%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg"
     ]
    },
    {
@@ -978,9 +978,9 @@ Object.assign(CITY, {
     "tip": "일반 도로 접근이 매우 어려워 협곡열차(V-트레인) 이용이 사실상 유일한 길이다. 정차 시간이 짧으니 열차를 놓치지 않도록 주의한다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg/500px-Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG/500px-Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yeongam_Line_Opening_Monument.jpg/500px-Yeongam_Line_Opening_Monument.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg/500px-Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG/500px-Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yeongam_Line_Opening_Monument.jpg/500px-Yeongam_Line_Opening_Monument.jpg"
     ]
    }
   ]
@@ -1010,7 +1010,7 @@ Object.assign(CITY, {
     "tip": "머드축제 기간(7월)엔 숙소가 일찍 마감되니 예약을 서두른다. 인파를 피하려면 봄·가을 평일이 한결 한적하다.",
     "eat": "대천항 수산시장의 대하·키조개·간재미회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg/500px-Korea-Boryeong-Daecheon_Beach-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg/500px-Korea-Boryeong-Daecheon_Beach-01.jpg"
     ]
    },
    {
@@ -1061,8 +1061,8 @@ Object.assign(CITY, {
     "tip": "배편이 하루 몇 편뿐이라 왕복 시간표를 먼저 확인한다. 섬 안엔 대중교통이 거의 없어 도보 이동을 염두에 둔다.",
     "eat": "섬 식당의 자연산 우럭·바지락칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%EC%82%BD%EC%8B%9C%EB%8F%84.jpg/500px-%EC%82%BD%EC%8B%9C%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg/500px-%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%EC%82%BD%EC%8B%9C%EB%8F%84.jpg/500px-%EC%82%BD%EC%8B%9C%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg/500px-%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg"
     ]
    },
    {
@@ -1080,8 +1080,8 @@ Object.assign(CITY, {
     ],
     "tip": "넓은 잔디밭 터라 그늘이 적다. 여름엔 모자·양산을 챙기고, 노을 무렵이면 사진이 더 곱게 나온다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Seongjusa_Temple_Site%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Seongjusa_Temple_Site%2C_Boryeong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg"
     ]
    },
    {
@@ -1115,7 +1115,7 @@ Object.assign(CITY, {
     "tip": "바로 아래 오천항은 키조개 산지로 유명하다. 성곽을 둘러본 뒤 항구 식당에서 키조개 요리를 곁들이면 좋다.",
     "eat": "오천항 키조개 관자·키조개 삼합",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chungcheong-do_Province%2C_Boryeong.jpg/500px-Chungcheong-do_Province%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chungcheong-do_Province%2C_Boryeong.jpg/500px-Chungcheong-do_Province%2C_Boryeong.jpg"
     ]
    },
    {
@@ -1197,7 +1197,7 @@ Object.assign(CITY, {
     "tip": "문학관 월요일 휴관. 꼬막은 겨울(11~3월)이 제철이라 이때 벌교 밥상이 가장 실하다.",
     "eat": "벌교 꼬막정식, 꼬막비빔밥, 꼬막무침",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg"
     ]
    },
    {
@@ -1259,7 +1259,7 @@ Object.assign(CITY, {
     "tip": "왕벚꽃은 보통 4월 초·중순 절정. 벚꽃철 주말은 진입로가 붐비니 오전이 낫다.",
     "eat": "산사 인근 산채비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    }
   ]
@@ -1290,7 +1290,7 @@ Object.assign(CITY, {
     "tip": "가장 좋은 건 간조 시간. 물이 들어오면 절벽 아래 길이 잠기니 물때표를 미리 확인하고, 이끼 낀 바위는 미끄러우니 조심.",
     "eat": "격포항 회센터의 제철 회와 백합죽",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/500px-Korea-Buan_County-Chaeseokgang-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/500px-Korea-Buan_County-Chaeseokgang-01.jpg"
     ]
    },
    {
@@ -1311,9 +1311,9 @@ Object.assign(CITY, {
     "tip": "숲길이 하이라이트이니 서두르지 말고 걸어서 진입. 단풍 절정기 주말은 주차장이 빨리 차서 오전 방문이 편하다.",
     "eat": "인근 곰소의 젓갈백반과 바지락",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%EB%82%B4%EC%86%8C%EC%82%AC4.jpg/500px-%EB%82%B4%EC%86%8C%EC%82%AC4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG/330px-Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%EB%82%B4%EC%86%8C%EC%82%AC4.jpg/500px-%EB%82%B4%EC%86%8C%EC%82%AC4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG/330px-Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG"
     ]
    },
    {
@@ -1334,7 +1334,7 @@ Object.assign(CITY, {
     "tip": "왕복 두어 시간의 산길이니 운동화와 물을 챙길 것. 비 온 뒤 수량이 늘 때가 가장 장쾌하다.",
     "eat": "변산 일대의 백합 요리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg/500px-%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg/500px-%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg"
     ]
    },
    {
@@ -1355,9 +1355,9 @@ Object.assign(CITY, {
     "tip": "차로 이동하는 코스라 자가용·렌터카가 필수. 바람이 세니 해 질 무렵엔 겉옷을 챙기면 좋다.",
     "eat": "가력도·계화도 쪽의 바지락죽과 백합칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Saemangeum_ast_2006280_lrg.jpg/500px-Saemangeum_ast_2006280_lrg.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Saemangeum_Seawall_Administrative_division_Promulgation.jpg/500px-Saemangeum_Seawall_Administrative_division_Promulgation.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg/500px-%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Saemangeum_ast_2006280_lrg.jpg/500px-Saemangeum_ast_2006280_lrg.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Saemangeum_Seawall_Administrative_division_Promulgation.jpg/500px-Saemangeum_Seawall_Administrative_division_Promulgation.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg/500px-%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg"
     ]
    },
    {
@@ -1514,7 +1514,7 @@ Object.assign(CITY, {
     "tip": "한국만화박물관과 가까워 함께 묶으면 동선이 짧다. 야간 산책도 무난하다.",
     "eat": "인근 상동 먹자골목의 다양한 맛집과 카페",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    }
   ]
@@ -1544,7 +1544,7 @@ Object.assign(CITY, {
     "tip": "언덕·계단이 많아 편한 신발 필수. 주말 낮엔 크게 붐비니 이른 아침이 한적하다. 주차가 협소해 대중교통 권장. 실제 주민이 사는 마을이라 사진·소음 예의를 지킨다.",
     "eat": "마을 안 팥빙수와 씨앗호떡, 골목 분식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/500px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/500px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg"
     ]
    },
    {
@@ -1583,9 +1583,9 @@ Object.assign(CITY, {
     "tip": "광안대교 조명과 주말 드론쇼는 일정·날씨에 따라 변동된다. 부산불꽃축제(가을) 땐 극도로 붐비니 자리 선점이 필요하다.",
     "eat": "광안리 회센터 활어회, 해변가 조개구이와 오션뷰 카페",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b9/P080713002.jpg/500px-P080713002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f0/P080713001.jpg/500px-P080713001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gwangan_Beach_in_2019.jpg/500px-Gwangan_Beach_in_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b9/P080713002.jpg/500px-P080713002.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f0/P080713001.jpg/500px-P080713001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gwangan_Beach_in_2019.jpg/500px-Gwangan_Beach_in_2019.jpg"
     ]
    },
    {
@@ -1606,9 +1606,9 @@ Object.assign(CITY, {
     "tip": "순환도로가 길고 오르막이라 걷기 힘들면 다누비열차를 추천한다. 안개·강풍 시 조망이 제한되고, 주말엔 열차 대기가 길다.",
     "eat": "태종대 입구 분식·어묵, 영도 조개구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/500px-Korea-Busan-Taejongdae-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Korea-Busan-Taejongdae-04.jpg/330px-Korea-Busan-Taejongdae-04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taejongdae_Monumental_Planted_Tree.jpg/120px-Taejongdae_Monumental_Planted_Tree.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/500px-Korea-Busan-Taejongdae-03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Korea-Busan-Taejongdae-04.jpg/330px-Korea-Busan-Taejongdae-04.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taejongdae_Monumental_Planted_Tree.jpg/120px-Taejongdae_Monumental_Planted_Tree.jpg"
     ]
    },
    {
@@ -1647,8 +1647,8 @@ Object.assign(CITY, {
     "tip": "실제 주민이 사는 마을이라 조용히 다닌다. 골목이 좁고 계단이 많다. 태종대·영도와 묶어 반나절 코스로 잡으면 좋다.",
     "eat": "골목 카페 커피와 디저트, 영도 물회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg/500px-Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cafe_in_Huinnyeoul_Culture_Village.jpg/250px-Cafe_in_Huinnyeoul_Culture_Village.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg/500px-Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cafe_in_Huinnyeoul_Culture_Village.jpg/250px-Cafe_in_Huinnyeoul_Culture_Village.jpg"
     ]
    },
    {
@@ -1669,9 +1669,9 @@ Object.assign(CITY, {
     "tip": "도시철도와 마을버스로 접근한다. 산사이므로 조용히, 예의를 지킨다. 여름엔 계곡, 가을엔 단풍철이 붐빈다.",
     "eat": "범어사 입구 산채비빔밥과 손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Korea-Busan-Beomeosa-01.jpg/500px-Korea-Busan-Beomeosa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea-Busan-Beomeosa-Daeungjeon-01.jpg/500px-Korea-Busan-Beomeosa-Daeungjeon-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Korea-Busan-Beomeosa-01.jpg/500px-Korea-Busan-Beomeosa-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea-Busan-Beomeosa-Daeungjeon-01.jpg/500px-Korea-Busan-Beomeosa-Daeungjeon-01.jpg"
     ]
    },
    {
@@ -1692,7 +1692,7 @@ Object.assign(CITY, {
     "tip": "낙조분수는 여름 시즌 저녁에 운영하며 일정·날씨에 따라 변동된다. 일몰 시각을 확인하고 방문한다. 도심에서 다소 멀지만 도시철도 다대포해수욕장역 바로 앞이다.",
     "eat": "다대포 인근 조개구이와 횟집",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dadaepo_Beach_1.jpg/500px-Dadaepo_Beach_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dadaepo_Beach_1.jpg/500px-Dadaepo_Beach_1.jpg"
     ]
    }
   ]
@@ -1723,7 +1723,7 @@ Object.assign(CITY, {
     "tip": "산성 전체를 도는 데 두세 시간, 솔숲이 짙어 여름에도 시원하다. 편한 신발 필수. 유람선은 고란사↔구드래 구간 운항하며 계절·시간에 따라 배차가 달라 당일 확인이 안전하다.",
     "eat": "구드래 나루터 인근 연잎밥·연꽃빵. 산성 아래 백제향 거리에서 백제 궁중식 한상도 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/500px-Buyeo_198.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/500px-Buyeo_198.JPG"
     ]
    },
    {
@@ -1764,7 +1764,7 @@ Object.assign(CITY, {
     "tip": "연꽃은 새벽에 피고 한낮엔 오므라들어 이른 아침이 가장 예쁘다. 넓어서 한 바퀴 도는 데 넉넉히 시간을 두자. 야간 조명도 볼만하다.",
     "eat": "연꽃을 테마로 한 연잎밥 정식이 부여의 대표 별미다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gungnamji_011.jpg/500px-Gungnamji_011.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gungnamji_011.jpg/500px-Gungnamji_011.jpg"
     ]
    },
    {
@@ -1784,9 +1784,9 @@ Object.assign(CITY, {
     "tip": "국립박물관이라 상설전시 관람료가 없다. 향로 전시실은 조명을 낮춰 유물이 더 돋보이니 천천히 감상하자. 비 오는 날 일정으로도 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Buyeo_National_Museum_%2820160719_1%29.png/500px-Buyeo_National_Museum_%2820160719_1%29.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b7/Seven-Branched-Sword.jpg/500px-Seven-Branched-Sword.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/120px-%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Buyeo_National_Museum_%2820160719_1%29.png/500px-Buyeo_National_Museum_%2820160719_1%29.png",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b7/Seven-Branched-Sword.jpg/500px-Seven-Branched-Sword.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/120px-%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
     ]
    },
    {
@@ -1827,8 +1827,8 @@ Object.assign(CITY, {
     "tip": "바로 옆이 금동대향로가 출토된 능산리 절터다. 규모가 아담해 부소산성·박물관과 묶어 반나절 코스로 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg/500px-Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG/500px-Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg/500px-Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG/500px-Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG"
     ]
    },
    {
@@ -1849,7 +1849,7 @@ Object.assign(CITY, {
     "tip": "시내에서 차로 30~40분 떨어진 산속이라 대중교통이 드물다. 가을 단풍철이 특히 아름답다. 사찰이라 조용한 관람 예절을 지키자.",
     "eat": "절 아래 식당가의 산채정식·더덕구이가 별미다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg/500px-%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg/500px-%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg"
     ]
    }
   ]
@@ -1880,7 +1880,7 @@ Object.assign(CITY, {
     "tip": "둘레길이 넓어 자전거 대여가 편하다. 여름엔 볕이 강하니 모자와 물을 챙기고, 철새는 늦가을부터 겨울이 절정.",
     "eat": "우포늪 인근에서 붕어찜·미나리를 곁들인 시골 백반이 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg/500px-%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg/500px-%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg"
     ]
    },
    {
@@ -1901,7 +1901,7 @@ Object.assign(CITY, {
     "tip": "정상까지 제법 가팔라 등산화 권장. 억새는 10월 중순~11월 초가 절정이라 이 시기 주말은 매우 붐빈다.",
     "eat": "산행 후 창녕 읍내에서 소고기국밥으로 몸을 데우기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -1921,9 +1921,9 @@ Object.assign(CITY, {
     ],
     "tip": "용선대까지는 가벼운 등산이라 편한 신발이 좋다. 화왕산·관룡산 산행과 함께 묶어도 잘 어울린다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/120px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/120px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg"
     ]
    },
    {
@@ -1944,7 +1944,7 @@ Object.assign(CITY, {
     "tip": "그늘이 적어 여름 한낮은 덥다. 바로 옆 창녕박물관을 함께 보면 무덤의 주인들이 훨씬 생생해진다.",
     "eat": "읍내가 가까워 창녕 재래시장에서 국밥·수구레국밥을 맛보기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Changnyeong_royal_graves.JPG/500px-Changnyeong_royal_graves.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Changnyeong_royal_graves.JPG/500px-Changnyeong_royal_graves.JPG"
     ]
    },
    {
@@ -1980,7 +1980,7 @@ Object.assign(CITY, {
     ],
     "tip": "규모가 작아 짧게 둘러보기 좋다. 물이 잔잔한 맑은 날 아침에 반영이 가장 곱다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg/500px-%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg/500px-%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg"
     ]
    },
    {
@@ -1999,8 +1999,8 @@ Object.assign(CITY, {
     ],
     "tip": "규모가 작아 다른 읍내 명소와 묶어 짧게 둘러보면 알맞다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Changnyeong_seokbinggo_angle.jpg/500px-Changnyeong_seokbinggo_angle.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stele_of_Changnyeong_seokbinggo.JPG/120px-Stele_of_Changnyeong_seokbinggo.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Changnyeong_seokbinggo_angle.jpg/500px-Changnyeong_seokbinggo_angle.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stele_of_Changnyeong_seokbinggo.JPG/120px-Stele_of_Changnyeong_seokbinggo.JPG"
     ]
    }
   ]
@@ -2030,8 +2030,8 @@ Object.assign(CITY, {
     "tip": "군항제 기간(보통 4월 초)엔 인파·주차난이 심하다. 대중교통이나 이른 아침 방문을 추천.",
     "eat": "진해 벚꽃빵, 충무김밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2016_Jinhae_Naval_Port_Festival_040.JPG/500px-2016_Jinhae_Naval_Port_Festival_040.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg/500px-1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2016_Jinhae_Naval_Port_Festival_040.JPG/500px-2016_Jinhae_Naval_Port_Festival_040.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg/500px-1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg"
     ]
    },
    {
@@ -2051,7 +2051,7 @@ Object.assign(CITY, {
     "tip": "주차장에서 다리까지 도보 이동. 야경이 백미라 늦은 오후 출발이 좋다.",
     "eat": "구산면 미더덕·오만둥이 요리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Masan_Jeodo_bridge.jpg/500px-Masan_Jeodo_bridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Masan_Jeodo_bridge.jpg/500px-Masan_Jeodo_bridge.jpg"
     ]
    },
    {
@@ -2121,7 +2121,7 @@ Object.assign(CITY, {
     ],
     "eat": "진해 해산물",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jinhaeru_at_night.jpg/500px-Jinhaeru_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jinhaeru_at_night.jpg/500px-Jinhaeru_at_night.jpg"
     ]
    },
    {
@@ -2141,7 +2141,7 @@ Object.assign(CITY, {
     "tip": "휴장일·운영시간과 요금은 방문 전 확인. 가격은 변동 가능.",
     "eat": "구산면 해안 카페·해산물",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg/500px-%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg/500px-%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg"
     ]
    }
   ]
@@ -2172,9 +2172,9 @@ Object.assign(CITY, {
     "tip": "입장은 무료지만 주차는 유료다. 부지가 아주 넓으니 편한 신발이 필수. 8월 15일 광복절엔 특별 행사가 열린다.",
     "eat": "정문 앞과 천안 시내 어디서나 갓 구운 천안 호두과자",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Independence_Hall_of_Korea%28main_hall%29.jpg/500px-Independence_Hall_of_Korea%28main_hall%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Independence_Hall_of_Korea%28monument%29.jpg/500px-Independence_Hall_of_Korea%28monument%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Independence_Hall_of_Korea_02.JPG/120px-Independence_Hall_of_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Independence_Hall_of_Korea%28main_hall%29.jpg/500px-Independence_Hall_of_Korea%28main_hall%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Independence_Hall_of_Korea%28monument%29.jpg/500px-Independence_Hall_of_Korea%28monument%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Independence_Hall_of_Korea_02.JPG/120px-Independence_Hall_of_Korea_02.JPG"
     ]
    },
    {
@@ -2213,7 +2213,7 @@ Object.assign(CITY, {
     "tip": "생가와 기념관, 매봉산이 조금씩 떨어져 있으니 동선을 미리 묶어 두면 편하다.",
     "eat": "바로 곁 병천이 순대의 고장 — 얼큰한 병천순대국밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg/500px-%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg/500px-%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg"
     ]
    },
    {
@@ -2331,9 +2331,9 @@ Object.assign(CITY, {
     "tip": "수행 도량이라 정숙이 기본. 새벽 예불이나 이른 아침의 고요한 시간이 가장 좋다.",
     "eat": "운문사 근처 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unmun-Tempel-Korea-Layout.jpg/500px-Unmun-Tempel-Korea-Layout.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unmun-Tempel-Korea-Layout.jpg/500px-Unmun-Tempel-Korea-Layout.jpg"
     ]
    },
    {
@@ -2370,7 +2370,7 @@ Object.assign(CITY, {
     "tip": "경기는 주로 주말에 열리니 방문 전 일정을 확인한다. 와인터널·프로방스와 가까워 묶어 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg/500px-Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg/500px-Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg"
     ]
    },
    {
@@ -2390,7 +2390,7 @@ Object.assign(CITY, {
     "tip": "그늘이 적으니 한낮 더위를 피해 해질 무렵에 걸으면 좋다. 주변에 볼거리가 모여 있어 도보로 묶기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -2437,9 +2437,9 @@ Object.assign(CITY, {
     "tip": "매주 월요일 휴관. 벚꽃 성수기엔 차량 통제로 대기가 길어 셔틀버스 이용을 권한다. 기본 관람 약 2시간, 등산로까지 돌면 약 4시간.",
     "eat": "문의면 쪽 붕어찜, 올갱이(다슬기)국",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG/500px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG/500px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG"
     ]
    },
    {
@@ -2458,9 +2458,9 @@ Object.assign(CITY, {
     "tip": "성곽 한 바퀴 약 2시간, 운동화 필수. 산성마을에 한정식·손두부 식당이 모여 있어 걷고 나서 든든하게 먹기 좋다.",
     "eat": "산성마을 한정식·손두부, 도토리묵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/500px-Cheongju_Sangdangsangseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg/500px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg/250px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/500px-Cheongju_Sangdangsangseong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg/500px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg/250px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg"
     ]
    },
    {
@@ -2479,7 +2479,7 @@ Object.assign(CITY, {
     "tip": "매주 월요일 휴관. 근현대 인쇄전시관도 함께 있어 아이들과 보기에 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cheongju_City_Printing_Museum_2.JPG/500px-Cheongju_City_Printing_Museum_2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cheongju_City_Printing_Museum_2.JPG/500px-Cheongju_City_Printing_Museum_2.JPG"
     ]
    },
    {
@@ -2514,9 +2514,9 @@ Object.assign(CITY, {
     "tip": "청남대·문의문화재단지와 묶어 반나절 코스로 돌기 좋다. 물안개는 이른 아침이 절정이다.",
     "eat": "문의 붕어찜, 호숫가 카페",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg"
     ]
    },
    {
@@ -2535,9 +2535,9 @@ Object.assign(CITY, {
     "tip": "성안길 상권 한가운데라 시내 구경과 함께 잠깐 들르기 좋다.",
     "eat": "성안길 일대 분식·노포 식당",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yongdusa_Dangan_01.JPG/500px-Yongdusa_Dangan_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Yongdusa_Dangan_04.JPG/250px-Yongdusa_Dangan_04.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yongdusa_Dangan_03.JPG/250px-Yongdusa_Dangan_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yongdusa_Dangan_01.JPG/500px-Yongdusa_Dangan_01.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Yongdusa_Dangan_04.JPG/250px-Yongdusa_Dangan_04.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yongdusa_Dangan_03.JPG/250px-Yongdusa_Dangan_03.JPG"
     ]
    },
    {
@@ -2584,9 +2584,9 @@ Object.assign(CITY, {
     "tip": "단풍철 주말은 이른 아침에 도착해야 주차와 한적한 계곡을 모두 잡을 수 있다. 계곡길은 대체로 평탄하지만 물가 바위가 미끄러우니 트레킹화 권장.",
     "eat": "산 입구 상가의 산채비빔밥과 파전, 그리고 청송 어디서나 만나는 청송사과",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg/500px-%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juwangsan_national_park_canyon.jpg/500px-Juwangsan_national_park_canyon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg/500px-%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juwangsan_national_park_canyon.jpg/500px-Juwangsan_national_park_canyon.jpg"
     ]
    },
    {
@@ -2607,9 +2607,9 @@ Object.assign(CITY, {
     "tip": "물안개는 일교차가 큰 이른 봄·늦가을 새벽에 잘 낀다. 주차장에서 저수지까지 완만한 흙길을 15분쯤 걸어 들어가며, 갈수기에는 수위가 낮아질 수 있다.",
     "eat": "인근 이전리 일대 백숙·오리요리, 돌아나오는 길의 청송사과즙",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg/500px-%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jusanji2.jpg/500px-Jusanji2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jusanji3.jpg/500px-Jusanji3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg/500px-%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jusanji2.jpg/500px-Jusanji2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jusanji3.jpg/500px-Jusanji3.jpg"
     ]
    },
    {
@@ -2629,7 +2629,7 @@ Object.assign(CITY, {
     "tip": "주왕산 산행을 시작하는 지점이라 이곳에서 잠시 숨을 고르고 출발하면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Daejeonsa_%26_Juwang_Mt.jpg/500px-Daejeonsa_%26_Juwang_Mt.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Daejeonsa_%26_Juwang_Mt.jpg/500px-Daejeonsa_%26_Juwang_Mt.jpg"
     ]
    },
    {
@@ -2649,7 +2649,7 @@ Object.assign(CITY, {
     "tip": "숙박 체험도 운영하니 조용한 한옥에서 하루 묵고 싶다면 미리 예약하는 편이 안전하다. 실제 거주·관리 공간이 있으니 관람 예절을 지킬 것.",
     "eat": "덕천마을 일대의 한식 백반, 청송사과",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Songso_Historic_House%2C_Cheongsong.jpg/500px-Songso_Historic_House%2C_Cheongsong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Songso_Historic_House%2C_Cheongsong.jpg/500px-Songso_Historic_House%2C_Cheongsong.jpg"
     ]
    },
    {
@@ -2686,9 +2686,9 @@ Object.assign(CITY, {
     "tip": "방문자센터에서 하천까지 도보 약 300m. 비 온 뒤에는 물이 불어 바위가 미끄러우니 무리해서 내려가지 말 것. 신성계곡 드라이브 코스와 함께 묶으면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CES-BST-Knil7.jpg/500px-CES-BST-Knil7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Baekseoktan2.jpg/960px-Baekseoktan2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Baekseoktan3.jpg/960px-Baekseoktan3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CES-BST-Knil7.jpg/500px-CES-BST-Knil7.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Baekseoktan2.jpg/960px-Baekseoktan2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Baekseoktan3.jpg/960px-Baekseoktan3.jpg"
     ]
    },
    {
@@ -2735,8 +2735,8 @@ Object.assign(CITY, {
     "tip": "도립공원으로 지정된 산. 대표 등산로는 장곡사 방면과 천장호 방면이다. 단풍 성수기엔 주차가 크게 혼잡하니 이른 시간 출발을 권한다.",
     "eat": "산채정식·더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Map_of_Chilgap_mountain.JPG/500px-Map_of_Chilgap_mountain.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Map_of_Chilgap_mountain.JPG/500px-Map_of_Chilgap_mountain.JPG"
     ]
    },
    {
@@ -2851,8 +2851,8 @@ Object.assign(CITY, {
     "tip": "입장료 일부가 철원사랑상품권으로 환급돼 지역에서 되쓸 수 있다. 편도 코스라 시작점과 끝점 주차 위치를 미리 정하고, 계단·경사가 있어 편한 신발이 좋다.",
     "eat": "한탄강 인근 매운탕·오대쌀밥집",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png"
     ]
    },
    {
@@ -2872,8 +2872,8 @@ Object.assign(CITY, {
     "tip": "인근 고석정 꽃밭은 봄·가을 꽃축제 기간에 유료로 운영된다. 래프팅은 여름 성수기 예약이 몰리니 미리 잡는 게 좋다.",
     "eat": "철원 오대쌀로 지은 쌀밥 정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/500px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg/120px-20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/500px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg/120px-20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg"
     ]
    },
    {
@@ -2917,9 +2917,9 @@ Object.assign(CITY, {
     "tip": "안전 문제로 내부 진입은 통제되고 외관 위주로 둘러본다. 노동당사 주변은 옛 철원 시가지 자리로, 함께 폐허의 흔적을 볼 수 있다.",
     "eat": "철원읍 시내 백반·순두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg/500px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg/500px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg"
     ]
    },
    {
@@ -2956,9 +2956,9 @@ Object.assign(CITY, {
     "tip": "고석정 국가지질공원센터 등에서 출발하는 안보관광은 사전 예약·정해진 시간에만 입장하며 신분증이 반드시 필요하다. 코스 안에서는 지정 구역 외 촬영이 제한될 수 있다.",
     "eat": "철원 오대쌀밥·두루미(겨울 탐조와 곁들여)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/c/c2/Weoljeongri_station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DMZ_2803.jpg/500px-DMZ_2803.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DMZ_2802.jpg/500px-DMZ_2802.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/c/c2/Weoljeongri_station.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DMZ_2803.jpg/500px-DMZ_2803.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DMZ_2802.jpg/500px-DMZ_2802.jpg"
     ]
    },
    {
@@ -3004,9 +3004,9 @@ Object.assign(CITY, {
     ],
     "tip": "실외 전시가 많아 여름엔 이른 아침·늦은 오후가 편하다. 주차 무료.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hill_518.jpg/500px-Hill_518.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg/500px-%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ch%C5%8Fng_Pong-uk.png/500px-Ch%C5%8Fng_Pong-uk.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hill_518.jpg/500px-Hill_518.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg/500px-%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ch%C5%8Fng_Pong-uk.png/500px-Ch%C5%8Fng_Pong-uk.png"
     ]
    },
    {
@@ -3025,7 +3025,7 @@ Object.assign(CITY, {
     ],
     "tip": "야경이 백미라 일몰 무렵~저녁 시간대 방문을 추천한다. 다리 위는 보행 전용이라 천천히 걷기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg/500px-%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg/500px-%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg"
     ]
    },
    {
@@ -3043,7 +3043,7 @@ Object.assign(CITY, {
     ],
     "tip": "가산산성 가는 길목에 있어 함께 묶어 돌기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg/500px-%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg/500px-%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg"
     ]
    },
    {
@@ -3062,9 +3062,9 @@ Object.assign(CITY, {
     ],
     "tip": "산길 구간이 있어 운동화는 필수. 정상까지는 왕복 시간을 넉넉히 잡는다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg/500px-%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PGS-GasanFt1.jpg/960px-PGS-GasanFt1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/PGS-GasanFt2.jpg/960px-PGS-GasanFt2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg/500px-%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PGS-GasanFt1.jpg/960px-PGS-GasanFt1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/PGS-GasanFt2.jpg/960px-PGS-GasanFt2.jpg"
     ]
    },
    {
@@ -3084,7 +3084,7 @@ Object.assign(CITY, {
     "tip": "미사·기도 시간에는 정숙이 기본이다. 소시지는 인기라 이른 시간 방문을 추천한다.",
     "eat": "수도원에서 만드는 정통 독일식 '분도' 수제 소시지·햄",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg/500px-%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg/500px-%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg"
     ]
    },
    {
@@ -3145,9 +3145,9 @@ Object.assign(CITY, {
     "tip": "주말·단풍철엔 배 대기줄이 길다. 오전 일찍 들어가면 한산한 숲길을 오래 누릴 수 있다. 행정구역은 춘천이지만 선착장은 가평 쪽이라 가평역·상천역에서도 접근한다.",
     "eat": "섬 안 식당보다 나오는 길에 춘천 닭갈비 한 판을 추천.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG"
     ]
    },
    {
@@ -3201,9 +3201,9 @@ Object.assign(CITY, {
     "tip": "김유정역에서 내려 걸어서 갈 수 있어 뚜벅이에게 좋다. 강촌 레일바이크 출발역과도 이어져 함께 묶기 편하다.",
     "eat": "실레마을 앞 감자전·막국수, 춘천 닭갈비.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg/500px-%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Literary_Village_of_Kimyoujeong_01.jpg/120px-The_Literary_Village_of_Kimyoujeong_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Literary_Village_of_Kimyoujeong_02.jpg/120px-The_Literary_Village_of_Kimyoujeong_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg/500px-%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Literary_Village_of_Kimyoujeong_01.jpg/120px-The_Literary_Village_of_Kimyoujeong_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Literary_Village_of_Kimyoujeong_02.jpg/120px-The_Literary_Village_of_Kimyoujeong_02.jpg"
     ]
    },
    {
@@ -3238,9 +3238,9 @@ Object.assign(CITY, {
     "tip": "언덕이 많아 편한 신발이 좋다. 봄 신록과 가을 단풍철이 특히 예쁘다.",
     "eat": "춘천 시내로 나와 닭갈비 골목.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20241109_Real_rism_Jade_Garden_1.jpg/500px-20241109_Real_rism_Jade_Garden_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20241109_Real_rism_Jade_Garden_7.jpg/120px-20241109_Real_rism_Jade_Garden_7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20241109_Real_rism_Jade_Garden_8.jpg/120px-20241109_Real_rism_Jade_Garden_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20241109_Real_rism_Jade_Garden_1.jpg/500px-20241109_Real_rism_Jade_Garden_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20241109_Real_rism_Jade_Garden_7.jpg/120px-20241109_Real_rism_Jade_Garden_7.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20241109_Real_rism_Jade_Garden_8.jpg/120px-20241109_Real_rism_Jade_Garden_8.jpg"
     ]
    },
    {
@@ -3255,9 +3255,9 @@ Object.assign(CITY, {
     "tip": "댐 정상까지 셔틀버스가 다닌다. 청평사 유람선을 함께 계획하면 동선이 자연스럽다.",
     "eat": "댐 아래 식당가의 닭갈비·막국수, 겨울 빙어튀김.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Soyang_River_Dam_231207.jpg/500px-Soyang_River_Dam_231207.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg/500px-%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Soyang_River_Dam_231207.jpg/500px-Soyang_River_Dam_231207.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg/500px-%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg"
     ]
    }
   ]
@@ -3288,7 +3288,7 @@ Object.assign(CITY, {
     "tip": "그늘이 많아 여름에도 걷기 좋지만, 절벽 끝은 안전난간 밖으로 나가지 말 것. 주차장 넓고 무료.",
     "eat": "근처 시내에서 충주의 향토음식 꿩요리나 올갱이(다슬기)해장국을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png/500px-%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png/500px-%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png"
     ]
    },
    {
@@ -3309,9 +3309,9 @@ Object.assign(CITY, {
     "tip": "공원이 넓고 평탄해 가족·반려견 산책에 좋다. 여름 저녁엔 분수와 야간 조명을 볼 수 있다.",
     "eat": "중앙탑 인근 강변길에 붕어·메기 매운탕집이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg/500px-%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg/500px-%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg"
     ]
    },
    {
@@ -3332,9 +3332,9 @@ Object.assign(CITY, {
     "tip": "유람선은 계절·수위에 따라 운항이 달라지니 당일 운항 여부를 미리 확인. 가을 단풍철이 가장 붐빈다.",
     "eat": "호수 주변 식당의 민물새우탕과 송어회가 별미다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chungjuho_Lake.jpg/500px-Chungjuho_Lake.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chungjuho_Lake.jpg/500px-Chungjuho_Lake.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -3355,9 +3355,9 @@ Object.assign(CITY, {
     "tip": "출렁다리까지는 짧지만 가파른 계단 구간이 있어 편한 신발 권장. 주말·성수기 주차장이 빨리 찬다.",
     "eat": "살미면 일대에서 더덕구이 정식과 산채비빔밥을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CS-Ocm1.jpg/500px-CS-Ocm1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CS-Ocm3.jpg/500px-CS-Ocm3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CS-Ocm4.jpg/500px-CS-Ocm4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CS-Ocm1.jpg/500px-CS-Ocm1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CS-Ocm3.jpg/500px-CS-Ocm3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CS-Ocm4.jpg/500px-CS-Ocm4.jpg"
     ]
    },
    {
@@ -3378,9 +3378,9 @@ Object.assign(CITY, {
     "tip": "동굴+보트 패키지는 약 15,000원. 월요일 휴관이니 방문 요일 확인. 여름에도 겉옷 한 벌 챙기면 좋다.",
     "eat": "충주 시내로 나오면 충주 특산 사과를 활용한 사과빵·사과즙을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CH-JC.jpg/500px-CH-JC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CH-JC3725.jpg/500px-CH-JC3725.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/CH-JC3959.jpg/500px-CH-JC3959.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CH-JC.jpg/500px-CH-JC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CH-JC3725.jpg/500px-CH-JC3725.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/CH-JC3959.jpg/500px-CH-JC3959.jpg"
     ]
    },
    {
@@ -3419,8 +3419,8 @@ Object.assign(CITY, {
     "tip": "수안보·월악산과 가까워 함께 묶기 좋다. 오르막이 완만해 부담 없이 둘러볼 수 있다.",
     "eat": "인근 미륵리·송계리 계곡가 식당의 산채더덕정식이 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/30/%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg/500px-%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mireuk-ri_Won_Site.jpg/500px-Mireuk-ri_Won_Site.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/30/%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg/500px-%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mireuk-ri_Won_Site.jpg/500px-Mireuk-ri_Won_Site.jpg"
     ]
    }
   ]
@@ -3469,9 +3469,9 @@ Object.assign(CITY, {
     "tip": "야시장은 보통 저녁 무렵부터 열리고 주말 저녁이 가장 붐빈다. 지하철 3호선 서문시장역에서 바로 연결돼 접근이 편하다.",
     "eat": "납작만두, 칼국수, 찜갈비, 수제비가 대표 먹거리. 인근 국채보상로 일대 맛집도 함께 도는 사람이 많다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg/500px-10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg/500px-Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg/500px-1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg/500px-10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg/500px-Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg/500px-1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg"
     ]
    },
    {
@@ -3492,7 +3492,7 @@ Object.assign(CITY, {
     "tip": "'근대로의 여행' 골목투어 코스 안내가 잘 돼 있어 지도 한 장이면 혼자서도 돈다. 오르내림이 있으니 편한 신발 필수.",
     "eat": "진골목·종로 일대에 오래된 중식당과 노포가 많아 골목투어 중간 식사로 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/3.1_Independence_Movement_Road.jpg/500px-3.1_Independence_Movement_Road.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/3.1_Independence_Movement_Road.jpg/500px-3.1_Independence_Movement_Road.jpg"
     ]
    },
    {
@@ -3513,9 +3513,9 @@ Object.assign(CITY, {
     "tip": "갓바위까지는 계단이 많아 왕복 1시간 이상 걸린다. 수능·시험철엔 기도객으로 크게 붐빈다. 시내에서 버스나 차로 이동해야 하니 반나절 이상 비워 두는 게 좋다.",
     "eat": "동화사·갓바위 입구 식당가에서 산채비빔밥과 파전, 두부요리를 낸다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg/120px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg/120px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg"
     ]
    },
    {
@@ -3558,9 +3558,9 @@ Object.assign(CITY, {
     "tip": "지하철 3호선(모노레일) 수성못역에서 도보로 가깝다. 주말 저녁은 사람이 많으니 여유 있게. 음악분수는 계절·요일에 따라 운영 시간이 달라진다.",
     "eat": "수성못 둘레길을 따라 분위기 좋은 카페와 브런치·맥주집이 많다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/500px-Suseonglakeducks.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Suseong_Lake_Trail_on_April_7th%2C_2017.jpg/330px-Suseong_Lake_Trail_on_April_7th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg/330px-Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/500px-Suseonglakeducks.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Suseong_Lake_Trail_on_April_7th%2C_2017.jpg/330px-Suseong_Lake_Trail_on_April_7th%2C_2017.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg/330px-Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg"
     ]
    },
    {
@@ -3581,7 +3581,7 @@ Object.assign(CITY, {
     "tip": "야경을 노린다면 일몰 30분~1시간 전에 올라가는 게 좋다. 곤돌라 운영 시간과 요금은 계절·요일에 따라 바뀌니 미리 확인. 정상 부근은 바람이 차니 겉옷 챙기기.",
     "eat": "앞산 카페거리(앞산맛둘레)에 전망 좋은 카페와 음식점이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/500px-Daegupanorama4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/500px-Daegupanorama4.jpg"
     ]
    }
   ]
@@ -3612,9 +3612,9 @@ Object.assign(CITY, {
     "tip": "주말과 명절엔 대기줄이 길다. 평일 오전이나 이른 시간이 여유롭다. 인기 빵은 시간대별로 매진되니 갓 나온 트레이가 나오는 타이밍을 노려보자.",
     "eat": "튀김소보로, 튀소구마, 소금빵, 이탈리안 샌드위치",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sungsimdang_hanja_logo.png/330px-Sungsimdang_hanja_logo.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sungsimdang_2019.jpg/500px-Sungsimdang_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sungsimdang_display_stand.jpg/500px-Sungsimdang_display_stand.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sungsimdang_hanja_logo.png/330px-Sungsimdang_hanja_logo.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sungsimdang_2019.jpg/500px-Sungsimdang_2019.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sungsimdang_display_stand.jpg/500px-Sungsimdang_display_stand.jpg"
     ]
    },
    {
@@ -3635,9 +3635,9 @@ Object.assign(CITY, {
     "tip": "입장은 무료지만 월요일은 정비 휴원. 여름(7월 말~8월 중순)엔 어린이 물놀이장이 무료로 열려 가족 단위 피서지가 된다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/ba/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg/500px-%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanbat_Aboretum_Garden_under_the_Moon.jpg/120px-Hanbat_Aboretum_Garden_under_the_Moon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hanbat_Treegarden_East_Square.JPG/120px-Hanbat_Treegarden_East_Square.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/ba/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg/500px-%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanbat_Aboretum_Garden_under_the_Moon.jpg/120px-Hanbat_Aboretum_Garden_under_the_Moon.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hanbat_Treegarden_East_Square.JPG/120px-Hanbat_Treegarden_East_Square.JPG"
     ]
    },
    {
@@ -3658,8 +3658,8 @@ Object.assign(CITY, {
     "tip": "전체 원점회귀 코스는 넉넉히 5시간. 입장료·주차 모두 무료다. 발을 닦을 세족 시설이 있으니 수건 한 장 챙기면 좋고, 매년 5월엔 맨발축제가 열린다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gyejoksan_Fortress.jpg/500px-Gyejoksan_Fortress.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Daejeon_southern_cityscape_from_Gyejoksan.jpg/120px-Daejeon_southern_cityscape_from_Gyejoksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gyejoksan_Fortress.jpg/500px-Gyejoksan_Fortress.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Daejeon_southern_cityscape_from_Gyejoksan.jpg/120px-Daejeon_southern_cityscape_from_Gyejoksan.jpg"
     ]
    },
    {
@@ -3680,8 +3680,8 @@ Object.assign(CITY, {
     "tip": "입장·주차 모두 무료. 개방 시간은 계절마다 달라 겨울엔 오후 5시, 여름엔 오후 7시까지다. 단풍이 절정인 10~11월이 가장 인기라 주말엔 이른 방문을 추천한다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png"
     ]
    },
    {
@@ -3702,9 +3702,9 @@ Object.assign(CITY, {
     "tip": "벚꽃 드라이브 전 구간 완주는 약 2시간. 봄 주말엔 차가 몰리니 오전이 낫다. 밤엔 조명이 켜져 야경 코스로도 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg"
     ]
    },
    {
@@ -3725,9 +3725,9 @@ Object.assign(CITY, {
     "tip": "상설관은 무료지만 천체관·일부 특별전은 유료다. 월요일은 휴관. 한밭수목원·엑스포과학공원과 가까워 묶어서 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/500px-National_Science_Museum_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Js-Ji-Bt.jpg/500px-Js-Ji-Bt.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Okcheon_Group.jpg/500px-Okcheon_Group.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/500px-National_Science_Museum_2021.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Js-Ji-Bt.jpg/500px-Js-Ji-Bt.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Okcheon_Group.jpg/500px-Okcheon_Group.jpg"
     ]
    },
    {
@@ -3813,9 +3813,9 @@ Object.assign(CITY, {
     "tip": "언덕과 계단이 있어 편한 신발이 좋다. 비 온 다음 날이나 안개 낀 아침의 대숲이 가장 운치 있다.",
     "eat": "죽녹원 앞 국수거리의 멸치국수와 약초비빔국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/500px-Damyang_Jungnogwon_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg/120px-Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jungnogwon_6.JPG/120px-Jungnogwon_6.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/500px-Damyang_Jungnogwon_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg/120px-Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jungnogwon_6.JPG/120px-Jungnogwon_6.JPG"
     ]
    },
    {
@@ -3835,9 +3835,9 @@ Object.assign(CITY, {
     "tip": "메타세쿼이아길·죽녹원과 가까워 함께 묶어 걷기 좋다. 여름엔 나무 그늘이 짙어 한낮에도 시원하다.",
     "eat": "관방제림 앞 국수거리 — 담양 국수 한 그릇은 꼭",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG/500px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aphananthe_aspera.JPG/120px-Aphananthe_aspera.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG/120px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG/500px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aphananthe_aspera.JPG/120px-Aphananthe_aspera.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG/120px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG"
     ]
    },
    {
@@ -3857,9 +3857,9 @@ Object.assign(CITY, {
     "tip": "명옥헌·식영정과 같은 가사문학 권역이라 하루에 정원들을 이어 보기 좋다. 여름 녹음, 가을 단풍 때가 특히 아름답다.",
     "eat": "인근 가사문학면·고서면의 담양 떡갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg/500px-KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Soswaewon_1.jpg/330px-Soswaewon_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Korea-Damyang-Soswaewon-05.jpg/250px-Korea-Damyang-Soswaewon-05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg/500px-KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Soswaewon_1.jpg/330px-Soswaewon_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Korea-Damyang-Soswaewon-05.jpg/250px-Korea-Damyang-Soswaewon-05.jpg"
     ]
    },
    {
@@ -3879,7 +3879,7 @@ Object.assign(CITY, {
     "tip": "배롱나무 절정은 8월 초·중순. 이 시기 주말엔 사람이 많으니 이른 아침이 좋다. 주차장에서 조금 걸어 올라간다.",
     "eat": "돌아나오는 길 고서면 떡갈비·대통밥집",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -3899,7 +3899,7 @@ Object.assign(CITY, {
     "tip": "바로 옆 한국가사문학관과 묶어 보면 이해가 깊어진다. 노을 무렵 호수 쪽 풍경이 특히 좋다.",
     "eat": "가사문학면 일대의 담양 한정식·떡갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Korea-Damyang-Sikyeongjeong-01.jpg/250px-Korea-Damyang-Sikyeongjeong-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Korea-Damyang-Sikyeongjeong-01.jpg/250px-Korea-Damyang-Sikyeongjeong-01.jpg"
     ]
    }
   ]
@@ -3948,7 +3948,7 @@ Object.assign(CITY, {
     "tip": "교황 프란치스코가 다녀간 뒤 순례객이 늘었다. 넓고 그늘이 많아 여름 산책에도 좋다. 미사·행사 시간과 겹치면 조용히 예를 지키자.",
     "eat": "우강면 일대 소박한 백반, 인근 합덕에서 연잎밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg/500px-Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg/500px-Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg"
     ]
    },
    {
@@ -4026,7 +4026,7 @@ Object.assign(CITY, {
     "tip": "봄 벚꽃·가을 은행 시즌이 특히 예쁘다. 마을이 아담해 반나절이면 여유롭게 돈다.",
     "eat": "면천면 두견주(전통주)와 인근 손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -4075,7 +4075,7 @@ Object.assign(CITY, {
     "tip": "입장은 무료지만 주차료가 있고, 야경 조명 점등 시간대를 확인하면 좋다. 여름 성수기 오후엔 사람이 몰린다.",
     "eat": "단양 마늘로 만든 마늘떡갈비와 마늘한우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG"
     ]
    },
    {
@@ -4131,8 +4131,8 @@ Object.assign(CITY, {
     "tip": "도담삼봉과 반대편(남쪽)이라 동선을 나눠 잡는 게 좋다. 여름 성수기엔 주차가 붐빈다.",
     "eat": "대강면 대강양조장 막걸리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg"
     ]
    },
    {
@@ -4151,9 +4151,9 @@ Object.assign(CITY, {
     ],
     "tip": "계단과 좁은 구간이 많아 편한 신발이 필수고 바닥이 젖어 미끄럽다. 여름에도 서늘하니 얇은 겉옷을 챙기면 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/500px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg/500px-20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B3%A0%EC%88%981.jpg/250px-%EA%B3%A0%EC%88%981.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/500px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg/500px-20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B3%A0%EC%88%981.jpg/250px-%EA%B3%A0%EC%88%981.jpg"
     ]
    },
    {
@@ -4173,9 +4173,9 @@ Object.assign(CITY, {
     ],
     "tip": "정상은 사철 바람이 강해 방풍 준비가 필요하다. 겨울 눈꽃 산행은 아이젠 등 장비가 있어야 하고, 철쭉철 주말엔 주차가 혼잡하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg"
     ]
    },
    {
@@ -4195,8 +4195,8 @@ Object.assign(CITY, {
     ],
     "tip": "동굴은 허리를 굽히는 좁은 구간과 물길이 있어 옷·신발이 젖기 쉽다. 산성까지는 오르막 길을 걸어야 한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg/500px-%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ondal_cave_entrance.jpg/500px-Ondal_cave_entrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg/500px-%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ondal_cave_entrance.jpg/500px-Ondal_cave_entrance.jpg"
     ]
    },
    {
@@ -4216,9 +4216,9 @@ Object.assign(CITY, {
     ],
     "tip": "유람선은 계절과 수위에 따라 운항이 바뀌니 사전 확인이 필요하다. 등산은 계란재 등 별도 들머리에서 시작한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg/500px-%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg/500px-%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg/500px-%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg/500px-%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg"
     ]
    }
   ]
@@ -4248,8 +4248,8 @@ Object.assign(CITY, {
     "tip": "단풍 절정은 10월 하순. 이 시기 주말은 소요산역부터 사람이 몰리니 아침 일찍 오르는 게 좋다.",
     "eat": "소요산역·산 입구 상가에 산채비빔밥과 도토리묵, 파전 내는 집이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Soyosan.jpg/500px-Soyosan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Soyosan.jpg/500px-Soyosan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -4269,8 +4269,8 @@ Object.assign(CITY, {
     "tip": "자재암은 소요산 등산로 초입 구간 끝에 있어, 등산을 크게 하지 않아도 왕복 산책 삼아 다녀오기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -4369,9 +4369,9 @@ Object.assign(CITY, {
     "tip": "쌍폭포까지는 왕복 2~3시간 산길. 운동화 필수이고 여름 성수기엔 아침 일찍 가야 물가 자리를 잡는다. 베틀바위 전망대로 이어지는 등산로가 있으니 체력이 되면 함께 묶어도 좋다.",
     "eat": "계곡 입구 식당촌의 산채비빔밥과 감자옹심이, 손두부.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Samhwasa_and_murung_velley.jpg/500px-Samhwasa_and_murung_velley.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Samhwasa_and_murung_velley.jpg/500px-Samhwasa_and_murung_velley.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg"
     ]
    },
    {
@@ -4470,9 +4470,9 @@ Object.assign(CITY, {
     "tip": "통로가 좁고 바닥이 미끄러워 편한 신발이 필수. 키 큰 사람은 머리를 조심해야 하고, 휠체어·유모차는 진입이 어렵다.",
     "eat": "시내라 접근이 좋아 동해 시장통 순두부·물회로 마무리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CGC-CEp1.jpg/500px-CGC-CEp1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGC-CEp9.jpg/500px-CGC-CEp9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CGC-CEp2.jpg/500px-CGC-CEp2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CGC-CEp1.jpg/500px-CGC-CEp1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGC-CEp9.jpg/500px-CGC-CEp9.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CGC-CEp2.jpg/500px-CGC-CEp2.jpg"
     ]
    },
    {
@@ -4493,7 +4493,7 @@ Object.assign(CITY, {
     "tip": "전망대까지 왕복 2시간 안팎의 가파른 산길이라 등산화와 물을 챙기고 체력 안배가 필요하다. 무릉계곡 입장료로 함께 입장하며, 겨울 결빙기엔 아이젠을 준비할 것.",
     "eat": "하산 후 무릉계곡 입구의 산채정식과 감자전, 막걸리 한 잔.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    }
   ]
@@ -4522,7 +4522,7 @@ Object.assign(CITY, {
     "tip": "미사·전례 시간에는 정숙이 필요하다. 언덕 위라 해 질 무렵 노을과 함께 담는 사진이 특히 곱다.",
     "eat": "여름철 감곡면의 명물 감곡 복숭아",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gamgok_Catholic_Church_04.jpg/500px-Gamgok_Catholic_Church_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gamgok_Catholic_Church_04.jpg/500px-Gamgok_Catholic_Church_04.jpg"
     ]
    },
    {
@@ -4628,7 +4628,7 @@ Object.assign(CITY, {
     "tip": "다산초당에서 백련사까지 약 800m 동백숲 오솔길이 이어진다. 두 곳을 함께 걷는 것이 정석 코스. 주차장에서 초당까지 오르막 도보 15분.",
     "eat": "강진 한정식 — 남도의 반찬이 상 가득 깔리는 백반이 강진읍에 흔하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg/500px-Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg/500px-Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg"
     ]
    },
    {
@@ -4646,7 +4646,7 @@ Object.assign(CITY, {
     ],
     "tip": "동백은 보통 3월 말~4월 초가 절정. 다산초당~백련사 오솔길(약 30~40분)로 이으면 하루가 알차다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -4677,7 +4677,7 @@ Object.assign(CITY, {
     "desc": "월출산 자락에 단정하게 앉은 절로, 화려함을 덜어낸 극락보전(국보)이 마당 정면에 서 있다. 맞배지붕의 나지막한 선이 군더더기 없이 아름다워 오래 봐도 질리지 않는다. 법당 안에는 조선 초기 아미타여래삼존 벽화가 은은히 남아, 오백 년 전 붓질 앞에 절로 발이 멎는다.",
     "tip": "월출산 남쪽 자락. 무위사에서 월출산 등산로로도 이어져, 산행과 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg/500px-%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg/500px-%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg"
     ]
    },
    {
@@ -4696,7 +4696,7 @@ Object.assign(CITY, {
     ],
     "tip": "매년 가을 강진청자축제가 이 일대에서 열린다. 만들기 체험은 예약을 권한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg/500px-%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg/500px-%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg"
     ]
    },
    {
@@ -4725,7 +4725,7 @@ Object.assign(CITY, {
     "desc": "'모란이 피기까지는'의 시인 영랑 김윤식이 나고 자란 한옥이 강진읍 언덕에 그대로 남아 있다. 마당에 심긴 모란과 동백, 장독대 사이를 거닐면 시의 배경이 눈앞에 살아난다. 곳곳에 그의 시구가 걸려 있어, 천천히 읽으며 걷기 좋은 뜰이다.",
     "tip": "바로 옆 세계모란공원·시문학파기념관과 묶어 보면 좋다. 모란은 4~5월에 핀다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -4739,7 +4739,7 @@ Object.assign(CITY, {
     "desc": "조선 태종 때 쌓아 갑오개혁까지 500년간 전라도와 제주를 아우른 육군 총지휘부가 있던 성이다. 복원된 성벽 위를 걸으면 옛 병영 마을이 발아래로 펼쳐진다. 표류하던 네덜란드인 하멜이 여러 해를 억류돼 지낸 곳이기도 해, 이국 병사의 흔적을 더듬는 재미가 있다.",
     "tip": "인근 하멜기념관과 병영마을 옛 담장길(한골목)을 함께 걸으면 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg/500px-%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg/500px-%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg"
     ]
    }
   ]
@@ -4770,8 +4770,8 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정은 대개 4월 초. 이 시기 주말은 주차가 매우 붐비니 아침 일찍 가거나 대중교통을 권한다.",
     "eat": "호수 근처에서 강릉 초당순두부와 짬뽕순두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gyeongpodae_Pavilion_Gangneung.JPG/500px-Gyeongpodae_Pavilion_Gangneung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gyeongpo_Lake_Cherry_Blossoms.JPG/500px-Gyeongpo_Lake_Cherry_Blossoms.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gyeongpodae_Pavilion_Gangneung.JPG/500px-Gyeongpodae_Pavilion_Gangneung.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gyeongpo_Lake_Cherry_Blossoms.JPG/500px-Gyeongpo_Lake_Cherry_Blossoms.JPG"
     ]
    },
    {
@@ -4791,9 +4791,9 @@ Object.assign(CITY, {
     ],
     "tip": "월요일 휴관인 경우가 있으니 방문 전 확인. 넓지 않아 선교장·경포와 묶어 반나절에 함께 보기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ojukheon_sarangchae.jpg/500px-Ojukheon_sarangchae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ojukheon_20220501_001.jpg/330px-Ojukheon_20220501_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ojukheon_20220501_003.jpg/330px-Ojukheon_20220501_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ojukheon_sarangchae.jpg/500px-Ojukheon_sarangchae.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ojukheon_20220501_001.jpg/330px-Ojukheon_20220501_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ojukheon_20220501_003.jpg/330px-Ojukheon_20220501_003.jpg"
     ]
    },
    {
@@ -4814,9 +4814,9 @@ Object.assign(CITY, {
     "tip": "한옥 숙박 체험도 운영한다. 하룻밤 고택에 머물고 싶다면 미리 예약할 것.",
     "eat": "근처 초당동에서 두부요리 정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seongyojang_20220501_060.jpg/500px-Seongyojang_20220501_060.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seongyojang_20220501_002.jpg/330px-Seongyojang_20220501_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Seongyojang_20220501_004.jpg/330px-Seongyojang_20220501_004.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seongyojang_20220501_060.jpg/500px-Seongyojang_20220501_060.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seongyojang_20220501_002.jpg/330px-Seongyojang_20220501_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Seongyojang_20220501_004.jpg/330px-Seongyojang_20220501_004.jpg"
     ]
    },
    {
@@ -4836,9 +4836,9 @@ Object.assign(CITY, {
     ],
     "tip": "해돋이는 계절마다 시간이 다르니 당일 일출 시각을 미리 확인. 새해 첫날은 극도로 붐비므로 방한과 여유가 필수.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeongdongjin_Station_20160804_145225.jpg/500px-Jeongdongjin_Station_20160804_145225.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png/500px-%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Korea_Railroad_JiTung.JPG/120px-Korea_Railroad_JiTung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeongdongjin_Station_20160804_145225.jpg/500px-Jeongdongjin_Station_20160804_145225.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png/500px-%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Korea_Railroad_JiTung.JPG/120px-Korea_Railroad_JiTung.JPG"
     ]
    },
    {
@@ -4903,8 +4903,8 @@ Object.assign(CITY, {
     ],
     "eat": "초당순두부 백반, 짬뽕순두부, 순두부 아이스크림",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chodang-dong_Community_service_center_20220502_001.jpg/500px-Chodang-dong_Community_service_center_20220502_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gangneungsine-map.png/500px-Gangneungsine-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chodang-dong_Community_service_center_20220502_001.jpg/500px-Chodang-dong_Community_service_center_20220502_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gangneungsine-map.png/500px-Gangneungsine-map.png"
     ]
    }
   ]
@@ -4935,9 +4935,9 @@ Object.assign(CITY, {
     "tip": "선착장 주차장이 성수기엔 금세 찬다. 아침 첫 배를 타면 사람 없는 숲길을 온전히 걸을 수 있다.",
     "eat": "섬 안 춘천식 닭갈비와 막국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG"
     ]
    },
    {
@@ -4958,9 +4958,9 @@ Object.assign(CITY, {
     "tip": "오색별빛정원은 해가 지고 나서가 절정이다. 산자락이라 낮에도 서늘하니 겉옷을 챙기자.",
     "eat": "근처 잣칼국수·잣국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/500px-Morning_Calm_Arboretum_Sign.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Garden_of_Morning_Calm.JPG/500px-The_Garden_of_Morning_Calm.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg/120px-%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/500px-Morning_Calm_Arboretum_Sign.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Garden_of_Morning_Calm.JPG/500px-The_Garden_of_Morning_Calm.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg/120px-%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg"
     ]
    },
    {
@@ -5002,7 +5002,7 @@ Object.assign(CITY, {
     "tip": "섬 자체는 무료 개방이지만 캠핑장은 예약제다. 남이섬 선착장과 가까워 함께 묶어 돌기 좋다.",
     "eat": "가평 잣막걸리와 잣두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg/500px-%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg/500px-%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg"
     ]
    },
    {
@@ -5040,7 +5040,7 @@ Object.assign(CITY, {
     "tip": "여름 성수기엔 수상레저 업체가 붐빈다. 이용 전 구명조끼 등 안전장비 착용을 꼭 확인하자.",
     "eat": "청평 호숫가 매운탕·닭볶음탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg/500px-Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg/500px-Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg"
     ]
    },
    {
@@ -5060,7 +5060,7 @@ Object.assign(CITY, {
     "tip": "왕복 5~6시간의 본격 산행이다. 물·간식·등산화는 필수, 겨울엔 아이젠을 챙기자.",
     "eat": "하산 후 가평 잣두부와 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    }
   ]
@@ -5107,9 +5107,9 @@ Object.assign(CITY, {
     "tip": "여름이면 이 일대에서 거창국제연극제가 열려 밤 공연을 즐길 수 있다. 계곡 물놀이 구역은 안전선을 지킬 것.",
     "eat": "위천면 산채정식·어탕국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suseungdae2.jpg/500px-Suseungdae2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Suseungdae1.jpg/500px-Suseungdae1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Suseungdae3.jpg/500px-Suseungdae3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suseungdae2.jpg/500px-Suseungdae2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Suseungdae1.jpg/500px-Suseungdae1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Suseungdae3.jpg/500px-Suseungdae3.jpg"
     ]
    },
    {
@@ -5208,9 +5208,9 @@ Object.assign(CITY, {
     "tip": "섬은 배편 시간표에 매여 있어 왕복 배 시간을 먼저 확인한다. 바다가 거칠면 결항하니 당일 아침 운항 여부를 꼭 체크하고, 입장료는 유람선 요금과 별도인 경우가 많다.",
     "eat": "선착장 주변 활어회·멸치쌈밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Korea-Geoje-Oedo_4073-06.JPG/500px-Korea-Geoje-Oedo_4073-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Korea-Geoje-Oedo_4078-06.JPG/120px-Korea-Geoje-Oedo_4078-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Korea-Geoje-Oedo_4074-06.JPG/120px-Korea-Geoje-Oedo_4074-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Korea-Geoje-Oedo_4073-06.JPG/500px-Korea-Geoje-Oedo_4073-06.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Korea-Geoje-Oedo_4078-06.JPG/120px-Korea-Geoje-Oedo_4078-06.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Korea-Geoje-Oedo_4074-06.JPG/120px-Korea-Geoje-Oedo_4074-06.JPG"
     ]
    },
    {
@@ -5269,9 +5269,9 @@ Object.assign(CITY, {
     "tip": "파도·기상에 따라 동굴 진입이나 운항 자체가 취소될 수 있어 아침 운항 확인이 필수다. 멀미가 있으면 약을 미리 챙기고, 외도와 한 배로 도는 코스가 가성비가 좋다.",
     "eat": "학동 선착장 몽돌해변 먹거리 골목",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg/500px-KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg/330px-KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg/330px-KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg/500px-KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg/330px-KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg/330px-KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg"
     ]
    },
    {
@@ -5292,7 +5292,7 @@ Object.assign(CITY, {
     "tip": "몽돌이 미끄럽고 걷기 힘드니 슬리퍼보다 발을 감싸는 신발이 낫다. 봄이면 해변 뒤편 학동 동백림이 붉게 물든다.",
     "eat": "해변 앞 활어회·멸치회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GJ-HDBeach.jpg/500px-GJ-HDBeach.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GJ-HDBeach.jpg/500px-GJ-HDBeach.jpg"
     ]
    },
    {
@@ -5313,9 +5313,9 @@ Object.assign(CITY, {
     "tip": "실내 위주라 비 오는 날 대안으로 좋다. 모노레일은 별도 요금과 대기가 있고, 아이와 함께라면 반나절 코스로 넉넉히 잡는다.",
     "eat": "고현 시내 백반·해물밥집",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geoje-POW_Camp1.JPG/500px-Geoje-POW_Camp1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geoje-POW_Camp1.JPG/500px-Geoje-POW_Camp1.JPG"
     ]
    },
    {
@@ -5362,9 +5362,9 @@ Object.assign(CITY, {
     "tip": "금강구름다리·케이블카를 타려면 전북 완주(운주면) 쪽 기점으로 가야 한다. 단풍철 주말은 완주 쪽 케이블카 대기줄이 길어 이른 오전이 낫고, 삼선계단은 오르기만 가능한 일방통행 구간이라 체력이 부담되면 우회로를 이용한다.",
     "eat": "산행 후 산채비빔밥과 도토리묵, 인삼을 넣은 삼계탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/500px-Chilseongbong_at_Daedunsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MtDaedunsan_Cable_Car.jpg/500px-MtDaedunsan_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/500px-Chilseongbong_at_Daedunsan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MtDaedunsan_Cable_Car.jpg/500px-MtDaedunsan_Cable_Car.jpg"
     ]
    },
    {
@@ -5383,7 +5383,7 @@ Object.assign(CITY, {
     "tip": "주차장과 입장 모두 무료다. 매년 9월 순의제향 무렵에 찾으면 추모 행사를 볼 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg/500px-%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg/500px-%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg"
     ]
    },
    {
@@ -5403,7 +5403,7 @@ Object.assign(CITY, {
     "tip": "은행잎이 절정에 이르는 10월 말~11월 초가 가장 아름답다. 절 입구까지 숲길이 이어져 산책 삼아 걷기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg/500px-%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg/500px-%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg"
     ]
    },
    {
@@ -5586,7 +5586,7 @@ Object.assign(CITY, {
     ],
     "tip": "규모가 크지 않아 가볍게 들르기 좋다. 조용한 마을 안에 있으니 차분히 둘러볼 것.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg/500px-%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg/500px-%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg"
     ]
    }
   ]
@@ -5617,9 +5617,9 @@ Object.assign(CITY, {
     "tip": "입장 무료이고 시내 중심이라 걸어서 접근하기 좋다. 봄 벚꽃철과 가을에 특히 아름답다.",
     "eat": "인근 김해 뒷고기(돼지 특수부위 구이)가 이 지역 명물이다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suro_Tomb.JPG/500px-Suro_Tomb.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Suro_Tomb_sculptures.JPG/120px-Suro_Tomb_sculptures.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tombstones_at_Suro_Tomb.JPG/120px-Tombstones_at_Suro_Tomb.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suro_Tomb.JPG/500px-Suro_Tomb.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Suro_Tomb_sculptures.JPG/120px-Suro_Tomb_sculptures.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tombstones_at_Suro_Tomb.JPG/120px-Tombstones_at_Suro_Tomb.JPG"
     ]
    },
    {
@@ -5640,7 +5640,7 @@ Object.assign(CITY, {
     "tip": "국립박물관이라 상설전시 관람은 무료. 정기 휴관일이 있으니 방문 전 확인하고, 대성동 고분군·수로왕릉과 도보로 묶어 하루에 볼 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/500px-Gimhae_national_museum.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/500px-Gimhae_national_museum.JPG"
     ]
    },
    {
@@ -5661,7 +5661,7 @@ Object.assign(CITY, {
     "tip": "고분박물관은 월요일 휴관, 관람 무료. 그늘이 적어 여름엔 모자와 물을 챙기면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG/500px-%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG/500px-%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG"
     ]
    },
    {
@@ -5682,9 +5682,9 @@ Object.assign(CITY, {
     "tip": "주말과 기일(5월) 무렵엔 방문객이 많다. 가을엔 마을 특산 진영 단감을 사 갈 수 있다.",
     "eat": "진영 단감, 그리고 마을 주변 시골 백반집.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Roh_Moo-hyun%27s_House.jpg/500px-Roh_Moo-hyun%27s_House.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/KimhaeCityMap.png/500px-KimhaeCityMap.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PreviewImage.png/120px-PreviewImage.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Roh_Moo-hyun%27s_House.jpg/500px-Roh_Moo-hyun%27s_House.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/KimhaeCityMap.png/500px-KimhaeCityMap.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PreviewImage.png/120px-PreviewImage.png"
     ]
    },
    {
@@ -5790,9 +5790,9 @@ Object.assign(CITY, {
     ],
     "tip": "2023년 문화재관람료가 폐지되어 사찰은 무료로 둘러볼 수 있다. 미륵전 내부는 촬영이 제한될 수 있으니 안내를 따를 것.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korea-Gimje-Geumsansa-02.jpg/500px-Korea-Gimje-Geumsansa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B8%88%EC%82%B0%EC%82%AC.jpg/500px-%EA%B8%88%EC%82%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korea-Gimje-Geumsansa-02.jpg/500px-Korea-Gimje-Geumsansa-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B8%88%EC%82%B0%EC%82%AC.jpg/500px-%EA%B8%88%EC%82%B0%EC%82%AC.jpg"
     ]
    },
    {
@@ -5811,9 +5811,9 @@ Object.assign(CITY, {
     ],
     "tip": "정상까지 왕복 3~4시간은 잡아야 한다. 물과 간식을 챙기고, 정상 송신탑 전망대의 개방 시간을 미리 확인하면 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%AA%A8%EC%95%85%EC%82%B0.jpg/500px-%EB%AA%A8%EC%95%85%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c8/IMG_00512.JPG/500px-IMG_00512.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%AA%A8%EC%95%85%EC%82%B0.jpg/500px-%EB%AA%A8%EC%95%85%EC%82%B0.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c8/IMG_00512.JPG/500px-IMG_00512.JPG"
     ]
    },
    {
@@ -5891,9 +5891,9 @@ Object.assign(CITY, {
     ],
     "tip": "군사시설보호구역이라 신분증을 챙기고 운영시간·개방일을 미리 확인하는 게 안전하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg/500px-20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/UK_Aegibong_memorial_stone.svg/500px-UK_Aegibong_memorial_stone.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg/500px-%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg/500px-20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/UK_Aegibong_memorial_stone.svg/500px-UK_Aegibong_memorial_stone.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg/500px-%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg"
     ]
    },
    {
@@ -5911,7 +5911,7 @@ Object.assign(CITY, {
     ],
     "tip": "산림욕장 코스로 완만하게 오를 수 있고 정상까지 왕복 2시간 안팎. 가을 단풍철이 가장 붐빈다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg"
     ]
    },
    {
@@ -5929,7 +5929,7 @@ Object.assign(CITY, {
     ],
     "tip": "발굴 때 나온 포탄·상평통보가 전시관에 있고, 인근 손돌묘 전설과 함께 보면 좋다. 대명항·함상공원과 묶어 돌기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg"
     ]
    },
    {
@@ -5948,7 +5948,7 @@ Object.assign(CITY, {
     "tip": "주말엔 주차가 붐비니 오전이 여유롭다. 회는 시장에서 사서 초장집에 상차림값을 내고 먹는 방식이 흔하다.",
     "eat": "가을 꽃게찜·꽃게탕, 봄 실치회·실치국, 새우젓 등 서해 젓갈.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Choji_Bridge_02.JPG/500px-Choji_Bridge_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Choji_Bridge_02.JPG/500px-Choji_Bridge_02.JPG"
     ]
    },
    {
@@ -6004,7 +6004,7 @@ Object.assign(CITY, {
     ],
     "tip": "입장료는 약 1,000원(변동 가능)이고 문화재청 관리로 정해진 관람시간이 있다. 인근 김포아트빌리지와 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JangNeung_in_Gimpo_City.jpg/500px-JangNeung_in_Gimpo_City.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JangNeung_in_Gimpo_City.jpg/500px-JangNeung_in_Gimpo_City.jpg"
     ]
    }
   ]
@@ -6033,9 +6033,9 @@ Object.assign(CITY, {
     "tip": "꽃무릇은 9월 셋째~넷째 주가 절정. 주말엔 일찍 도착해야 주차가 수월하다.",
     "eat": "선운사 입구의 풍천장어와 복분자주가 고창의 대표 조합.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg/500px-%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg/250px-%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg/500px-%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg/250px-%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg"
     ]
    },
    {
@@ -6053,9 +6053,9 @@ Object.assign(CITY, {
     ],
     "tip": "매년 가을 모양성제가 열린다. 성곽길은 흙·돌길이라 편한 신발을 권한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg/500px-%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gochang_Fortress_20080420.JPG/120px-Gochang_Fortress_20080420.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gochang_castle_at_spring.JPG/120px-Gochang_castle_at_spring.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg/500px-%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gochang_Fortress_20080420.JPG/120px-Gochang_Fortress_20080420.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gochang_castle_at_spring.JPG/120px-Gochang_castle_at_spring.JPG"
     ]
    },
    {
@@ -6073,7 +6073,7 @@ Object.assign(CITY, {
     ],
     "tip": "여름엔 그늘이 적으니 모자와 물을 챙기고, 박물관과 탐방열차를 묶어 보면 편하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg/500px-%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg/500px-%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg"
     ]
    },
    {
@@ -6184,7 +6184,7 @@ Object.assign(CITY, {
     "tip": "계곡 안쪽까지 걷는 길이라 편한 신발이 필수. 여름 성수기엔 물놀이 인파로 붐비니 이른 시간을 노리자.",
     "eat": "화양동 입구 식당가의 산채비빔밥과 도토리묵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg/500px-%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg/500px-%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg"
     ]
    },
    {
@@ -6238,9 +6238,9 @@ Object.assign(CITY, {
     "tip": "관광지가 아니라 수행 도량이니 조용히 예를 갖추고 둘러보는 것이 좋다. 진입로가 좁으니 서행.",
     "eat": "칠성면 일대의 올갱이국과 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%EA%B0%81%EC%97%B0%EC%82%AC.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%EA%B0%81%EC%97%B0%EC%82%AC.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg"
     ]
    },
    {
@@ -6304,7 +6304,7 @@ Object.assign(CITY, {
     "tip": "우주센터 본 시설은 평소 통제구역이라 일반 관람은 우주과학관만 가능. 주말·방학엔 붐비니 오전 일찍 가면 여유롭다.",
     "eat": "외나로도 나로도항 주변 삼치회·해산물, 고흥 특산 유자차.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/KSLV-II_Nuri_and_the_launchpad_02.jpg/500px-KSLV-II_Nuri_and_the_launchpad_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/KSLV-II_Nuri_and_the_launchpad_02.jpg/500px-KSLV-II_Nuri_and_the_launchpad_02.jpg"
     ]
    },
    {
@@ -6324,7 +6324,7 @@ Object.assign(CITY, {
     ],
     "tip": "바위 구간이 많아 미끄럼 없는 등산화 필수. 팔영산 자연휴양림 쪽에서 오르면 코스가 비교적 완만하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -6397,7 +6397,7 @@ Object.assign(CITY, {
     ],
     "eat": "녹동항 활어회, 고흥 참장어(하모)·굴구이.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg/500px-Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg/500px-Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg"
     ]
    },
    {
@@ -6417,7 +6417,7 @@ Object.assign(CITY, {
     "tip": "여름 성수기엔 해수욕장 주차가 붐빈다. 우주센터와 묶어 반나절씩 나눠 도는 코스가 편하다.",
     "eat": "나로도항 삼치회·갈치조림.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PortHamiltonLocMap.png/500px-PortHamiltonLocMap.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PortHamiltonLocMap.png/500px-PortHamiltonLocMap.png"
     ]
    }
   ]
@@ -6497,7 +6497,7 @@ Object.assign(CITY, {
     ],
     "tip": "진입로가 좁고 길어 운전에 여유가 필요하다. 가을 단풍철이 가장 아름답지만 그만큼 붐빈다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
     ]
    },
    {
@@ -6516,9 +6516,9 @@ Object.assign(CITY, {
     "tip": "여름 성수기엔 계곡 주차가 어렵다. 물놀이보다 바위에 앉아 쉬기 좋은 곳으로 생각하고 가면 실망이 없다.",
     "eat": "곡성 다슬기(대사리) 수제비와 탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dorimsa_%28Gokseong%29_13-08808.JPG/500px-Dorimsa_%28Gokseong%29_13-08808.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG/120px-Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG/120px-Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dorimsa_%28Gokseong%29_13-08808.JPG/500px-Dorimsa_%28Gokseong%29_13-08808.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG/120px-Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG/120px-Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG"
     ]
    },
    {
@@ -6563,9 +6563,9 @@ Object.assign(CITY, {
     "tip": "매표소는 금서루 쪽. 성벽길은 오르내림이 있어 편한 신발을 권한다. 백제문화제 기간엔 야간 행사와 유등이 함께 열린다.",
     "eat": "공산성 앞 산성시장에서 국밥·칼국수, 후식으로 공주 밤(栗) 간식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg/500px-%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg/500px-Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monuments_at_Geumseoru_Gate_Pavilion.jpg/500px-Monuments_at_Geumseoru_Gate_Pavilion.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg/500px-%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg/500px-Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monuments_at_Geumseoru_Gate_Pavilion.jpg/500px-Monuments_at_Geumseoru_Gate_Pavilion.jpg"
     ]
    },
    {
@@ -6585,9 +6585,9 @@ Object.assign(CITY, {
     "tip": "실물 능 내부는 비공개라 모형관 위주로 본다. 국립공주박물관이 도보권이라 출토 유물 실물까지 함께 보면 이야기가 완성된다.",
     "eat": "인근 시내에서 공주 칼국수·밤 막걸리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tomb_of_Muryeong_of_Baekje.JPG/500px-Tomb_of_Muryeong_of_Baekje.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG/500px-Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg/500px-%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tomb_of_Muryeong_of_Baekje.JPG/500px-Tomb_of_Muryeong_of_Baekje.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG/500px-Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg/500px-%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg"
     ]
    },
    {
@@ -6606,8 +6606,8 @@ Object.assign(CITY, {
     "tip": "입장 무료다. 무령왕릉과 도보권이라 묶어서 보기 좋고, 월요일 휴관 여부를 미리 확인하자.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gongju_National_Museum_2023.jpg/500px-Gongju_National_Museum_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chungcheongnam-do_History_Museum.jpg/500px-Chungcheongnam-do_History_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gongju_National_Museum_2023.jpg/500px-Gongju_National_Museum_2023.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chungcheongnam-do_History_Museum.jpg/500px-Chungcheongnam-do_History_Museum.jpg"
     ]
    },
    {
@@ -6628,9 +6628,9 @@ Object.assign(CITY, {
     "tip": "봄 신록과 가을 단풍이 특히 좋다. 시내에서 차로 약 30분이며 대중교통 편수가 적으니 미리 확인하는 게 좋다.",
     "eat": "사찰 앞 식당가의 산채비빔밥·더덕구이.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/500px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2009-10-11_-_Magoksa_Panorama.jpg/1280px-2009-10-11_-_Magoksa_Panorama.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/500px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2009-10-11_-_Magoksa_Panorama.jpg/1280px-2009-10-11_-_Magoksa_Panorama.jpg"
     ]
    },
    {
@@ -6650,7 +6650,7 @@ Object.assign(CITY, {
     "tip": "가을 단풍 성수기 주말은 주차가 혼잡하니 아침 일찍 가면 숲이 한적하다. 등산에 나선다면 코스 난이도를 미리 확인하자.",
     "eat": "갑사 입구의 도토리묵·산채정식·파전.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
     ]
    },
    {
@@ -6670,7 +6670,7 @@ Object.assign(CITY, {
     "tip": "매년 봄 구석기축제가 열린다. 아이 동반 가족 코스로 무난하니 관람 시간에 여유를 두자.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg"
     ]
    },
    {
@@ -6716,9 +6716,9 @@ Object.assign(CITY, {
     "tip": "고분군은 야외라 무료이며 상시 개방된다. 능선 경사가 있으니 편한 신발 필수. 아래 대가야박물관·왕릉전시관과 도보로 이어지니 함께 묶어 보면 좋다.",
     "eat": "읍내 대가야로 주변에 한우국밥·손칼국수 집이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg/500px-%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2014-04-06_Goryeong_Jisan-dong_Tombs.jpg/250px-2014-04-06_Goryeong_Jisan-dong_Tombs.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg/330px-%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg/500px-%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2014-04-06_Goryeong_Jisan-dong_Tombs.jpg/250px-2014-04-06_Goryeong_Jisan-dong_Tombs.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg/330px-%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg"
     ]
    },
    {
@@ -6846,7 +6846,7 @@ Object.assign(CITY, {
     "tip": "호수 언덕의 '화진포의 성'(옛 별장)과 이승만·이기붕 별장이 역사안보전시관으로 함께 묶여 있어 통합 관람이 편하다. 요금은 약 3,000원 안팎(변동 가능).",
     "eat": "거진항이 가까워 도루묵·양미리 구이와 대게가 제철에 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     ]
    },
    {
@@ -6864,8 +6864,8 @@ Object.assign(CITY, {
      "가는 길의 DMZ박물관 함께 둘러보기"
     ],
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg/500px-%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg/500px-%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg/500px-%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg/500px-%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg"
     ]
    },
    {
@@ -6879,8 +6879,8 @@ Object.assign(CITY, {
     "desc": "기암절벽 위에 올라앉아 청간천과 동해가 한눈에 담기는 팔각지붕 정자다. 관동팔경 중에서도 손에 꼽는 경치로, 송시열과 이승만의 친필 현판이 나란히 걸려 있다. 누각에 올라서면 소나무 사이로 트인 바다가 그대로 액자가 된다.",
     "tip": "규모가 크지 않아 30분이면 충분하다. 일출·일몰 시간대에 빛이 바다에 퍼질 때 사진이 가장 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%B2%AD%EA%B0%84%EC%A0%95.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%B2%AD%EA%B0%84%EC%A0%95.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%95.jpg"
     ]
    },
    {
@@ -6898,7 +6898,7 @@ Object.assign(CITY, {
     ],
     "tip": "주민이 실제 거주하는 마을이니 조용히 둘러보고 사유 공간은 들어가지 않는다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -6927,7 +6927,7 @@ Object.assign(CITY, {
     ],
     "eat": "석호에서 나는 재첩으로 끓인 재첩국이 담백하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Songji_Lake_D_5.jpg/500px-Songji_Lake_D_5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Songji_Lake_D_5.jpg/500px-Songji_Lake_D_5.jpg"
     ]
    },
    {
@@ -6969,9 +6969,9 @@ Object.assign(CITY, {
     "tip": "발자국은 물이 빠진 간조 때 더 잘 보인다. 갯바위가 미끄러우니 운동화는 필수이고, 물때(간조 시각)를 미리 확인하고 가면 좋다.",
     "eat": "자란만이 가까워 굴·바지락 등 제철 해산물과 물회를 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GoseongJin20.jpg/500px-GoseongJin20.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GoseongJin3.jpg/960px-GoseongJin3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GoseongJin4.jpg/960px-GoseongJin4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GoseongJin20.jpg/500px-GoseongJin20.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GoseongJin3.jpg/960px-GoseongJin3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GoseongJin4.jpg/960px-GoseongJin4.jpg"
     ]
    },
    {
@@ -7011,8 +7011,8 @@ Object.assign(CITY, {
     "tip": "부지가 넓어 아이와 함께라면 천천히 반나절을 잡는 게 좋다. 공룡엑스포 기간에는 특별 전시가 열린다.",
     "eat": "회진·거류 일대에서 갯장어(하모)와 굴 요리가 제철에 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_the_king_of_Joseon.svg/500px-Flag_of_the_king_of_Joseon.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyotomi_mon.png/500px-Toyotomi_mon.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_the_king_of_Joseon.svg/500px-Flag_of_the_king_of_Joseon.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyotomi_mon.png/500px-Toyotomi_mon.png"
     ]
    },
    {
@@ -7033,7 +7033,7 @@ Object.assign(CITY, {
     "tip": "연화산 도립공원 안에 있어 봄 신록과 가을 단풍이 특히 곱다. 성보박물관에 보물급 유물이 있으니 함께 보면 좋다.",
     "eat": "개천면 일대에서 산채비빔밥과 손두부를 내는 집을 찾을 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -7053,7 +7053,7 @@ Object.assign(CITY, {
     "tip": "고성읍 도심에서 가까워 잠깐 들르기 좋다. 인근 소가야 관련 전시를 함께 보면 이해가 깊어진다.",
     "eat": "고성읍 재래시장에서 소박한 국밥과 제철 반찬을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Goseong_Seonghak_Tomb_01.JPG/500px-Goseong_Seonghak_Tomb_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Goseong_Seonghak_Tomb_01.JPG/500px-Goseong_Seonghak_Tomb_01.JPG"
     ]
    },
    {
@@ -7073,7 +7073,7 @@ Object.assign(CITY, {
     "tip": "규모가 크지 않아 가볍게 둘러보기 좋다. 여름 녹음과 그늘이 특히 시원하다.",
     "eat": "고성읍·마암면 일대에서 소박한 시골 백반과 제철 반찬을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg/500px-%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg/500px-%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg"
     ]
    }
   ]
@@ -7104,7 +7104,7 @@ Object.assign(CITY, {
     "tip": "주차장이 여러 곳이라 목적지(장미원·분수대) 가까운 쪽으로 대는 게 편하다. 봄 꽃박람회 기간엔 인파가 몰리니 오전 방문을 추천.",
     "eat": "근처 라페스타·웨스턴돔 상권에 카페와 맛집이 촘촘하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/500px-Goyang_Lake_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/500px-Goyang_Lake_Park.jpg"
     ]
    },
    {
@@ -7124,9 +7124,9 @@ Object.assign(CITY, {
     "tip": "4월 말~5월 초 17일간만 열린다. 주말은 붐비니 개장 직후나 평일에. 아쿠아플라넷 등 제휴 할인도 확인하면 좋다.",
     "eat": "호수공원과 붙어 있어 라페스타·웨스턴돔 식당가로 이어 가기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg/500px-KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg/120px-%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg/120px-%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg/500px-KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg/120px-%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg/120px-%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg"
     ]
    },
    {
@@ -7147,9 +7147,9 @@ Object.assign(CITY, {
     "tip": "정상까지 완만한 오르막 20~30분이니 편한 신발이 좋다. 주차장이 있지만 주말엔 만차가 잦다.",
     "eat": "행주산성 인근은 원조 국수와 장어구이 노포가 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Haengjusanseong-Toseong.jpg/500px-Haengjusanseong-Toseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chungjangsa.jpg/250px-Chungjangsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Haengjudaecheopbi%28old%29.jpg/250px-Haengjudaecheopbi%28old%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Haengjusanseong-Toseong.jpg/500px-Haengjusanseong-Toseong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chungjangsa.jpg/250px-Chungjangsa.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Haengjudaecheopbi%28old%29.jpg/250px-Haengjudaecheopbi%28old%29.jpg"
     ]
    },
    {
@@ -7170,9 +7170,9 @@ Object.assign(CITY, {
     "tip": "2009년 유네스코 세계유산에 등재됐다. 오르내림이 적어 걷기 편하고, 정문 앞에 주차할 수 있다.",
     "eat": "인근 용두동·구산동 쪽에 백숙·손칼국수 집이 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seooreung_7.JPG/500px-Seooreung_7.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/d/db/%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/4/4c/%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seooreung_7.JPG/500px-Seooreung_7.JPG",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/d/db/%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/4/4c/%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg"
     ]
    },
    {
@@ -7238,9 +7238,9 @@ Object.assign(CITY, {
     "tip": "킨텍스·한류월드 인근이라 찾기 쉽다. 온라인 예매가 현장가보다 저렴하고, 공연 시간표는 미리 확인하는 게 좋다.",
     "eat": "킨텍스 상권과 웨스턴돔 쪽 식당가가 가깝다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hanwha_logo.svg/500px-Hanwha_logo.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg/500px-%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hanwha_logo.svg/500px-Hanwha_logo.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg/500px-%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg"
     ]
    }
   ]
@@ -7270,8 +7270,8 @@ Object.assign(CITY, {
     "tip": "케이블카를 타도 대혜폭포·약사암까지는 걸어야 하니 편한 신발 필수. 케이블카 왕복 성인 약 1만원(변동 가능), 정상 현월봉까지는 본격 등산이다. 입구에 채미정이 있어 함께 둘러보기 좋다.",
     "eat": "금오산 입구 산채비빔밥과 도토리묵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Geumomtcablecar.jpg/500px-Geumomtcablecar.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Geumomtcablecar.jpg/500px-Geumomtcablecar.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -7289,7 +7289,7 @@ Object.assign(CITY, {
     ],
     "tip": "금오산도립공원 입구 바로 옆이라 등산 전후로 들르기 좋다. 무료 개방이며, 가을 단풍철 풍경이 가장 곱다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg/500px-%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg/500px-%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg"
     ]
    },
    {
@@ -7323,7 +7323,7 @@ Object.assign(CITY, {
     ],
     "tip": "무료 관람이며 주차장이 넓다. 인근 새마을운동테마공원과 묶어 보면 시대적 맥락이 이어진다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -7566,8 +7566,8 @@ Object.assign(CITY, {
     "tip": "여전히 기능하는 사찰이니 예불 시간과 정숙을 지킨다. 봄엔 꽃, 가을엔 단풍이 목조 건물과 잘 어울린다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongguktemple.jpg/500px-Dongguktemple.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dongguksa_Miniature.jpg/330px-Dongguksa_Miniature.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongguktemple.jpg/500px-Dongguktemple.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dongguksa_Miniature.jpg/330px-Dongguksa_Miniature.jpg"
     ]
    },
    {
@@ -7587,9 +7587,9 @@ Object.assign(CITY, {
     "tip": "내부는 보존을 위해 관람 범위가 제한될 수 있다. 동국사·근대역사거리와 가까워 묶어 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg/500px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Japanese-style_House_in_Sinheung-dong_02.jpg/330px-Japanese-style_House_in_Sinheung-dong_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg/330px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg/500px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Japanese-style_House_in_Sinheung-dong_02.jpg/330px-Japanese-style_House_in_Sinheung-dong_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg/330px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg"
     ]
    },
    {
@@ -7610,9 +7610,9 @@ Object.assign(CITY, {
     "tip": "원도심에서 차로 40분 이상 떨어져 있어 하루를 따로 잡는 편이 낫다. 여름 성수기 주차 혼잡에 대비.",
     "eat": "섬 안 포구의 활어회와 바지락칼국수.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seonyu_island.JPG/500px-Seonyu_island.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg/500px-%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%84%A0%EC%9C%A0%EA%B5%901.jpg/500px-%EC%84%A0%EC%9C%A0%EA%B5%901.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seonyu_island.JPG/500px-Seonyu_island.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg/500px-%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%84%A0%EC%9C%A0%EA%B5%901.jpg/500px-%EC%84%A0%EC%9C%A0%EA%B5%901.jpg"
     ]
    },
    {
@@ -7658,8 +7658,8 @@ Object.assign(CITY, {
     "tip": "국보이므로 석굴 내부는 거리를 두고 관람한다. 계곡을 낀 명소라 여름엔 시원하고 가을 단풍이 특히 곱다.",
     "eat": "석굴 인근 마을의 오리·닭백숙 시골밥상",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg/500px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg/120px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg/500px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg/120px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg"
     ]
    },
    {
@@ -7679,9 +7679,9 @@ Object.assign(CITY, {
     "tip": "폐역이라 열차로는 갈 수 없고 차로 찾아가는 관광지가 됐다. 박물관·부대시설 운영시간은 방문 전 확인.",
     "eat": "화본역 앞 시골밥상, 정갈한 한상차림",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg/500px-Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/e/e7/KORAIL_Hwabon_Station_Outside.JPG/120px-KORAIL_Hwabon_Station_Outside.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/KORAIL_Hwabon_Sstation.JPG/120px-KORAIL_Hwabon_Sstation.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg/500px-Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/e/e7/KORAIL_Hwabon_Station_Outside.JPG/120px-KORAIL_Hwabon_Station_Outside.JPG",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/KORAIL_Hwabon_Sstation.JPG/120px-KORAIL_Hwabon_Sstation.JPG"
     ]
    },
    {
@@ -7715,7 +7715,7 @@ Object.assign(CITY, {
     ],
     "tip": "정상까지 좁은 산길을 차로 오르니 조심 운전. 무료 주차 공간은 10여 대 규모로 넉넉지 않고, 입장료는 없다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -7748,8 +7748,8 @@ Object.assign(CITY, {
     ],
     "tip": "화려하지 않은 작은 절이니 조용히 사색하듯 걷는 것이 어울린다. 화산산성·삼국유사면 코스와 가깝다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GW-SY-Kav2-Haksodae.jpg/500px-GW-SY-Kav2-Haksodae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg/500px-%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GW-SY-Kav2-Haksodae.jpg/500px-GW-SY-Kav2-Haksodae.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg/500px-%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg"
     ]
    },
    {
@@ -7795,9 +7795,9 @@ Object.assign(CITY, {
     "tip": "월요일 휴관. 넓어서 다 도는 데 2~3시간 걸린다. 봄 신록·가을 단풍 때가 가장 좋다.",
     "eat": "가까운 구리전통시장 곱창골목",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%EB%8F%99%EA%B5%AC%EB%A6%891.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%891.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg/500px-2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%EB%8F%99%EA%B5%AC%EB%A6%891.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%891.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg/500px-2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg"
     ]
    },
    {
@@ -7834,9 +7834,9 @@ Object.assign(CITY, {
     "tip": "왕복 2시간 안팎이라 편한 신발이면 충분하다. 겨울 일출 산행이 인기.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/500px-AchasanPost.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/AchasanRuins.jpg/500px-AchasanRuins.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/500px-AchasanPost.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/AchasanRuins.jpg/500px-AchasanRuins.jpg"
     ]
    },
    {
@@ -7909,7 +7909,7 @@ Object.assign(CITY, {
     "tip": "저녁 시간에 가장 붐빈다. 현금을 챙겨 가면 편하다.",
     "eat": "돌다리 곱창골목의 야끼곱창·순대곱창",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg/500px-20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg/500px-20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg"
     ]
    }
   ]
@@ -7939,9 +7939,9 @@ Object.assign(CITY, {
     "tip": "지리산국립공원 안이라 화엄사 주차장을 이용한다. 홍매화 개화(3월 중순~말)엔 새벽·평일이 한산하다.",
     "eat": "사찰 아래 골목의 산채정식·더덕구이.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%ED%99%94%EC%97%84%EC%82%AC3.jpg/500px-%ED%99%94%EC%97%84%EC%82%AC3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hwaeomsa%28Temple%29.jpg/500px-Hwaeomsa%28Temple%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Korea-Mountain-Jirisan-Hwaeomsa-01.jpg/500px-Korea-Mountain-Jirisan-Hwaeomsa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%ED%99%94%EC%97%84%EC%82%AC3.jpg/500px-%ED%99%94%EC%97%84%EC%82%AC3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hwaeomsa%28Temple%29.jpg/500px-Hwaeomsa%28Temple%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Korea-Mountain-Jirisan-Hwaeomsa-01.jpg/500px-Korea-Mountain-Jirisan-Hwaeomsa-01.jpg"
     ]
    },
    {
@@ -7960,7 +7960,7 @@ Object.assign(CITY, {
     ],
     "tip": "정상 주차장이 좁아 성수기엔 오산 아래에서 마을버스(셔틀)로 오른다. 오르는 길이 가파르니 운전에 주의.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Korea-Saseongam_11-08000_Main_Hall.JPG/500px-Korea-Saseongam_11-08000_Main_Hall.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Korea-Saseongam_11-08000_Main_Hall.JPG/500px-Korea-Saseongam_11-08000_Main_Hall.JPG"
     ]
    },
    {
@@ -7979,7 +7979,7 @@ Object.assign(CITY, {
     ],
     "tip": "노고단 정상(돌탑)은 자연휴식년제 예약탐방구간일 수 있어 국립공원공단 예약을 미리 확인한다. 여름에도 정상은 쌀쌀하니 겉옷은 필수.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nogodan_at_Jirisan%2C_Korea_03.JPG/500px-Nogodan_at_Jirisan%2C_Korea_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nogodan_at_Jirisan%2C_Korea_03.JPG/500px-Nogodan_at_Jirisan%2C_Korea_03.JPG"
     ]
    },
    {
@@ -8021,9 +8021,9 @@ Object.assign(CITY, {
     "tip": "4월 초가 벚꽃 절정. 19번 국도(구례~하동) 벚꽃길이 특히 아름답다.",
     "eat": "섬진강 재첩국·재첩회무침.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seomjingang_MS3672.JPG/500px-Seomjingang_MS3672.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Honamjeongmaek.jpg/500px-Honamjeongmaek.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seomjingang_MS3672.JPG/500px-Seomjingang_MS3672.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Honamjeongmaek.jpg/500px-Honamjeongmaek.jpg"
     ]
    },
    {
@@ -8042,7 +8042,7 @@ Object.assign(CITY, {
     ],
     "tip": "화엄사·노고단과 같은 광의면·산동 방면이라 하루에 함께 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -8062,7 +8062,7 @@ Object.assign(CITY, {
     "tip": "오미리 마을 안에 있어 조용하다. 인근 곡전재·운조루 유물전시관도 함께 둘러보면 좋다.",
     "eat": "인근 토지면의 다슬기수제비.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg/500px-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg/500px-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg"
     ]
    }
   ]
@@ -8092,9 +8092,9 @@ Object.assign(CITY, {
     "tip": "대공원역에서 무료 셔틀버스(코끼리열차)나 도보로 접근. 상설전은 저렴하고 기획전은 요금이 다르니 전시별 요금을 미리 확인하면 좋다. 월요일 휴관.",
     "eat": "미술관 카페의 커피와 디저트, 대공원역 인근 식당가",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MMCA_Seoul.jpg/500px-MMCA_Seoul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MMCA_Seoul_2016.jpg/500px-MMCA_Seoul_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MMCA_Seoul.jpg/500px-MMCA_Seoul.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MMCA_Seoul_2016.jpg/500px-MMCA_Seoul_2016.jpg"
     ]
    },
    {
@@ -8114,9 +8114,9 @@ Object.assign(CITY, {
     "tip": "동물원은 종일 걸어야 해서 편한 신발 필수. 정문에서 동물원 입구까지 코끼리열차나 리프트를 이용하면 다리를 아낄 수 있다.",
     "eat": "공원 내 매점·푸드코트, 정문 앞 김밥·분식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg/500px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg/500px-%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Seoul_grandpark_sangh.jpg/120px-Seoul_grandpark_sangh.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg/500px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg/500px-%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Seoul_grandpark_sangh.jpg/120px-Seoul_grandpark_sangh.jpg"
     ]
    },
    {
@@ -8136,9 +8136,9 @@ Object.assign(CITY, {
     "tip": "서울대공원 안에 있어 대공원 리프트·코끼리열차와 연계된다. 언덕이 많으니 유아 동반이면 유모차보다 아기띠가 편할 때도 있다.",
     "eat": "동물원 내 카페테리아, 대공원 정문 식당가",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seoul_Grand_Park.jpg/120px-Seoul_Grand_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg/120px-2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg/120px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seoul_Grand_Park.jpg/120px-Seoul_Grand_Park.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg/120px-2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg/120px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg"
     ]
    },
    {
@@ -8158,9 +8158,9 @@ Object.assign(CITY, {
     "tip": "주말·성수기엔 인기 어트랙션 대기가 길다. 오전 개장 직후를 노리면 여유롭다. 서울대공원과 붙어 있어 하루에 함께 묶기 좋다.",
     "eat": "파크 내 스낵코너, 대공원 정문 앞 식당",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg/500px-2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg/500px-2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg"
     ]
    },
    {
@@ -8180,7 +8180,7 @@ Object.assign(CITY, {
     "tip": "정부과천청사역에서 도보로 닿는다. 천체투영관·특별관은 별도 예약·요금이 있을 수 있으니 홈페이지에서 상영 시간표를 미리 확인.",
     "eat": "과학관 내 카페·식당, 과천청사 인근 식당가",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/K-EMU_and_DL2101.jpg/500px-K-EMU_and_DL2101.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/K-EMU_and_DL2101.jpg/500px-K-EMU_and_DL2101.jpg"
     ]
    },
    {
@@ -8200,9 +8200,9 @@ Object.assign(CITY, {
     "tip": "경마공원역에서 바로 연결된다. 경주 없는 평일에도 공원·정원은 열려 있어 산책 코스로 좋다. 주말엔 가족 나들이객이 많다.",
     "eat": "파크 내 매점·푸드존, 경마공원역 주변 식당",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seoul_Racecourse_November_Dawn.jpg/500px-Seoul_Racecourse_November_Dawn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seoul_Racecourse_Main_Stand_2.jpg/120px-Seoul_Racecourse_Main_Stand_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Seoul_racecourse_park_President_Cup_GI_race_day.jpg/120px-Seoul_racecourse_park_President_Cup_GI_race_day.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seoul_Racecourse_November_Dawn.jpg/500px-Seoul_Racecourse_November_Dawn.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seoul_Racecourse_Main_Stand_2.jpg/120px-Seoul_Racecourse_Main_Stand_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Seoul_racecourse_park_President_Cup_GI_race_day.jpg/120px-Seoul_racecourse_park_President_Cup_GI_race_day.jpg"
     ]
    },
    {
@@ -8222,9 +8222,9 @@ Object.assign(CITY, {
     "tip": "바위가 많아 미끄럼 방지 등산화 권장. 정상부는 바람이 세니 겉옷을 챙긴다. 초보라면 과천향교~연주대 코스가 무난하다.",
     "eat": "과천향교·등산로 초입 두부·파전 등 산채 음식점",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/500px-Gwanaksan_Seoul_KR.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg/500px-%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/500px-Gwanaksan_Seoul_KR.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg/500px-%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg"
     ]
    },
    {
@@ -8271,9 +8271,9 @@ Object.assign(CITY, {
     "tip": "산성로터리 주변에 유료 주차장이 여럿 있지만 주말 오후엔 만차가 잦다. 오전 일찍 오르거나 산성역에서 버스로 접근하는 편이 편하다.",
     "eat": "산성 안 마을의 백숙·닭도리탕·산채정식 골목이 등산 후 한 끼로 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG"
     ]
    },
    {
@@ -8293,8 +8293,8 @@ Object.assign(CITY, {
     "tip": "가을 단풍 성수기에는 사전 예약제로 운영될 때가 많으니 방문 전 홈페이지에서 날짜·인원 예약 여부를 꼭 확인한다. 곤지암리조트 안에 있어 주차는 리조트 주차장을 이용한다.",
     "eat": "곤지암 하면 소머리국밥. 화담숲 인근에 노포 국밥집이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%ED%99%94%EB%8B%B4%EC%88%B2.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%ED%99%94%EB%8B%B4%EC%88%B2.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg"
     ]
    },
    {
@@ -8348,9 +8348,9 @@ Object.assign(CITY, {
     "tip": "상수원보호구역이라 일부 구간은 출입·취사가 제한된다. 물안개는 일교차 큰 가을·겨울 새벽에 가장 잘 핀다.",
     "eat": "팔당호 주변은 뷰 좋은 카페와 민물 매운탕·장어 집이 많다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paldang_Dam_and_Lake_Paldang.jpg/500px-Paldang_Dam_and_Lake_Paldang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg/960px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg/1280px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paldang_Dam_and_Lake_Paldang.jpg/500px-Paldang_Dam_and_Lake_Paldang.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg/960px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg/1280px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg"
     ]
    },
    {
@@ -8421,8 +8421,8 @@ Object.assign(CITY, {
     "tip": "정상부(천왕봉 일대)는 군부대로 평소 통제되며 지정된 개방일에만 오를 수 있으니 일정 전 확인이 필요하다. 주말엔 증심사 주차장이 이른 오전에 찬다.",
     "eat": "증심사 입구 식당가의 무등산 보리밥 정식과 산채 비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gwangju_Mudeungsan.jpg/500px-Gwangju_Mudeungsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gwangju_Mudeungsan.jpg/500px-Gwangju_Mudeungsan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -8443,8 +8443,8 @@ Object.assign(CITY, {
     "tip": "골목이 좁고 오르내림이 있어 편한 신발이 좋다. 주말 오후엔 카페가 붐비니 오전 산책을 추천한다.",
     "eat": "양림동 골목 카페의 핸드드립 커피, 남광주시장 방향의 오리탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg/500px-%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Namgu-gwangju-map.png/500px-Namgu-gwangju-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg/500px-%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Namgu-gwangju-map.png/500px-Namgu-gwangju-map.png"
     ]
    },
    {
@@ -8483,9 +8483,9 @@ Object.assign(CITY, {
     "tip": "시 외곽 운정동에 있어 대중교통보다 자가용·택시가 편하다. 조용한 참배 공간이니 복장과 태도를 갖추는 것이 좋다.",
     "eat": "가는 길 담양 방향의 떡갈비 정식(광주 송정떡갈비도 유명)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png/500px-20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mangwol-dong-cemetery.JPG/500px-Mangwol-dong-cemetery.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_3rd_boundaries_of_a_grave.jpg/500px-The_3rd_boundaries_of_a_grave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png/500px-20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mangwol-dong-cemetery.JPG/500px-Mangwol-dong-cemetery.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_3rd_boundaries_of_a_grave.jpg/500px-The_3rd_boundaries_of_a_grave.jpg"
     ]
    },
    {
@@ -8506,9 +8506,9 @@ Object.assign(CITY, {
     "tip": "상설전은 무료, 월요일 휴관이 일반적이다. 바로 옆 비엔날레 전시관과 묶어 하루 문화 코스로 짜기 좋다.",
     "eat": "인근 운암동·첨단지구의 오리탕과 한정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gwangju_National_Museum.jpg/500px-Gwangju_National_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Building_of_Gwangju_National_Museum-2.JPG/500px-Building_of_Gwangju_National_Museum-2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Shaman_tool_with_eight_bells.jpg/500px-Shaman_tool_with_eight_bells.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gwangju_National_Museum.jpg/500px-Gwangju_National_Museum.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Building_of_Gwangju_National_Museum-2.JPG/500px-Building_of_Gwangju_National_Museum-2.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Shaman_tool_with_eight_bells.jpg/500px-Shaman_tool_with_eight_bells.jpg"
     ]
    },
    {
@@ -8556,9 +8556,9 @@ Object.assign(CITY, {
     "tip": "월요일 휴관, 입장 마감은 오후 5시. 성수기·주말은 온라인 예매가 편하고 요금은 변동될 수 있으니 방문 전 공식 홈페이지를 확인. 광명역에서 순환버스로 접근 가능.",
     "eat": "동굴 근처보다 광명전통시장의 순대·손칼국수·떡볶이 같은 시장 먹거리가 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/500px-Gwangmyeong_Cave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/500px-Gwangmyeong_Cave.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg"
     ]
    },
    {
@@ -8607,7 +8607,7 @@ Object.assign(CITY, {
     ],
     "tip": "일·월요일 휴관, 관람은 10시~17시(입장 마감 16시). 광명시민은 입장료 할인이 있고, 요금은 변동될 수 있으니 방문 전 확인.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg/500px-230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg/500px-230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg"
     ]
    },
    {
@@ -8625,7 +8625,7 @@ Object.assign(CITY, {
     ],
     "tip": "광명시 일직동, 광명역 인근에 있다. 상시 개방·무료. 조용한 답사지라 오래 머물기보다 가볍게 들르기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg/500px-230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg/500px-230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg"
     ]
    },
    {
@@ -8645,9 +8645,9 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정은 대체로 4월 초. 천변 곳곳에 자전거 대여소가 있어 신분증만 있으면 저렴하게 빌릴 수 있다.",
     "eat": "산책 뒤엔 광명전통시장이나 소하동·철산동 먹자골목에서 든든하게 한 끼.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG"
     ]
    }
   ]
@@ -8701,7 +8701,7 @@ Object.assign(CITY, {
     "tip": "정상까지 여러 코스가 있으니 체력에 맞춰 고른다. 겨울 능선은 바람이 매서우니 방한 준비 필수.",
     "eat": "산행 뒤 먹는 산채비빔밥과 백운산 자락의 고로쇠 물",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -8720,7 +8720,7 @@ Object.assign(CITY, {
     "tip": "동백은 보통 3월이 절정이다. 숲길이 좁고 조용하니 정숙하게 둘러보는 것이 좋다.",
     "eat": "매화마을과 가까워 함께 묶기 좋고, 인근에서 재첩국 한 그릇",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg/500px-%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg/500px-%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg"
     ]
    },
    {
@@ -8790,9 +8790,9 @@ Object.assign(CITY, {
     "tip": "석굴암과 같은 토함산 자락이라 셔틀버스(유료)로 이어 볼 수 있다. 주말·단풍철엔 주차장이 오전에 일찍 찬다.",
     "eat": "불국사 아랫마을과 보문단지 일대에서 한정식·쌈밥 한 상.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/500px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png/500px-%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/500px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png/500px-%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png"
     ]
    },
    {
@@ -8811,9 +8811,9 @@ Object.assign(CITY, {
     ],
     "tip": "본존불은 유리벽 너머 관람만 가능하고 실내 촬영은 제한된다. 불국사에서 셔틀 또는 차로 토함산을 올라야 닿는다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/500px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seokguram_sukwangjeon.jpg/500px-Seokguram_sukwangjeon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg/120px-%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/500px-Front_view_of_Seokguram_from_front_chamber.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seokguram_sukwangjeon.jpg/500px-Seokguram_sukwangjeon.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg/120px-%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg"
     ]
    },
    {
@@ -8833,9 +8833,9 @@ Object.assign(CITY, {
     ],
     "eat": "근처 황리단길에서 십원빵·경주빵으로 가볍게 요기.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/500px-Cheomseongdae-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/Cheomseongno_Cheomseongdae_2.jpg/500px-Cheomseongno_Cheomseongdae_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg/500px-%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/500px-Cheomseongdae-1.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/Cheomseongno_Cheomseongdae_2.jpg/500px-Cheomseongno_Cheomseongdae_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg/500px-%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg"
     ]
    },
    {
@@ -8855,9 +8855,9 @@ Object.assign(CITY, {
     ],
     "eat": "바로 옆 황리단길 — 경주빵·황남빵, 십원빵, 개조 한옥 카페거리가 이어진다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/500px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/500px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg"
     ]
    },
    {
@@ -8876,9 +8876,9 @@ Object.assign(CITY, {
     ],
     "tip": "낮보다 밤 방문을 권한다 — 조명이 켜지는 일몰 직후가 절정이고 사람도 가장 몰린다. 계절별 야간 마감시간을 미리 확인하자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg/500px-%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg/500px-%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png"
     ]
    },
    {
@@ -8897,9 +8897,9 @@ Object.assign(CITY, {
     ],
     "tip": "시내에서 차로 30~40분 떨어져 있다. 실제 주민이 사는 거주지이니 정숙하게, 사유 공간은 존중하며 둘러본다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yangdong_Village_20240113_047.jpg/500px-Yangdong_Village_20240113_047.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Yangdong_8492.jpg/330px-Yangdong_8492.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yangdong_8494.jpg/330px-Yangdong_8494.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yangdong_Village_20240113_047.jpg/500px-Yangdong_Village_20240113_047.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Yangdong_8492.jpg/330px-Yangdong_8492.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yangdong_8494.jpg/330px-Yangdong_8494.jpg"
     ]
    },
    {
@@ -8918,9 +8918,9 @@ Object.assign(CITY, {
     ],
     "eat": "감포·봉길 일대 횟집에서 물회와 문어, 제철 회 한 접시.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Underwater_Tomb_of_King_Munmu.jpeg/500px-Underwater_Tomb_of_King_Munmu.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Underwater_Tomb_of_King_Munmu.jpeg/500px-Underwater_Tomb_of_King_Munmu.jpeg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg"
     ]
    }
   ]
@@ -8971,9 +8971,9 @@ Object.assign(CITY, {
     "tip": "대구 방면은 1365 돌계단으로 가파르고, 경산 선본사 코스가 더 완만하다. 편한 등산화 필수. 수능·정초엔 인파가 크게 몰린다.",
     "eat": "와촌면 갓바위 초입 식당가의 산채비빔밥·손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg/500px-%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg/500px-%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg"
     ]
    },
    {
@@ -9028,7 +9028,7 @@ Object.assign(CITY, {
     "tip": "그늘이 적은 개활지라 여름 한낮은 덥다. 유물 실물은 영남대박물관·국립대구박물관에서 볼 수 있다.",
     "eat": "고분군 인근은 식당이 적어 경산 시내로 나와 식사하는 편이 낫다",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg/500px-%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg/500px-%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg"
     ]
    }
   ]
@@ -9057,9 +9057,9 @@ Object.assign(CITY, {
     "tip": "국립공원이라 코스가 길다. 물과 행동식을 챙기고 하산 시간을 여유 있게 잡는다. 계룡시 쪽에서는 향적산 방면으로 오르는 길이 가깝다.",
     "eat": "산을 내려와 먹는 도토리묵·산채비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mount_Gyeryong_from_Jang-gun_peak.jpg/500px-Mount_Gyeryong_from_Jang-gun_peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nammaetap_at_Gyeryongsan.jpg/500px-Nammaetap_at_Gyeryongsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mount_Gyeryong_from_Jang-gun_peak.jpg/500px-Mount_Gyeryong_from_Jang-gun_peak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nammaetap_at_Gyeryongsan.jpg/500px-Nammaetap_at_Gyeryongsan.jpg"
     ]
    },
    {
@@ -9077,7 +9077,7 @@ Object.assign(CITY, {
     ],
     "tip": "무상사 방면과 향한리 방면 등산로가 있다. 잘 닦인 대로가 아니니 등산화를 신는 편이 낫다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -9095,7 +9095,7 @@ Object.assign(CITY, {
     ],
     "tip": "무료로 열려 있으나 관리·행사에 따라 관람 시간이 달라질 수 있어, 방문 전 계룡시 문화관광 안내를 확인하면 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg/500px-Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg/500px-Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg"
     ]
    },
    {
@@ -9171,9 +9171,9 @@ Object.assign(CITY, {
     "tip": "화개장터에서 벚꽃길을 따라 올라오면 쌍계사에 닿는다. 부속 암자 국사암·불일암까지 오르면 지리산 산길의 맛이 제대로 난다.",
     "eat": "화개 산채정식, 녹차",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ssanggyesa_032.JPG/500px-Ssanggyesa_032.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ssanggyesa_011.JPG/250px-Ssanggyesa_011.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ssanggyesa_016.JPG/250px-Ssanggyesa_016.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ssanggyesa_032.JPG/500px-Ssanggyesa_032.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ssanggyesa_011.JPG/250px-Ssanggyesa_011.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ssanggyesa_016.JPG/250px-Ssanggyesa_016.JPG"
     ]
    },
    {
@@ -9192,9 +9192,9 @@ Object.assign(CITY, {
     "tip": "매년 10월 둘째 주 토지문학제가 열린다. 최참판댁과 들판, 동정호를 함께 도는 데 반나절은 잡는 게 좋다.",
     "eat": "악양 대봉감(가을), 매실",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hadong-map.png/500px-Hadong-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hadong-map.png/500px-Hadong-map.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg"
     ]
    },
    {
@@ -9213,7 +9213,7 @@ Object.assign(CITY, {
     "tip": "하동읍 도심 바로 옆이라 접근이 쉽다. 여름 한낮에도 솔숲 그늘이 서늘하다.",
     "eat": "하동읍내 재첩국 백반",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Korean_red_pine_forest_in_Hadong.JPG/500px-Korean_red_pine_forest_in_Hadong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Korean_red_pine_forest_in_Hadong.JPG/500px-Korean_red_pine_forest_in_Hadong.JPG"
     ]
    },
    {
@@ -9291,7 +9291,7 @@ Object.assign(CITY, {
     "tip": "일몰 시간을 미리 확인하고 늦은 오후에 오르면 좋다. 보길도·노화도行 배는 인근 땅끝항(갈두항)에서 출발한다.",
     "eat": "해남 갯벌 세발낙지와 전복. 마을 식당의 낙지연포탕이 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Korea-Ttangkkeut-01.jpg/500px-Korea-Ttangkkeut-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Korea-Ttangkkeut-01.jpg/500px-Korea-Ttangkkeut-01.jpg"
     ]
    },
    {
@@ -9311,7 +9311,7 @@ Object.assign(CITY, {
     "tip": "가격은 약이며 변동될 수 있다. 성수기·주말은 대기가 길고, 조망은 날 맑은 날이 압도적이다. 하부 승강장은 대흥사 초입과 가깝다.",
     "eat": "산 아래 식당의 산채정식과 두륜산 표고버섯 요리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -9331,9 +9331,9 @@ Object.assign(CITY, {
     "tip": "매표소에서 절까지 약 2km 숲길이 걷기 좋다. 초입의 유선관은 오래된 여관으로 벚꽃·단풍철 풍경이 곱다.",
     "eat": "절 앞 산채정식, 더덕구이와 표고버섯전.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daeheungsa_11-03896.JPG/500px-Daeheungsa_11-03896.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Daeheungsa_11-03856.JPG/960px-Daeheungsa_11-03856.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Daeheungsa_11-03863.JPG/960px-Daeheungsa_11-03863.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daeheungsa_11-03896.JPG/500px-Daeheungsa_11-03896.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Daeheungsa_11-03856.JPG/960px-Daeheungsa_11-03856.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Daeheungsa_11-03863.JPG/960px-Daeheungsa_11-03863.JPG"
     ]
    },
    {
@@ -9353,9 +9353,9 @@ Object.assign(CITY, {
     "tip": "도솔암은 주차 후 도보로 오르며 남도 제일의 낙조 명소로 꼽힌다. 달마고도는 오르내림이 적은 명상 둘레길이다.",
     "eat": "송지·땅끝권의 전복과 석화(굴).",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mihwangsa_11-03714.JPG/500px-Mihwangsa_11-03714.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg/120px-%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mihwangsa_11-03714.JPG/500px-Mihwangsa_11-03714.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg/120px-%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg"
     ]
    },
    {
@@ -9375,7 +9375,7 @@ Object.assign(CITY, {
     "tip": "물살은 물때에 따라 극적으로 달라지니 만조·간조 시각을 확인하면 좋다. 매년 가을 명량대첩축제가 열린다.",
     "eat": "우수영 젓갈과 세발낙지, 낙지비빔밥.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg/500px-%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg/500px-%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg"
     ]
    },
    {
@@ -9395,7 +9395,7 @@ Object.assign(CITY, {
     "tip": "종택 내부는 관람 동선에 제한이 있으니 안내를 따른다. 해남읍과 가까워 읍내 식사와 묶기 좋다.",
     "eat": "해남읍 남도 한정식과 떡갈비, 해남 배추로 담근 김치.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -9459,7 +9459,7 @@ Object.assign(CITY, {
     "tip": "언덕 아래 함안박물관과 붙어 있어 함께 보기 좋다. 그늘이 적으니 여름 한낮보다 아침·저녁이 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg/500px-Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg/500px-Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg"
     ]
    },
    {
@@ -9478,7 +9478,7 @@ Object.assign(CITY, {
     "tip": "낙화놀이는 대개 사월초파일 전날 저녁에 열려 인파가 몰린다. 날짜는 매년 함안군 공지를 확인하고 해 지기 전 일찍 자리를 잡는 게 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg/500px-%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg/500px-%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg"
     ]
    },
    {
@@ -9562,7 +9562,7 @@ Object.assign(CITY, {
     "tip": "개인 종택과 이어진 문화유산이라 조용히 둘러보는 배려가 필요하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    }
   ]
@@ -9592,7 +9592,7 @@ Object.assign(CITY, {
     "tip": "함평나비대축제는 대체로 매년 4월 말~5월 초 열린다. 이 기간엔 주차와 인파가 몰리니 오전 일찍 가는 편이 낫고, 축제 외 시기엔 상설 생태관 위주로 한적하게 즐길 수 있다. 같은 함평엑스포공원에서 가을(대체로 10~11월)엔 대한민국 국향대전이 열려 국화로 뒤덮인다.",
     "eat": "함평천지한우 — 함평의 대표 특산으로, 축제장 인근과 읍내에 한우 식당이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hampyeong_butterfly_festival_033.JPG/500px-Hampyeong_butterfly_festival_033.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hampyeong_butterfly_festival_033.JPG/500px-Hampyeong_butterfly_festival_033.JPG"
     ]
    },
    {
@@ -9671,8 +9671,8 @@ Object.assign(CITY, {
     "tip": "주차는 무료지만 주말·꽃무릇 철엔 이른 아침이 여유롭다. 산책로가 평탄해 유모차나 어르신과 걷기에도 무난하다.",
     "eat": "함양 산채정식과 오곡밥, 병곡면 일대의 오미자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamyang_Sangrim.JPG/500px-Hamyang_Sangrim.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Haksaru_in_Hamyang.JPG/500px-Haksaru_in_Hamyang.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamyang_Sangrim.JPG/500px-Hamyang_Sangrim.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Haksaru_in_Hamyang.JPG/500px-Haksaru_in_Hamyang.JPG"
     ]
    },
    {
@@ -9691,7 +9691,7 @@ Object.assign(CITY, {
     "tip": "거연정에서 농월정까지 이어지는 구간이 가장 아름답다. 거연정·농월정에 각각 주차장이 있다. 여름엔 물놀이객이 많다.",
     "eat": "인근 안의면의 갈비탕·갈비찜, 계곡 마을 어탕국수.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -9710,7 +9710,7 @@ Object.assign(CITY, {
     "tip": "입장 무료. 정여창 고택이 있는 개평한옥마을과 묶어 보면 하루가 넉넉하다.",
     "eat": "개평마을 전통주 솔송주, 함양 흑돼지.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg/500px-%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg/500px-%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg"
     ]
    },
    {
@@ -9729,9 +9729,9 @@ Object.assign(CITY, {
     "tip": "비선담 위로는 통제 구간이라 예약 없이는 오를 수 없다. 여름 물놀이와 가을 단풍이 절정이며, 등산 채비가 필요하다.",
     "eat": "마천면의 지리산 흑돼지와 산채정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg"
     ]
    },
    {
@@ -9828,7 +9828,7 @@ Object.assign(CITY, {
     ],
     "eat": "미사리 카페거리의 통유리 카페와 브런치집 — 강물을 보며 커피 한 잔 하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg/500px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg/500px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg"
     ]
    },
    {
@@ -9846,7 +9846,7 @@ Object.assign(CITY, {
     ],
     "tip": "입구에 주차한 뒤 성곽을 한 바퀴 도는 데 두어 시간. 그늘이 적으니 여름엔 아침·저녁 시간대가 낫다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -9910,9 +9910,9 @@ Object.assign(CITY, {
     "tip": "장경판전 내부는 문화재 보호로 창밖에서만 관람한다. 주차장에서 절까지 완만한 오르막을 20~30분 걸으니 편한 신발 권장. 단풍철 주말은 진입로가 크게 붐빈다.",
     "eat": "해인사 입구 상가촌의 산채비빔밥과 더덕구이, 손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg/500px-%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg/500px-%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg/500px-%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg/500px-%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg"
     ]
    },
    {
@@ -9933,9 +9933,9 @@ Object.assign(CITY, {
     "tip": "정상 주차장까지 차로 오를 수 있지만 철쭉·억새 성수기 주말엔 아래에서 셔틀·통제 운영이 잦다. 고지대라 여름에도 저녁엔 쌀쌀하니 겉옷 챙기기.",
     "eat": "산 아래 가회면 일대의 흑돼지·촌닭백숙",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hwangmaesan_Mountain_in_autumn.jpg/500px-Hwangmaesan_Mountain_in_autumn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hwangmaesanseong_in_autumn.jpg/330px-Hwangmaesanseong_in_autumn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hwangmaesan_Mountain_in_autumn.jpg/500px-Hwangmaesan_Mountain_in_autumn.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hwangmaesanseong_in_autumn.jpg/330px-Hwangmaesanseong_in_autumn.jpg"
     ]
    },
    {
@@ -9995,8 +9995,8 @@ Object.assign(CITY, {
     "tip": "합천읍에서 가까워 가볍게 들르기 좋다. 비 오는 날 처마에서 강으로 떨어지는 물줄기가 이 누각의 진짜 볼거리다.",
     "eat": "황강변 합천읍내의 어탕국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg"
     ]
    }
   ]
@@ -10060,7 +10060,7 @@ Object.assign(CITY, {
     "tip": "미사와 행사 시간에는 관람이 제한될 수 있다. 성지이니 조용히 둘러보자. 야외 십자가의 길이 잘 조성돼 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg/500px-2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg/500px-2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg"
     ]
    },
    {
@@ -10097,8 +10097,8 @@ Object.assign(CITY, {
     "tip": "시즌권과 리프트권은 온라인 예매가 저렴하다. 밤 기온이 크게 떨어지니 방한 준비를 단단히 하자.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG/500px-Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG/500px-Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg"
     ]
    }
   ]
@@ -10159,9 +10159,9 @@ Object.assign(CITY, {
     "tip": "산소길은 평탄해 가벼운 신발로도 걷기 좋다. 가을 단풍철 물소리와 함께 걷는 구간이 백미.",
     "eat": "홍천 시내 방향으로 나와 홍천 한우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg/500px-%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg/330px-%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg/500px-%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg/330px-%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg"
     ]
    },
    {
@@ -10180,7 +10180,7 @@ Object.assign(CITY, {
     "tip": "일부 구간이 가파른 바위길이라 미끄럼 방지 신발 권장. 비 온 뒤엔 바위가 미끄러워 주의.",
     "eat": "팔봉산 아래 강가 매운탕·닭갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -10258,7 +10258,7 @@ Object.assign(CITY, {
     "tip": "읍내 중심이라 주차와 도보 접근이 쉽다. 봄이면 성벽 둘레로 벚꽃이 핀다.",
     "eat": "홍성은 이름난 한우 고장 — 근처 한우타운에서 등심·갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg/500px-Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg/500px-Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg"
     ]
    },
    {
@@ -10277,7 +10277,7 @@ Object.assign(CITY, {
     ],
     "tip": "왕복 두세 시간이면 넉넉해 초보자도 부담 없다. 능선 바위 구간은 미끄럼 주의.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yongbongsan_2005.JPG/500px-Yongbongsan_2005.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yongbongsan_2005.JPG/500px-Yongbongsan_2005.JPG"
     ]
    },
    {
@@ -10349,8 +10349,8 @@ Object.assign(CITY, {
     ],
     "tip": "용봉산·내포신도시와 가까워 함께 묶기 좋다. 연꽃은 한여름 아침이 가장 곱다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a5/Ungno_lee_1972.jpg/500px-Ungno_lee_1972.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/6/68/Crowd_by_Ungno_Lee.tiff/lossless-page1-500px-Crowd_by_Ungno_Lee.tiff.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a5/Ungno_lee_1972.jpg/500px-Ungno_lee_1972.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/6/68/Crowd_by_Ungno_Lee.tiff/lossless-page1-500px-Crowd_by_Ungno_Lee.tiff.png"
     ]
    },
    {
@@ -10369,8 +10369,8 @@ Object.assign(CITY, {
     ],
     "tip": "결성면의 만해 한용운 생가지와 묶어 '충절 순례'로 돌면 좋다. 한적한 시골길이라 마음이 가라앉는다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E9%87%91%E4%BD%90%E9%95%87.JPG/500px-%E9%87%91%E4%BD%90%E9%95%87.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3e/%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg/330px-%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E9%87%91%E4%BD%90%E9%95%87.JPG/500px-%E9%87%91%E4%BD%90%E9%95%87.JPG",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3e/%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg/330px-%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg"
     ]
    }
   ]
@@ -10416,9 +10416,9 @@ Object.assign(CITY, {
     "tip": "호반도로가 길고 굽이가 많으니 시간을 넉넉히 잡는다. 낚시는 현지 좌대·낚싯배를 이용하는 편이 편하다.",
     "eat": "파로호 민물매운탕·붕어찜",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg"
     ]
    },
    {
@@ -10437,7 +10437,7 @@ Object.assign(CITY, {
     "tip": "화천 시내에서 산길을 꽤 깊이 들어가야 나온다. 주변에 편의시설이 드무니 물·간식을 미리 챙겨 가는 편이 좋다.",
     "eat": "읍내에서 식사를 마치고 이동하길 권한다(주변 식당이 드물다)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Peace_Dam.jpg/500px-Peace_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Peace_Dam.jpg/500px-Peace_Dam.jpg"
     ]
    },
    {
@@ -10514,9 +10514,9 @@ Object.assign(CITY, {
     "tip": "능침 위까지는 오르지 못하고 아래에서 관람한다. 입장은 저녁 무렵 마감하니 오후엔 일찍 들어가는 게 좋다. 용주사와 차로 10분 거리라 함께 묶기 좋다.",
     "eat": "병점·태안 일대 한정식과 손칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg/120px-%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9C%B5%EB%A6%89.jpg/120px-%EC%9C%B5%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg/120px-%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9C%B5%EB%A6%89.jpg/120px-%EC%9C%B5%EB%A6%89.jpg"
     ]
    },
    {
@@ -10536,9 +10536,9 @@ Object.assign(CITY, {
     "tip": "융건릉과 세트로 도는 코스다. 템플스테이도 운영하니 하루 쉼표가 필요하면 참고.",
     "eat": "사찰 인근 두부요리·사찰음식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Temple_Yongju.jpg/500px-Temple_Yongju.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg/330px-%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Temple_Yongju.jpg/500px-Temple_Yongju.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg/330px-%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg"
     ]
    },
    {
@@ -10559,8 +10559,8 @@ Object.assign(CITY, {
     "tip": "출발 전 반드시 '제부도 물때표'를 확인한다. 들어갔다가 물이 차면 다시 나올 수 없다. 주말엔 진입 도로가 정체된다.",
     "eat": "바지락칼국수·조개구이·꽃게",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jebudo.png/500px-Jebudo.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jebu_island.jpg/120px-Jebu_island.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jebudo.png/500px-Jebudo.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jebu_island.jpg/120px-Jebu_island.jpg"
     ]
    },
    {
@@ -10581,9 +10581,9 @@ Object.assign(CITY, {
     "tip": "노을 시각은 계절마다 다르니 그날 일몰 시간을 미리 확인한다. 주차장은 넓지만 주말 일몰 무렵엔 붐빈다.",
     "eat": "직판장 회·조개구이, 바지락",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gungpyeong_Port.jpg/500px-Gungpyeong_Port.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg/500px-Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg/500px-%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gungpyeong_Port.jpg/500px-Gungpyeong_Port.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg/500px-Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg/500px-%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg"
     ]
    },
    {
@@ -10622,7 +10622,7 @@ Object.assign(CITY, {
     "tip": "가을 갈대철이 절정이다. 그늘과 편의시설이 적으니 물과 모자를 챙긴다. 주변이 개발 중이라 방문 전 접근로를 확인하는 게 좋다.",
     "eat": "인근 송산·사강시장 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg/500px-Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg/500px-Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg"
     ]
    },
    {
@@ -10642,7 +10642,7 @@ Object.assign(CITY, {
     "tip": "엄숙한 추모 공간이니 조용히 둘러본다. 향남읍에 있어 발안·향남 시가지와 가깝다.",
     "eat": "향남 시가지 백반·손칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg/500px-%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg/500px-%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg"
     ]
    }
   ]
@@ -10672,9 +10672,9 @@ Object.assign(CITY, {
     "tip": "입장료는 소액이거나 무료일 수 있으니 방문 전 확인(변동 가능). 경내가 넓게 흩어져 있으니 편한 신발 필수. 가을 단풍 무렵과 새벽 안개가 가장 운주사답다.",
     "eat": "절 아래 식당가의 산채비빔밥과 더덕구이 정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG/500px-Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG/500px-Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Korea-Unjusa_4452-07_Gate.JPG/120px-Korea-Unjusa_4452-07_Gate.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG/500px-Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG/500px-Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Korea-Unjusa_4452-07_Gate.JPG/120px-Korea-Unjusa_4452-07_Gate.JPG"
     ]
    },
    {
@@ -10694,7 +10694,7 @@ Object.assign(CITY, {
     "tip": "노루목적벽은 상수원 구역이라 화순군이 운영하는 사전 예약 탐방버스로만 들어갈 수 있다. 홈페이지에서 날짜 확인·예약 필수(운영일 한정).",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -10714,7 +10714,7 @@ Object.assign(CITY, {
     "tip": "무료 개방이며 야외라 그늘이 적다. 봄가을에 걷기 가장 좋고, 고인돌선사체험장·박물관을 함께 묶으면 이해가 깊어진다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg/500px-%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg/500px-%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg"
     ]
    },
    {
@@ -10751,9 +10751,9 @@ Object.assign(CITY, {
     "tip": "관람은 무료. 규모가 크지 않아 운주사·고인돌과 하루에 묶기 좋다. 대웅전은 1984년 화재 후 복원된 것.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ssangbongsa_11-05276.JPG/500px-Ssangbongsa_11-05276.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ssangbongsa_Iljumun_11-05143.JPG/120px-Ssangbongsa_Iljumun_11-05143.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ssangbongsa_11-05146.JPG/120px-Ssangbongsa_11-05146.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ssangbongsa_11-05276.JPG/500px-Ssangbongsa_11-05276.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ssangbongsa_Iljumun_11-05143.JPG/120px-Ssangbongsa_Iljumun_11-05143.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ssangbongsa_11-05146.JPG/120px-Ssangbongsa_11-05146.JPG"
     ]
    },
    {
@@ -10928,9 +10928,9 @@ Object.assign(CITY, {
     "tip": "미륵사지 관람·국립익산박물관 모두 무료(월요일 휴관). 그늘이 적은 벌판이라 여름엔 모자와 물이 필수다.",
     "eat": "익산의 향토 별미 황등비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mireuksaji_Stone_Pagoda_20190506002.jpg/500px-Mireuksaji_Stone_Pagoda_20190506002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mireuksa-writing.jpg/330px-Mireuksa-writing.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mireuksaji_Stone_Pagoda_20190506002.jpg/500px-Mireuksaji_Stone_Pagoda_20190506002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mireuksa-writing.jpg/330px-Mireuksa-writing.jpg"
     ]
    },
    {
@@ -10948,9 +10948,9 @@ Object.assign(CITY, {
     ],
     "tip": "전시관 무료·월요일 휴관. 미륵사지와 차로 10분 거리라 백제 유적 두 곳을 하루에 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg/500px-%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wanggungri_Archeological_Site_20190506003.jpg/120px-Wanggungri_Archeological_Site_20190506003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wanggungri_Archeological_Site_20190506001.jpg/120px-Wanggungri_Archeological_Site_20190506001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg/500px-%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wanggungri_Archeological_Site_20190506003.jpg/120px-Wanggungri_Archeological_Site_20190506003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wanggungri_Archeological_Site_20190506001.jpg/120px-Wanggungri_Archeological_Site_20190506001.jpg"
     ]
    },
    {
@@ -10964,9 +10964,9 @@ Object.assign(CITY, {
     "desc": "기와지붕을 얹은 한옥 몸에 서양식 창을 낸, 한국과 서양이 한 채에 섞인 독특한 성당이다. 1845년 김대건 신부가 사제서품을 받고 이 앞 황산나루로 상륙한 것을 기념해 지어졌고, 신발을 벗고 마룻바닥에 앉던 초기 한국 천주교의 흔적이 안에 그대로 남아 있다.",
     "tip": "미사·기도 중에는 조용히. 뒤편 화산 언덕에 오르면 금강과 옛 나루터가 한눈에 내려다보인다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/6/6c/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/b/b8/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/a/a7/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+     "https://upload.wikimedia.org/wikipedia/commons/6/6c/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_06.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/b/b8/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/a/a7/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_02.jpg"
     ]
    },
    {
@@ -11014,8 +11014,8 @@ Object.assign(CITY, {
     "desc": "소나무 숲 사이에 나란히 누운 두 개의 큰 봉분이다. 큰 무덤은 미륵사와 왕궁을 세운 백제 무왕, 작은 무덤은 그 왕비의 능으로 전해지는데, 무왕이 곧 '서동요'의 서동이라는 이야기와 겹쳐 선화공주의 무덤일지 모른다는 낭만이 함께 떠돈다.",
     "tip": "조용한 숲길이라 가볍게 산책하기 좋다. 미륵사지·왕궁리와 함께 무왕 테마로 묶어 도는 걸 추천.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Amlou2518_%EC%8C%8D%EB%A6%89.jpg/500px-Amlou2518_%EC%8C%8D%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg/500px-%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Amlou2518_%EC%8C%8D%EB%A6%89.jpg/500px-Amlou2518_%EC%8C%8D%EB%A6%89.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg/500px-%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg"
     ]
    }
   ]
@@ -11062,7 +11062,7 @@ Object.assign(CITY, {
     "tip": "치즈·피자 만들기는 인기라 주말엔 예약을 권한다. 체험은 유료(약 1만원대, 변동 가능). 바로 옆 임실치즈마을과 함께 묶기 좋다.",
     "eat": "갓 구운 임실치즈 피자·치즈스틱",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/500px-Imsilgun_County_04_%2816597675160%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/500px-Imsilgun_County_04_%2816597675160%29.jpg"
     ]
    },
    {
@@ -11099,7 +11099,7 @@ Object.assign(CITY, {
     "tip": "오수역에서 도보 거리라 기차 여행자에게 특히 좋다. 규모가 크지 않아 지나는 길에 가볍게 들르기 알맞다.",
     "eat": "오수 시내 순대국밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg/500px-%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg/500px-%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg"
     ]
    },
    {
@@ -11118,7 +11118,7 @@ Object.assign(CITY, {
     ],
     "tip": "상설 공연과 체험은 프로그램 일정에 따라 운영되니 미리 확인하는 게 좋다. 단체·숙박 체험은 예약제로 진행된다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg/500px-Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg/500px-Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg"
     ]
    },
    {
@@ -11164,9 +11164,9 @@ Object.assign(CITY, {
     "tip": "주말 점심때는 유명 중식당마다 대기가 길다. 인천역 바로 앞이라 지하철로 오는 편이 주차 스트레스가 없다.",
     "eat": "짜장면·짬뽕, 화덕에서 구운 공갈빵, 옌볜식 양꼬치",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/500px-Chinatown%2C_incheon_20230430_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jinsen_map_circa_1930.PNG/500px-Jinsen_map_circa_1930.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Incheon_Chinatown_Samgukji-Geori.jpg/500px-Incheon_Chinatown_Samgukji-Geori.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/500px-Chinatown%2C_incheon_20230430_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jinsen_map_circa_1930.PNG/500px-Jinsen_map_circa_1930.PNG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Incheon_Chinatown_Samgukji-Geori.jpg/500px-Incheon_Chinatown_Samgukji-Geori.jpg"
     ]
    },
    {
@@ -11185,7 +11185,7 @@ Object.assign(CITY, {
     "tip": "차이나타운과 담 하나 사이라 함께 묶어 걷기 좋다. 실제 주민이 사는 마을이니 이른 아침·늦은 밤 소음은 조심.",
     "eat": "마을 초입 카페의 딸기라떼, 근처 차이나타운 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Songwol-dong_Fairy_Tale_Village.jpg/500px-Songwol-dong_Fairy_Tale_Village.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Songwol-dong_Fairy_Tale_Village.jpg/500px-Songwol-dong_Fairy_Tale_Village.jpg"
     ]
    },
    {
@@ -11205,9 +11205,9 @@ Object.assign(CITY, {
     "tip": "차이나타운에서 가깝다. 주말 저녁엔 문화의 거리가 붐비니 낙조 시간을 노려 조금 일찍 자리 잡는 게 좋다.",
     "eat": "월미도 회센터의 활어회, 조개구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg/500px-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg/500px-%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/bc/Incheon_wolmido_busstop.JPG/500px-Incheon_wolmido_busstop.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg/500px-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg/500px-%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/bc/Incheon_wolmido_busstop.JPG/500px-Incheon_wolmido_busstop.JPG"
     ]
    },
    {
@@ -11243,9 +11243,9 @@ Object.assign(CITY, {
     "tip": "강화도 안에 있어 서울에서 차로 1시간 남짓. 봄 벚꽃·가을 단풍철 주말은 절 아래 주차장이 빨리 찬다.",
     "eat": "강화도 밴댕이회무침, 순무김치, 강화 인삼",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg/500px-Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg/500px-The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg/500px-Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg/500px-The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg"
     ]
    },
    {
@@ -11265,7 +11265,7 @@ Object.assign(CITY, {
     "tip": "가을 대하·꽃게철이 가장 붐빈다. 즉석 회는 자리값·양념값이 따로 붙기도 하니 미리 물어보고 앉는 게 마음 편하다.",
     "eat": "대하소금구이, 꽃게찜, 새우젓·각종 젓갈",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sorae_History_Museum_191124005.jpg/500px-Sorae_History_Museum_191124005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sorae_History_Museum_191124005.jpg/500px-Sorae_History_Museum_191124005.jpg"
     ]
    },
    {
@@ -11285,9 +11285,9 @@ Object.assign(CITY, {
     "tip": "물때에 따라 갯벌 풍경이 달라지니 물때표를 미리 확인하면 좋다. 주말엔 무의대교 진입로가 정체되기도 한다.",
     "eat": "섬 안 조개칼국수, 바지락죽, 백합구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cabana_at_Hanagae_Beach%2C_Muuido.jpg/500px-Cabana_at_Hanagae_Beach%2C_Muuido.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Muido-location.png/500px-Muido-location.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Daedongyeojido_%28Gyujanggak%29_13-05.jpg/500px-Daedongyeojido_%28Gyujanggak%29_13-05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cabana_at_Hanagae_Beach%2C_Muuido.jpg/500px-Cabana_at_Hanagae_Beach%2C_Muuido.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Muido-location.png/500px-Muido-location.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Daedongyeojido_%28Gyujanggak%29_13-05.jpg/500px-Daedongyeojido_%28Gyujanggak%29_13-05.jpg"
     ]
    }
   ]
@@ -11336,9 +11336,9 @@ Object.assign(CITY, {
     "tip": "성수기엔 용대리 주차장에서 절까지 좁은 계곡길이라 자가용 진입이 통제되고 마을버스(셔틀)를 이용한다. 배차 시간 미리 확인.",
     "eat": "용대리 황태국·황태구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Manhae_Museum.jpg/500px-Manhae_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Manhae_Museum.jpg/500px-Manhae_Museum.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg"
     ]
    },
    {
@@ -11395,7 +11395,7 @@ Object.assign(CITY, {
     "tip": "설악산 장수대분소에서 출발하며 초반 급경사 계단 구간이 있다. 갈수기엔 수량이 적을 수 있고, 겨울 결빙 시 탐방로가 통제된다.",
     "eat": "한계령 인근 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -11416,8 +11416,8 @@ Object.assign(CITY, {
     "tip": "프로그램별로 사전 예약·연령/면허 조건이 다르니 미리 확인. 경기·행사가 열리는 날엔 체험 프로그램이 제한될 수 있다.",
     "eat": "기린면 막국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Inje_Speedium_layout.png/500px-Inje_Speedium_layout.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg/500px-%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Inje_Speedium_layout.png/500px-Inje_Speedium_layout.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg/500px-%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg"
     ]
    },
    {
@@ -11438,7 +11438,7 @@ Object.assign(CITY, {
     "tip": "성수기 숙박은 '숲나들e' 사전 예약 필수. 아침가리 계곡 트레킹은 물길을 따라 걷는 코스라 아쿠아슈즈·여벌옷을 챙기는 게 좋다.",
     "eat": "방동약수 인근 산채정식·더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    }
   ]
@@ -11468,7 +11468,7 @@ Object.assign(CITY, {
     "tip": "억새 절정은 10월 중순~11월 초. 정상까지 왕복 3~4시간, 능선엔 그늘이 적으니 모자와 물·간식을 꼭 챙긴다.",
     "eat": "하산길엔 장흥 표고버섯 요리나 산채정식으로 든든하게.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -11505,7 +11505,7 @@ Object.assign(CITY, {
     "tip": "유치면 산속이라 대중교통이 드물어 자가용이 편하다. 법당 참배 시 정숙을 지킨다.",
     "eat": "절 아래 장흥읍에서 산채비빔밥, 봄이면 이 고장 야생차 한 잔.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg"
     ]
    },
    {
@@ -11586,9 +11586,9 @@ Object.assign(CITY, {
     "tip": "단풍 절정기(11월 초)에는 인파와 차가 몰려 주차장이 일찍 찬다. 아침 일찍 도착하거나 아랫마을에 세우고 걸어 올라가는 편이 마음이 편하다.",
     "eat": "절 아래 식당가의 산채정식과 더덕구이, 도토리묵이 산행 뒤 속을 든든하게 채워준다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Baekyangsa.JPG/500px-Baekyangsa.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Baekyangsa_3.JPG/120px-Baekyangsa_3.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baekyangsa_4.JPG/120px-Baekyangsa_4.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Baekyangsa.JPG/500px-Baekyangsa.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Baekyangsa_3.JPG/120px-Baekyangsa_3.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baekyangsa_4.JPG/120px-Baekyangsa_4.JPG"
     ]
    },
    {
@@ -11625,7 +11625,7 @@ Object.assign(CITY, {
     "tip": "관람은 무료이고 규모가 아담해 30~40분이면 충분히 둘러본다. 홍길동 테마파크가 차로 가까워 함께 묶어 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg/500px-Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg/500px-Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg"
     ]
    },
    {
@@ -11662,7 +11662,7 @@ Object.assign(CITY, {
     "tip": "가을 노란꽃 축제 기간이 가장 화려하지만 그만큼 붐빈다. 축제가 아니어도 봄가을 꽃이 이어져 평일 낮에 한적하게 걷기 좋다.",
     "eat": "강변에서 장성읍 시내가 가까워 백반집과 카페에서 바로 요기하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hwangnyong_river_and_SRT_20190522_134644.jpg/500px-Hwangnyong_river_and_SRT_20190522_134644.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hwangnyong_river_and_SRT_20190522_134644.jpg/500px-Hwangnyong_river_and_SRT_20190522_134644.jpg"
     ]
    },
    {
@@ -11699,7 +11699,7 @@ Object.assign(CITY, {
     "tip": "산자락에 방장산 자연휴양림이 있어 숲속 숙박과 가벼운 산책을 함께 할 수 있다. 정상까지는 제대로 된 등산 채비가 필요하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    }
   ]
@@ -11729,9 +11729,9 @@ Object.assign(CITY, {
     "tip": "장계면 논개생가지와 묶으면 태어난 곳과 기려진 곳이 하나의 이야기로 이어진다. 입장 무료.",
     "eat": "장수한우 구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nongae_poem_monument_by_byunyoungro.jpg/120px-Nongae_poem_monument_by_byunyoungro.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/120px-Choksuk_pavillion_in_Jinju_Castel.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_Jinju_rock_of_loyalty.jpg/120px-The_Jinju_rock_of_loyalty.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nongae_poem_monument_by_byunyoungro.jpg/120px-Nongae_poem_monument_by_byunyoungro.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/120px-Choksuk_pavillion_in_Jinju_Castel.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_Jinju_rock_of_loyalty.jpg/120px-The_Jinju_rock_of_loyalty.jpg"
     ]
    },
    {
@@ -11750,7 +11750,7 @@ Object.assign(CITY, {
     "tip": "규모는 아담해 30분이면 충분하다. 조용한 아침 방문을 권한다.",
     "eat": "장수 사과",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg/500px-%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg/500px-%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg"
     ]
    },
    {
@@ -11770,8 +11770,8 @@ Object.assign(CITY, {
     "tip": "무룡고개까지 차로 올라 능선만 걸으면 초보자도 왕복이 어렵지 않다. 가을 주말은 사람이 몰리니 이른 출발이 좋다.",
     "eat": "산나물 비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%EC%9E%A5%EC%95%88%EC%82%B0.jpg/500px-%EC%9E%A5%EC%95%88%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%EC%9E%A5%EC%95%88%EC%82%B0.jpg/500px-%EC%9E%A5%EC%95%88%EC%82%B0.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -11869,8 +11869,8 @@ Object.assign(CITY, {
     "tip": "청풍호반 케이블카 승강장과 가까워 함께 묶어 다니기 좋다. 넓으니 걷기 편한 신발 권장.",
     "eat": "청풍호 매운탕, 산채비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG"
     ]
    },
    {
@@ -11891,9 +11891,9 @@ Object.assign(CITY, {
     "tip": "야간 조명이 예뻐 저녁 산책도 좋다. 주차·입장 무료.",
     "eat": "의림지 빙어(공어), 약초 비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg"
     ]
    },
    {
@@ -11914,9 +11914,9 @@ Object.assign(CITY, {
     "tip": "유람선은 계절·수위에 따라 운항 시간이 바뀌니 사전 확인이 필요하다.",
     "eat": "청풍호 매운탕, 도토리묵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg"
     ]
    },
    {
@@ -11937,7 +11937,7 @@ Object.assign(CITY, {
     "tip": "묵상하는 이들이 많은 조용한 공간이니 정숙을 지키자. 입장·주차 무료.",
     "eat": "봉양 시내 손두부, 청국장",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg/500px-%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg/500px-%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg"
     ]
    },
    {
@@ -11958,8 +11958,8 @@ Object.assign(CITY, {
     "tip": "영봉 정상은 왕복 오래 걸리는 본격 산행이다. 가볍게는 송계계곡·덕주사 코스를 추천.",
     "eat": "산채정식, 더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mount_Worak_Korea_242.jpg/500px-Mount_Worak_Korea_242.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mount_Worak_Korea_242.jpg/500px-Mount_Worak_Korea_242.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -12007,9 +12007,9 @@ Object.assign(CITY, {
     "tip": "정상까지 왕복 약 1시간, 계단이 가파르니 편한 신발 필수. 일출을 노린다면 개장 시간(계절별 상이)을 미리 확인하고 도착해야 한다. 성수기 주말 오전은 계단이 정체된다.",
     "eat": "성산항 인근에서 갓 잡은 갈치조림과 성게미역국, 해녀가 파는 뿔소라",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/500px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/33/TIE_2392.jpg/330px-TIE_2392.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg/330px-%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/500px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/33/TIE_2392.jpg/330px-TIE_2392.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg/330px-%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg"
     ]
    },
    {
@@ -12030,9 +12030,9 @@ Object.assign(CITY, {
     "tip": "백록담 정상 코스는 하산 시간 제한이 있어 당일 예약(탐방예약제)이 필요하다. 새벽에 시작해야 하고 날씨가 급변하니 방풍의와 물·간식을 넉넉히. 겨울엔 아이젠 필수.",
     "eat": "등산 후 제주식 고사리육개장, 몸국, 따끈한 보말칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg/500px-KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%ED%95%9C%EB%9D%BC%EC%82%B01.jpg/500px-%ED%95%9C%EB%9D%BC%EC%82%B01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg/500px-KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%ED%95%9C%EB%9D%BC%EC%82%B01.jpg/500px-%ED%95%9C%EB%9D%BC%EC%82%B01.jpg"
     ]
    },
    {
@@ -12052,9 +12052,9 @@ Object.assign(CITY, {
     "tip": "바닥이 젖어 미끄럽고 어두우니 운동화가 안전하다. 내부가 서늘해 여름에도 겉옷 한 장 챙기면 좋다. 거문오름 용암동굴계의 일부로 유네스코 세계자연유산.",
     "eat": "가까운 김녕·세화 쪽 해안에서 성게칼국수와 딱새우회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/500px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg/250px-Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg/250px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/500px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg/250px-Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg/250px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg"
     ]
    },
    {
@@ -12075,9 +12075,9 @@ Object.assign(CITY, {
     "tip": "성산항에서 배가 수시로 뜨지만 막배 시간을 반드시 확인. 섬 안은 렌터카 반입이 제한되니 전기차·자전거·순환버스를 이용한다. 성수기엔 오전 일찍 들어가야 한적하다.",
     "eat": "우도 땅콩아이스크림, 땅콩막걸리, 해물짬뽕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Udo_%28satellite_image%29.jpg/500px-Udo_%28satellite_image%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Udo%2C_Jeju_Province%2C_South_Korea_15.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Udo%2C_Jeju_Province%2C_South_Korea_14.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Udo_%28satellite_image%29.jpg/500px-Udo_%28satellite_image%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Udo%2C_Jeju_Province%2C_South_Korea_15.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Udo%2C_Jeju_Province%2C_South_Korea_14.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_14.jpg"
     ]
    },
    {
@@ -12119,9 +12119,9 @@ Object.assign(CITY, {
     "tip": "입구에서 폭포까지 평탄한 길로 왕복 30분 남짓이라 부담 없다. 낮보다 해 질 무렵~밤이 시원하고 조명이 예쁘다. 서귀포 시내와 가까워 다른 일정과 묶기 쉽다.",
     "eat": "서귀포 매일올레시장의 흑돼지꼬치·회국수, 갈치조림",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg"
     ]
    },
    {
@@ -12142,8 +12142,8 @@ Object.assign(CITY, {
     "tip": "굴사까지 계단 오르막이 있어 편한 신발이 좋다. 용머리해안은 만조·기상에 따라 출입이 통제되니 현장 안내를 확인. 근처 사계해변에서 형제섬을 함께 볼 수 있다.",
     "eat": "사계·화순 쪽 자리물회, 고등어회, 보리빵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sanbangsan_%285983281424%29.jpg/500px-Sanbangsan_%285983281424%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sanbangsan_%285983281424%29.jpg/500px-Sanbangsan_%285983281424%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg"
     ]
    },
    {
@@ -12164,7 +12164,7 @@ Object.assign(CITY, {
     "tip": "평탄한 흙길이라 남녀노소 걷기 편하고 유모차·휠체어 구간도 있다. 비 온 뒤 숲 향이 가장 짙다. 성산·만장굴과 가까워 동부 일정에 묶기 좋다.",
     "eat": "가까운 세화·평대 해안의 딱새우회, 성게비빔밥, 당근주스",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bijarim_Forest.jpg/500px-Bijarim_Forest.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bijarim_Forest.jpg/500px-Bijarim_Forest.jpg"
     ]
    }
   ]
@@ -12194,8 +12194,8 @@ Object.assign(CITY, {
     "tip": "11월 첫·둘째 주말은 극심한 정체와 주차난이 생긴다. 이른 아침에 도착하거나 시내에 주차하고 셔틀·시내버스를 이용하는 편이 편하다.",
     "eat": "산채정식, 산채비빔밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg/500px-%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg/500px-%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -12213,7 +12213,7 @@ Object.assign(CITY, {
     ],
     "tip": "2019년 '한국의 서원'으로 세계유산에 등재됐다. 사람이 적어 이른 오전이나 늦은 오후 빛이 특히 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg/500px-%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg/500px-%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg"
     ]
    },
    {
@@ -12231,7 +12231,7 @@ Object.assign(CITY, {
     ],
     "tip": "정읍 고부는 동학농민혁명이 처음 불붙은 발상지다. 이곳과 이평면 전봉준 유적을 함께 묶으면 이야기가 이어진다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Donghak_Peasant_Revolution_Foundation.jpg/500px-Donghak_Peasant_Revolution_Foundation.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Donghak_Peasant_Revolution_Foundation.jpg/500px-Donghak_Peasant_Revolution_Foundation.jpg"
     ]
    },
    {
@@ -12265,7 +12265,7 @@ Object.assign(CITY, {
     ],
     "tip": "'구 김동수 가옥'으로도 불린다. 마당이 넓어 천천히 걸으며 볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -12283,7 +12283,7 @@ Object.assign(CITY, {
     ],
     "tip": "이평면 조소마을 안에 있다. 규모가 작아 황토현 전적지와 묶어 반나절 동학 답사로 돌아보기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Birthplace_of_Jeon_Bong-jun_%281%29.jpg/500px-Birthplace_of_Jeon_Bong-jun_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Birthplace_of_Jeon_Bong-jun_%281%29.jpg/500px-Birthplace_of_Jeon_Bong-jun_%281%29.jpg"
     ]
    }
   ]
@@ -12330,9 +12330,9 @@ Object.assign(CITY, {
     "tip": "동굴까지 오르막이 있어 모노레일을 이용하면 편하다. 계단이 많으니 편한 신발과, 서늘하니 겉옷 하나를 챙기자.",
     "eat": "화암약수터 곤드레밥, 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg/500px-%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jeongseon_Arirang_Train_12_%2816102078790%29.jpg/500px-Jeongseon_Arirang_Train_12_%2816102078790%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hwaamgul001.jpg/500px-Hwaamgul001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg/500px-%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jeongseon_Arirang_Train_12_%2816102078790%29.jpg/500px-Jeongseon_Arirang_Train_12_%2816102078790%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hwaamgul001.jpg/500px-Hwaamgul001.jpg"
     ]
    },
    {
@@ -12353,7 +12353,7 @@ Object.assign(CITY, {
     "tip": "구절리역~아우라지 레일바이크는 성수기·주말에 예약이 몰리니 미리 잡아두자.",
     "eat": "곤드레나물밥, 메밀전병",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg/500px-A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg/500px-A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg"
     ]
    },
    {
@@ -12412,7 +12412,7 @@ Object.assign(CITY, {
     "tip": "고지대라 한여름에도 서늘하고 안개가 잦다. 야생화는 7~8월이 절정이니 이때 맞춰 가면 좋다.",
     "eat": "고한 곤드레밥, 감자옹심이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Manhangjae.jpg/500px-Manhangjae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Manhangjae.jpg/500px-Manhangjae.jpg"
     ]
    },
    {
@@ -12432,7 +12432,7 @@ Object.assign(CITY, {
     "tip": "수마노탑까지 계단이 가파르니 편한 신발이 좋고, 겨울엔 빙판을 조심하자.",
     "eat": "고한·사북 곤드레밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg/500px-%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg/500px-%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg"
     ]
    }
   ]
@@ -12463,9 +12463,9 @@ Object.assign(CITY, {
     "tip": "주말과 성수기엔 사람이 매우 많으니 이른 아침이나 해 질 무렵이 여유롭다. 마을 안은 대부분 걸어서 이동하고, 주차장은 외곽에 두는 게 편하다.",
     "eat": "전주비빔밥, 콩나물국밥, 한옥마을 골목의 문어꼬치·바게트버거",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG/500px-%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/500px-Jeondong_Catholic_Cathedral_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Omokdae_20230408_009.jpg/500px-Omokdae_20230408_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG/500px-%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/500px-Jeondong_Catholic_Cathedral_20230408_005.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Omokdae_20230408_009.jpg/500px-Omokdae_20230408_009.jpg"
     ]
    },
    {
@@ -12486,9 +12486,9 @@ Object.assign(CITY, {
     "tip": "입장료는 변동될 수 있으니 매표소에서 확인. 전동성당이 바로 길 건너라 함께 묶어 보기 좋다.",
     "eat": "인근 골목의 전주 한정식, 수제 초코파이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg/500px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG/500px-%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Royal_Portrait_Museum_20220701_001.jpg/500px-Royal_Portrait_Museum_20220701_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg/500px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG/500px-%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Royal_Portrait_Museum_20220701_001.jpg/500px-Royal_Portrait_Museum_20220701_001.jpg"
     ]
    },
    {
@@ -12504,9 +12504,9 @@ Object.assign(CITY, {
     "tip": "미사 시간에는 내부 관람이 제한되니 입구 안내를 확인. 경기전 정문과 마주 보고 있어 함께 사진에 담기 좋다.",
     "eat": "성당 앞 길 건너 풍남문 방향 남부시장 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG/500px-%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg/120px-KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_inside_of_Jeondong_cathedral.jpg/120px-The_inside_of_Jeondong_cathedral.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG/500px-%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg/120px-KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_inside_of_Jeondong_cathedral.jpg/120px-The_inside_of_Jeondong_cathedral.jpg"
     ]
    },
    {
@@ -12527,9 +12527,9 @@ Object.assign(CITY, {
     "tip": "오르막 계단이 조금 있으니 편한 신발이 좋다. 조명이 적어 완전히 어두워지기 전에 내려오는 편이 안전하다.",
     "eat": "언덕 아래 한옥마을 골목 간식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Omokdae_20230408_001.jpg/330px-Omokdae_20230408_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Omokdae_20230408_003.jpg/330px-Omokdae_20230408_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Omokdae_20230408_005.jpg/330px-Omokdae_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Omokdae_20230408_001.jpg/330px-Omokdae_20230408_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Omokdae_20230408_003.jpg/330px-Omokdae_20230408_003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Omokdae_20230408_005.jpg/330px-Omokdae_20230408_005.jpg"
     ]
    },
    {
@@ -12550,9 +12550,9 @@ Object.assign(CITY, {
     "tip": "은행잎 절정은 대개 11월 초중순. 이 시기 주말엔 인파가 몰리니 평일 오전이 한적하다.",
     "eat": "향교 인근 한옥 카페의 전통차",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Daeseongjeon_of_Jeonju_Hyanggyo.jpg/500px-Daeseongjeon_of_Jeonju_Hyanggyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Daeseongjeon_of_Jeonju_Hyanggyo.jpg/500px-Daeseongjeon_of_Jeonju_Hyanggyo.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg"
     ]
    },
    {
@@ -12568,8 +12568,8 @@ Object.assign(CITY, {
     "tip": "주민들이 실제로 사는 마을이니 조용히 다니고 사생활을 존중하자. 경사가 있어 편한 신발 권장.",
     "eat": "골목 안 작은 카페의 커피와 디저트",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg/500px-%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jamandong_Prohibition.jpg/500px-Jamandong_Prohibition.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg/500px-%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jamandong_Prohibition.jpg/500px-Jamandong_Prohibition.jpg"
     ]
    },
    {
@@ -12608,8 +12608,8 @@ Object.assign(CITY, {
     "tip": "연꽃 절정은 7~8월. 한옥마을과는 조금 떨어져 있어 버스나 택시로 이동하는 게 편하다.",
     "eat": "전북대 인근 상권의 분식·카페",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deokjin_park.jpg/500px-Deokjin_park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg/500px-%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deokjin_park.jpg/500px-Deokjin_park.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg/500px-%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg"
     ]
    }
   ]
@@ -12737,7 +12737,7 @@ Object.assign(CITY, {
     "tip": "안내판 외 편의시설이 거의 없는 문화재 유적이니 조용히 둘러보자. 자가용으로 접근하는 편이 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg/500px-%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg/500px-%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg"
     ]
    }
   ]
@@ -12767,9 +12767,9 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정(4월 중순)엔 주차가 전쟁이라 이른 아침이나 평일이 낫다. 암마이봉 등반로는 겨울철 통제 기간이 있으니 미리 확인.",
     "eat": "진안 별미인 애저찜(어린 돼지 요리)과 표고버섯 구이가 산자락 식당에서 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Maisan.jpg/500px-Maisan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/K-E20-Maisan.jpg/500px-K-E20-Maisan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Maisan.jpg/500px-Maisan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/K-E20-Maisan.jpg/500px-K-E20-Maisan.jpg"
     ]
    },
    {
@@ -12783,9 +12783,9 @@ Object.assign(CITY, {
     "desc": "이갑룡 처사가 평생에 걸쳐 맨손으로 쌓았다는 크고 작은 돌탑 80여 기가 두 봉우리 사이 골짜기에 빼곡히 서 있다. 거센 바람에도 무너지지 않는다는 신비로 유명하다. 사람이 쌓은 돌무더기가 이렇게 오래 버틴다는 사실 앞에서 괜히 마음이 숙연해진다.",
     "tip": "마이산 남부·북부 어느 쪽으로 올라도 탑사에 닿는다. 겨울엔 은수사 정한수가 위로 솟아 어는 '역고드름'도 볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JM-Natl-Geopark.jpg/960px-JM-Natl-Geopark.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JM-tb1.jpg/960px-JM-tb1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/JN-Maisan-tb1.jpg/500px-JN-Maisan-tb1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JM-Natl-Geopark.jpg/960px-JM-Natl-Geopark.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JM-tb1.jpg/960px-JM-tb1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/JN-Maisan-tb1.jpg/500px-JN-Maisan-tb1.jpg"
     ]
    },
    {
@@ -12803,9 +12803,9 @@ Object.assign(CITY, {
     ],
     "tip": "여름 성수기엔 주차와 자리가 붐빈다. 계곡을 따라 걷는 길이 잘 정비돼 있어 등산 부담 없이 가볍게 걸을 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/JJ-UB-Kav1.jpg/500px-JJ-UB-Kav1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JJ-UB-Natl-Geopark.jpg/500px-JJ-UB-Natl-Geopark.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JJ-UB-Kav2.jpg/500px-JJ-UB-Kav2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/JJ-UB-Kav1.jpg/500px-JJ-UB-Kav1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JJ-UB-Natl-Geopark.jpg/500px-JJ-UB-Natl-Geopark.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JJ-UB-Kav2.jpg/500px-JJ-UB-Kav2.jpg"
     ]
    },
    {
@@ -12834,7 +12834,7 @@ Object.assign(CITY, {
     "desc": "금강 상류를 막아 만든 거대한 호수로, 저수량 기준 국내 다섯 손가락 안에 드는 크기다. 물에 잠긴 68개 마을의 사연을 품은 만큼 수면이 유난히 잔잔하고 깊은데, 이른 아침 호수 위로 피어오르는 물안개와 굽이굽이 이어지는 호반도로가 드라이브 코스로 그만이다.",
     "tip": "댐 전망대와 물문화관에서 호수를 조망할 수 있다. 호반을 도는 길이 길어 시간을 넉넉히 잡고 차로 여유 있게 도는 편이 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg/500px-%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg/500px-%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg"
     ]
    },
    {
@@ -12886,8 +12886,8 @@ Object.assign(CITY, {
     "tip": "비가 많이 온 뒤엔 물이 불어 다리가 잠길 수 있으니 수위를 확인하고 가자. 주차장은 무료.",
     "eat": "초평호 붕어마을의 붕어찜·붕어조림",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg/500px-%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg/500px-%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg"
     ]
    },
    {
@@ -12907,8 +12907,8 @@ Object.assign(CITY, {
     "tip": "농다리에서 하늘다리까지 왕복 도보로 약 1시간 30분. 흙길과 오르막이 섞여 있어 편한 신발이 좋다.",
     "eat": "초평 붕어마을의 붕어찜·매운탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg/500px-%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg/500px-%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg"
     ]
    },
    {
@@ -12935,7 +12935,7 @@ Object.assign(CITY, {
     "tip": "탄생지는 평지지만 태실은 태령산 정상이라 가벼운 등산이 필요하다. 태실까지 오르면 탄생지 일대가 한눈에 내려다보인다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg/330px-%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg/330px-%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg"
     ]
    },
    {
@@ -12962,7 +12962,7 @@ Object.assign(CITY, {
     "tip": "산속이라 여름에도 서늘하다. 순례와 묵상의 공간이니 정숙히 둘러보자. 백곡저수지와 가깝다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    }
   ]
@@ -12992,8 +12992,8 @@ Object.assign(CITY, {
     "tip": "바닷길은 아무 때나 열리지 않는다. 음력 대조기 물때(보통 봄철)와 국립해양조사원 예보를 미리 확인하고 시간을 딱 맞춰 가야 한다.",
     "eat": "진도 꽃게·간재미회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jindo-map.png/500px-Jindo-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jindo_Miracle_Sea_Road_Festival_100.JPG/500px-Jindo_Miracle_Sea_Road_Festival_100.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jindo-map.png/500px-Jindo-map.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jindo_Miracle_Sea_Road_Festival_100.JPG/500px-Jindo_Miracle_Sea_Road_Festival_100.JPG"
     ]
    },
    {
@@ -13013,7 +13013,7 @@ Object.assign(CITY, {
     "tip": "바로 옆 쌍계사와 상록수림(천연기념물)까지 묶어 보면 좋다. 연못가 배롱나무 붉은 꽃은 한여름에 핀다.",
     "eat": "진도 홍주(전통 붉은 술) 한 잔",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -13067,7 +13067,7 @@ Object.assign(CITY, {
     "tip": "넓게 흩어진 산성이라 편한 신발이 낫다. 인근 진도타워(울돌목)와 묶어 '항쟁의 길'로 이어 보면 좋다.",
     "eat": "진도 대파·검정쌀 밥상",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg/500px-%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg/500px-%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg"
     ]
    },
    {
@@ -13104,8 +13104,8 @@ Object.assign(CITY, {
     "tip": "공연 시간이 정해져 있으니 시간표를 확인하고 가자. 진돗개는 천연기념물이라 섬 밖 반출에는 허가가 필요하다.",
     "eat": "진도 흑미·구기자 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ARIRANG.jpg/330px-ARIRANG.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jindo_puppy.jpg/500px-Jindo_puppy.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ARIRANG.jpg/330px-ARIRANG.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jindo_puppy.jpg/500px-Jindo_puppy.jpg"
     ]
    }
   ]
@@ -13135,9 +13135,9 @@ Object.assign(CITY, {
     "tip": "봄~가을 주말엔 촉석루 일원에서 진주검무·한량무 등 전통공연이 열리기도 한다(일정은 확인 필요). 낮보다 야경이 좋아 저녁 방문을 추천한다.",
     "eat": "성 근처 중앙시장에서 육회를 얹은 진주비빔밥과 진주냉면",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jinju_castle-Chosuk_gate.jpg/500px-Jinju_castle-Chosuk_gate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c0/%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png/500px-%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/500px-Choksuk_pavillion_in_Jinju_Castel.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jinju_castle-Chosuk_gate.jpg/500px-Jinju_castle-Chosuk_gate.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c0/%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png/500px-%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/500px-Choksuk_pavillion_in_Jinju_Castel.JPG"
     ]
    },
    {
@@ -13155,9 +13155,9 @@ Object.assign(CITY, {
     ],
     "tip": "진주성 관람과 묶어서 보면 동선이 자연스럽다. 실내라 더위·비 오는 날에도 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/500px-The_Jinju_National_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hwcha-Chongtong_Style2.jpg/120px-Hwcha-Chongtong_Style2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hwacha-Shinkigeon_Style.jpg/120px-Hwacha-Shinkigeon_Style.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/500px-The_Jinju_National_Museum.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hwcha-Chongtong_Style2.jpg/120px-Hwcha-Chongtong_Style2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hwacha-Shinkigeon_Style.jpg/120px-Hwacha-Shinkigeon_Style.jpg"
     ]
    },
    {
@@ -13176,9 +13176,9 @@ Object.assign(CITY, {
     ],
     "tip": "10월 초~중순 개최(연도별 일정은 확인 필요). 저녁 인파가 몰리니 촉석루 쪽에서 강 건너로 조망하는 자리도 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/500px-Jinju_namgang_lantern_festival.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Korea-Jinju-Festival-Nam.River-01.jpg/500px-Korea-Jinju-Festival-Nam.River-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jinju_Namgang_Lantern_Festival_20111002_1912.jpg/120px-Jinju_Namgang_Lantern_Festival_20111002_1912.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/500px-Jinju_namgang_lantern_festival.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Korea-Jinju-Festival-Nam.River-01.jpg/500px-Korea-Jinju-Festival-Nam.River-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jinju_Namgang_Lantern_Festival_20111002_1912.jpg/120px-Jinju_Namgang_Lantern_Festival_20111002_1912.jpg"
     ]
    },
    {
@@ -13198,9 +13198,9 @@ Object.assign(CITY, {
     ],
     "tip": "진양호동물원은 아이 동반 가족에게 인기다. 벚꽃철(4월 초)에 가장 붐빈다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jinu_Jinyang_lake.jpg/500px-Jinu_Jinyang_lake.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jinu_Jinyang_lake.jpg/500px-Jinu_Jinyang_lake.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -13220,7 +13220,7 @@ Object.assign(CITY, {
     ],
     "tip": "산자락에 숲체험·휴양 시설이 있어 가족 나들이로 좋다(일부 프로그램은 예약 필요).",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg/500px-Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg/500px-Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg"
     ]
    },
    {
@@ -13240,7 +13240,7 @@ Object.assign(CITY, {
     ],
     "tip": "3~10월은 오전 9시~오후 6시, 겨울엔 오후 5시까지 운영. 봄꽃철과 가을 단풍철이 가장 예쁘다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f1/Gyeongsangnam-do_Arboreta.JPG/500px-Gyeongsangnam-do_Arboreta.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f1/Gyeongsangnam-do_Arboreta.JPG/500px-Gyeongsangnam-do_Arboreta.JPG"
     ]
    },
    {
@@ -13254,8 +13254,8 @@ Object.assign(CITY, {
     "desc": "고려 때 세워져 지금까지 남은 오래된 지방 교육기관이다. 명륜당과 대성전이 옛 배치 그대로 서 있어, 도심 가까운 곳에서 조용한 옛 뜰의 시간을 만난다. 화려하진 않지만 담백한 기와와 마당의 고요가 오래 기억에 남는다.",
     "tip": "상시 개방이지만 제향일 등엔 관람이 제한될 수 있으니 방문 전 확인하면 좋다. 진주성과 묶어 도심 코스로 걷기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jinju_Hyanggyo.jpg/500px-Jinju_Hyanggyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jinju_Hyanggyo_monument.jpg/500px-Jinju_Hyanggyo_monument.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jinju_Hyanggyo.jpg/500px-Jinju_Hyanggyo.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jinju_Hyanggyo_monument.jpg/500px-Jinju_Hyanggyo_monument.jpg"
     ]
    }
   ]
@@ -13285,9 +13285,9 @@ Object.assign(CITY, {
     "tip": "밤 조명 야경이 백미라 늦은 오후에 가는 것을 추천. 밀양역·시청에서 가깝고 인근 공영주차장을 이용한다.",
     "eat": "밀양 돼지국밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Yeongnamru_Miryang_Gyeongsangnamdo.JPG/500px-Yeongnamru_Miryang_Gyeongsangnamdo.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/37/Miryang_yeongnamroo_front.jpg/120px-Miryang_yeongnamroo_front.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/2/26/Miryang_yeongnamroo_office.JPG/120px-Miryang_yeongnamroo_office.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Yeongnamru_Miryang_Gyeongsangnamdo.JPG/500px-Yeongnamru_Miryang_Gyeongsangnamdo.JPG",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/37/Miryang_yeongnamroo_front.jpg/120px-Miryang_yeongnamroo_front.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/2/26/Miryang_yeongnamroo_office.JPG/120px-Miryang_yeongnamroo_office.JPG"
     ]
    },
    {
@@ -13307,7 +13307,7 @@ Object.assign(CITY, {
     "tip": "이팝나무 절정은 보통 4월 말~5월 초로 짧다. 이 시기 새벽·주말엔 사진 인파가 몰린다.",
     "eat": "밀양 얼음골 사과, 인근 한정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -13327,9 +13327,9 @@ Object.assign(CITY, {
     "tip": "얼음은 대략 6~8월이 가장 잘 언다. 케이블카는 얼음골과 별도 요금이며 가을 억새철엔 대기가 길다.",
     "eat": "산내면 얼음골 사과, 어탕국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MY-Eoreumgol-FZone.jpg/500px-MY-Eoreumgol-FZone.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rocky_Eoreumgol_Valley.jpg/500px-Rocky_Eoreumgol_Valley.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg/500px-%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MY-Eoreumgol-FZone.jpg/500px-MY-Eoreumgol-FZone.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rocky_Eoreumgol_Valley.jpg/500px-Rocky_Eoreumgol_Valley.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg/500px-%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg"
     ]
    },
    {
@@ -13349,7 +13349,7 @@ Object.assign(CITY, {
     "tip": "주차장에서 절까지 계곡을 낀 오르막을 걷는다. 매표소 주차료가 있으며 요금은 변동 가능.",
     "eat": "단장면 산채비빔밥, 파전",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miryang_Pyochungsa.png/500px-Miryang_Pyochungsa.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miryang_Pyochungsa.png/500px-Miryang_Pyochungsa.png"
     ]
    },
    {
@@ -13413,7 +13413,7 @@ Object.assign(CITY, {
     ],
     "tip": "정상까지 왕복 1~2시간. 바위길이 미끄러우니 운동화 권장. 유달산 자락에서 목포해상케이블카 북항 승강장으로 이어진다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yudalsan_Mokpo_at_Night.jpg/500px-Yudalsan_Mokpo_at_Night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yudalsan_Mokpo_at_Night.jpg/500px-Yudalsan_Mokpo_at_Night.jpg"
     ]
    },
    {
@@ -13433,7 +13433,7 @@ Object.assign(CITY, {
     ],
     "tip": "왕복권은 유달산·고하도 두 정거장에서 내렸다 다시 탈 수 있다. 바람이 강하면 운행이 멈추므로 당일 운행 여부 확인.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg/500px-%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg/500px-%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg"
     ]
    },
    {
@@ -13453,7 +13453,7 @@ Object.assign(CITY, {
     ],
     "tip": "1관·2관 통합관람권이 있어 함께 보면 편하다. 유달산·근대거리·오거리가 걸어서 이어져 도보 답사에 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg/500px-Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg/500px-Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg"
     ]
    },
    {
@@ -13473,9 +13473,9 @@ Object.assign(CITY, {
     ],
     "tip": "물때에 따라 보이는 모습이 달라진다. 해질 녘과 야간 조명 시간대가 특히 예쁘다. 주변 주차 넉넉한 편.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Korea-Mokpo_Gatbawi_11-01717.JPG/500px-Korea-Mokpo_Gatbawi_11-01717.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Korea-Mokpo_Gatbawi_11-01713.JPG/120px-Korea-Mokpo_Gatbawi_11-01713.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Mokpo_Gatbawi_11-01714.JPG/120px-Korea-Mokpo_Gatbawi_11-01714.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Korea-Mokpo_Gatbawi_11-01717.JPG/500px-Korea-Mokpo_Gatbawi_11-01717.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Korea-Mokpo_Gatbawi_11-01713.JPG/120px-Korea-Mokpo_Gatbawi_11-01713.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Mokpo_Gatbawi_11-01714.JPG/120px-Korea-Mokpo_Gatbawi_11-01714.JPG"
     ]
    },
    {
@@ -13669,9 +13669,9 @@ Object.assign(CITY, {
     "tip": "정상은 한여름에도 바람이 매섭게 차다. 겨울엔 아이젠·방한장비 필수. 곤돌라는 기상·정비에 따라 운휴가 잦으니 당일 운행 여부를 꼭 확인하고 출발한다. 요금은 변동될 수 있다.",
     "eat": "산 아래 구천동 상가에서 산채비빔밥과 어수리·곰취 같은 봄나물 정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/500px-Deogyusan_from_Hyangjeok_Peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg/120px-%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/500px-Deogyusan_from_Hyangjeok_Peak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg/120px-%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg"
     ]
    },
    {
@@ -13708,7 +13708,7 @@ Object.assign(CITY, {
     "tip": "단풍 절정은 대개 10월 말~11월 초로 짧다. 이 시기 정상부 도로는 정체가 심하니 이른 아침에 오르는 편이 낫다.",
     "eat": "무주 읍내의 어죽(민물고기를 곤 얼큰한 죽)과 다슬기수제비.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MJ-JS-JSG14.jpg/500px-MJ-JS-JSG14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MJ-JS-JSG14.jpg/500px-MJ-JS-JSG14.jpg"
     ]
    },
    {
@@ -13728,8 +13728,8 @@ Object.assign(CITY, {
     "tip": "겨울 성수기·주말은 리프트권과 숙소가 빠르게 마감되니 미리 예약한다. 장비·의류는 현장 대여도 가능. 이용료는 시즌과 시간대에 따라 크게 달라진다.",
     "eat": "리조트 인근에서 즐기는 뜨끈한 산채정식과 오미자차.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg/500px-%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MJ-Deogyusan.jpg/500px-MJ-Deogyusan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg/500px-%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MJ-Deogyusan.jpg/500px-MJ-Deogyusan.jpg"
     ]
    },
    {
@@ -13806,9 +13806,9 @@ Object.assign(CITY, {
     "tip": "제1~2관문 왕복만도 넉넉히 두 시간. 오픈세트장은 별도 입장료(성인 약 2,000원, 변동가능). 단풍철 주말은 주차장이 일찍 찬다.",
     "eat": "새재 입구 산채비빔밥과 문경 약돌돼지구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/500px-Saejae_third_gate_backside.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/39/Mungyeongsaejae_a_control_office.jpg/120px-Mungyeongsaejae_a_control_office.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/35/Old_road_museum.jpg/120px-Old_road_museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/500px-Saejae_third_gate_backside.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/39/Mungyeongsaejae_a_control_office.jpg/120px-Mungyeongsaejae_a_control_office.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/35/Old_road_museum.jpg/120px-Old_road_museum.jpg"
     ]
    },
    {
@@ -13865,9 +13865,9 @@ Object.assign(CITY, {
     "tip": "갱도 안은 여름에도 서늘하니 겉옷 하나 챙기면 좋다. 자유이용권과 박물관 단독 관람 요금이 다르니 목적에 맞게 선택.",
     "eat": "가은역 근처 시골 백반과 문경 약돌돼지",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MG-MGCM-En.jpg/500px-MG-MGCM-En.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MG-MGCM-EC1.jpg/960px-MG-MGCM-EC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MG-MGCM-EC2.jpg/960px-MG-MGCM-EC2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MG-MGCM-En.jpg/500px-MG-MGCM-En.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MG-MGCM-EC1.jpg/960px-MG-MGCM-EC1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MG-MGCM-EC2.jpg/960px-MG-MGCM-EC2.jpg"
     ]
    },
    {
@@ -13888,7 +13888,7 @@ Object.assign(CITY, {
     "tip": "정상 등반은 왕복 4~5시간의 본격 산행. 계곡만 볼 거면 주차장에서 20~30분이면 닿는다.",
     "eat": "가은·완장리 일대 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -13909,8 +13909,8 @@ Object.assign(CITY, {
     "tip": "조용한 수행 사찰이니 정숙. 가을 단풍과 이른 아침 안개 낀 풍경이 특히 아름답다.",
     "eat": "산북면 일대 묵밥·산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg/500px-%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg/500px-%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -13930,8 +13930,8 @@ Object.assign(CITY, {
     ],
     "tip": "평상시엔 입구에서 통제되어 들어갈 수 없다. 방문은 반드시 부처님오신날(음력 4월 8일) 개방일에 맞춰야 한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg/500px-%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg/330px-Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg/500px-%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg/330px-Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg"
     ]
    }
   ]
@@ -13960,8 +13960,8 @@ Object.assign(CITY, {
     "tip": "관아 안 '금학헌'은 하룻밤 묵을 수 있는 한옥 숙소로도 운영된다. 읍성 시가지 한복판이라 걸어서 다 돌 수 있다.",
     "eat": "근처 나주곰탕 거리 — 기름기 걷어낸 맑은 국물의 나주곰탕이 원조다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg/500px-%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Najumok_03.JPG/250px-Najumok_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg/500px-%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Najumok_03.JPG/250px-Najumok_03.JPG"
     ]
    },
    {
@@ -13979,7 +13979,7 @@ Object.assign(CITY, {
     ],
     "tip": "봄이면 성벽 주변 벚꽃이 좋다. 읍성이 시가지와 겹쳐 있어 금성관·향교까지 도보로 묶기 편하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Naju_castle_west_gate02.jpg/500px-Naju_castle_west_gate02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Naju_castle_west_gate02.jpg/500px-Naju_castle_west_gate02.jpg"
     ]
    },
    {
@@ -13997,7 +13997,7 @@ Object.assign(CITY, {
     ],
     "tip": "입장 무료, 월요일 휴관. 고분군은 그늘이 적으니 볕 좋은 날엔 모자와 편한 신발을 챙기자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg/500px-Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg/500px-Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg"
     ]
    },
    {
@@ -14063,7 +14063,7 @@ Object.assign(CITY, {
     ],
     "tip": "낮의 역사 여행 뒤 저녁 산책 코스로 붙이기 좋다. 주차 공간이 넉넉하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naju-map1.png/500px-Naju-map1.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naju-map1.png/500px-Naju-map1.png"
     ]
    }
   ]
@@ -14093,9 +14093,9 @@ Object.assign(CITY, {
     "tip": "주말·성수기엔 마을 안 주차가 붐빈다. 아래 공영주차장에 대고 걸어 오르는 편이 편하다.",
     "eat": "독일식 소시지와 수제 맥주, 전망 좋은 마을 카페의 커피.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/500px-German_Village_in_South_Korea_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/German_Village_in_South_Korea_05.jpg/250px-German_Village_in_South_Korea_05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg/250px-German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/500px-German_Village_in_South_Korea_03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/German_Village_in_South_Korea_05.jpg/250px-German_Village_in_South_Korea_05.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg/250px-German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg"
     ]
    },
    {
@@ -14115,9 +14115,9 @@ Object.assign(CITY, {
     "tip": "논 사이 길이 좁고 미끄러우니 편한 신발. 물 담긴 논은 5~6월 모내기 무렵이 가장 예쁘다.",
     "eat": "마을 식당의 멸치쌈밥과 막걸리 한 잔.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg/500px-%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NH-Da-Klgr1.jpg/500px-NH-Da-Klgr1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg/500px-Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg/500px-%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NH-Da-Klgr1.jpg/500px-NH-Da-Klgr1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg/500px-Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg"
     ]
    },
    {
@@ -14136,8 +14136,8 @@ Object.assign(CITY, {
     ],
     "tip": "주차장에서 셔틀 또는 도보 20~30분. 새벽 일출은 어둡고 추우니 방한·조명 준비. 입장·주차 요금은 변동될 수 있으니 방문 전 확인.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Boriam.jpg/500px-Boriam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Boriam.jpg/500px-Boriam.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -14173,7 +14173,7 @@ Object.assign(CITY, {
     ],
     "tip": "관음포 일대는 넓으니 이락사·첨망대·전시관을 정해 동선을 잡는 편이 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg/500px-Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg/500px-Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg"
     ]
    },
    {
@@ -14192,8 +14192,8 @@ Object.assign(CITY, {
     ],
     "tip": "서울 방향에서 남해로 들어오는 관문. 주변에 전망 포인트와 주차 공간이 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Namhae_Bridge-edit.jpg/500px-Namhae_Bridge-edit.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Namhaebridge.jpg/500px-Namhaebridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Namhae_Bridge-edit.jpg/500px-Namhae_Bridge-edit.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Namhaebridge.jpg/500px-Namhaebridge.jpg"
     ]
    },
    {
@@ -14239,7 +14239,7 @@ Object.assign(CITY, {
     "tip": "매년 봄 춘향제 기간엔 야간 조명과 공연이 더해져 붐빈다. 아침 일찍 가면 물안개 낀 정원을 한적하게 걷는다.",
     "eat": "남원 대표 향토음식 추어탕 — 광한루 인근에 오래된 노포가 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/500px-Korea-Nawon-Kwanghanlu2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/500px-Korea-Nawon-Kwanghanlu2.jpg"
     ]
    },
    {
@@ -14257,9 +14257,9 @@ Object.assign(CITY, {
     ],
     "tip": "여름 성수기와 가을 단풍철 주말엔 주차가 크게 붐빈다. 이른 오전 도착을 권한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg"
     ]
    },
    {
@@ -14291,7 +14291,7 @@ Object.assign(CITY, {
      "문학관 언덕에서 노봉마을 내려다보기"
     ],
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg"
     ]
    },
    {
@@ -14323,9 +14323,9 @@ Object.assign(CITY, {
      "들판 길 따라 절로 걸어 들어가기"
     ],
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%8B%A4%EC%83%81%EC%82%AC.jpg/500px-%EC%8B%A4%EC%83%81%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg/250px-Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%8B%A4%EC%83%81%EC%82%AC.jpg/500px-%EC%8B%A4%EC%83%81%EC%82%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg/250px-Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg"
     ]
    },
    {
@@ -14371,9 +14371,9 @@ Object.assign(CITY, {
     "tip": "홈페이지 사전예약 필수 — 예약 없이는 입장이 안 되고, 하루 인원 제한이라 주말은 일찍 마감된다. 휴관일이 있으니 방문 전 운영일을 꼭 확인할 것. 숲은 남양주 진접과 포천 소흘에 걸쳐 있고, 정문·매표소 주소는 포천 쪽이니 길찾기 때 참고할 것.",
     "eat": "수목원 가는 길목의 광릉·봉선사 일대 이동갈비와 한정식집이 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG"
     ]
    },
    {
@@ -14392,7 +14392,7 @@ Object.assign(CITY, {
     ],
     "tip": "국립수목원과 아주 가까워 함께 묶기 좋다. 능은 왕릉 관람 시간이 정해져 있으니 오후 늦게는 피할 것.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%EA%B4%91%EB%A6%89.JPG/500px-%EA%B4%91%EB%A6%89.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%EA%B4%91%EB%A6%89.JPG/500px-%EA%B4%91%EB%A6%89.JPG"
     ]
    },
    {
@@ -14412,7 +14412,7 @@ Object.assign(CITY, {
     ],
     "tip": "차로도 오를 수 있지만 산길이 좁고 가파르다. 운길산역에서 걸어 오르면 한 시간 남짓 등산이 되니, 편한 신발은 필수. 주차 후에도 오르막을 조금 더 걸어야 한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg/330px-%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg/330px-%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg"
     ]
    },
    {
@@ -14432,9 +14432,9 @@ Object.assign(CITY, {
     ],
     "eat": "능내리 일대에서 연잎밥과 붕어찜 같은 강마을 음식을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeong_Yak-yong.jpg/500px-Jeong_Yak-yong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Geojunggi.png/250px-Geojunggi.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mokminsimseo.jpg/500px-Mokminsimseo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeong_Yak-yong.jpg/500px-Jeong_Yak-yong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Geojunggi.png/250px-Geojunggi.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mokminsimseo.jpg/500px-Mokminsimseo.jpg"
     ]
    },
    {
@@ -14453,7 +14453,7 @@ Object.assign(CITY, {
     ],
     "tip": "금곡동 시내에 있어 접근이 쉽다. 능은 관람 시간이 정해져 있고 월요일 휴관이 흔하니 방문 전 확인할 것.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg/500px-%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg/500px-%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg"
     ]
    },
    {
@@ -14518,7 +14518,7 @@ Object.assign(CITY, {
     "tip": "무료 관람. 차로 가까운 명재고택과 묶어 '노성면 한나절 코스'로 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Donam_Seowon.jpg/500px-Donam_Seowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Donam_Seowon.jpg/500px-Donam_Seowon.jpg"
     ]
    },
    {
@@ -14539,7 +14539,7 @@ Object.assign(CITY, {
     "tip": "야간 미디어파사드·분수쇼는 계절·요일별 운영시간이 달라 방문 전 확인이 필요하다. 다리 위는 바람이 세니 겉옷을 챙긴다.",
     "eat": "호수 인근 카페·붕어찜",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg/500px-Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg/500px-Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg"
     ]
    },
    {
@@ -14560,7 +14560,7 @@ Object.assign(CITY, {
     "tip": "10월 강경젓갈축제 기간에 가장 붐빈다. 근대건물은 내부 관람 시간이 제한적이니 미리 확인한다.",
     "eat": "강경젓갈백반, 젓갈정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -14581,7 +14581,7 @@ Object.assign(CITY, {
     "tip": "돈암서원과 차로 가깝다. 후손이 관리하는 살림집이라 예의를 지켜 조용히 관람한다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg/500px-%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg/500px-%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg"
     ]
    },
    {
@@ -14628,7 +14628,7 @@ Object.assign(CITY, {
     "tip": "생가와 문학관은 옛 읍내(구읍)에 나란히 붙어 있어 걸어서 함께 돌기 좋다. 월요일 휴관 여부를 미리 확인한다.",
     "eat": "옥천 명물 생선국수—민물생선을 통째로 갈아 끓인 얼큰한 국물에 국수를 만 향토음식으로, 구읍 일대에 오래된 노포가 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jeong_Ji-yong_stele.jpg/500px-Jeong_Ji-yong_stele.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jeong_Ji-yong_stele.jpg/500px-Jeong_Ji-yong_stele.jpg"
     ]
    },
    {
@@ -14667,7 +14667,7 @@ Object.assign(CITY, {
     "tip": "운무는 날마다 보장되지 않는다—일교차가 크고 맑은 가을~초겨울 새벽에 잘 낀다. 주차 후 계단을 조금 올라가야 하니 손전등을 챙기면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -14705,8 +14705,8 @@ Object.assign(CITY, {
     "tip": "구읍의 정지용 생가·옥천성당과 가까워 걸어서 함께 묶기 좋다. 입장은 무료다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg/500px-%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg/500px-%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg/500px-%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg/500px-%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg"
     ]
    },
    {
@@ -14727,7 +14727,7 @@ Object.assign(CITY, {
     "tip": "규모가 아담해 짧게 보는 곳이니, 부소담악·군북면 코스와 묶으면 동선이 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG/500px-%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG/500px-%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG"
     ]
    },
    {
@@ -14746,7 +14746,7 @@ Object.assign(CITY, {
     "tip": "미사 시간에는 내부 관람이 제한될 수 있으니 외부에서 조용히 둘러본다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg/500px-%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg/500px-%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg"
     ]
    }
   ]
@@ -14797,7 +14797,7 @@ Object.assign(CITY, {
     "tip": "성문 근처까지 차로 오를 수 있어 주차 후 걸으면 코스가 짧다. 노을 무렵 능선에서 보는 조망이 특히 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg/500px-%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg/500px-%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg"
     ]
    },
    {
@@ -14818,9 +14818,9 @@ Object.assign(CITY, {
     "tip": "기념관 관람은 무료, 월요일 휴관. 아이와 함께 근현대사를 이야기하며 걷기 좋은 곳이다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg/500px-20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/20251101_osan_%EA%B8%88%EC%88%B2_34.jpg/500px-20251101_osan_%EA%B8%88%EC%88%B2_34.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg/120px-2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg/500px-20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/20251101_osan_%EA%B8%88%EC%88%B2_34.jpg/500px-20251101_osan_%EA%B8%88%EC%88%B2_34.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg/120px-2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg"
     ]
    },
    {
@@ -14840,7 +14840,7 @@ Object.assign(CITY, {
     "tip": "규모가 크지 않아 잠깐 들르기 좋다. 가까운 독산성과 묶어 반나절 코스로 돌면 알맞다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg/500px-%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg/500px-%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg"
     ]
    },
    {
@@ -14904,9 +14904,9 @@ Object.assign(CITY, {
     "tip": "공원과 임진각 광장은 무료지만 곤돌라는 유료(왕복 약 11,000원, 변동 가능). 주차장 넓고 주말엔 붐빈다. 곤돌라 민통선 탑승은 신분증이 필요할 수 있으니 챙긴다.",
     "eat": "임진강 명물 장어구이와 매운탕. 광장 매점의 옛날 소시지·호떡도 소소한 재미.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/500px-Imjingak_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bridge_of_Freedom_Korea_001.jpg/120px-Bridge_of_Freedom_Korea_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gyeongui_line_imjingang_cheolgyo.jpg/120px-Gyeongui_line_imjingang_cheolgyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/500px-Imjingak_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bridge_of_Freedom_Korea_001.jpg/120px-Bridge_of_Freedom_Korea_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gyeongui_line_imjingang_cheolgyo.jpg/120px-Gyeongui_line_imjingang_cheolgyo.jpg"
     ]
    },
    {
@@ -14926,7 +14926,7 @@ Object.assign(CITY, {
     "tip": "마을 진입은 무료이나 개별 전시관은 각각 입장료를 받는다. 워낙 넓어 편한 신발 필수. 월요일 휴관하는 공간이 많으니 확인하고 간다.",
     "eat": "마을 안 브런치·베이커리 카페가 강점. 파주 콩요리·손두부도 근방에서 만날 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/500px-Art-Service_Studio%2C_Heyri.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/500px-Art-Service_Studio%2C_Heyri.jpg"
     ]
    },
    {
@@ -14946,7 +14946,7 @@ Object.assign(CITY, {
     "tip": "지혜의 숲은 무료 개방(일부 구역 야간까지). 대출은 안 되고 그 자리에서 읽는 공간이다. 헤이리와 차로 10분 거리라 묶어 돌기 좋다.",
     "eat": "아시아출판문화정보센터 안 카페·식당. 근처 프로방스 마을의 이탈리안·베이커리도 가깝다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Paju_Book_City_01logo_%288021612646%29.jpg/500px-Paju_Book_City_01logo_%288021612646%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Paju_Book_City_01logo_%288021612646%29.jpg/500px-Paju_Book_City_01logo_%288021612646%29.jpg"
     ]
    },
    {
@@ -14966,7 +14966,7 @@ Object.assign(CITY, {
     "tip": "입장료 약 3,000원(변동 가능). 주차장에서 전망대까지 무료 셔틀버스가 다닌다. 시야 트인 맑은 날 오전이 조망에 유리하다.",
     "eat": "탄현 일대 손칼국수·장단콩 두부요리. 근처 프로방스 마을에서 식사를 붙이기도 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Odusan_Mt._Unification_Observatory.jpg/500px-Odusan_Mt._Unification_Observatory.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Odusan_Mt._Unification_Observatory.jpg/500px-Odusan_Mt._Unification_Observatory.jpg"
     ]
    },
    {
@@ -15003,8 +15003,8 @@ Object.assign(CITY, {
     "tip": "다리와 탐방로는 무료. 주차장에서 다리까지 완만한 오르막을 조금 걷는다. 겨울 결빙·강풍 시 통제될 수 있으니 확인하고 간다.",
     "eat": "적성면 일대 매운탕과 두부전골. 산행 뒤 파주 장단콩 청국장이 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gamaksan_Bridge_1.jpg/500px-Gamaksan_Bridge_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gamaksan_Bridge_1.jpg/500px-Gamaksan_Bridge_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -15024,9 +15024,9 @@ Object.assign(CITY, {
     "tip": "입장료 약 9,500원(시즌·행사 따라 변동). 봄 튤립·가을 국화, 겨울 조명축제 등 시즌마다 얼굴이 다르다. 넓으니 두세 시간 잡는다.",
     "eat": "수목원 내 카페와 근처 광탄면 손두부·한정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg/120px-20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/241207_bcc_1.jpg/120px-241207_bcc_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg/120px-20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/241207_bcc_1.jpg/120px-241207_bcc_1.jpg"
     ]
    },
    {
@@ -15046,9 +15046,9 @@ Object.assign(CITY, {
     "tip": "개인 자유 출입 불가 — 임진각 DMZ 안보관광(셔틀·투어)을 예약하고 신분증을 꼭 지참한다. 월요일·지정일 휴무가 잦고, 코스별 요금이 다르니 사전 확인 필수.",
     "eat": "투어 출발지 임진각 광장의 장어·매운탕으로 앞뒤를 채운다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dorasan_stationdue.jpg/500px-Dorasan_stationdue.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Korea_DMZ_Train_15_%2814061863659%29.jpg/500px-Korea_DMZ_Train_15_%2814061863659%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Korail_dorasan_station_name_plate.jpg/500px-Korail_dorasan_station_name_plate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dorasan_stationdue.jpg/500px-Dorasan_stationdue.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Korea_DMZ_Train_15_%2814061863659%29.jpg/500px-Korea_DMZ_Train_15_%2814061863659%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Korail_dorasan_station_name_plate.jpg/500px-Korail_dorasan_station_name_plate.jpg"
     ]
    }
   ]
@@ -15078,7 +15078,7 @@ Object.assign(CITY, {
     "tip": "억새가 절정인 10월 주말은 주차장이 금세 찬다. 오전 일찍 도착하는 편이 마음 편하다.",
     "eat": "호수 초입 상가촌의 쏘가리매운탕과 포천 이동갈비.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg/500px-Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg/500px-Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg"
     ]
    },
    {
@@ -15098,9 +15098,9 @@ Object.assign(CITY, {
     "tip": "천주호까지 오르막이 있으니 편한 신발을 권한다. 모노레일은 왕복 별도 요금(약 4,500원)이고 주말엔 대기가 길다.",
     "eat": "포천 대표 먹거리 이동갈비.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_Valley_In_Korea_%2865750913%29.jpeg/500px-Art_Valley_In_Korea_%2865750913%29.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_Valley_In_Korea_%2865750913%29.jpeg/500px-Art_Valley_In_Korea_%2865750913%29.jpeg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG"
     ]
    },
    {
@@ -15120,9 +15120,9 @@ Object.assign(CITY, {
     "tip": "하루 입장 인원을 제한하는 예약제라 방문 전 홈페이지 예약이 필수다. 개방일과 휴원일이 정해져 있으니 예약할 때 함께 확인하는 편이 좋다.",
     "eat": "수목원 인근 광릉숲길의 손두부와 산채정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG"
     ]
    },
    {
@@ -15142,9 +15142,9 @@ Object.assign(CITY, {
     "tip": "협곡 안은 그늘이라 여름에도 서늘하다. 데크 계단이 미끄러울 수 있으니 비 온 뒤엔 조심.",
     "eat": "한탄강 일대의 오리백숙과 매운탕.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg/500px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg/500px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg"
     ]
    },
    {
@@ -15181,7 +15181,7 @@ Object.assign(CITY, {
     "tip": "억새밭까지는 사실상 등산이다. 물과 편한 등산화는 필수, 정상까지 무리하지 말고 억새밭 능선까지만 다녀와도 충분하다.",
     "eat": "하산 후 산정호수 상가촌의 이동갈비와 매운탕.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -15201,8 +15201,8 @@ Object.assign(CITY, {
     "tip": "바람 부는 날은 다리가 제법 흔들린다. 비둘기낭폭포 주차장을 함께 쓰면 두 곳을 한 번에 볼 수 있다.",
     "eat": "한탄강 주변 마을의 손칼국수와 오리요리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png"
     ]
    }
   ]
@@ -15232,9 +15232,9 @@ Object.assign(CITY, {
     "tip": "새해 일출은 인파가 몰려 주차가 매우 붐빈다. 어둡기 전 일찍 도착하고 방한을 단단히. 평일 아침에 가면 한적하게 볼 수 있다.",
     "eat": "물회, 대게, 그리고 겨울이면 인근 구룡포 과메기",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/500px-New_millennium_park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg/120px-%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Homigot_20240113_009.jpg/120px-Homigot_20240113_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/500px-New_millennium_park.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg/120px-%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Homigot_20240113_009.jpg/120px-Homigot_20240113_009.jpg"
     ]
    },
    {
@@ -15254,9 +15254,9 @@ Object.assign(CITY, {
     "tip": "여름 성수기 주말 저녁은 매우 붐빈다. 야경이 목적이면 해질 무렵 도착해 어둠이 내릴 때까지 머무는 편이 좋다.",
     "eat": "해변 포장마차의 회와 조개구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yeongildae_Pavilion_on_September_19th%2C_2016.jpg/500px-Yeongildae_Pavilion_on_September_19th%2C_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg/330px-Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yeongildae_Pavilion_on_September_19th%2C_2016.jpg/500px-Yeongildae_Pavilion_on_September_19th%2C_2016.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg/330px-Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg"
     ]
    },
    {
@@ -15276,7 +15276,7 @@ Object.assign(CITY, {
     "tip": "회를 산 뒤 근처 초장집에서 상차림 비용을 내고 먹는 방식이 흔하다. 가격은 흥정 전 미리 물어보는 게 좋다.",
     "eat": "포항물회, 활어회, 대게, 과메기(겨울)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/Pohang-Jukdosijang_main.jpg/500px-Pohang-Jukdosijang_main.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/Pohang-Jukdosijang_main.jpg/500px-Pohang-Jukdosijang_main.jpg"
     ]
    },
    {
@@ -15296,7 +15296,7 @@ Object.assign(CITY, {
     "tip": "폭포까지는 완만하지만 왕복 몇 시간 걷는 길이라 편한 신발 필수. 문화재관람료는 변동될 수 있으니 방문 전 확인.",
     "eat": "산채비빔밥, 계곡 초입 식당의 파전",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -15316,9 +15316,9 @@ Object.assign(CITY, {
     "tip": "겨울이 과메기 제철이라 골목 곳곳 덕장을 볼 수 있다. 언덕 계단은 다소 가파르니 편한 신발을 권한다.",
     "eat": "구룡포 과메기, 모리국수(포항식 얼큰 해물칼국수)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Guryongpo_Japanese_House_Street_20240113_001.jpg/500px-Guryongpo_Japanese_House_Street_20240113_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guryongpo_Japanese_House_Street_20240113_002.jpg/250px-Guryongpo_Japanese_House_Street_20240113_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Guryongpo_Japanese_House_Street_20240113_003.jpg/250px-Guryongpo_Japanese_House_Street_20240113_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Guryongpo_Japanese_House_Street_20240113_001.jpg/500px-Guryongpo_Japanese_House_Street_20240113_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guryongpo_Japanese_House_Street_20240113_002.jpg/250px-Guryongpo_Japanese_House_Street_20240113_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Guryongpo_Japanese_House_Street_20240113_003.jpg/250px-Guryongpo_Japanese_House_Street_20240113_003.jpg"
     ]
    },
    {
@@ -15360,7 +15360,7 @@ Object.assign(CITY, {
     "tip": "크루즈 요금·운항 시간은 계절과 요일에 따라 달라지니 방문 전 확인. 죽도시장이 걸어갈 거리라 함께 다니기 좋다.",
     "eat": "동빈항·죽도시장의 회와 물회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pohang_Canal_on_January_29th%2C_2017.jpg/500px-Pohang_Canal_on_January_29th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pohang_Canal_on_January_29th%2C_2017.jpg/500px-Pohang_Canal_on_January_29th%2C_2017.jpg"
     ]
    }
   ]
@@ -15407,9 +15407,9 @@ Object.assign(CITY, {
     "tip": "숲길은 평탄해 아이·어르신도 걷기 좋다. 이른 아침이나 비 온 뒤에 안개 낀 숲이 특히 신비롭다.",
     "eat": "진부면 오대산 입구에 산채정식·더덕구이 식당이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%9B%94%EC%A0%95%EC%82%AC1.jpg/500px-%EC%9B%94%EC%A0%95%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG/120px-Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%9B%94%EC%A0%95%EC%82%AC1.jpg/500px-%EC%9B%94%EC%A0%95%EC%82%AC1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG/120px-Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG"
     ]
    },
    {
@@ -15429,9 +15429,9 @@ Object.assign(CITY, {
     "tip": "상원사까지는 차로 오를 수 있어 등산이 부담스러우면 절 주변만 둘러봐도 좋다. 단풍철 주말은 혼잡하니 아침 일찍 움직이자.",
     "eat": "오대산 자락의 곤드레밥과 산채비빔밥이 담백하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG"
     ]
    },
    {
@@ -15451,7 +15451,7 @@ Object.assign(CITY, {
     "tip": "메밀꽃 절정은 9월 초·중순, 이 시기 효석문화제가 열려 가장 붐빈다. 꽃밭은 이슬 맺힌 이른 아침이 가장 곱다.",
     "eat": "봉평은 메밀의 고장 — 메밀막국수와 메밀전병(메밀전)을 꼭 맛보자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg/250px-%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg/250px-%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg"
     ]
    },
    {
@@ -15471,7 +15471,7 @@ Object.assign(CITY, {
     "tip": "회당 인원과 시간이 제한돼 사전 예약이 필수다. 옷·신발이 젖고 흙이 묻으니 여벌 준비를 권한다. 좁은 구간이 있어 폐소공포가 있으면 신중히.",
     "eat": "미탄·평창읍 일대에서 동강 민물매운탕이 별미다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/KOCIS_Baengnyong_Cave_%284811002039%29.jpg/330px-KOCIS_Baengnyong_Cave_%284811002039%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/KOCIS_Baengnyong_Cave_%284811002039%29.jpg/330px-KOCIS_Baengnyong_Cave_%284811002039%29.jpg"
     ]
    },
    {
@@ -15491,9 +15491,9 @@ Object.assign(CITY, {
     "tip": "능선은 바람이 매우 강하고 기온이 낮다. 여름에도 방풍 재킷 필수, 겨울엔 아이젠·방한 완전무장이 필요하다. 안개가 잦으니 맑은 날을 고르자.",
     "eat": "대관령 일대 황태해장국으로 든든하게 속을 풀기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Daegwallyeong3.jpg/500px-Daegwallyeong3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg/330px-%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Daegwallyeong1.jpg/500px-Daegwallyeong1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Daegwallyeong3.jpg/500px-Daegwallyeong3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg/330px-%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Daegwallyeong1.jpg/500px-Daegwallyeong1.jpg"
     ]
    },
    {
@@ -15513,9 +15513,9 @@ Object.assign(CITY, {
     "tip": "정상은 아래보다 훨씬 춥고 바람이 세다 — 계절과 무관하게 겉옷을 챙기자. 겨울엔 스키·스노보드 시즌권 이용객으로 붐빈다.",
     "eat": "리조트 인근 대관령면에서 한우와 오삼불고기가 인기다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg/330px-Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/YongpyeongR2.jpg/500px-YongpyeongR2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/YongpyeongR1.jpg/500px-YongpyeongR1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg/330px-Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/YongpyeongR2.jpg/500px-YongpyeongR2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/YongpyeongR1.jpg/500px-YongpyeongR1.jpg"
     ]
    }
   ]
@@ -15617,7 +15617,7 @@ Object.assign(CITY, {
     "tip": "체험 프로그램은 사전 예약이 안전하다. 평택 도심에서 다소 떨어진 서탄면 외곽이라 차로 가는 편이 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg/330px-%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg/330px-%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg"
     ]
    },
    {
@@ -15656,9 +15656,9 @@ Object.assign(CITY, {
     "tip": "낮보다 저녁~밤에 분위기가 산다. 캠프 험프리스는 국내 최대 규모 미군기지로 내부 출입은 불가, 바깥 거리 산책 위주로 즐기면 된다.",
     "eat": "타코, 버거 같은 미국식 먹거리와 다국적 음식점이 거리를 채운다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/USAGH-CREST.jpg/500px-USAGH-CREST.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chinook-Humphreys.JPG/250px-Chinook-Humphreys.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/USAGH-CREST.jpg/500px-USAGH-CREST.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chinook-Humphreys.JPG/250px-Chinook-Humphreys.JPG"
     ]
    }
   ]
@@ -15721,7 +15721,7 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정은 보통 3월 말~4월 초, 매년 선진리성 일대에서 벚꽃축제가 열린다. 개화 시기는 해마다 조금씩 달라지니 실시간 개화 소식을 확인하고 가면 실패가 없다.",
     "eat": "선진리·용현 일대의 재첩국, 장어구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg/500px-%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg/500px-%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg"
     ]
    },
    {
@@ -15741,7 +15741,7 @@ Object.assign(CITY, {
     "tip": "봄철 차밭의 연둣빛, 가을 단풍이 특히 곱다. 산사라 조용히 예를 갖춰 둘러보는 것이 좋고, 주차는 일주문 아래 공영주차장을 이용한다.",
     "eat": "곤명·완사 일대 산채비빔밥, 손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -15822,8 +15822,8 @@ Object.assign(CITY, {
     "tip": "시내 한복판에 있어 접근이 쉽고 주차장도 넉넉하다. 관람료가 없어 부담 없이 잠깐 들르기 좋다.",
     "eat": "죽서루 인근 삼척 중앙시장에서 곰치국(물곰탕)으로 속을 풀어보길.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg/500px-Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg/500px-%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg/500px-Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg/500px-%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg"
     ]
    },
    {
@@ -15858,9 +15858,9 @@ Object.assign(CITY, {
     "tip": "예약제라 성수기·주말은 일찍 마감된다. 방문 전 예약 여부를 꼭 확인하고, 사진은 못 찍으니 마음으로 담는다는 생각으로.",
     "eat": "환선굴과 같은 대이리 골짜기라 식당촌을 함께 이용하면 된다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hwanseongul.jpg/500px-Hwanseongul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/330px-Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG/330px-%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hwanseongul.jpg/500px-Hwanseongul.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/330px-Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG/330px-%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG"
     ]
    },
    {
@@ -15913,9 +15913,9 @@ Object.assign(CITY, {
     "tip": "폭포로 내려가는 길이 가파르고 미끄러워 편한 등산화가 좋다. 비가 온 뒤엔 수량이 늘어 더 웅장하지만 길이 더 미끄럽다.",
     "eat": "도계 방면 시장에서 강원도식 메밀전병·수수부꾸미로 요기하기.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tongristreamcapture.jpg/500px-Tongristreamcapture.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TongriV1.jpg/500px-TongriV1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TongriV2.jpg/500px-TongriV2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tongristreamcapture.jpg/500px-Tongristreamcapture.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TongriV1.jpg/500px-TongriV1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TongriV2.jpg/500px-TongriV2.jpg"
     ]
    },
    {
@@ -15962,9 +15962,9 @@ Object.assign(CITY, {
     "tip": "당일 왕복은 새벽 산행이 기본이고 체력 소모가 크다. 겨울엔 아이젠·스패츠 필수, 대피소는 국립공원 예약시스템에서 미리 예약한다.",
     "eat": "중산리·시천면 입구의 산채비빔밥과 지리산 흑돼지구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg"
     ]
    },
    {
@@ -16018,9 +16018,9 @@ Object.assign(CITY, {
     "tip": "여름 성수기와 단풍철엔 주차가 붐빈다. 계곡 내 취사·물놀이 통제구간을 미리 확인한다.",
     "eat": "삼장면 일대 산채정식과 손두부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%8C%80%EC%9B%90%EC%82%AC.JPG/330px-%EB%8C%80%EC%9B%90%EC%82%AC.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%8C%80%EC%9B%90%EC%82%AC.JPG/330px-%EB%8C%80%EC%9B%90%EC%82%AC.JPG"
     ]
    },
    {
@@ -16057,8 +16057,8 @@ Object.assign(CITY, {
     "tip": "조용한 유적지이니 능 위에 오르거나 돌을 만지지 않는다. 무료 관람.",
     "eat": "금서면 방면 이동 중 산청 한우·흑돼지",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/9/94/%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg/500px-20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/9/94/%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg/500px-20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg"
     ]
    },
    {
@@ -16105,9 +16105,9 @@ Object.assign(CITY, {
     "tip": "전망대까지 오르막 15~20분이라 편한 신발이 좋다. 아침 물안개와 가을 단풍철이 특히 아름답다.",
     "eat": "상주 한우, 강변 민물매운탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/500px-Gyegoncheondae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sangjunak1.jpg/500px-Sangjunak1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sangjunak2.jpg/500px-Sangjunak2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/500px-Gyegoncheondae.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sangjunak1.jpg/500px-Sangjunak1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sangjunak2.jpg/500px-Sangjunak2.jpg"
     ]
    },
    {
@@ -16181,7 +16181,7 @@ Object.assign(CITY, {
     "tip": "산사라 저녁이 빨리 어둑해진다. 오전에서 한낮 사이 방문을 권한다.",
     "eat": "상주 산채비빔밥, 더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg/500px-%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg/500px-%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg"
     ]
    },
    {
@@ -16249,9 +16249,9 @@ Object.assign(CITY, {
     ],
     "tip": "야간개장 시기엔 조명 켜진 온실 야경이 특별하다. 휴관일·예약 여부는 방문 전 확인.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg"
     ]
    },
    {
@@ -16286,7 +16286,7 @@ Object.assign(CITY, {
     "tip": "입장료는 성인 약 13,000원(변동가능). 겨울(12~2월)엔 관람 시간이 짧아지니 미리 확인.",
     "eat": "원내에 식당과 카페가 있어 하루 나들이로도 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg/500px-%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg/500px-%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg"
     ]
    },
    {
@@ -16304,9 +16304,9 @@ Object.assign(CITY, {
     ],
     "tip": "관람은 사전예약제로 운영되니 청사 안내에 따라 미리 신청하고 신분증을 지참한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Government_of_the_Republic_of_Korea.svg/500px-Flag_of_the_Government_of_the_Republic_of_Korea.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg/500px-Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Government_Complex_Sejong_20190611_Main_Entrance.jpg/500px-Government_Complex_Sejong_20190611_Main_Entrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Government_of_the_Republic_of_Korea.svg/500px-Flag_of_the_Government_of_the_Republic_of_Korea.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg/500px-Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Government_Complex_Sejong_20190611_Main_Entrance.jpg/500px-Government_Complex_Sejong_20190611_Main_Entrance.jpg"
     ]
    },
    {
@@ -16324,8 +16324,8 @@ Object.assign(CITY, {
     ],
     "tip": "호수공원·수목원 사이에 있어 산책 중 잠깐 들르기 좋다. 휴관일은 미리 확인.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sejong_National_Library_east.jpg/500px-Sejong_National_Library_east.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sejong_National_Library%28Main_Hall%29.jpg/500px-Sejong_National_Library%28Main_Hall%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sejong_National_Library_east.jpg/500px-Sejong_National_Library_east.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sejong_National_Library%28Main_Hall%29.jpg/500px-Sejong_National_Library%28Main_Hall%29.jpg"
     ]
    },
    {
@@ -16343,8 +16343,8 @@ Object.assign(CITY, {
     ],
     "tip": "산사라 주차 후 도보 구간이 있다. 가을 단풍철이 특히 아름답다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EB%B9%84%EC%95%94%EC%82%AC.jpg/500px-%EB%B9%84%EC%95%94%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EB%B9%84%EC%95%94%EC%82%AC.jpg/500px-%EB%B9%84%EC%95%94%EC%82%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -16390,7 +16390,7 @@ Object.assign(CITY, {
     "tip": "규모가 커서 반나절 이상 잡는 게 좋다. 여름·주말엔 실내 에코리움이 붐비니 오전 개장 직후가 여유롭다.",
     "eat": "인근 장항·서천 시내에서 서천 특산 박대구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg"
     ]
    },
    {
@@ -16427,7 +16427,7 @@ Object.assign(CITY, {
     "tip": "동백 개화는 3월 말~4월 초로 짧다. 마량리 앞바다 일몰 명소라 오후 늦게 가면 두 가지를 한 번에 담는다.",
     "eat": "인근 홍원항·마량포구에서 제철 회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg"
     ]
    },
    {
@@ -16445,7 +16445,7 @@ Object.assign(CITY, {
     ],
     "tip": "실내라 날씨와 무관. 국립생태원과 차로 가깝게 이어져 하루에 둘 다 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg/500px-Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg/500px-Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg"
     ]
    },
    {
@@ -16540,9 +16540,9 @@ Object.assign(CITY, {
     "tip": "시내에서 가까워 도착 첫날이나 저녁에 들르기 좋다. 진입로가 평탄해 유모차·어르신도 무리 없다.",
     "eat": "근처 서귀포 시내에서 갈치조림·고등어회",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg"
     ]
    },
    {
@@ -16560,9 +16560,9 @@ Object.assign(CITY, {
     "tip": "내려가는 계단이 가파르고 미끄러우니 편한 신발 필수. 비 온 뒤 물줄기가 가장 웅장하다.",
     "eat": "정방폭포 인근에서 한치·전복 요리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jeongbang_Waterfall.jpg/330px-Jeongbang_Waterfall.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg/250px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg/500px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jeongbang_Waterfall.jpg/330px-Jeongbang_Waterfall.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg/250px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg/500px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg"
     ]
    },
    {
@@ -16581,9 +16581,9 @@ Object.assign(CITY, {
     "tip": "제1폭포는 비가 온 뒤에만 물이 흐르는 건천이라, 물줄기를 보려면 비 온 다음 날이 확실하다.",
     "eat": "중문관광단지 주변에서 흑돼지구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg/500px-Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg/500px-Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg"
     ]
    },
    {
@@ -16602,7 +16602,7 @@ Object.assign(CITY, {
     "tip": "무료 개방이고 주차장에서 가깝다. 해질 무렵 역광 실루엣이 특히 아름답다.",
     "eat": "인근 서귀포항 쪽에서 물회·회국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg/500px-%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg/500px-%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg"
     ]
    },
    {
@@ -16621,7 +16621,7 @@ Object.assign(CITY, {
     "tip": "천연기념물이라 절벽 아래로는 내려갈 수 없고 데크에서 감상한다. 바람 강하면 겉옷 챙길 것.",
     "eat": "중문 쪽에서 딱새우회·성게미역국",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jeju_Island_20141128_56.jpg/500px-Jeju_Island_20141128_56.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jeju_Island_20141128_56.jpg/500px-Jeju_Island_20141128_56.jpg"
     ]
    },
    {
@@ -16656,9 +16656,9 @@ Object.assign(CITY, {
     "tip": "카약·테우는 유료이고 기상에 따라 운영이 멈추니 당일 확인. 협곡 위 산책로만 걸어도 충분히 예쁘다.",
     "eat": "하효동 인근에서 보말칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg/500px-%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg/330px-%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg/960px-%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg/500px-%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg/330px-%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg/960px-%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg"
     ]
    },
    {
@@ -16677,9 +16677,9 @@ Object.assign(CITY, {
     "tip": "저녁이면 즉석 먹거리 코너가 붐빈다. 이중섭거리와 바로 이어져 함께 묶어 걷기 좋다.",
     "eat": "시장 안 통갈치조림·마농치킨(마늘치킨)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seogwipo_Maeil_Olle_Market_03.jpg/500px-Seogwipo_Maeil_Olle_Market_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Seogwipo_Maeil_Olle_Market_01.jpg/120px-Seogwipo_Maeil_Olle_Market_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seogwipo_Maeil_Olle_Market_06.jpg/120px-Seogwipo_Maeil_Olle_Market_06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seogwipo_Maeil_Olle_Market_03.jpg/500px-Seogwipo_Maeil_Olle_Market_03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Seogwipo_Maeil_Olle_Market_01.jpg/120px-Seogwipo_Maeil_Olle_Market_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seogwipo_Maeil_Olle_Market_06.jpg/120px-Seogwipo_Maeil_Olle_Market_06.jpg"
     ]
    }
   ]
@@ -16710,7 +16710,7 @@ Object.assign(CITY, {
     "tip": "맥문동 절정은 8월 중순~9월 초로 짧으니 시기를 맞춰 가면 좋다. 무료 개방이고 이천변 주차장이 있다. 5월엔 이 일대에서 참외 축제가 열린다.",
     "eat": "성주의 대표 특산물 참외. 장터와 인근 직판장에서 갓 딴 노란 참외를 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg/500px-%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg/500px-%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg"
     ]
    },
    {
@@ -16729,7 +16729,7 @@ Object.assign(CITY, {
     ],
     "tip": "주차장에서 언덕까지 완만한 오르막이니 편한 신발이 좋다. 그늘이 적어 여름엔 모자·물을 챙기자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg/500px-%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg/500px-%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg"
     ]
    },
    {
@@ -16748,7 +16748,7 @@ Object.assign(CITY, {
     ],
     "tip": "실제 주민이 거주하는 마을이니 사유 공간과 정숙에 유의한다. 근처 포천계곡과 묶어 반나절 코스로 걷기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg/500px-%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg/500px-%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg"
     ]
    },
    {
@@ -16767,7 +16767,7 @@ Object.assign(CITY, {
     ],
     "tip": "규모가 크지 않아 가야산 선비산수길·성주호와 함께 둘러보면 동선이 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg/500px-%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg/500px-%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg"
     ]
    },
    {
@@ -16786,7 +16786,7 @@ Object.assign(CITY, {
     ],
     "tip": "정상부까지 임도로 접근 가능하나 길이 좁고 굽으니 운전에 주의한다. 가을 단풍철 풍경이 특히 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg/500px-%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg/500px-%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg"
     ]
    },
    {
@@ -16805,9 +16805,9 @@ Object.assign(CITY, {
     ],
     "tip": "본격 등산과 호수 산책은 난이도가 크게 다르니 체력에 맞춰 코스를 고른다. 백운동 지구에 야생화식물원 등 편의시설이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GayaSanghwangbong.jpg/500px-GayaSanghwangbong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kayasan01.JPG/120px-Kayasan01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GayaSanghwangbong.jpg/500px-GayaSanghwangbong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kayasan01.JPG/120px-Kayasan01.JPG"
     ]
    }
   ]
@@ -16838,9 +16838,9 @@ Object.assign(CITY, {
     "tip": "산성 안까지 버스·차로 오를 수 있어 초입 체력 부담이 적다. 주말·단풍철엔 주차장이 금세 차니 오전에 도착하는 편이 낫다.",
     "eat": "산성 마을의 백숙·오리·도토리묵 등 산채 정식이 유명하다",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG"
     ]
    },
    {
@@ -16861,9 +16861,9 @@ Object.assign(CITY, {
     "tip": "주차장이 넓어 가족 단위 나들이에 편하다. 벚꽃철 주말은 오전에 가야 여유롭다.",
     "eat": "공원 앞 호수 전망 카페들에서 커피 한 잔 하기 좋다",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg/500px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg/500px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG"
     ]
    },
    {
@@ -16970,9 +16970,9 @@ Object.assign(CITY, {
     "tip": "만조 땐 길이 잠겨 못 들어가니 반드시 물때(간조·만조) 시각을 미리 확인하고 갈 것. 일몰 시각 30분 전엔 도착해야 좋은 자리를 잡는다.",
     "eat": "간월도 특산 어리굴젓과 굴밥. 낙조 보고 나오는 길에 갓 무친 굴 한 접시가 제철이면 최고다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EA%B0%84%EC%9B%94%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EA%B0%84%EC%9B%94%EC%95%94.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg"
     ]
    },
    {
@@ -16992,9 +16992,9 @@ Object.assign(CITY, {
     "tip": "그늘이 적은 넓은 잔디 성터라 여름엔 모자와 물이 필수. 매년 가을 해미읍성 역사체험축제 기간엔 성 안이 조선시대 저잣거리로 바뀐다.",
     "eat": "성 밖 해미 시내의 한우 물국수와 국밥집. 소박하지만 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg/500px-%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haemieupseong_02.JPG/250px-Haemieupseong_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haemieupseong_01.JPG/250px-Haemieupseong_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg/500px-%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haemieupseong_02.JPG/250px-Haemieupseong_02.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haemieupseong_01.JPG/250px-Haemieupseong_01.JPG"
     ]
    },
    {
@@ -17014,9 +17014,9 @@ Object.assign(CITY, {
     "tip": "빛의 방향에 따라 미소가 가장 살아나는 건 오전이라는 이야기가 많다. 흐린 날보다 맑은 날 표정이 또렷하다.",
     "eat": "운산·해미 방면으로 나오면 시골 백반과 손두부집이 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg/500px-%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg/120px-Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG/120px-Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg/500px-%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg/120px-Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG/120px-Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG"
     ]
    },
    {
@@ -17036,9 +17036,9 @@ Object.assign(CITY, {
     "tip": "벚꽃 절정은 4월 하순으로 다른 지역보다 늦다. 주말 개화기엔 진입로가 크게 막히니 이른 아침이 낫다.",
     "eat": "절 입구 주차장 근처의 산채비빔밥과 파전.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg/500px-%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg/250px-%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg/250px-%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg/500px-%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg/250px-%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg/250px-%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg"
     ]
    },
    {
@@ -17058,7 +17058,7 @@ Object.assign(CITY, {
     "tip": "수선화 축제 기간(대개 4월)엔 별도 입장료를 받고 주차가 매우 붐빈다. 개화 상황은 해마다 달라 방문 전 개화 소식을 확인하는 게 좋다.",
     "eat": "인근 서산 시내로 나오면 게국지(꽃게+김치 찌개)와 밀국낙지탕이 유명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg/500px-%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg/500px-%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg"
     ]
    },
    {
@@ -17078,7 +17078,7 @@ Object.assign(CITY, {
     "tip": "군무는 대개 일몰 직전에 펼쳐지므로 겨울철 늦은 오후에 맞춰 가야 한다. 방한복과 망원경(또는 망원렌즈)을 챙길 것.",
     "eat": "천수만 인근에서 나는 대하(가을)와 새조개(겨울) 등 제철 해산물.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seosan_Bird_Land.jpg/500px-Seosan_Bird_Land.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seosan_Bird_Land.jpg/500px-Seosan_Bird_Land.jpg"
     ]
    },
    {
@@ -17098,7 +17098,7 @@ Object.assign(CITY, {
     "tip": "회는 무게로 시세 흥정이라 가격을 미리 물어보고 고르는 게 좋다. 주말 저녁엔 자리가 붐빈다.",
     "eat": "삼길포 우럭회와 우럭젓국(우럭을 말려 끓인 서산식 맑은 국).",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg/500px-%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg/500px-%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg"
     ]
    }
   ]
@@ -17128,9 +17128,9 @@ Object.assign(CITY, {
     "tip": "한복을 입으면 입장료가 무료다. 매주 화요일 휴궁이니 요일을 확인하고 갈 것.",
     "eat": "서촌 통인시장의 기름떡볶이와 엽전도시락, 삼청동 수제비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/500px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg/500px-%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png/500px-%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/500px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg/500px-%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png/500px-%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png"
     ]
    },
    {
@@ -17150,9 +17150,9 @@ Object.assign(CITY, {
     ],
     "tip": "후원은 인원 제한 예약제라 온라인 사전예약이 안전하다. 월요일은 휴궁.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/500px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg/500px-Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg/500px-%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/500px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg/500px-Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg/500px-%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg"
     ]
    },
    {
@@ -17194,9 +17194,9 @@ Object.assign(CITY, {
     ],
     "tip": "일몰 30분 전쯤 오르면 노을과 야경을 한 번에 본다. 남산 순환버스나 케이블카를 이용하면 오르막이 수월하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_Tower_%284394893276%29.jpg/500px-Seoul_Tower_%284394893276%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/N_Seoul_Tower_Panorama_001.jpg/500px-N_Seoul_Tower_Panorama_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/N_Seoul_Tower_Panorama_Night.jpg/500px-N_Seoul_Tower_Panorama_Night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_Tower_%284394893276%29.jpg/500px-Seoul_Tower_%284394893276%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/N_Seoul_Tower_Panorama_001.jpg/500px-N_Seoul_Tower_Panorama_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/N_Seoul_Tower_Panorama_Night.jpg/500px-N_Seoul_Tower_Panorama_Night.jpg"
     ]
    },
    {
@@ -17217,9 +17217,9 @@ Object.assign(CITY, {
     "tip": "저녁 시간대는 자리 경쟁이 치열하다. 현금을 조금 챙겨 가면 편하다.",
     "eat": "녹두빈대떡, 마약김밥, 육회, 순대와 모둠전",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gwangjangmarket_mainentrance.jpg/500px-Gwangjangmarket_mainentrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Korea-Seoul-Gwangjang_Market-01.jpg/250px-Korea-Seoul-Gwangjang_Market-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg/250px-Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gwangjangmarket_mainentrance.jpg/500px-Gwangjangmarket_mainentrance.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Korea-Seoul-Gwangjang_Market-01.jpg/250px-Korea-Seoul-Gwangjang_Market-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg/250px-Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg"
     ]
    },
    {
@@ -17239,9 +17239,9 @@ Object.assign(CITY, {
     ],
     "tip": "밤 조명이 켜진 뒤가 훨씬 인상적이다. 주변 동대문 상가는 늦게까지 열려 야행 코스로 엮기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/500px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ddp_logo.jpg/120px-Ddp_logo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg/120px-Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/500px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ddp_logo.jpg/120px-Ddp_logo.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg/120px-Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg"
     ]
    },
    {
@@ -17261,9 +17261,9 @@ Object.assign(CITY, {
     ],
     "eat": "전통찻집의 쌍화차·대추차, 인사동 골목의 한정식과 수제 만두",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Seoul-Insadong-01.jpg/500px-Seoul-Insadong-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Insadong_Street_in_Seoul.jpg/120px-Insadong_Street_in_Seoul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EC%8C%88%EC%A7%80%EA%B8%B8.jpg/120px-%EC%8C%88%EC%A7%80%EA%B8%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Seoul-Insadong-01.jpg/500px-Seoul-Insadong-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Insadong_Street_in_Seoul.jpg/120px-Insadong_Street_in_Seoul.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EC%8C%88%EC%A7%80%EA%B8%B8.jpg/120px-%EC%8C%88%EC%A7%80%EA%B8%B8.jpg"
     ]
    },
    {
@@ -17283,9 +17283,9 @@ Object.assign(CITY, {
     ],
     "tip": "여름 저녁 산책이 가장 좋다. 비가 많이 온 뒤에는 수량이 불어 산책로가 통제될 수 있으니 확인하고 가자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Seoul_Cheonggyecheon_night.jpg/500px-Seoul_Cheonggyecheon_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korean_Symbol_of_River.svg/330px-Korean_Symbol_of_River.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seoul-Restoration_site_02.jpg/500px-Seoul-Restoration_site_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Seoul_Cheonggyecheon_night.jpg/500px-Seoul_Cheonggyecheon_night.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korean_Symbol_of_River.svg/330px-Korean_Symbol_of_River.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seoul-Restoration_site_02.jpg/500px-Seoul-Restoration_site_02.jpg"
     ]
    }
   ]
@@ -17315,9 +17315,9 @@ Object.assign(CITY, {
     "tip": "주말 저녁은 조개구이집과 주차장이 크게 붐빈다. 4호선 오이도역에서 포구까지는 거리가 있어 마을버스나 택시를 확인하는 편이 좋다.",
     "eat": "조개구이, 바지락칼국수, 굴회덮밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Siheung_October_2014_39.JPG/500px-Siheung_October_2014_39.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Siheung_October_2014_21.JPG/500px-Siheung_October_2014_21.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Siheung_October_2014_06.JPG/500px-Siheung_October_2014_06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Siheung_October_2014_39.JPG/500px-Siheung_October_2014_39.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Siheung_October_2014_21.JPG/500px-Siheung_October_2014_21.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Siheung_October_2014_06.JPG/500px-Siheung_October_2014_06.JPG"
     ]
    },
    {
@@ -17354,9 +17354,9 @@ Object.assign(CITY, {
     "tip": "연꽃은 오전에 활짝 피었다가 한낮엔 오므라든다. 7월 말~8월 초가 절정이며, 성수기 주말엔 주차장이 붐빈다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg/500px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg/500px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg"
     ]
    },
    {
@@ -17437,9 +17437,9 @@ Object.assign(CITY, {
     "tip": "증도대교로 차 진입 가능. 소금박물관·소금동굴 힐링센터도 함께 묶으면 좋다.",
     "eat": "함초무침, 짱뚱어탕, 신안 천일염",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg/500px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg/500px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg"
     ]
    },
    {
@@ -17474,8 +17474,8 @@ Object.assign(CITY, {
     "tip": "목포여객선터미널에서 쾌속선. 천연기념물이라 돌·식물 채집은 금지.",
     "eat": "홍도 자연산 회, 우럭매운탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Hongdo_Island-02.jpg/500px-Korea-Hongdo_Island-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Hongdo-Elephant_Rock_11-02622.JPG/500px-Korea-Hongdo-Elephant_Rock_11-02622.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Hongdo_Island-02.jpg/500px-Korea-Hongdo_Island-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Hongdo-Elephant_Rock_11-02622.JPG/500px-Korea-Hongdo-Elephant_Rock_11-02622.JPG"
     ]
    },
    {
@@ -17494,9 +17494,9 @@ Object.assign(CITY, {
     "tip": "홍도와 묶어 1박 2일 일정이 편하다. 배편은 기상에 따라 결항이 잦으니 확인 필수.",
     "eat": "흑산 홍어삼합, 우럭구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Korea-Heuksando_Island-01.jpg/500px-Korea-Heuksando_Island-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Korea-Heuksando_Island-02.jpg/120px-Korea-Heuksando_Island-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Korea-Heuksando_Island-03.jpg/120px-Korea-Heuksando_Island-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Korea-Heuksando_Island-01.jpg/500px-Korea-Heuksando_Island-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Korea-Heuksando_Island-02.jpg/120px-Korea-Heuksando_Island-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Korea-Heuksando_Island-03.jpg/120px-Korea-Heuksando_Island-03.jpg"
     ]
    },
    {
@@ -17575,9 +17575,9 @@ Object.assign(CITY, {
     "tip": "단풍철 주말은 소공원 주차장이 오전 일찍 마감된다. 케이블카는 현장 대기가 길어 온라인 예매를 권한다.",
     "eat": "설악동 초입 산채비빔밥과 감자전, 하산 후 막걸리 한 잔.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea_Seoraksan.jpg/500px-Korea_Seoraksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg/500px-%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea_Seoraksan.jpg/500px-Korea_Seoraksan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg/500px-%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg"
     ]
    },
    {
@@ -17596,7 +17596,7 @@ Object.assign(CITY, {
     "tip": "막판 철계단이 가파른 왕복 3~4시간 코스다. 미끄럼 방지 신발과 물을 챙기고, 여름 한낮보다 이른 오전이 편하다.",
     "eat": "설악동 상가의 두부전골·산나물 밥상.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg/500px-%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg/500px-%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg"
     ]
    },
    {
@@ -17614,9 +17614,9 @@ Object.assign(CITY, {
     ],
     "tip": "설악산 소공원과 붙어 있어 등산과 묶어 들르기 좋다. 사찰 예법상 법당 안 촬영은 삼간다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Korea-Sinheungsa-02.jpg/500px-Korea-Sinheungsa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a6/%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG/120px-%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sinheungsa_Tong%27ildaebul_20210810_1.jpg/120px-Sinheungsa_Tong%27ildaebul_20210810_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Korea-Sinheungsa-02.jpg/500px-Korea-Sinheungsa-02.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a6/%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG/120px-%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sinheungsa_Tong%27ildaebul_20210810_1.jpg/120px-Sinheungsa_Tong%27ildaebul_20210810_1.jpg"
     ]
    },
    {
@@ -17636,7 +17636,7 @@ Object.assign(CITY, {
     "tip": "갯배는 현금 요금이 편하다. 식사 시간대엔 유명 순대집 대기가 길어 조금 이르거나 늦게 가면 여유롭다.",
     "eat": "아바이순대, 오징어순대, 명태회무침과 가자미식해.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Abai_village_-_5433869814.jpg/500px-Abai_village_-_5433869814.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Abai_village_-_5433869814.jpg/500px-Abai_village_-_5433869814.jpg"
     ]
    },
    {
@@ -17669,7 +17669,7 @@ Object.assign(CITY, {
     ],
     "tip": "둘레 약 8km 평지길이라 자전거로 한 바퀴 돌기 좋다. 바람 잔잔한 아침이 물그림자가 가장 선명하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%EC%98%81%EB%9E%91%ED%98%B8_04.jpg/500px-%EC%98%81%EB%9E%91%ED%98%B8_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%EC%98%81%EB%9E%91%ED%98%B8_04.jpg/500px-%EC%98%81%EB%9E%91%ED%98%B8_04.jpg"
     ]
    },
    {
@@ -17688,9 +17688,9 @@ Object.assign(CITY, {
     "tip": "속초고속버스터미널이 바로 옆이라 접근이 쉽다. 성수기 주말 주차는 붐비니 대중교통이나 도보를 권한다.",
     "eat": "해변 근처 물회와 회국수.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sokcho_Beach_20221209_001.jpg/330px-Sokcho_Beach_20221209_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sokcho_Beach_20221209_009.jpg/330px-Sokcho_Beach_20221209_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sokcho_Beach_20221209_001.jpg/330px-Sokcho_Beach_20221209_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sokcho_Beach_20221209_009.jpg/330px-Sokcho_Beach_20221209_009.jpg"
     ]
    },
    {
@@ -17736,7 +17736,7 @@ Object.assign(CITY, {
     "tip": "단풍 절정(11월 초) 주말은 주차장이 이른 오전에 찬다. 입구에서 강천사까지는 유아차·휠체어도 무리 없는 완만한 길이다.",
     "eat": "산 입구 식당가의 산채비빔밥과 더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -17892,9 +17892,9 @@ Object.assign(CITY, {
     "tip": "시내에서 차로 20~30분 거리이고 순천만·국가정원과 방향이 달라, 동선을 하루 안에서 미리 나눠 잡는 편이 낫다.",
     "eat": "낙안 시골 밥상, 파전과 동동주",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg/500px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg/120px-%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg/120px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg/500px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg/120px-%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg/120px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg"
     ]
    },
    {
@@ -17914,9 +17914,9 @@ Object.assign(CITY, {
     "tip": "선암사와 송광사는 조계산을 넘는 등산로로 이어지지만, 차로 이동하려면 산을 빙 돌아야 해 시간이 꽤 걸린다.",
     "eat": "조계산 보리밥집",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Seonamsa_Iljumun_11-06782.JPG/500px-Seonamsa_Iljumun_11-06782.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Seonamsa_11-06793.JPG/500px-Seonamsa_11-06793.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Seonamsa_Seungseongyo_11-06765.JPG/500px-Seonamsa_Seungseongyo_11-06765.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Seonamsa_Iljumun_11-06782.JPG/500px-Seonamsa_Iljumun_11-06782.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Seonamsa_11-06793.JPG/500px-Seonamsa_11-06793.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Seonamsa_Seungseongyo_11-06765.JPG/500px-Seonamsa_Seungseongyo_11-06765.JPG"
     ]
    },
    {
@@ -17936,9 +17936,9 @@ Object.assign(CITY, {
     "tip": "조계산 반대편 선암사와 하루에 둘 다 보려면 아침 일찍 시작하는 편이 좋다.",
     "eat": "조계산 보리밥, 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg/500px-Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Korea-Songgwangsa-02.jpg/120px-Korea-Songgwangsa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg/500px-Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Korea-Songgwangsa-02.jpg/120px-Korea-Songgwangsa-02.jpg"
     ]
    },
    {
@@ -18002,9 +18002,9 @@ Object.assign(CITY, {
     "tip": "성곽길 자체는 무료로 개방. 오르막이 있으니 편한 신발 필수. 여름 한낮은 그늘이 적어 아침·저녁이 걷기 좋다.",
     "eat": "성곽 아래 행궁동 골목의 옛날 방식 손칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/500px-Bifyu_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hwaseong_Fortress_Map_-_Korean.PNG/500px-Hwaseong_Fortress_Map_-_Korean.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg/500px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/500px-Bifyu_8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hwaseong_Fortress_Map_-_Korean.PNG/500px-Hwaseong_Fortress_Map_-_Korean.PNG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg/500px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg"
     ]
    },
    {
@@ -18024,9 +18024,9 @@ Object.assign(CITY, {
     "tip": "소액의 입장료가 있으며 요금·야간개장 운영시간은 변동될 수 있으니 방문 전 확인. 바로 앞이 행리단길이라 이어서 둘러보기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/6/69/%EC%8B%A0%ED%92%8D%EB%A3%A8.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/6/69/%EC%8B%A0%ED%92%8D%EB%A3%A8.png"
     ]
    },
    {
@@ -18046,8 +18046,8 @@ Object.assign(CITY, {
     "tip": "성곽길 동북쪽에 있어 화홍문·창룡문과 함께 묶어 걷기 좋다. 봄 벚꽃과 가을 단풍철에 특히 붐빈다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/500px-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/120px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/500px-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/120px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg"
     ]
    },
    {
@@ -18084,8 +18084,8 @@ Object.assign(CITY, {
     "tip": "두 호수를 다 돌면 꽤 넓으니 시간 여유를 두자. 자전거 대여로 둘러보면 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gg_08.png/500px-Gg_08.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/120px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gg_08.png/500px-Gg_08.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/120px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg"
     ]
    },
    {
@@ -18105,7 +18105,7 @@ Object.assign(CITY, {
     "tip": "인기 집은 저녁에 줄이 길다. 포장해 방화수류정이나 성곽 아래에서 먹는 사람도 많다. 가격은 약 2만 원대로 가게마다 다르다.",
     "eat": "옛날통닭·왕갈비통닭",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Paldalmun_20240929_001.jpg/500px-Paldalmun_20240929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Paldalmun_20240929_001.jpg/500px-Paldalmun_20240929_001.jpg"
     ]
    },
    {
@@ -18169,8 +18169,8 @@ Object.assign(CITY, {
     "tip": "그늘이 거의 없어 여름 한낮은 덥다. 이른 아침이나 해질 무렵이 걷기 좋고 사진도 잘 나온다.",
     "eat": "원북·이원 일대 바지락 칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sindu_sandhills_image_3.jpg/500px-Sindu_sandhills_image_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sindu_sandhills_image_1.png/500px-Sindu_sandhills_image_1.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sindu_sandhills_image_3.jpg/500px-Sindu_sandhills_image_3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sindu_sandhills_image_1.png/500px-Sindu_sandhills_image_1.png"
     ]
    },
    {
@@ -18190,7 +18190,7 @@ Object.assign(CITY, {
     "tip": "봄 목련철과 가을 단풍철이 가장 예쁘고 붐빈다. 입장 요금은 시즌·구역에 따라 변동될 수 있다.",
     "eat": "천리포·만리포 일대 바지락 칼국수",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg"
     ]
    },
    {
@@ -18210,8 +18210,8 @@ Object.assign(CITY, {
     "tip": "볼거리가 섬 곳곳에 넓게 퍼져 있어 차가 있으면 편하다. 성수기 주말엔 원산안면대교 진입로가 정체된다.",
     "eat": "박속밀국낙지탕, 게국지, 안면도 대하",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Taean-map.png/500px-Taean-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3d/Be-01.jpg/500px-Be-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Taean-map.png/500px-Taean-map.png",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3d/Be-01.jpg/500px-Be-01.jpg"
     ]
    },
    {
@@ -18265,9 +18265,9 @@ Object.assign(CITY, {
     "tip": "코스별 길이와 난도가 달라 국립공원 안내소나 앱에서 미리 확인하는 게 좋다. 물때에 따라 갯벌 구간이 잠긴다.",
     "eat": "우럭젓국, 게국지 등 태안 향토음식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg/120px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gauido_at_Taeanhaean_National_Park_image_4.jpg/120px-Gauido_at_Taeanhaean_National_Park_image_4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg/120px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gauido_at_Taeanhaean_National_Park_image_4.jpg/120px-Gauido_at_Taeanhaean_National_Park_image_4.jpg"
     ]
    }
   ]
@@ -18297,8 +18297,8 @@ Object.assign(CITY, {
     "tip": "겨울엔 아이젠·스패츠 필수. 유일사 주차장은 성수기에 이른 아침 도착해야 자리가 있다.",
     "eat": "태백 한우, 얼큰한 태백 물닭갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Taebaeksan_2016_12_30_winter.jpg/500px-Taebaeksan_2016_12_30_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Taebaeksan_2016_12_30_winter.jpg/500px-Taebaeksan_2016_12_30_winter.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -18317,9 +18317,9 @@ Object.assign(CITY, {
     "tip": "주차장에서 왕복 약 3.2km 흙길이다. 굽 없는 편한 신발로 가는 게 좋다.",
     "eat": "태백 곤드레밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TB-Geomnyongso.jpg/500px-TB-Geomnyongso.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg/500px-%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TB-Geomnyongso1.jpg/500px-TB-Geomnyongso1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TB-Geomnyongso.jpg/500px-TB-Geomnyongso.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg/500px-%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TB-Geomnyongso1.jpg/500px-TB-Geomnyongso1.jpg"
     ]
    },
    {
@@ -18338,8 +18338,8 @@ Object.assign(CITY, {
     "tip": "시내라 접근이 쉽고 주차도 무난하다. 저녁 조명이 켜지면 분위기가 다르다.",
     "eat": "인근 시장의 태백 물닭갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hwangji_the_start.jpg/500px-Hwangji_the_start.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bridge_over_Hwangji.jpg/500px-Bridge_over_Hwangji.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hwangji_the_start.jpg/500px-Hwangji_the_start.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bridge_over_Hwangji.jpg/500px-Bridge_over_Hwangji.jpg"
     ]
    },
    {
@@ -18358,8 +18358,8 @@ Object.assign(CITY, {
     "tip": "인근 고생대자연사박물관과 묶으면 지질 여행이 한결 풍성해진다.",
     "eat": "태백 한우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gumunso.jpg/500px-Gumunso.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg/500px-%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gumunso.jpg/500px-Gumunso.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg/500px-%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg"
     ]
    },
    {
@@ -18394,9 +18394,9 @@ Object.assign(CITY, {
     "tip": "동굴 안이 서늘하니 겉옷을 준비하자. 바닥이 젖어 있어 미끄럽지 않은 신발이 좋다.",
     "eat": "태백 물닭갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TB-YYCave12.jpg/500px-TB-YYCave12.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TB-YYCave1.jpg/500px-TB-YYCave1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TB-YYCave2.jpg/500px-TB-YYCave2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TB-YYCave12.jpg/500px-TB-YYCave12.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TB-YYCave1.jpg/500px-TB-YYCave1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TB-YYCave2.jpg/500px-TB-YYCave2.jpg"
     ]
    },
    {
@@ -18459,9 +18459,9 @@ Object.assign(CITY, {
     "tip": "전용 주차공간이 거의 없어 강구안·문화마당 주변 공영주차장에 대고 걸어 오르는 편이 낫다. 실제 거주지라 이른 아침·늦은 밤 소음은 삼간다.",
     "eat": "언덕 아래 강구안 골목에 충무김밥·꿀빵 가게가 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dongpirang_Village_20190511_03.jpg/330px-Dongpirang_Village_20190511_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dongpirang_Village_20190511_14.jpg/330px-Dongpirang_Village_20190511_14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongpirang_Village_20190511_20.jpg/330px-Dongpirang_Village_20190511_20.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dongpirang_Village_20190511_03.jpg/330px-Dongpirang_Village_20190511_03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dongpirang_Village_20190511_14.jpg/330px-Dongpirang_Village_20190511_14.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongpirang_Village_20190511_20.jpg/330px-Dongpirang_Village_20190511_20.jpg"
     ]
    },
    {
@@ -18482,9 +18482,9 @@ Object.assign(CITY, {
     "tip": "현장 구매만 가능하고 바람이 강하면 운휴하니, 방문 당일 공식 홈페이지에서 운행 여부를 확인한다. 요금은 대인 왕복 약 17,000원 수준으로 변동될 수 있다.",
     "eat": "하부역 인근에 통영 향토 식당과 바다 전망 카페가 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/500px-Tongyeong_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tongyeong_Cable_Car2.jpg/500px-Tongyeong_Cable_Car2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tongyeong_Cable_Car_upper_Station.jpg/500px-Tongyeong_Cable_Car_upper_Station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/500px-Tongyeong_Cable_Car.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tongyeong_Cable_Car2.jpg/500px-Tongyeong_Cable_Car2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tongyeong_Cable_Car_upper_Station.jpg/500px-Tongyeong_Cable_Car_upper_Station.jpg"
     ]
    },
    {
@@ -18504,9 +18504,9 @@ Object.assign(CITY, {
     "tip": "여객선은 하루 운항 편수가 정해져 있어 돌아오는 막배 시간을 꼭 확인해야 발이 묶이지 않는다.",
     "eat": "섬 선착장 주변에 소박한 식당이 있으니 배 시간 전에 요기하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Korea-Tongyeong-Hansan_Island-Overview-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Overview-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Korea-Tongyeong-Hansan_Island-Overview-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Overview-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg"
     ]
    },
    {
@@ -18527,9 +18527,9 @@ Object.assign(CITY, {
     "tip": "등대섬으로 걷는 바닷길은 썰물 때, 하루 두 번 정도만 열린다. 배편과 물때가 어긋나면 건너지 못하니 사전에 시간표를 꼭 확인한다.",
     "eat": "섬 내 매점·식당이 적으니 물과 간식을 챙겨 가는 편이 안전하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Somaemuldo_Island_20190510_03.jpg/500px-Somaemuldo_Island_20190510_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Somaemuldo_Island_20190510_01.jpg/330px-Somaemuldo_Island_20190510_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Somaemuldo_Island_20190510_02.jpg/330px-Somaemuldo_Island_20190510_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Somaemuldo_Island_20190510_03.jpg/500px-Somaemuldo_Island_20190510_03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Somaemuldo_Island_20190510_01.jpg/330px-Somaemuldo_Island_20190510_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Somaemuldo_Island_20190510_02.jpg/330px-Somaemuldo_Island_20190510_02.jpg"
     ]
    },
    {
@@ -18549,9 +18549,9 @@ Object.assign(CITY, {
     "tip": "도심에 있어 동피랑·강구안·중앙시장과 걸어서 함께 돌기 좋다. 입장료는 약 3,000원 수준으로 변동될 수 있다.",
     "eat": "바로 아래 중앙시장에서 충무김밥·꿀빵으로 요기하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg/500px-Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg/500px-Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg"
     ]
    },
    {
@@ -18571,7 +18571,7 @@ Object.assign(CITY, {
     "tip": "중앙시장은 연중무휴에 가깝게 열려 언제든 찾기 좋다. 서호시장 시락국집은 아침 장사가 중심이라 이른 시간에 가는 게 좋다.",
     "eat": "충무김밥(약 7,000원 안팎, 변동), 꿀빵, 시락국, 그리고 제철 굴·멸치·고등어회.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f2/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg/330px-%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f2/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg/330px-%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg"
     ]
    },
    {
@@ -18592,7 +18592,7 @@ Object.assign(CITY, {
     "tip": "무료로 개방되며 도보·자전거로 통행한다. 미륵도(케이블카·달아공원)로 넘어가는 길에 잠깐 들르기 좋다.",
     "eat": "미륵도 쪽으로 나오면 바다 전망 카페와 해산물 식당이 이어진다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tongyeong_Undersea_Tunnel.jpg/500px-Tongyeong_Undersea_Tunnel.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tongyeong_Undersea_Tunnel.jpg/500px-Tongyeong_Undersea_Tunnel.jpg"
     ]
    }
   ]
@@ -18621,7 +18621,7 @@ Object.assign(CITY, {
     "tip": "점심·저녁 피크엔 대기가 길다. 매년 가을에는 부대찌개를 내세운 지역 음식축제가 열리기도 한다.",
     "eat": "부대찌개, 라면사리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Budae_jjigae_%2828587380901%29.jpg/500px-Budae_jjigae_%2828587380901%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Budae_jjigae_%2828587380901%29.jpg/500px-Budae_jjigae_%2828587380901%29.jpg"
     ]
    },
    {
@@ -18669,8 +18669,8 @@ Object.assign(CITY, {
     ],
     "tip": "등산화 권장, 입장료 없음. 계곡 물소리가 좋은 여름과 단풍 물드는 가을이 특히 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -18688,8 +18688,8 @@ Object.assign(CITY, {
     ],
     "tip": "정상부는 바위가 많아 미끄럼 주의. 이른 오전 산행이 조망이 맑다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Suraksan.JPG/500px-Suraksan.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Suraksan.JPG/500px-Suraksan.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -18748,7 +18748,7 @@ Object.assign(CITY, {
     "tip": "바로 옆 정암루·정암철교와 묶어 30분이면 둘러본다. 무료.",
     "eat": "의령 소바(메밀국수)와 쫀득한 망개떡이 읍내 명물.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/500px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/500px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg"
     ]
    },
    {
@@ -18767,7 +18767,7 @@ Object.assign(CITY, {
     "tip": "바로 옆 의병박물관도 함께 보면 좋다. 매년 곽재우 추모행사가 열린다.",
     "eat": "읍내 소바 골목에서 시원한 메밀국수 한 그릇.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg/500px-%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg/500px-%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg"
     ]
    },
    {
@@ -18786,9 +18786,9 @@ Object.assign(CITY, {
     "tip": "입장 무료. 궁류면 산속에 있어 자가용이 편하다.",
     "eat": "내려오는 길, 궁류·의령 읍내에서 한우 국밥이 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Uiryeong_Ilbung-sa.jpg/500px-Uiryeong_Ilbung-sa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UR-IB-BHD1.jpg/500px-UR-IB-BHD1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UR-IB-BHD2.jpg/500px-UR-IB-BHD2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Uiryeong_Ilbung-sa.jpg/500px-Uiryeong_Ilbung-sa.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UR-IB-BHD1.jpg/500px-UR-IB-BHD1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UR-IB-BHD2.jpg/500px-UR-IB-BHD2.jpg"
     ]
    },
    {
@@ -18807,7 +18807,7 @@ Object.assign(CITY, {
     "tip": "무료 개방. 정곡면에 있어 솥바위·읍내와 동선이 자연스럽게 이어진다.",
     "eat": "정곡·의령 읍내의 소바와 망개떡으로 가볍게.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lee_Byung-chul_%28crop%29.jpg/330px-Lee_Byung-chul_%28crop%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lee_Byung-chul_%28crop%29.jpg/330px-Lee_Byung-chul_%28crop%29.jpg"
     ]
    },
    {
@@ -18826,9 +18826,9 @@ Object.assign(CITY, {
     "tip": "정상 가까이 주차장·데크가 있어 짧게도 걸을 수 있다. 한여름에도 서늘한 편.",
     "eat": "산 아래 찰비계곡 근처에서 백숙·닭요리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/UR-HUmt1.jpg/500px-UR-HUmt1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/UR-HUmt2.jpg/500px-UR-HUmt2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/UR-HUmt3.jpg/500px-UR-HUmt3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/UR-HUmt1.jpg/500px-UR-HUmt1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/UR-HUmt2.jpg/500px-UR-HUmt2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/UR-HUmt3.jpg/500px-UR-HUmt3.jpg"
     ]
    },
    {
@@ -18847,8 +18847,8 @@ Object.assign(CITY, {
     "tip": "난이도별 코스가 여러 갈래다. 한우산과 능선으로 이어져 함께 걷기도 한다.",
     "eat": "하산 후 읍내 한우·소바로 든든하게.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/d/d1/%EC%9E%90%EA%B5%B4%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/UR-HUmt5.jpg/500px-UR-HUmt5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/d/d1/%EC%9E%90%EA%B5%B4%EC%82%B0.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/UR-HUmt5.jpg/500px-UR-HUmt5.jpg"
     ]
    },
    {
@@ -18894,9 +18894,9 @@ Object.assign(CITY, {
     "tip": "5월 작약 개화기가 최고 성수기라 주말엔 이른 오전에 가는 게 좋다. 바로 옆 조문국박물관과 함께 묶으면 반나절이 알차다.",
     "eat": "의성마늘을 먹여 키운 '마늘소' 한우, 마늘소갈비",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg"
     ]
    },
    {
@@ -18954,8 +18954,8 @@ Object.assign(CITY, {
     "tip": "마을 안에 있어 조문국 고분군·박물관과 가깝다. 세 곳을 한 동선으로 묶기 좋다.",
     "eat": "탑리 장터 인근 국밥·의성마늘 반찬",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg/500px-Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg/120px-Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg/500px-Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg/120px-Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg"
     ]
    },
    {
@@ -18975,7 +18975,7 @@ Object.assign(CITY, {
     "tip": "가을 단풍철에 숲이 특히 곱다. 만취당은 사람이 사는 고택이니 관람 예절을 지키자.",
     "eat": "의성마늘·마늘한우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg/500px-%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg/500px-%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg"
     ]
    },
    {
@@ -18994,7 +18994,7 @@ Object.assign(CITY, {
     "tip": "2025년 3월 대형 산불로 가운루·연수전 등 주요 전각이 크게 소실돼 복원이 진행 중이다. 방문 전 개방·복원 상황을 꼭 확인할 것.",
     "eat": "단촌 인근 시골 백반, 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Korea-Andong-Gounsa-01.jpg/500px-Korea-Andong-Gounsa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Korea-Andong-Gounsa-01.jpg/500px-Korea-Andong-Gounsa-01.jpg"
     ]
    },
    {
@@ -19013,9 +19013,9 @@ Object.assign(CITY, {
     "tip": "야외 암반이라 비 온 뒤 물이 얕게 고이면 발자국 윤곽이 더 잘 보인다. 그늘이 없어 여름엔 모자와 물을 챙기자.",
     "eat": "의성마늘소 한우, 마늘 요리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg/500px-%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ui-JeoriDino1.jpg/500px-Ui-JeoriDino1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ui-JeoriDinoDK.jpg/500px-Ui-JeoriDinoDK.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg/500px-%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ui-JeoriDino1.jpg/500px-Ui-JeoriDino1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ui-JeoriDinoDK.jpg/500px-Ui-JeoriDinoDK.jpg"
     ]
    }
   ]
@@ -19045,9 +19045,9 @@ Object.assign(CITY, {
     "tip": "주말과 벚꽃철엔 사람이 많고 주차가 붐빈다. 아침 일찍 가면 호수 물안개와 새를 여유롭게 볼 수 있다.",
     "eat": "호숫가 카페에서 차 한 잔 하며 물멍하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wangsong_Lake_%282015-02-01%29.JPG/500px-Wangsong_Lake_%282015-02-01%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wangsong_Reservoir_-_360_-_2012-07-26.jpg/960px-Wangsong_Reservoir_-_360_-_2012-07-26.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg/960px-Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wangsong_Lake_%282015-02-01%29.JPG/500px-Wangsong_Lake_%282015-02-01%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wangsong_Reservoir_-_360_-_2012-07-26.jpg/960px-Wangsong_Reservoir_-_360_-_2012-07-26.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg/960px-Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg"
     ]
    },
    {
@@ -19081,9 +19081,9 @@ Object.assign(CITY, {
     ],
     "tip": "매주 월요일과 공휴일 다음날은 휴관한다. 하절기는 오후 6시, 동절기는 오후 5시까지라 오전에 가는 게 여유롭다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/South_Korea_Railway_Museum_230825_01.jpg/500px-South_Korea_Railway_Museum_230825_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg/500px-%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/87/Korean_Railroad_SL_Moga1_Model.jpg/500px-Korean_Railroad_SL_Moga1_Model.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/South_Korea_Railway_Museum_230825_01.jpg/500px-South_Korea_Railway_Museum_230825_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg/500px-%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/87/Korean_Railroad_SL_Moga1_Model.jpg/500px-Korean_Railroad_SL_Moga1_Model.jpg"
     ]
    },
    {
@@ -19102,9 +19102,9 @@ Object.assign(CITY, {
     ],
     "eat": "예부터 오리백숙·장어구이 같은 보양 음식점이 많고, 전망 좋은 카페가 즐비하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg/500px-%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/500px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baegun_Lake_viewpoint_bridge.jpg/120px-Baegun_Lake_viewpoint_bridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg/500px-%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/500px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baegun_Lake_viewpoint_bridge.jpg/120px-Baegun_Lake_viewpoint_bridge.jpg"
     ]
    },
    {
@@ -19123,9 +19123,9 @@ Object.assign(CITY, {
     ],
     "tip": "산 중턱이라 주차 공간이 넉넉하지 않다. 조용한 사찰이니 예불 시간엔 발걸음을 낮춘다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cheonggyesa_Temple_1.jpg/500px-Cheonggyesa_Temple_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cheonggyesa_Temple_00.jpg/120px-Cheonggyesa_Temple_00.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cheonggyesa_Temple_11.jpg/120px-Cheonggyesa_Temple_11.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cheonggyesa_Temple_1.jpg/500px-Cheonggyesa_Temple_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cheonggyesa_Temple_00.jpg/120px-Cheonggyesa_Temple_00.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cheonggyesa_Temple_11.jpg/120px-Cheonggyesa_Temple_11.jpg"
     ]
    },
    {
@@ -19143,7 +19143,7 @@ Object.assign(CITY, {
     ],
     "tip": "개나리아파트·계원예술대 후문 등 들머리가 여럿이고 대개 한 시간 코스다. 여름엔 물을 넉넉히 챙긴다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    }
   ]
@@ -19172,9 +19172,9 @@ Object.assign(CITY, {
     "tip": "바닥이 젖어 미끄러우니 운동화 필수. 좁은 구간이 있어 큰 배낭은 두고 가는 편이 낫다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%84%B1%EB%A5%98%EA%B5%B4.jpg/500px-%EC%84%B1%EB%A5%98%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Seongnyu09.jpg/500px-Seongnyu09.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seongnyu19.jpg/500px-Seongnyu19.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%84%B1%EB%A5%98%EA%B5%B4.jpg/500px-%EC%84%B1%EB%A5%98%EA%B5%B4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Seongnyu09.jpg/500px-Seongnyu09.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seongnyu19.jpg/500px-Seongnyu19.jpg"
     ]
    },
    {
@@ -19221,8 +19221,8 @@ Object.assign(CITY, {
     ],
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buryeongsa.jpg/500px-Buryeongsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buryeongsa.jpg/500px-Buryeongsa.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png"
     ]
    },
    {
@@ -19249,7 +19249,7 @@ Object.assign(CITY, {
     "tip": "해 뜨는 시간에 맞춰 오르면 정자 너머로 붉게 번지는 바다를 볼 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg/500px-%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg/500px-%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg"
     ]
    },
    {
@@ -19263,7 +19263,7 @@ Object.assign(CITY, {
     "desc": "인공으로 데우지 않고 43℃ 물이 땅에서 그대로 솟는, 국내 유일의 자연용출 온천이다. 약알칼리성 온천수가 신경통·근육통에 좋다고 알려져 겨울철 대게 여행과 짝지어 찾는 사람이 많다. 원탕까지 이어지는 계곡 산책로를 걷다 몸을 담그면, 하루의 피로가 통째로 풀린다.",
     "eat": "온천 나온 뒤 먹는 울진 대게찜 한 상",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Deok-gu_Hot_Spring.jpg/500px-Deok-gu_Hot_Spring.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Deok-gu_Hot_Spring.jpg/500px-Deok-gu_Hot_Spring.jpg"
     ]
    }
   ]
@@ -19292,8 +19292,8 @@ Object.assign(CITY, {
     "tip": "등산화 필수. 안개·비가 잦으니 미끄럼 주의하고, 이른 아침 출발이 좋다.",
     "eat": "하산 후 나리분지에서 산채비빔밥과 씨껍데기술",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ulleung_island_from_above.jpg/500px-Ulleung_island_from_above.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ulleung_island_from_above.jpg/500px-Ulleung_island_from_above.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png"
     ]
    },
    {
@@ -19344,8 +19344,8 @@ Object.assign(CITY, {
     ],
     "tip": "바람이 강한 날이 많다. 데크 계단이 있어 편한 신발 권장.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ulleung_Gwaneumdo_2020OCT.jpg/500px-Ulleung_Gwaneumdo_2020OCT.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Administrative_Map_of_Uleung_Gun.png/500px-Administrative_Map_of_Uleung_Gun.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ulleung_Gwaneumdo_2020OCT.jpg/500px-Ulleung_Gwaneumdo_2020OCT.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Administrative_Map_of_Uleung_Gun.png/500px-Administrative_Map_of_Uleung_Gun.png"
     ]
    },
    {
@@ -19364,7 +19364,7 @@ Object.assign(CITY, {
     "tip": "배편이 날씨에 좌우된다. 입도 인원·시간이 제한될 수 있어 사전 확인 필수.",
     "eat": "죽도 더덕으로 만든 더덕구이·더덕무침",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ulleung_Jukdo_OCT2020.jpg/500px-Ulleung_Jukdo_OCT2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ulleung_Jukdo_OCT2020.jpg/500px-Ulleung_Jukdo_OCT2020.jpg"
     ]
    },
    {
@@ -19382,9 +19382,9 @@ Object.assign(CITY, {
     ],
     "tip": "파도가 높으면 접안 없이 회항한다. 방문 인증서를 받아두면 기념이 된다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dokdo_Photo.jpg/500px-Dokdo_Photo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dokdo_Map_Ko.PNG/500px-Dokdo_Map_Ko.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Location-of-Liancourt-rocks-ko.png/500px-Location-of-Liancourt-rocks-ko.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dokdo_Photo.jpg/500px-Dokdo_Photo.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dokdo_Map_Ko.PNG/500px-Dokdo_Map_Ko.PNG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Location-of-Liancourt-rocks-ko.png/500px-Location-of-Liancourt-rocks-ko.png"
     ]
    },
    {
@@ -19402,7 +19402,7 @@ Object.assign(CITY, {
     ],
     "eat": "저동항 근처 오징어 물회, 따개비밥·홍합밥, 독도새우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jeodong_Fishing_Port_OCT2020.jpg/500px-Jeodong_Fishing_Port_OCT2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jeodong_Fishing_Port_OCT2020.jpg/500px-Jeodong_Fishing_Port_OCT2020.jpg"
     ]
    }
   ]
@@ -19433,9 +19433,9 @@ Object.assign(CITY, {
     "tip": "주차·입장 무료. 출렁다리는 바람 강한 날 통제될 수 있다. 일산해수욕장이 바로 옆이라 함께 묶기 좋다.",
     "eat": "일산동 바닷가 물회·해산물, 동구 대게",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/500px-KU-Dwa2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daewangam_Park.jpg/500px-Daewangam_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Daewangam_Park02.jpg/500px-Daewangam_Park02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/500px-KU-Dwa2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daewangam_Park.jpg/500px-Daewangam_Park.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Daewangam_Park02.jpg/500px-Daewangam_Park02.jpg"
     ]
    },
    {
@@ -19477,9 +19477,9 @@ Object.assign(CITY, {
     "tip": "무료·연중 개방. 도심이라 접근이 쉽다. 여름 대숲은 시원하지만 모기 대비. 태화강역·시내에서 가깝다.",
     "eat": "울산 시내 언양·봉계 한우, 태화강변 카페",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/70/Mugeocheon.JPG/500px-Mugeocheon.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9c/Ulsan_Taehwagang_observatory.JPG/500px-Ulsan_Taehwagang_observatory.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Taehwa_River.jpg/500px-Taehwa_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/70/Mugeocheon.JPG/500px-Mugeocheon.JPG",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9c/Ulsan_Taehwagang_observatory.JPG/500px-Ulsan_Taehwagang_observatory.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Taehwa_River.jpg/500px-Taehwa_River.jpg"
     ]
    },
    {
@@ -19500,9 +19500,9 @@ Object.assign(CITY, {
     "tip": "무료. 암각화는 강 건너라 육안으론 작게 보이니 망원경·박물관 모형을 함께 본다. 물에 잠기는 시기엔 안 보일 수 있다. 주차장에서 숲길을 걸어 들어간다.",
     "eat": "언양 불고기·봉계 한우(차로 20분)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/500px-Bangudae3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg/500px-Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg/250px-Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/500px-Bangudae3.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg/500px-Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg/250px-Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg"
     ]
    },
    {
@@ -19523,9 +19523,9 @@ Object.assign(CITY, {
     "tip": "억새는 10월 중순~말이 절정. 간월재는 임도 트레킹(왕복 3~4시간)이라 등산화 필수. 가을 주말엔 등산객이 크게 몰린다. 배내고개·간월산자연휴양림 쪽에서 오른다.",
     "eat": "언양 미나리·불고기, 배내골 산채정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg"
     ]
    },
    {
@@ -19567,7 +19567,7 @@ Object.assign(CITY, {
     "tip": "무료. 야경이 백미라 일몰 전후가 가장 좋다. 차로 올라가며, 방문 전 전망대 운영시간을 확인한다. 대왕암공원과 같은 동구라 묶기 좋다.",
     "eat": "동구 방어진 회·물회, 꽃바위 해산물",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ulsan_Bridge_over_the_Taehwa_River.jpg/500px-Ulsan_Bridge_over_the_Taehwa_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ulsan_Bridge_over_the_Taehwa_River.jpg/500px-Ulsan_Bridge_over_the_Taehwa_River.jpg"
     ]
    }
   ]
@@ -19597,8 +19597,8 @@ Object.assign(CITY, {
     "tip": "완도항에서 차량을 실을 수 있는 배가 하루 5회 정도. 성수기·주말엔 차량 선적 예약이 빨리 마감되니 미리 예매한다. 섬 안 순환버스나 자전거 대여도 있다.",
     "eat": "전복·톳·바다장어 정식, 청산도 막걸리 한 잔.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cheongsando2.jpg/500px-Cheongsando2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cheongsando2.jpg/500px-Cheongsando2.jpg"
     ]
    },
    {
@@ -19619,8 +19619,8 @@ Object.assign(CITY, {
     "tip": "완도 화흥포항이나 노화도를 경유해 배를 타고 들어간다. 섬 안은 차로 도는 게 편하고, 예송리 갯돌해변도 함께 묶으면 좋다.",
     "eat": "전복죽과 갯것 정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%EC%84%B8%EC%97%B0%EC%A0%95.jpg/500px-%EC%84%B8%EC%97%B0%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bogildo_nakseojae.jpg/500px-Bogildo_nakseojae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%EC%84%B8%EC%97%B0%EC%A0%95.jpg/500px-%EC%84%B8%EC%97%B0%EC%A0%95.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bogildo_nakseojae.jpg/500px-Bogildo_nakseojae.jpg"
     ]
    },
    {
@@ -19684,9 +19684,9 @@ Object.assign(CITY, {
     "tip": "장보고기념관·청해포구 세트장이 근처에 함께 있어 묶어 보기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chunghaejin_02.jpg/500px-Chunghaejin_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chunghaejin_03.jpg/120px-Chunghaejin_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chunghaejin_04.jpg/120px-Chunghaejin_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chunghaejin_02.jpg/500px-Chunghaejin_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chunghaejin_03.jpg/120px-Chunghaejin_03.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chunghaejin_04.jpg/120px-Chunghaejin_04.jpg"
     ]
    },
    {
@@ -19707,7 +19707,7 @@ Object.assign(CITY, {
     "tip": "완도 본섬에서 신지대교로 차로 바로 연결돼 접근이 쉽다. 여름 성수기엔 주차가 붐빈다.",
     "eat": "해변 근처 회·조개구이.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sinji_beach.jpg/500px-Sinji_beach.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sinji_beach.jpg/500px-Sinji_beach.jpg"
     ]
    },
    {
@@ -19755,7 +19755,7 @@ Object.assign(CITY, {
     "tip": "주차장에서 절까지 도보 15~20분, 마지막 구간이 계곡 옆 철계단이라 비 온 뒤엔 미끄럽다. 운동화 권장.",
     "eat": "경천저수지 인근 산채·백반집에서 소박한 시골 한 상.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/316_Geungnakjeon_hall_of_Hwaeomsa.jpg/500px-316_Geungnakjeon_hall_of_Hwaeomsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/316_Geungnakjeon_hall_of_Hwaeomsa.jpg/500px-316_Geungnakjeon_hall_of_Hwaeomsa.jpg"
     ]
    },
    {
@@ -19775,7 +19775,7 @@ Object.assign(CITY, {
     "tip": "입장료 없이 둘러볼 수 있다. 벚꽃 절정(4월 초)엔 주말 진입로가 붐비니 이른 오전이 여유롭다.",
     "eat": "소양면 오성한옥마을 카페거리가 차로 5분 거리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg/500px-%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg/500px-%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg"
     ]
    },
    {
@@ -19795,8 +19795,8 @@ Object.assign(CITY, {
     "tip": "송광사 → 오성한옥마을 → 위봉산성 → 위봉폭포로 이어지는 고갯길 드라이브 코스로 묶으면 좋다. 폭포는 갈수기엔 수량이 준다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg/500px-%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wibong_Falls_in_Wanju.jpg/500px-Wibong_Falls_in_Wanju.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg/500px-%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wibong_Falls_in_Wanju.jpg/500px-Wibong_Falls_in_Wanju.jpg"
     ]
    },
    {
@@ -19913,7 +19913,7 @@ Object.assign(CITY, {
     "tip": "제임스 터렐관과 명상관은 시간 지정 예약제인 경우가 많으니 미리 확인. 야외 동선이 길어 관람에 2시간 이상 잡고, 날씨도 체크할 것.",
     "eat": "관내 카페와 지정면 인근 식당",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Museum_SAN.tif/lossy-page1-500px-Museum_SAN.tif.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Museum_SAN.tif/lossy-page1-500px-Museum_SAN.tif.jpg"
     ]
    },
    {
@@ -19934,9 +19934,9 @@ Object.assign(CITY, {
     "tip": "비로봉까지는 왕복 5~6시간의 급경사라 초심자는 구룡사~세렴폭포 왕복만으로도 충분히 좋다. 겨울엔 결빙이 잦으니 아이젠을 챙길 것.",
     "eat": "구룡사 입구의 산채비빔밥·더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chiaksan_as_seen_from_Birobong_Peak.jpg/500px-Chiaksan_as_seen_from_Birobong_Peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chiaksan_2018.jpg/500px-Chiaksan_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chiaksan_as_seen_from_Birobong_Peak.jpg/500px-Chiaksan_as_seen_from_Birobong_Peak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chiaksan_2018.jpg/500px-Chiaksan_2018.jpg"
     ]
    },
    {
@@ -19979,9 +19979,9 @@ Object.assign(CITY, {
     "tip": "원주중앙시장·미로예술시장이 도보권이라 함께 묶어 걷기 좋다. 시내 중심이라 대중교통 접근도 편하다.",
     "eat": "인근 원주중앙시장과 미로예술시장의 골목 먹거리",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg/500px-Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Back_Garden_of_Gangwongamyeong_in_night.jpg/250px-Back_Garden_of_Gangwongamyeong_in_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Night_view_of_Gangwongamyeong.jpg/250px-Night_view_of_Gangwongamyeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg/500px-Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Back_Garden_of_Gangwongamyeong_in_night.jpg/250px-Back_Garden_of_Gangwongamyeong_in_night.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Night_view_of_Gangwongamyeong.jpg/250px-Night_view_of_Gangwongamyeong.jpg"
     ]
    },
    {
@@ -20045,9 +20045,9 @@ Object.assign(CITY, {
     "tip": "을지전망대와 제4땅굴은 두타연과 마찬가지로 양구통일관에서 출입 신청·신분증이 필요한 안보관광 구역이다. 단체·시간대 운영이 있어 일정을 미리 맞추는 게 좋다.",
     "eat": "일교차 큰 분지에서 자란 해안면 사과, 시래기 정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png/330px-%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png/330px-%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg"
     ]
    },
    {
@@ -20082,7 +20082,7 @@ Object.assign(CITY, {
     "tip": "월요일과 명절 당일은 휴관하는 경우가 많으니 방문 요일을 확인하고, 입장료는 변동될 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg/500px-%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg/500px-%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg"
     ]
    },
    {
@@ -20101,9 +20101,9 @@ Object.assign(CITY, {
     "tip": "호반 도로가 굽이지고 구간이 기니 드라이브로 돌아보기 좋다. 낚시는 지정 구역·시기를 확인한다.",
     "eat": "파로호에서 잡은 민물고기로 끓인 매운탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg"
     ]
    },
    {
@@ -20149,9 +20149,9 @@ Object.assign(CITY, {
     "tip": "그늘이 거의 없는 넓은 개활지라 여름엔 모자·물 필수. 박물관 주차장을 이용하면 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ruin_of_Hoeam-sa.jpg/500px-Ruin_of_Hoeam-sa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ruin_of_Hoeam-sa.jpg/500px-Ruin_of_Hoeam-sa.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG"
     ]
    },
    {
@@ -20187,9 +20187,9 @@ Object.assign(CITY, {
     "tip": "월요일 휴무일 수 있으니 방문 전 개방일 확인. 장흥면에 있어 두리랜드·장흥관광지와 묶기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg/500px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg/500px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg"
     ]
    },
    {
@@ -20285,9 +20285,9 @@ Object.assign(CITY, {
     "tip": "물안개는 일교차가 큰 이른 아침에 가장 짙게 핀다. 주차장에서 강까지 걸어 들어가며, 주말 낮엔 붐비니 해 뜰 무렵이 여유롭다.",
     "eat": "양수리 일대 연잎밥·초계국수, 강변 카페의 커피 한 잔",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG"
     ]
    },
    {
@@ -20308,9 +20308,9 @@ Object.assign(CITY, {
     "tip": "연꽃은 오전에 활짝 피고 한낮엔 오므린다. 이른 시간 방문을 추천하며, 두물머리와 묶어 반나절 코스로 잡으면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG/500px-%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG/500px-%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg"
     ]
    },
    {
@@ -20331,9 +20331,9 @@ Object.assign(CITY, {
     "tip": "단풍 절정 주말은 매우 붐비니 이른 오전 도착이 좋다. 주차 후 절까지 완만한 오르막을 걸어 올라간다.",
     "eat": "용문산관광지 입구의 산채비빔밥·더덕구이, 도토리묵",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG/330px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG/330px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG"
     ]
    },
    {
@@ -20372,7 +20372,7 @@ Object.assign(CITY, {
     "tip": "무료로 개방하며 작은 카페가 있다. 대중교통이 불편해 승용차를 추천하고, 노을 무렵 빛이 특히 곱다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gudun_Station.jpg/500px-Gudun_Station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gudun_Station.jpg/500px-Gudun_Station.jpg"
     ]
    }
   ]
@@ -20402,9 +20402,9 @@ Object.assign(CITY, {
     "tip": "3월 말~4월 초 자장매(홍매화)가 피면 사진 애호가로 붐빈다. 주차는 문화재구역 주차장을 이용한다.",
     "eat": "산문 앞 국밥거리의 소고기국밥, 사찰 인근 산채정식.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Korea-Tongdosa-09.jpg/500px-Korea-Tongdosa-09.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korea-Tongdosa-01.jpg/500px-Korea-Tongdosa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Korea-Tongdosa-09.jpg/500px-Korea-Tongdosa-09.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korea-Tongdosa-01.jpg/500px-Korea-Tongdosa-01.jpg"
     ]
    },
    {
@@ -20439,9 +20439,9 @@ Object.assign(CITY, {
     ],
     "tip": "억새는 10월 중순~11월 초가 절정. 간월재만 왕복하면 배내2주차장 기준 4시간 안팎이다. 산 위는 기온이 낮으니 겉옷을 챙긴다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg"
     ]
    },
    {
@@ -20478,7 +20478,7 @@ Object.assign(CITY, {
     ],
     "tip": "비 온 뒤 수량이 많을 때 물줄기가 가장 웅장하다. 통도사에서 차로 20분 안팎 거리라 함께 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonsung.JPG/500px-Cheonsung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonsung.JPG/500px-Cheonsung.JPG"
     ]
    },
    {
@@ -20539,9 +20539,9 @@ Object.assign(CITY, {
     "tip": "일출을 보려면 이른 새벽에 도착. 주차장에서 걸어 올라가며 여러 전각을 지난다. 바로 이어지는 낙산해수욕장과 묶기 좋다.",
     "eat": "절 아래 낙산 일대에 물회와 활어회 식당이 많다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Naksansa_2215-07_grounds.JPG/500px-Korea-Naksansa_2215-07_grounds.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg/500px-%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Naksansa_2170-07_Shillatap.JPG/500px-Korea-Naksansa_2170-07_Shillatap.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Naksansa_2215-07_grounds.JPG/500px-Korea-Naksansa_2215-07_grounds.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg/500px-%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Naksansa_2170-07_Shillatap.JPG/500px-Korea-Naksansa_2170-07_Shillatap.JPG"
     ]
    },
    {
@@ -20562,7 +20562,7 @@ Object.assign(CITY, {
     "tip": "등대 전망대는 개방 시간이 정해져 있으니 확인. 바로 옆 하조대해수욕장은 서핑·물놀이로 인기.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -20619,7 +20619,7 @@ Object.assign(CITY, {
     "tip": "흘림골 탐방로는 통제·예약제로 운영되는 기간이 있으니 국립공원 공지 확인. 단풍 절정(10월 중순) 주말은 매우 혼잡하다.",
     "eat": "오색지구 산채정식과 가을 송이요리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg/500px-%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg/500px-%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg"
     ]
    },
    {
@@ -20657,9 +20657,9 @@ Object.assign(CITY, {
     "tip": "진입로가 좁고 한적하니 내비 목적지를 정확히 설정. 낙산사와 같은 강현면권이라 동선에 끼우기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG/500px-%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jinjeonsaji_03.JPG/250px-Jinjeonsaji_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jinjeonsaji_04.JPG/250px-Jinjeonsaji_04.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG/500px-%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jinjeonsaji_03.JPG/250px-Jinjeonsaji_03.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jinjeonsaji_04.JPG/250px-Jinjeonsaji_04.JPG"
     ]
    }
   ]
@@ -20688,7 +20688,7 @@ Object.assign(CITY, {
     "tip": "회룡대는 장안사 뒤 가파른 계단을 15분 남짓 올라야 한다. 편한 신발 필수. 여름 장마철엔 뿅뿅다리가 물에 잠길 수 있으니 방문 전 수위 확인.",
     "eat": "용궁면 소재지의 용궁순대가 유명하고, 연탄불에 구운 오징어불고기도 별미다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hoeryongpo.jpg/500px-Hoeryongpo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hoeryongpo.jpg/500px-Hoeryongpo.jpg"
     ]
    },
    {
@@ -20707,7 +20707,7 @@ Object.assign(CITY, {
     "tip": "주말·성수기엔 자리가 붐빈다. 회룡포에서 삼강주막까지 이어지는 강변 녹색길은 걷기 좋은 길로 꼽히니 시간이 되면 함께 걸어볼 것.",
     "eat": "주막에서 직접 부치는 배추전·호박전과 두부, 막걸리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yecheon_Samgang_Jumak.jpg/500px-Yecheon_Samgang_Jumak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yecheon_Samgang_Jumak.jpg/500px-Yecheon_Samgang_Jumak.jpg"
     ]
    },
    {
@@ -20726,9 +20726,9 @@ Object.assign(CITY, {
     "tip": "산 안쪽에 있어 진입로가 굽은 구간이 있으니 운전 주의. 문화재 보호를 위해 윤장대는 직접 돌릴 수 없고 눈으로 감상한다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg/500px-%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg/120px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg/500px-%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg/120px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg"
     ]
    },
    {
@@ -20763,7 +20763,7 @@ Object.assign(CITY, {
     "tip": "금당실마을과 가까워 함께 묶으면 동선이 자연스럽다. 정자 마루 출입은 관리 상황에 따라 제한될 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%EC%B4%88%EA%B0%84%EC%A0%95.jpg/500px-%EC%B4%88%EA%B0%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%EC%B4%88%EA%B0%84%EC%A0%95.jpg/500px-%EC%B4%88%EA%B0%84%EC%A0%95.jpg"
     ]
    },
    {
@@ -20810,9 +20810,9 @@ Object.assign(CITY, {
     "tip": "절 앞 신륵사관광지에 주차장과 먹거리가 잘 정비돼 편하다. 강바람이 세니 가을·겨울엔 겉옷을 챙길 것.",
     "eat": "남한강 민물매운탕과 여주 쌀로 지은 쌀밥 정식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg/500px-%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg/500px-Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg/120px-Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg/500px-%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg/500px-Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg/120px-Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg"
     ]
    },
    {
@@ -20832,9 +20832,9 @@ Object.assign(CITY, {
     "tip": "산책로는 보통 5~10월에 개방한다. 능역이 넓으니 걷기 편한 신발이 좋다. 정식 명칭은 세종·효종 두 능을 합친 '영녕릉'이다.",
     "eat": "능서·세종대왕면 일대의 여주 한정식과 쌀밥",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg/500px-%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sejongjeon.JPG/120px-Sejongjeon.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg/120px-%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg/500px-%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sejongjeon.JPG/120px-Sejongjeon.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg/120px-%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg"
     ]
    },
    {
@@ -20854,9 +20854,9 @@ Object.assign(CITY, {
     "tip": "생가 앞마당이 넓고 한적해 천천히 걷기 좋다. 능현동 일대라 세종대왕릉과 묶어 돌면 동선이 편하다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg/500px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg/500px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg"
     ]
    },
    {
@@ -20876,7 +20876,7 @@ Object.assign(CITY, {
     "tip": "북내면 산자락이라 아주 조용하다. 안내판을 읽으며 천천히 걸으면 폐사지가 한결 깊게 다가온다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg/500px-%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg/500px-%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg"
     ]
    },
    {
@@ -20896,9 +20896,9 @@ Object.assign(CITY, {
     "tip": "정상까지 30~40분 오르막이라 운동화가 필수다. 산 아래 천서리는 막국수촌으로 유명하다.",
     "eat": "천서리 메밀 막국수와 편육",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG/500px-Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG/500px-Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG"
     ]
    },
    {
@@ -20962,8 +20962,8 @@ Object.assign(CITY, {
     "tip": "여름 장마 뒤 수량이 가장 웅장하다. 주차장에서 폭포까지 데크와 전망 엘리베이터가 있어 접근이 편하다.",
     "eat": "인근 연천읍·전곡의 민물어죽과 매운탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaein_Pokpo_180519001.jpg/500px-Jaein_Pokpo_180519001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jaein_Pokpo_180519002.jpg/500px-Jaein_Pokpo_180519002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaein_Pokpo_180519001.jpg/500px-Jaein_Pokpo_180519001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jaein_Pokpo_180519002.jpg/500px-Jaein_Pokpo_180519002.jpg"
     ]
    },
    {
@@ -20982,7 +20982,7 @@ Object.assign(CITY, {
     "tip": "5월 초 연천 전곡리 구석기축제 때는 가족 체험 행사가 많아 붐빈다. 벌판이 넓고 그늘이 적으니 볕 가릴 것과 물을 챙기자.",
     "eat": "전곡시장의 순대와 닭볶음탕",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg/500px-%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg/500px-%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg"
     ]
    },
    {
@@ -21001,7 +21001,7 @@ Object.assign(CITY, {
     ],
     "tip": "꽃밭 절정은 여름(해바라기)과 가을(천일홍)이다. 해질 무렵이 사진 명당이라 주말 일몰 때 사람이 몰린다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Horogoru.jpg/500px-Horogoru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Horogoru.jpg/500px-Horogoru.jpg"
     ]
    },
    {
@@ -21015,7 +21015,7 @@ Object.assign(CITY, {
     "desc": "조선을 세운 이성계가 앞선 왕조 고려의 왕들을 예우해 세운 사당. 태조 왕건을 비롯한 고려 네 임금과 충신 열다섯을 모신다. 아미산 자락, 임진강이 내려다보이는 조용한 언덕에 단정한 전각이 서 있어 왕조가 바뀐 자리의 예(禮)를 조용히 되새기게 한다.",
     "tip": "규모가 크지 않아 호로고루·경순왕릉과 함께 임진강 미산·장남면 코스로 묶어 보기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%EC%88%AD%EC%9D%98%EC%A0%84.jpg/500px-%EC%88%AD%EC%9D%98%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%EC%88%AD%EC%9D%98%EC%A0%84.jpg/500px-%EC%88%AD%EC%9D%98%EC%A0%84.jpg"
     ]
    },
    {
@@ -21045,8 +21045,8 @@ Object.assign(CITY, {
     "desc": "나라를 고려에 넘긴 신라의 마지막 임금 경순왕. 개경에서 생을 마쳐 그의 능은 경주가 아닌 이곳 임진강 가에 남았다. 경주 바깥에 있는 유일한 신라 왕릉이다. 소나무에 둘러싸인 조용한 능 앞에 서면 천 년 왕국의 마지막 장면이 스친다.",
     "tip": "아담하고 고요한 곳이라 오래 머무는 코스는 아니다. 가까운 호로고루·숭의전과 장남·미산면 임진강 나들이로 이어 보자.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/3/30/Sillagyeongsunwangreung.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sillagyeongsunwangreung_front.jpg/120px-Sillagyeongsunwangreung_front.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/3/30/Sillagyeongsunwangreung.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sillagyeongsunwangreung_front.jpg/120px-Sillagyeongsunwangreung_front.jpg"
     ]
    },
    {
@@ -21096,9 +21096,9 @@ Object.assign(CITY, {
     "tip": "천황사·바람폭포 코스는 거리는 짧아도 급경사 철계단이 많아 등산화가 필수다. 단풍 성수기 주말엔 주차장이 일찍 찬다.",
     "eat": "산 아래 마을 식당의 산채한정식과 갓 짜낸 손두부.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wolchulsan_mountain_peak.jpg/500px-Wolchulsan_mountain_peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wol_gu.JPG/500px-Wol_gu.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wolchulsan_mountain_peak.jpg/500px-Wolchulsan_mountain_peak.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wol_gu.JPG/500px-Wol_gu.JPG"
     ]
    },
    {
@@ -21117,8 +21117,8 @@ Object.assign(CITY, {
     ],
     "tip": "벚꽃과 왕인문화축제는 보통 4월 초에 절정이다. 이 시기 주변 도로가 크게 붐비니 이른 아침 방문을 권한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg/330px-%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg/500px-%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg/330px-%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg/500px-%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg"
     ]
    },
    {
@@ -21137,9 +21137,9 @@ Object.assign(CITY, {
     ],
     "tip": "구림마을·왕인박사유적지와 가까워 함께 묶어 돌기 좋고, 템플스테이도 운영한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg/500px-Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg/500px-Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG"
     ]
    },
    {
@@ -21187,7 +21187,7 @@ Object.assign(CITY, {
     "desc": "삼호읍 바닷가 간척지에 들어선 이 서킷은 2010년부터 여러 해 동안 F1 코리아 그랑프리가 열렸던 국제 규격 경주장이다. 굉음을 내며 질주하던 무대는 지금도 각종 모터스포츠 대회와 주행 체험 행사가 열려, 속도를 좋아하는 이들에게는 남도 여행의 색다른 목적지가 된다.",
     "tip": "상시 개방된 관광지가 아니라 대회·행사 일정에 맞춰 방문해야 하니, 방문 전 개최 일정을 반드시 확인한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Korea_international_circuit.svg/330px-Korea_international_circuit.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Korea_international_circuit.svg/330px-Korea_international_circuit.svg.png"
     ]
    }
   ]
@@ -21218,9 +21218,9 @@ Object.assign(CITY, {
     "tip": "산내 암자까지 보려면 반나절이 넘게 걸린다. 단풍철 주말은 주차장이 금세 차니 오전에 도착하는 편이 편하다.",
     "eat": "절 입구 식당가의 산채비빔밥과 더덕구이",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg"
     ]
    },
    {
@@ -21256,9 +21256,9 @@ Object.assign(CITY, {
     ],
     "tip": "은해사에서 차로 가깝다. 관광지가 아니라 수행 도량이니 나한상 관람은 조용히, 사진 촬영 가능 여부는 현장 안내를 따른다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg"
     ]
    },
    {
@@ -21300,7 +21300,7 @@ Object.assign(CITY, {
     ],
     "tip": "옆에 포은 관련 전시관과 조옹대가 함께 있어 묶어 보기 좋다. 노랗게 물드는 가을 은행 단풍철이 가장 예쁘다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png"
     ]
    },
    {
@@ -21363,7 +21363,7 @@ Object.assign(CITY, {
     "tip": "대게는 무게로 값을 매기고 자연산·수입산 시세 차가 크다. 흥정 전에 몇 집을 둘러보고 kg당 가격과 손질비 포함 여부를 확인하는 게 좋다. 주말·성수기 점심때는 대게거리 주차가 붐빈다.",
     "eat": "찜 대게, 대게살 비빔밥, 대게 내장에 밥을 비벼 먹는 마무리.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/500px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/500px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG"
     ]
    },
    {
@@ -21491,9 +21491,9 @@ Object.assign(CITY, {
     "tip": "주차장에서 정자까지 가깝다. 이른 아침이나 해질 무렵 물안개가 낄 때 특히 아름답다.",
     "eat": "황간역 근처 올갱이국(다슬기 해장국)",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg/500px-%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/YD-Wollryubong.jpg/500px-YD-Wollryubong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/YDh-Kwc1.jpg/500px-YDh-Kwc1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg/500px-%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/YD-Wollryubong.jpg/500px-YD-Wollryubong.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/YDh-Kwc1.jpg/500px-YDh-Kwc1.jpg"
     ]
    },
    {
@@ -21511,9 +21511,9 @@ Object.assign(CITY, {
     ],
     "tip": "문수전까지 계단과 비탈길이 있으니 편한 신발이 좋다. 굽이치는 강을 낀 벼랑에 자리한 오래된 고찰이다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%EB%B0%98%EC%95%BC%EC%82%AC1.JPG/500px-%EB%B0%98%EC%95%BC%EC%82%AC1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg/500px-%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%EB%B0%98%EC%95%BC%EC%82%AC1.JPG/500px-%EB%B0%98%EC%95%BC%EC%82%AC1.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg/500px-%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg"
     ]
    },
    {
@@ -21527,9 +21527,9 @@ Object.assign(CITY, {
     "desc": "1950년 여름 피난민이 희생된 노근리 사건의 현장이다. 총탄 자국이 그대로 남은 쌍굴다리와 나란히, 위령탑과 평화기념관이 들어선 공원을 조용히 걷는다. 아픈 역사를 담담히 마주하고 아이와 함께 배우기 좋은 곳이다.",
     "tip": "쌍굴다리는 공원에서 도보로 이어지며, 벽면의 실탄 자국에 표시가 되어 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/No_Gun_Ri_bridge-1960.jpg/500px-No_Gun_Ri_bridge-1960.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korean_refugees_mid-1950.jpg/500px-South_Korean_refugees_mid-1950.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Map_of_NoGeunRi.png/500px-Map_of_NoGeunRi.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/No_Gun_Ri_bridge-1960.jpg/500px-No_Gun_Ri_bridge-1960.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korean_refugees_mid-1950.jpg/500px-South_Korean_refugees_mid-1950.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Map_of_NoGeunRi.png/500px-Map_of_NoGeunRi.png"
     ]
    },
    {
@@ -21662,9 +21662,9 @@ Object.assign(CITY, {
     "tip": "법성포와 나란히 붙어 있어 굴비거리·숲쟁이와 함께 묶어 반나절 코스로 돌기 좋다.",
     "eat": "바로 옆 법성포 굴비정식으로 이어가기 딱 좋은 위치.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg/500px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg/500px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg"
     ]
    },
    {
@@ -21683,7 +21683,7 @@ Object.assign(CITY, {
     "tip": "굴비는 크기·산지에 따라 값 차이가 크다. 참조기 굴비인지 확인하고, 보리굴비는 조금 더 짭조름하다.",
     "eat": "굴비정식·보리굴비 백반이 대표. 짭짤한 굴비 한 마리에 밥 한 공기가 순식간이다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg/500px-%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg/500px-%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg"
     ]
    },
    {
@@ -21745,9 +21745,9 @@ Object.assign(CITY, {
     "tip": "일주문에서 무량수전까지 오르막 도보 15분. 노을이 백미이니 해 지기 한 시간 전에 맞춰 가면 좋다.",
     "eat": "영주 사과와 영주 한우 — 부석면 일대에 사과 과수원이 많다",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg/500px-%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg/500px-%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg/500px-%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg/500px-%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg"
     ]
    },
    {
@@ -21767,9 +21767,9 @@ Object.assign(CITY, {
     "tip": "소수서원·선비촌·소수박물관을 묶은 통합권이 있다. 바로 옆 선비촌과 함께 둘러보면 반나절이 알차다.",
     "eat": "순흥면의 순흥묵밥(태평초) — 메밀묵과 김치를 넣어 끓인 향토음식",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/500px-Sosuseowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sosuseowoninside.jpg/500px-Sosuseowoninside.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg/500px-%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/500px-Sosuseowon.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sosuseowoninside.jpg/500px-Sosuseowoninside.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg/500px-%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg"
     ]
    },
    {
@@ -21789,7 +21789,7 @@ Object.assign(CITY, {
     "tip": "여름 물놀이와 가을 새벽 물안개가 백미다. 마을 입구에 주차하고 도보로 둘러보는 게 정석.",
     "eat": "인근 내성천 은어와 영주 한우",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/7b/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg/330px-%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/7b/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg/330px-%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg"
     ]
    },
    {
@@ -21809,9 +21809,9 @@ Object.assign(CITY, {
     "tip": "5월 말 철쭉철과 겨울 눈꽃철이 성수기. 능선은 바람이 매우 강하니 방풍옷을 꼭 챙긴다.",
     "eat": "풍기읍 인삼과 인삼갈비 — 소백산 자락 풍기가 인삼 주산지",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg"
     ]
    },
    {
@@ -21848,7 +21848,7 @@ Object.assign(CITY, {
     "tip": "주차장에서 폭포까지 가파른 오르막 도보 20분. 한여름에 시원하고, 비 온 뒤 수량이 많을 때가 장관이다.",
     "eat": "풍기 인삼과 풍기 냉면",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Huibang_Waterfall_%282%29.jpg/500px-Huibang_Waterfall_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Huibang_Waterfall_%282%29.jpg/500px-Huibang_Waterfall_%282%29.jpg"
     ]
    }
   ]
@@ -21879,9 +21879,9 @@ Object.assign(CITY, {
     "tip": "나룻배로만 들어갈 수 있어 물이 불면 운항이 멈춘다. 매표 후 배 시간을 확인하고, 여름 오후엔 그늘 진 솔숲이 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg/500px-Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CheongRyeongpo_Eoso.JPG/250px-CheongRyeongpo_Eoso.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Korea_Yeongwol_Sketch_08_%288229312256%29.jpg/120px-Korea_Yeongwol_Sketch_08_%288229312256%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg/500px-Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CheongRyeongpo_Eoso.JPG/250px-CheongRyeongpo_Eoso.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Korea_Yeongwol_Sketch_08_%288229312256%29.jpg/120px-Korea_Yeongwol_Sketch_08_%288229312256%29.jpg"
     ]
    },
    {
@@ -21901,9 +21901,9 @@ Object.assign(CITY, {
     "tip": "조선왕릉으로 유네스코 세계유산에 올라 있다. 청령포와 장릉을 묶어 반나절 코스로 돌기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg/500px-A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg/120px-%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Danjong_jangreung.jpg/120px-Danjong_jangreung.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg/500px-A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg/120px-%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Danjong_jangreung.jpg/120px-Danjong_jangreung.jpg"
     ]
    },
    {
@@ -21924,9 +21924,9 @@ Object.assign(CITY, {
     "tip": "야간 관측은 예약제로 운영될 때가 많으니 미리 확인한다. 정상은 여름 밤에도 서늘하니 겉옷 필수. 날이 흐리면 관측이 취소될 수 있다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg/330px-%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg/120px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg/120px-%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg/330px-%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg/120px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg/120px-%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg"
     ]
    },
    {
@@ -21946,8 +21946,8 @@ Object.assign(CITY, {
     "tip": "주차장에서 전망대까지 도보 15분 남짓 오르막이다. 물안개 낀 이른 아침 풍경이 특히 좋고, 입장은 무료다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg/500px-Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg/120px-%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg/500px-Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg/120px-%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg"
     ]
    },
    {
@@ -21984,8 +21984,8 @@ Object.assign(CITY, {
     "tip": "내부는 계단과 좁은 구간이 많아 편한 신발이 필수다. 연중 서늘하니 겉옷을 챙기면 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gossi_Cave.jpg/330px-Gossi_Cave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gossicave.jpg/500px-Gossicave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gossi_Cave.jpg/330px-Gossi_Cave.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gossicave.jpg/500px-Gossicave.jpg"
     ]
    },
    {
@@ -22005,7 +22005,7 @@ Object.assign(CITY, {
     "tip": "이끼 낀 바위가 미끄러우니 물가에선 조심한다. 여름엔 발 담그기 좋지만 물살 센 구간은 피한다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg/500px-%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg/500px-%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg"
     ]
    },
    {
@@ -22025,7 +22025,7 @@ Object.assign(CITY, {
     "tip": "영월 남동쪽 끝 산골이라 다른 명소와는 거리가 있다. 방향이 가까운 고씨굴과 함께 묶기 좋다.",
     "eat": "",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Korea_Yeongwol_Sketch_01_%288228243829%29.jpg/500px-Korea_Yeongwol_Sketch_01_%288228243829%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Korea_Yeongwol_Sketch_01_%288228243829%29.jpg/500px-Korea_Yeongwol_Sketch_01_%288228243829%29.jpg"
     ]
    }
   ]
@@ -22054,7 +22054,7 @@ Object.assign(CITY, {
     "tip": "7월 중순이면 연못에 연꽃이 피어 가장 아름답다. 규모가 아담하니 천천히 걸으며 봐야 진가가 보인다.",
     "eat": "인근에서 영양고추를 넣은 얼큰한 향토 음식을 맛볼 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%84%9C%EC%84%9D%EC%A7%80.jpg/500px-%EC%84%9C%EC%84%9D%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%84%9C%EC%84%9D%EC%A7%80.jpg/500px-%EC%84%9C%EC%84%9D%EC%A7%80.jpg"
     ]
    },
    {
@@ -22073,8 +22073,8 @@ Object.assign(CITY, {
     "tip": "체험 식사는 예약제로 운영되는 경우가 많으니 방문 전 확인하는 게 좋다.",
     "eat": "《음식디미방》 조리법을 되살린 전통 반가 상차림.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/5/58/Korea-Eumsikdimibang-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-     "https://upload.wikimedia.org/wikipedia/commons/6/64/Korea-Eumsikdimibang-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+     "https://upload.wikimedia.org/wikipedia/commons/5/58/Korea-Eumsikdimibang-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/6/64/Korea-Eumsikdimibang-02.jpg"
     ]
    },
    {
@@ -22107,7 +22107,7 @@ Object.assign(CITY, {
     ],
     "tip": "가을 단풍철에 마을 숲길이 특히 곱다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ac/%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg/500px-%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ac/%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg/500px-%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg"
     ]
    },
    {
@@ -22137,9 +22137,9 @@ Object.assign(CITY, {
     "desc": "입암면 산해리, 반변천이 흐르는 밭 가운데 벽돌 모양으로 다듬은 돌을 층층이 쌓아 올린 오층 모전석탑이 서 있다. 통일신라 때 세워진 것으로 보이며, 1층 몸돌에 불상을 모시던 감실이 남아 있다. 주변에 절터의 흔적만 남아, 탑 하나가 들판을 지키는 풍경이 유독 오래 기억에 남는다.",
     "tip": "찾아가는 길이 한적한 시골길이니 내비게이션에 '봉감모전석탑' 또는 '산해리 오층모전석탑'으로 검색한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg/500px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg/330px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg/120px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg/500px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg/330px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg/120px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg"
     ]
    },
    {
@@ -22184,9 +22184,9 @@ Object.assign(CITY, {
     "tip": "섬 입구까지 걷는 길이 방파제 산책로다. 힘들면 동백열차 이용. 동백은 보통 3~4월이 절정이라 시기를 맞추면 길바닥까지 붉다.",
     "eat": "근처 교동시장·서시장에서 갓김치와 서대회무침",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/500px-Yeosu_Odongdo_20180929_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yeosu_Odongdo_20180929_003.jpg/330px-Yeosu_Odongdo_20180929_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Yeosu_Odongdo_20180929_001.jpg/330px-Yeosu_Odongdo_20180929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/500px-Yeosu_Odongdo_20180929_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yeosu_Odongdo_20180929_003.jpg/330px-Yeosu_Odongdo_20180929_003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Yeosu_Odongdo_20180929_001.jpg/330px-Yeosu_Odongdo_20180929_001.jpg"
     ]
    },
    {
@@ -22206,9 +22206,9 @@ Object.assign(CITY, {
     "tip": "주차장에서 암자까지 가파른 오르막 10~15분. 새해와 주말 성수기는 매우 붐비니 이른 아침을 권한다. 입장료는 변동 가능.",
     "eat": "돌산 갓김치, 돌산 갯장어(하모) 샤부샤부",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/500px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG/120px-The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Banyamun_of_Hyangiram_in_2017.jpg/120px-Banyamun_of_Hyangiram_in_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/500px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG/120px-The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Banyamun_of_Hyangiram_in_2017.jpg/120px-Banyamun_of_Hyangiram_in_2017.jpg"
     ]
    },
    {
@@ -22227,9 +22227,9 @@ Object.assign(CITY, {
     ],
     "tip": "크리스탈 캐빈은 대수가 적어 대기가 길다. 일몰~야간 시간대가 가장 인기라 미리 예약하는 편이 낫다. 요금은 캐빈 종류·왕복 여부에 따라 변동.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Yeosu_cablecar_station_2.jpg/500px-Yeosu_cablecar_station_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yeosu_cablecar_station.jpg/120px-Yeosu_cablecar_station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yeosu_cablecar_station_platform.jpg/120px-Yeosu_cablecar_station_platform.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Yeosu_cablecar_station_2.jpg/500px-Yeosu_cablecar_station_2.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yeosu_cablecar_station.jpg/120px-Yeosu_cablecar_station.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yeosu_cablecar_station_platform.jpg/120px-Yeosu_cablecar_station_platform.jpg"
     ]
    },
    {
@@ -22265,9 +22265,9 @@ Object.assign(CITY, {
     ],
     "tip": "낮보다 밤이 훨씬 예쁘다. 자산공원은 케이블카 승강장과 붙어 있어 케이블카·야경을 한 번에 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dolsan_Bridge_20230501.jpg/500px-Dolsan_Bridge_20230501.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dolsan_bridge_memorial_tower.jpg/120px-Dolsan_bridge_memorial_tower.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg/120px-Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dolsan_Bridge_20230501.jpg/500px-Dolsan_Bridge_20230501.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dolsan_bridge_memorial_tower.jpg/120px-Dolsan_bridge_memorial_tower.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg/120px-Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg"
     ]
    },
    {
@@ -22285,9 +22285,9 @@ Object.assign(CITY, {
     ],
     "tip": "해체·보수 정비로 관람이 제한되는 시기가 있으니 방문 전 개방 여부를 확인하자. 이순신광장과는 도보로 가깝다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg/500px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg/500px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg"
     ]
    },
    {
@@ -22306,9 +22306,9 @@ Object.assign(CITY, {
     ],
     "tip": "빅오쇼는 계절·요일에 따라 운영 여부와 시간이 달라 사전 확인이 필수. 여수엑스포역·오동도와 가까워 도착 첫날 묶기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Big-O.JPG/500px-Big-O.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2012_Yeosu_Expo_Mascot_20180929_001.jpg/500px-2012_Yeosu_Expo_Mascot_20180929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Yeosu_EXPO_gate.jpg/500px-Yeosu_EXPO_gate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Big-O.JPG/500px-Big-O.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2012_Yeosu_Expo_Mascot_20180929_001.jpg/500px-2012_Yeosu_Expo_Mascot_20180929_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Yeosu_EXPO_gate.jpg/500px-Yeosu_EXPO_gate.jpg"
     ]
    }
   ]
@@ -22355,9 +22355,9 @@ Object.assign(CITY, {
     "tip": "국가지정문화재 보유 사찰 관람료가 폐지되어 입장은 무료다. 주차장에서 절까지 완만한 오르막을 걸어야 하니 편한 신발이 낫다.",
     "eat": "절 입구 상가에 산채비빔밥·더덕구이 같은 담백한 사찰 인근 밥집이 모여 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sudeoksa_Daeungjeon_20231224_01.jpg/500px-Sudeoksa_Daeungjeon_20231224_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sudeoksa_Daeungjeon_20231224_01.jpg/500px-Sudeoksa_Daeungjeon_20231224_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg"
     ]
    },
    {
@@ -22377,8 +22377,8 @@ Object.assign(CITY, {
     "tip": "고택과 기념관 모두 무료 관람이다. 마을이 조용하고 그늘이 적으니 한여름엔 모자를 챙기면 좋다.",
     "eat": "신암면 들녘 가까운 곳이라 예산 특산 사과와 제철 농산물을 근처에서 만날 수 있다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kim_Jeong-hui.jpg/330px-Kim_Jeong-hui.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chusa-Buliseonrando-01.jpg/330px-Chusa-Buliseonrando-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kim_Jeong-hui.jpg/330px-Kim_Jeong-hui.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chusa-Buliseonrando-01.jpg/330px-Chusa-Buliseonrando-01.jpg"
     ]
    },
    {
@@ -22398,8 +22398,8 @@ Object.assign(CITY, {
     "tip": "너른 잔디밭에 봉분만 있는 단출한 유적이라 20~30분이면 충분하다. 수덕사·덕산온천과 같은 덕산권이라 묶어 다니기 좋다.",
     "eat": "덕산면 소재지에서 예산 한우나 소머리국밥으로 든든하게 채우기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tomb_of_Prince_Namyeongun_01.jpg/500px-Tomb_of_Prince_Namyeongun_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tomb_of_Prince_Namyeongun_02.jpg/500px-Tomb_of_Prince_Namyeongun_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tomb_of_Prince_Namyeongun_01.jpg/500px-Tomb_of_Prince_Namyeongun_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tomb_of_Prince_Namyeongun_02.jpg/500px-Tomb_of_Prince_Namyeongun_02.jpg"
     ]
    },
    {
@@ -22453,9 +22453,9 @@ Object.assign(CITY, {
     "tip": "무료 관람이며 넓지 않아 1시간이면 충분하다. 덕산면 안에 있어 수덕사·덕산온천과 함께 묶으면 이동이 짧다.",
     "eat": "덕산 소재지의 국밥·백반집에서 소박하게 한 끼 해결하기 좋다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg/500px-%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg/500px-%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg/330px-%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg/500px-%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg/500px-%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg/330px-%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg"
     ]
    },
    {
@@ -22503,9 +22503,9 @@ Object.assign(CITY, {
     "tip": "주말·성수기는 오픈런을 권한다. 공식 앱으로 대기시간을 확인하고 스마트줄서기를 활용하면 동선이 편하다. 주차료는 별도.",
     "eat": "파크 내 축제 먹거리 외에, 나오는 길 포곡읍 쪽 손칼국수·백숙집이 든든하다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg"
     ]
    },
    {
@@ -22526,9 +22526,9 @@ Object.assign(CITY, {
     "tip": "입구에서 공연 시간표를 먼저 확인하고 동선을 짜면 알차다. 여름엔 그늘이 적으니 물과 모자는 필수.",
     "eat": "촌 안 저잣거리의 국밥·파전·동동주가 정취를 더한다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TightropewalkerKoreanFolkVillage.jpg/330px-TightropewalkerKoreanFolkVillage.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HousesKoreanFolkVillage.jpg/120px-HousesKoreanFolkVillage.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Korean.Folk.Village-Minsokchon-07.jpg/120px-Korean.Folk.Village-Minsokchon-07.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TightropewalkerKoreanFolkVillage.jpg/330px-TightropewalkerKoreanFolkVillage.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HousesKoreanFolkVillage.jpg/120px-HousesKoreanFolkVillage.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Korean.Folk.Village-Minsokchon-07.jpg/120px-Korean.Folk.Village-Minsokchon-07.jpg"
     ]
    },
    {
@@ -22549,7 +22549,7 @@ Object.assign(CITY, {
     "tip": "여름 성수기는 요금과 인파가 최고조다. 실내존만 이용하면 사계절 더 저렴하게 즐길 수 있다. 라커·타월은 별도.",
     "eat": "파크 내 스낵바와 푸드코트로 해결. 나오는 길엔 포곡읍 식당가.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg/500px-%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg/500px-%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg"
     ]
    },
    {
@@ -22570,7 +22570,7 @@ Object.assign(CITY, {
     "tip": "백암면 외곽이라 대중교통이 불편해 자차를 권한다. 그늘이 적으니 여름 한낮은 피하는 편이 좋다.",
     "eat": "인근 백암면의 백암순대와 순대국밥이 이 지역 별미로 꼽힌다.",
     "imgs": [
-     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jumong_site_2.jpg/500px-Jumong_site_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jumong_site_2.jpg/500px-Jumong_site_2.jpg"
     ]
    },
    {
