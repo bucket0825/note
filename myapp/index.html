@@ -398,11 +398,8 @@ body{font-family:'Pretendard','Apple SD Gothic Neo',-apple-system,BlinkMacSystem
   <div id="sajuBox"></div>
 </div>
 <!-- 정보 -->
-<div class="scr" id="s-jp" style="padding:0">
-  <iframe src="https://maydly.github.io/note/travel/" title="일본 여행지도 (전국 803곳)" loading="lazy" style="width:100%;height:calc(100dvh - 60px);border:0;display:block;background:#fff"></iframe>
-</div>
-<div class="scr" id="s-kr" style="padding:0">
-  <iframe src="https://maydly.github.io/note/travel-kr/" title="국내 여행지도 (시군 162곳)" loading="lazy" style="width:100%;height:calc(100dvh - 60px);border:0;display:block;background:#fff"></iframe>
+<div class="scr" id="s-travel" style="padding:0">
+  <iframe src="https://maydly.github.io/note/travel/" title="여행지도 (일본 803곳 · 국내 162곳)" loading="lazy" style="width:100%;height:calc(100dvh - 60px);border:0;display:block;background:#fff"></iframe>
 </div>
 <div class="scr" id="s-info" style="padding:0">
   <iframe src="https://maydly.github.io/note/subin/?embed=info" title="정보 (복지·건강·여행·공유)" style="width:100%;height:calc(100dvh - 60px);border:0;display:block;background:#fff"></iframe>
@@ -425,8 +422,7 @@ body{font-family:'Pretendard','Apple SD Gothic Neo',-apple-system,BlinkMacSystem
   <button class="tab" data-t="own" onclick="go('own',this)"><span class="ic">📦</span><span class="lb">보유</span></button>
   <button class="tab" data-t="money" onclick="go('money',this)"><span class="ic">💰</span><span class="lb">가계부</span></button>
   <button class="tab" data-t="shoot" onclick="go('shoot',this)"><span class="ic">📸</span><span class="lb">촬영</span></button>
-  <button class="tab" data-t="jp" onclick="go('jp',this)"><span class="ic">🗾</span><span class="lb">일본</span></button>
-  <button class="tab" data-t="kr" onclick="go('kr',this)"><span class="ic">🇰🇷</span><span class="lb">국내</span></button>
+  <button class="tab" data-t="travel" onclick="go('travel',this)"><span class="ic">🗺️</span><span class="lb">여행</span></button>
   <button class="tab" data-t="src" onclick="go('src',this)"><span class="ic">📎</span><span class="lb">구매처</span></button>
   <button class="tab" data-t="info" onclick="go('info',this)"><span class="ic">📚</span><span class="lb">정보</span></button>
 </div>
@@ -1966,7 +1962,7 @@ function go(id,btn){
   document.querySelectorAll('.scr').forEach(function(s){s.classList.remove('on');});
   document.getElementById('s-'+id).classList.add('on');
   document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});btn.classList.add('on');
-  document.getElementById('fab').style.display=(id==='src'||id==='cal'||id==='jp'||id==='kr'||id==='info')?'none':'';  // 보기 전용 탭
+  document.getElementById('fab').style.display=(id==='src'||id==='cal'||id==='travel'||id==='info')?'none':'';  // 보기 전용 탭
   try{btn.scrollIntoView({inline:'center',block:'nearest'});}catch(e){}
   window.scrollTo(0,0);
 }

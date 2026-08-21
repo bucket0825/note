@@ -1,0 +1,22635 @@
+// 가이드 보강 — 스팟마다 사진 3장 갤러리·설명·할일·팁·먹거리, DAY 없음
+Object.assign(CITY, {
+ "andong": {
+  "nm": "안동",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 청량리에서 KTX-이음으로 약 2시간, 안동역 하차. 부산에서는 고속버스로 약 3시간. 마을·서원은 흩어져 있어 렌터카나 시티투어 버스가 편하다.",
+  "sep": "봄가을이 최고. 4월 벚꽃과 신록, 10~11월 낙동강가 서원의 단풍이 기와지붕과 어우러진다. 여름 밤은 월영교 분수와 달빛이 시원하다.",
+  "mood": "느린 강물과 오래된 기와지붕, 유교의 품격이 그대로 살아 있는 '한국 정신문화의 수도'.",
+  "see": "세계유산 하회마을과 서원들, 낙동강을 건너는 나무다리, 종가의 손맛까지 한자리에 모인 고장.",
+  "spots": [
+   {
+    "name": "안동 하회마을",
+    "rom": "낙동강이 S자로 감싸 안은 600년 종가 마을",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 반나절",
+     "🏯 세계유산",
+     "🎭 탈춤"
+    ],
+    "desc": "낙동강이 마을을 태극 모양으로 휘감아 도는 풍산 류씨 집성촌. 초가와 기와가 흙담 사이로 이어지고, 아직도 사람이 사는 골목엔 밥 짓는 냄새가 난다. 주말이면 장터 마당에서 하회별신굿탈놀이가 벌어져 웃음과 해학이 마당을 가득 채운다.",
+    "todo": [
+     "강가 만송정 솔숲 산책하기",
+     "탈춤 상설공연 시간 맞춰 보기",
+     "충효당·양진당 등 고택 마당 둘러보기"
+    ],
+    "tip": "마을 입구 주차장에서 셔틀버스를 타야 마을까지 들어간다. 실제 주민이 거주하므로 사진 촬영과 문 안쪽 출입은 예의를 지키자.",
+    "eat": "간고등어 정식, 헛제사밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Korea-Andong-Hahoe.Village-02.jpg/500px-Korea-Andong-Hahoe.Village-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Andong-Hahoe_Folk_Village-02.jpg/500px-Korea-Andong-Hahoe_Folk_Village-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Korea-Andong-Hahoe_Folk_Village-04.jpg/500px-Korea-Andong-Hahoe_Folk_Village-04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "부용대",
+    "rom": "하회마을 전체를 발아래 담는 절벽 전망대",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📷 인생사진",
+     "🥾 가벼운 등산"
+    ],
+    "desc": "하회마을 건너편 낙동강 절벽 위에 올라서면, 강이 마을을 감싸 안은 태극 지형이 한눈에 펼쳐진다. 마을 안에서는 결코 볼 수 없는 풍경이라, 하회를 제대로 봤다고 말하려면 이 언덕에 서봐야 한다. 강바람에 소나무가 흔들리고, 발밑으로 유유히 흐르는 물길이 아득하다.",
+    "todo": [
+     "강 건너 하회마을 전경 사진 찍기",
+     "겸암정사·옥연정사 옛 정자 들르기"
+    ],
+    "tip": "하회마을에서 나룻배를 타거나 차로 강 건너 돌아가야 한다. 정상까지 10~15분 오르막이니 편한 신발 권장."
+   },
+   {
+    "name": "안동 도산서원",
+    "rom": "퇴계 이황의 학문이 깃든 세계유산 서원",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간",
+     "🏯 세계유산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "퇴계 이황이 제자를 가르치던 자리에, 그의 학문을 기려 세운 조선 최고의 서원. 낙동강이 내려다보이는 언덕에 낮고 단정한 건물들이 층층이 앉아 있어, 화려함 대신 선비의 절제가 그대로 느껴진다. 옛 천원권 지폐 속 그 풍경이 눈앞에 펼쳐진다.",
+    "todo": [
+     "강 건너 시사단 전경 바라보기",
+     "퇴계 친필 현판과 서고 둘러보기"
+    ],
+    "tip": "선성수상길(예끼마을 물 위 부교)이 가까워 함께 묶어 다니기 좋다.",
+    "eat": "안동식혜, 건진국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG/500px-Korea-Andong-Dosan_Seowon_3025-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dosanseowon1.jpg/500px-Dosanseowon1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jeong_Seon-Dosan_Seowon.jpg/500px-Jeong_Seon-Dosan_Seowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안동 병산서원",
+    "rom": "만대루에서 강산을 통째로 액자에 담는 서원",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🏯 세계유산",
+     "📷 만대루 뷰"
+    ],
+    "desc": "서애 류성룡을 기리는 서원으로, 낙동강과 병풍 같은 절벽을 마주 보고 앉아 있다. 기둥만 있고 벽이 없는 누각 만대루에 오르면, 일곱 칸 기둥 사이사이로 강과 산이 마치 병풍 그림처럼 걸린다. 한국 건축의 '차경(借景)'을 몸으로 느끼는 자리.",
+    "todo": [
+     "만대루 마루에 앉아 강산 풍경 감상하기",
+     "배롱나무 꽃 필 때(여름) 맞춰 가기"
+    ],
+    "tip": "하회마을에서 가깝지만 진입로가 좁고 비포장 구간이 있다. 주말엔 셔틀 운행 여부를 미리 확인하자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg/500px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90_%EB%A7%8C%EB%8C%80%EB%A3%A8_%ED%98%84%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg/330px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "월영교",
+    "rom": "달빛 위를 걷는 국내 최장 목책 인도교",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🌙 야경 명소",
+     "⛲ 분수쇼"
+    ],
+    "desc": "안동호를 가로지르는 387m 길이의 나무다리. 먼저 떠난 남편을 위해 머리카락으로 미투리를 지은 조선 여인의 애틋한 사연이 서려 있어, 다리 한가운데 월영정에 서면 이야기가 더 깊어진다. 해 지면 다리에 불이 들어오고 물 위로 분수가 솟아, 밤 산책이 특히 아름답다.",
+    "todo": [
+     "해 질 녘 야경과 분수쇼 보기",
+     "다리 건너 안동민속촌까지 걸어보기"
+    ],
+    "tip": "분수는 계절·시간대별로 가동 시간이 정해져 있으니 도착 전 확인. 여름 밤이 가장 시원하고 붐빈다.",
+    "eat": "안동찜닭, 마약옥수수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/500px-Woryeong_Bridge_Andong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Woryeonggyo%2C_Andong.jpg/330px-Woryeonggyo%2C_Andong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Woryeonggyo_at_night.jpg/330px-Woryeonggyo_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "봉정사",
+    "rom": "한국에서 가장 오래된 목조건물을 품은 산사",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간",
+     "🏯 세계유산",
+     "🍁 고즈넉"
+    ],
+    "desc": "천등산 자락에 안긴 조용한 절로, 국보 극락전은 현존 한국 최고(最古)의 목조건축으로 꼽힌다. 화려한 단청 없이 세월에 바랜 나뭇결이 오히려 깊은 울림을 준다. 관광객이 몰리지 않아, 마당을 걷다 보면 산새 소리와 풍경 소리만 남는다.",
+    "todo": [
+     "국보 극락전과 대웅전 나란히 보기",
+     "만세루 아래 계단에서 산 풍경 바라보기"
+    ],
+    "tip": "고즈넉한 산사라 아침이나 늦은 오후 빛이 특히 곱다. 오르막 산길이니 편한 신발을 권한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dharma_Wheel_%282%29.svg/500px-Dharma_Wheel_%282%29.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg/500px-%EC%95%88%EB%8F%99%EB%B4%89%EC%A0%95%EC%82%AC%ED%99%94%EC%97%84%EA%B0%95%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안동 임청각",
+    "rom": "독립운동가 아홉을 배출한 99칸 고택",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🏛 보물",
+     "🇰🇷 독립운동 유적"
+    ],
+    "desc": "500년 된 조선 상류층 저택이자, 석주 이상룡을 비롯해 독립운동가 아홉 명이 태어난 노블레스 오블리주의 상징. 일제가 철길을 놓으며 집 일부를 헐어낸 아픈 역사를 딛고, 지금은 원형 복원이 이어지고 있다. 군자정 마루에 앉으면 나라를 위해 모든 것을 내던진 한 가문의 무게가 전해진다.",
+    "todo": [
+     "별당 군자정과 고택 마당 둘러보기",
+     "이상룡 선생과 가문의 독립운동 이야기 읽기"
+    ],
+    "tip": "안동역·월영교와 가까워 시내 코스로 묶기 좋다. 조용한 유적이니 차분히 둘러보자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Andong_ImCheongGak.jpg/500px-Andong_ImCheongGak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GunJaJeong_in_Andong_ImCheongGak.jpg/500px-GunJaJeong_in_Andong_ImCheongGak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg/120px-20250505_%EC%9D%B4%EC%83%81%EB%A3%A1_%281858%EB%85%84%29_%EC%83%9D%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "ansan": {
+  "nm": "안산",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 대부도까지 차로 약 1시간~1시간 30분, 시화방조제를 건너면 섬이다. 지하철 4호선 안산·상록수역이 시내 중심이지만 대부도·구봉도 쪽은 대중교통이 약해 자가용·렌터카가 편하다.",
+  "sep": "봄~가을이 두루 좋고, 특히 5월과 9~10월이 절정이다. 서해 낙조가 가장 붉게 물드는 계절인 데다, 대부도 포도(8~9월)와 조개구이가 제철이라 바다·먹거리·노을을 한꺼번에 누릴 수 있다.",
+  "mood": "서울에서 한 시간, 방조제 하나만 건너면 갯벌 냄새와 붉은 노을이 기다린다 — 수도권에서 가장 가까운 서해 섬 여행.",
+  "see": "대부도 갯벌과 불향 가득한 조개구이, 서해로 툭 떨어지는 낙조, 하루 두 번 열리는 바닷길, 그리고 도심 곁의 갈대습지.",
+  "spots": [
+   {
+    "name": "대부도",
+    "rom": "수도권에서 가장 가까운 서해의 섬",
+    "meta": [
+     "🚗 서울서 1시간",
+     "🦪 조개구이·바지락칼국수",
+     "🍇 가을 포도"
+    ],
+    "desc": "경기도에서 가장 큰 섬이지만, 시화방조제로 육지와 이어져 배 없이 차로 그냥 들어간다. 너른 갯벌에서 조개를 캐고, 해안 도로를 따라 늘어선 조개구이집에서 불향 가득한 저녁을 먹는 곳. 가을이면 섬 안쪽 포도밭이 익어 단내가 퍼진다.",
+    "todo": [
+     "갯벌에서 바지락·조개 캐기",
+     "해안가 조개구이집에서 저녁 먹기",
+     "가을엔 대부도 포도 사 오기"
+    ],
+    "tip": "갯벌체험은 물때(썰물) 시간을 미리 확인해야 한다. 주말 저녁 방조제는 정체가 심하니 낙조 전에 미리 들어가면 편하다.",
+    "eat": "바지락칼국수, 조개구이, 대부도 포도",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Daebudo_NASA-WW.jpg/500px-Daebudo_NASA-WW.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/500px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B517.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "시화나래 달전망대",
+    "rom": "방조제 한가운데 선 75m 유리바닥 전망대",
+    "meta": [
+     "💴 전망대 약 3,000원(변동가능)",
+     "⏱ 1~2시간",
+     "🌉 세계 최대 조력발전소"
+    ],
+    "desc": "대부도로 건너가는 시화방조제 한복판에 우뚝 선 75m 높이 달전망대. 오르면 한쪽은 잔잔한 시화호, 한쪽은 탁 트인 서해가 발밑으로 펼쳐진다. 바닥 일부가 유리로 된 스카이워크에 서면 아찔하고, 아래로는 세계 최대 규모라는 시화호 조력발전소가 바닷물을 밀고 당긴다.",
+    "todo": [
+     "유리바닥 스카이워크에서 발밑 내려다보기",
+     "전망대에서 시화호·서해 한눈에 담기"
+    ],
+    "tip": "주차는 무료다. 해질 무렵 올라가면 낙조와 야경을 함께 볼 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg/500px-Sihwa_Lake_seawall_from_Sihwanarae_service_area.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sihwa_Lake_World_Wind.jpg/500px-Sihwa_Lake_World_Wind.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구봉도 낙조전망대",
+    "rom": "안산 최고의 서해 일몰 포인트",
+    "meta": [
+     "🌅 서해 낙조",
+     "🥾 대부해솔길 1코스",
+     "⏱ 왕복 2시간 걷기"
+    ],
+    "desc": "대부도 북서쪽, 아홉 봉우리가 이어진 구봉도. 솔숲 우거진 대부해솔길을 걷다 보면 바다 위로 뻗어 나간 낙조전망대에 닿는다. 해가 서해로 툭 떨어지는 순간, 노을을 담은 조형물 너머로 하늘이 온통 붉게 물든다.",
+    "todo": [
+     "해솔길 1코스 솔숲 산책",
+     "전망대에서 해넘이 기다리기",
+     "썰물 때 개미허리 바닷길 건너기"
+    ],
+    "tip": "주차장에서 전망대까지 편도 약 40분~1시간 걷는다. 일몰 시각을 확인하고 조금 일찍 출발하는 게 좋다. 걷기 편한 신발은 필수.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_2%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_3%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg/500px-%EA%B5%AC%EB%B4%89%EB%8F%84_1%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "누에섬 등대전망대",
+    "rom": "하루 두 번 바닷길이 열리는 섬",
+    "meta": [
+     "🌊 하루 두 번 바닷길",
+     "🚶 걸어서 왕복",
+     "🐟 탄도항 어시장"
+    ],
+    "desc": "탄도항 앞바다에 누에처럼 나지막이 누운 작은 섬. 썰물이 되면 1km 남짓 바닷길이 드러나 걸어서 들어갈 수 있다. 하얀 풍력발전기를 지나 섬 끝 등대전망대에 오르면 서해와 크고 작은 섬들이 한 폭 그림처럼 펼쳐진다.",
+    "todo": [
+     "물때 맞춰 바닷길 걸어 들어가기",
+     "등대전망대 전시관 둘러보기",
+     "탄도항에서 갓 잡은 해산물 맛보기"
+    ],
+    "tip": "바닷길은 썰물 때만 열린다(하루 두 번, 약 4시간). 반드시 물때표를 확인하고 밀물 시간 전에 나와야 한다.",
+    "eat": "탄도항 해산물, 조개구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wind_turbine_%289521512971%29.jpg/500px-Wind_turbine_%289521512971%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안산갈대습지공원",
+    "rom": "도심 곁, 국내 첫 대규모 인공 습지",
+    "meta": [
+     "💴 무료",
+     "🐦 철새·저어새",
+     "⏱ 반나절 산책"
+    ],
+    "desc": "죽어가던 시화호를 되살리려 만든 국내 최초의 대규모 인공 습지. 갈대와 부들 사이로 놓인 나무 데크길을 걷다 보면 원앙, 저어새 같은 천연기념물이 물가에서 쉬는 모습을 만난다. 도심에서 멀지 않은데도 새소리와 바람소리만 가득하다.",
+    "todo": [
+     "데크길 따라 갈대밭 산책",
+     "탐조대에서 철새 관찰",
+     "가을 은빛 갈대 사진 담기"
+    ],
+    "tip": "그늘이 적어 여름엔 모자와 물을 챙기는 게 좋다. 새를 보기엔 이른 아침이 가장 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg/500px-KOCIS_Korea_Shihwa_Reed_Park_08_%2811581146986%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ansan_Swamp_Reed_Park_08.JPG/250px-Ansan_Swamp_Reed_Park_08.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ansan_Swamp_Reed_Park_09.JPG/250px-Ansan_Swamp_Reed_Park_09.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "유리섬박물관",
+    "rom": "대부도 언덕 위 유리공예 마을",
+    "meta": [
+     "💴 입장 약 10,000원(변동가능)",
+     "🔥 유리공예 시연",
+     "🎨 아이 동반 좋음"
+    ],
+    "desc": "대부도 안쪽 언덕에 자리한 유리공예 테마 문화공간. 장인이 1,300도 불 앞에서 유리를 불어 모양을 빚는 시연을 코앞에서 볼 수 있고, 야외 정원 곳곳에 햇빛을 받아 반짝이는 유리 조형물이 놓여 있다. 비 오는 날이나 아이와 함께라면 더 반가운 곳.",
+    "todo": [
+     "유리 블로잉(불기) 시연 관람",
+     "야외 유리 조각정원 산책",
+     "유리공예 만들기 체험"
+    ],
+    "tip": "공예 시연은 시간이 정해져 있으니, 도착하면 그날의 시연 시각부터 확인하자.",
+    "eat": ""
+   },
+   {
+    "name": "성호박물관",
+    "rom": "실학자 성호 이익을 품은 도심 속 공원",
+    "meta": [
+     "💴 무료",
+     "📚 실학·성호 이익",
+     "🌳 성호공원 산책"
+    ],
+    "desc": "안산이 바다만 있는 건 아니다. 조선 실학의 큰 뿌리였던 성호 이익은 지금의 안산 일동 땅에서 평생 학문을 닦았고, 그 삶과 사상을 담은 박물관이 도심 한쪽에 있다. 나무 우거진 성호공원을 따라 걸으며 실학 유물과 성호 선생의 묘소를 함께 둘러보면, 조용히 사색하기 좋은 반나절이 된다.",
+    "todo": [
+     "성호 이익의 실학 유물 관람",
+     "성호공원 따라 산책",
+     "성호 선생 묘소 둘러보기"
+    ],
+    "tip": "상록수역·한대앞역에서 가깝다. 실내 박물관이라 날씨 궂은 날의 대안으로도 좋다.",
+    "eat": ""
+   }
+  ]
+ },
+ "anseong": {
+  "nm": "안성",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 차로 약 1시간(경부·평택제천고속도로). 대중교통은 서울남부·동서울터미널에서 안성종합터미널행 시외버스",
+  "sep": "봄(4~5월 청보리·유채)과 가을(9~10월 코스모스·핑크뮬리)이 절정 — 팜랜드 꽃밭이 계절마다 얼굴을 갈아입는다",
+  "mood": "'안성맞춤'이란 말이 태어난 유기의 고장, 청보리밭과 2천 개 장독과 남사당 줄타기가 한 도시에 담겼다",
+  "see": "청보리 물결의 팜랜드, 장독이 줄지은 서일농원, 국보를 품은 칠장사, 김대건 신부가 잠든 미리내성지",
+  "spots": [
+   {
+    "name": "안성팜랜드",
+    "rom": "청보리밭이 바람에 눕는 드넓은 초원",
+    "meta": [
+     "💴 입장 약 12,000원(변동가능)",
+     "⏱ 반나절",
+     "🌾 봄 청보리·가을 코스모스"
+    ],
+    "desc": "드넓은 초원에 봄이면 청보리가 초록 물결로 눕고, 가을이면 코스모스와 핑크뮬리가 분홍빛으로 번진다. 양·염소·소가 풀을 뜯는 목장을 걷다 보면 도심에서 한 시간 거리라는 게 믿기지 않는다. 승마 체험과 트랙터 마차, 겨울 눈썰매까지 계절마다 다른 얼굴을 내민다.",
+    "todo": [
+     "청보리밭·코스모스밭에서 사진 남기기",
+     "양·염소 먹이주기 체험",
+     "드넓은 초원 능선 따라 걷기"
+    ],
+    "tip": "봄 청보리축제·가을 코스모스 시즌 주말은 매우 붐빈다. 개장 직후 오전이 한산하고 빛도 좋다. 그늘이 적으니 모자·양산을 챙기자.",
+    "eat": "안성 한우와 인근 국밥거리"
+   },
+   {
+    "name": "서일농원",
+    "rom": "2천 개 장독이 줄지어 앉은 언덕",
+    "meta": [
+     "💴 입장 무료(식당·매장 별도)",
+     "⏱ 1~2시간",
+     "📷 장독대 포토존"
+    ],
+    "desc": "야트막한 언덕 가득 2천 개의 옹기 장독이 줄줄이 앉아, 햇살 아래 검은 등이 반질반질 빛난다. 된장·간장이 익어가는 소나무 숲 사이를 걷다 보면 발효가 시간의 일이라는 걸 눈으로 알게 된다. 드라마·광고 배경으로도 자주 등장한, 국내에서 손꼽히는 장독 풍경이다.",
+    "todo": [
+     "장독대 사이 산책로 걷기",
+     "솔리식당에서 된장정식 맛보기",
+     "직접 담근 장·장아찌 구경하기"
+    ],
+    "tip": "식당(솔리)은 점심때 대기가 길다. 조금 이르게 가거나 평일이 여유롭다. 장독대는 오전 햇살에 특히 예쁘다.",
+    "eat": "서일농원 된장찌개 정식·장아찌 한상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg/500px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%286%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg/330px-%EC%95%88%EC%84%B1_%EC%84%9C%EC%9D%BC%EB%86%8D%EC%9B%90_%285%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "칠장사",
+    "rom": "국보 괘불과 임꺽정 전설이 깃든 고찰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🛕 국보 소장"
+    ],
+    "desc": "칠현산 자락에 안긴 고찰로, 일곱 도적을 의인으로 교화했다는 전설에서 이름을 얻었다. 국보로 지정된 오불회 괘불탱과 혜소국사비가 남아, 규모는 아담해도 이름값이 묵직하다. 의적 임꺽정과 스승 병해대사의 이야기가 배어 있어, 산길을 걷는 발걸음에 옛이야기가 따라붙는다.",
+    "todo": [
+     "국보 오불회 괘불(특별공개일) 확인하기",
+     "혜소국사비·나한전 둘러보기",
+     "칠현산 숲길 산책하기"
+    ],
+    "tip": "국보 괘불은 상시 공개가 아니라 특정일에만 내걸린다. 방문 전 공개 일정을 확인하면 헛걸음을 던다.",
+    "eat": "죽산면 인근 손두부·산채 밥상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "미리내성지",
+    "rom": "김대건 신부가 잠든 은하수 골짜기",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "⛪ 천주교 성지"
+    ],
+    "desc": "깊은 밤 신자들의 불빛이 은하수 같았다 하여 '미리내'라 불린 골짜기, 한국 첫 사제 김대건 안드레아 신부가 이곳에 잠들어 있다. 십자가의 길 조형과 103위 순교자를 기린 경당이 산자락을 따라 고요히 이어진다. 종교가 없어도 숲과 돌담을 따라 걷는 길 자체가 마음을 가라앉힌다.",
+    "todo": [
+     "김대건 신부 묘소 참배하기",
+     "십자가의 길 14처 따라 걷기",
+     "경당·기념 성전 둘러보기"
+    ],
+    "tip": "성지 특성상 정숙이 기본이다. 부지가 넓어 걷는 길이 제법 되니 편한 신발이 좋다.",
+    "eat": "양성면 인근 백숙·손칼국수"
+   },
+   {
+    "name": "죽주산성",
+    "rom": "몽골군을 15일 막아낸 능선 위 성벽",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🏯 삼국시대 산성"
+    ],
+    "desc": "비봉산 자락 해발 250m 능선을 두른 옛 성으로, 고려 때 송문주 장군이 몽골 대군을 15일간 막아낸 격전의 자리다. 신라·고려·조선의 축성 방식이 층층이 겹쳐, 돌 하나하나에 쌓인 시간이 눈에 보인다. 성벽을 따라 오르면 서쪽만 빼고 사방으로 안성 들판이 시원하게 트인다.",
+    "todo": [
+     "성벽 따라 한 바퀴 걷기",
+     "성 위에서 안성 들판 조망하기",
+     "봄 벚꽃길·가을 단풍 즐기기"
+    ],
+    "tip": "산성 진입로에 벚나무가 늘어서 봄이면 숨은 벚꽃 명소가 된다. 오르막이 있으니 운동화를 권한다.",
+    "eat": "죽산면 재래시장 국수·순대",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jukjusanseong.jpg/500px-Jukjusanseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청룡사",
+    "rom": "남사당 바우덕이가 겨울을 났던 절",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🎪 남사당 근거지"
+    ],
+    "desc": "서운산 자락의 고려 고찰로, 나옹선사가 구름 타고 내려온 청룡을 보았다 하여 청룡사라 불린다. 조선 후기 떠돌이 예인 남사당패가 겨울마다 몸을 의탁한 근거지였고, 명인 바우덕이의 이야기가 이곳에서 자랐다. 자연목을 그대로 살린 대웅전(보물)의 휘어진 기둥이 세월의 멋을 고스란히 보여준다.",
+    "todo": [
+     "보물 대웅전의 휘어진 자연목 기둥 보기",
+     "남사당·바우덕이 이야기 떠올리며 경내 걷기",
+     "서운산 등산로와 이어 산책하기"
+    ],
+    "tip": "가을 서운산 단풍철이 특히 곱다. 인근 조각공원·저수지와 묶어 걷기 좋다.",
+    "eat": "서운면 인근 순두부·산채정식"
+   },
+   {
+    "name": "안성맞춤랜드",
+    "rom": "유기·남사당·별을 한자리에 모은 공원",
+    "meta": [
+     "💴 입장 무료(천문관 별도)",
+     "⏱ 반나절",
+     "🔭 천문과학관"
+    ],
+    "desc": "'안성맞춤'이란 말을 낳은 유기(놋그릇)의 고장답게, 유기를 전시한 안성맞춤박물관과 남사당 공연장, 천문과학관이 너른 잔디밭 공원에 함께 모여 있다. 낮에는 조각 산책로와 물놀이 공간에서 아이들이 뛰놀고, 밤이면 천문대에서 별을 올려다본다. 안성의 이름값을 한 바퀴에 훑어보기 좋은 곳이다.",
+    "todo": [
+     "안성맞춤박물관에서 유기 구경하기",
+     "주말 남사당 상설공연 관람하기",
+     "천문과학관에서 별 관측하기"
+    ],
+    "tip": "남사당 상설공연은 대개 봄~가을 주말에 열리고, 천문 관측은 예약제로 운영되니 미리 일정을 확인하자.",
+    "eat": "안성맞춤 한우·안성국밥"
+   }
+  ]
+ },
+ "anyang": {
+  "nm": "안양",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선(안양역·관악역)으로 30~40분, 4호선(평촌·범계역)도 바로. 부산에서는 KTX로 광명역까지 온 뒤 1호선으로 갈아타면 가깝다.",
+  "sep": "봄(4월)이 으뜸. 안양천과 학의천 둑길이 벚꽃 터널로 변하고, 안양예술공원 계곡도 연둣빛으로 물든다. 가을엔 서울대 관악수목원 일대가 조용한 단풍으로 물든다.",
+  "mood": "서울 바로 옆, 계곡 물소리에 미술관이 걸려 있는 도시. 등산화 신고 온 김에 예술과 옛 건축까지 줍는다.",
+  "see": "계곡을 따라 흩어진 야외 미술작품, 신라 고찰과 절벽에 걸린 인공폭포, 봄이면 벚꽃으로 덮이는 하천 둑길.",
+  "spots": [
+   {
+    "name": "안양예술공원",
+    "rom": "계곡 따라 걷는 야외 미술관",
+    "meta": [
+     "💰 무료",
+     "⏱ 반나절",
+     "🎨 야외 공공미술",
+     "🚶 계곡 산책"
+    ],
+    "desc": "옛 안양유원지 자리가 2005년 안양공공예술프로젝트로 다시 태어난 곳이다. 관악산·삼성산으로 이어지는 계곡길 약 2km를 따라 여러 공공미술 작품이 나무 사이에, 물가에, 바위 위에 숨어 있어 산책하다 툭툭 마주친다. 그 중심에는 포르투갈 거장 알바로 시자가 아시아에서 처음 설계한 하얀 조개껍데기 같은 건물 '안양파빌리온'이 놓여 있다.",
+    "todo": [
+     "계곡 물소리 들으며 작품 찾기 산책",
+     "안양파빌리온 안에서 잠시 쉬며 서가 구경",
+     "관악산 등산로로 이어 걷기"
+    ],
+    "tip": "관악역 2번 출구에서 도보 20분, 셔틀버스도 있다. 여름엔 계곡에 발 담그는 사람이 많아 붐빈다.",
+    "eat": "공원 입구 쪽에 계곡을 낀 카페와 백숙·손두부 식당이 모여 있다."
+   },
+   {
+    "name": "김중업건축박물관",
+    "rom": "낡은 공장이 건축이 된 자리",
+    "meta": [
+     "💰 무료",
+     "🏛 건축 박물관",
+     "⏱ 1~2시간"
+    ],
+    "desc": "한국 근대 건축의 거장 김중업이 옛 유유산업 공장으로 설계했던 건물이, 그의 건축을 만나는 박물관으로 다시 살아났다. 같은 자리에서 발굴된 통일신라 절터 '안양사지'와 나란히 서 있어, 노출 콘크리트의 현대 건축과 천 년 전 기와 조각이 한 마당에서 겹쳐 보인다. 안양박물관도 함께 있어 이 도시의 뿌리를 훑을 수 있다.",
+    "todo": [
+     "김중업의 건축 도면·모형 보기",
+     "야외 안양사지 발굴터 둘러보기"
+    ],
+    "tip": "안양예술공원 안에 있어 산책과 묶으면 좋다. 실내 위주라 비 오는 날에도 무난하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kimchungup_Architecture_Museum.jpg/500px-Kimchungup_Architecture_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼막사",
+    "rom": "삼성산 능선 위 신라 천년 고찰",
+    "meta": [
+     "💰 무료(사찰)",
+     "⛰ 삼성산 등산 약 1시간",
+     "🛕 신라 677년 창건"
+    ],
+    "desc": "677년 원효·의상·윤필이 막을 치고 수행했다는 데서 이름이 붙은 절로, 삼성산 기슭에 자리한다. 삼성산 능선까지 땀 흘려 오르면 능선 아래로 안양·서울 시가지가 펼쳐진다. 절에 있는 마애삼존불과, 토속신앙의 대상이던 남녀근석이 이 산의 오랜 기운을 말해준다.",
+    "todo": [
+     "능선에서 시가지 조망 즐기기",
+     "마애삼존불·삼귀자 글씨 찾아보기"
+    ],
+    "tip": "차로 중턱까지 오를 수 있지만 길이 좁고 가파르다. 등산으로 오르면 왕복 2시간쯤 잡는 게 안전하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg/500px-%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "병목안시민공원",
+    "rom": "채석장 절벽에 걸린 인공폭포",
+    "meta": [
+     "💰 무료",
+     "💦 대형 인공폭포",
+     "🏕 캠핑장",
+     "🌿 수리산 자락"
+    ],
+    "desc": "예전 철도용 자갈을 캐던 채석장이, 그 깎여나간 절벽을 그대로 살려 공원이 됐다. 깎아지른 절벽을 타고 쏟아지는 대형 인공폭포가 이 공원의 상징으로, 물줄기가 쏟아질 때 발밑까지 시원한 물안개가 퍼진다. 밤엔 조명이 절벽을 물들이고, 너른 잔디광장은 가족 나들이객으로 붐빈다.",
+    "todo": [
+     "폭포 가동 시간 맞춰 물줄기 보기",
+     "잔디광장에서 돗자리 펴고 쉬기",
+     "수리산 병목안길 산책"
+    ],
+    "tip": "폭포는 계절·시간대에 따라 가동 여부가 다르니 방문 전 확인이 좋다. 옆에 병목안캠핑장이 있어 예약하면 1박도 가능하다.",
+    "eat": ""
+   },
+   {
+    "name": "서울대 관악수목원(안양수목원)",
+    "rom": "오래 닫혀 있던 비밀의 숲",
+    "meta": [
+     "💰 무료",
+     "🍁 가을 단풍",
+     "🌳 오래된 숲길"
+    ],
+    "desc": "서울대가 연구림으로 관리하며 오랫동안 일반에 닫아두었던 드넓은 숲이다. 관악산과 삼성산 사이 계곡을 따라 오래된 나무들이 빽빽한 이 '비밀의 숲'은 가을이면 조용한 단풍길로 물든다. 안양예술공원과 바로 이어져 있어 산책이 자연스럽게 흘러든다.",
+    "todo": [
+     "계곡 따라 숲길 걷기",
+     "가을 단풍 절정에 맞춰 방문"
+    ],
+    "tip": "일반 개방은 시기·예약 조건이 자주 바뀌니 방문 전 서울대 관악수목원 공지로 개방 여부와 예약 방법을 반드시 확인한다. 음식물·돗자리·삼각대·반려동물 반입이 금지되니 가볍게 걷는 마음으로 간다.",
+    "eat": ""
+   },
+   {
+    "name": "안양천 · 학의천 벚꽃길",
+    "rom": "봄이면 도시를 가르는 벚꽃 터널",
+    "meta": [
+     "💰 무료",
+     "🌸 봄 벚꽃",
+     "🚴 자전거길",
+     "🌙 야경"
+    ],
+    "desc": "한강으로 흘러드는 안양천과 그 지천 학의천 둑길은, 4월이 되면 양옆으로 벚나무가 이어져 분홍빛 터널이 된다. 평소엔 러닝하고 자전거 타는 사람들의 일상 코스지만, 벚꽃철 저녁엔 조명 켜진 둑길을 따라 걷는 사람들로 도시 전체가 나른해진다. 물 건너 아파트 불빛이 수면에 번지는 야경도 몫이다.",
+    "todo": [
+     "벚꽃철 둑길 걷거나 자전거 타기",
+     "해질 무렵 야경 산책"
+    ],
+    "tip": "벚꽃 절정은 대개 4월 초중순, 주말엔 사람이 몰린다. 평촌·범계 쪽 학의천 구간이 특히 벚꽃이 촘촘하다.",
+    "eat": "평촌 범계 로데오거리가 가까워 산책 뒤 식사·카페 고르기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "asan": {
+  "nm": "아산",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 KTX·SRT로 천안아산역까지 약 40분, 역에서 시내버스·택시로 온천동·외암마을 방면. 전철파는 수도권 1호선 종점 신창역까지 앉아서. 부산에서는 KTX 천안아산역 환승이 가장 빠르다.",
+  "sep": "10월 말~11월 초. 곡교천 둑길 은행나무가 온통 노랗게 물들고, 외암마을 초가엔 볏짚 이엉을 새로 얹는 계절이라 시골 가을이 가장 진하다. 온천은 사철, 봄엔 온양천 벚꽃도 곱다.",
+  "mood": "이순신의 사당과 오백 년 돌담마을, 천삼백 년 된 온천이 한 도시에 겹쳐 있다. 화려하지 않아도 오래 데워진 온기가 있는 곳.",
+  "see": "돌담 초가마을 · 충무공 사당 · 붉은 벽돌 성당 · 은행나무 둑길 · 뜨거운 온천물",
+  "spots": [
+   {
+    "name": "아산 외암마을",
+    "rom": "오백 년 돌담이 감싼 살아있는 마을",
+    "meta": [
+     "💴 입장 약 2000원",
+     "⏱ 반나절",
+     "🍂 가을 초가",
+     "🏡 전통마을"
+    ],
+    "desc": "설화산 물길이 마을 안으로 흘러들고, 그 물길을 따라 돌담이 구불구불 이어진다. 기와집과 초가 오십여 채가 지금도 사람이 사는 채로 남아, 박제된 민속촌이 아니라 아궁이에 불을 때는 진짜 마을의 냄새가 난다. 담장 위로 뻗은 감나무, 물레방아 도는 소리 사이를 천천히 걷다 보면 시간이 오백 년쯤 뒤로 물러난다.",
+    "todo": [
+     "돌담길 골목 따라 한 바퀴 걷기",
+     "물레방아와 반석·연자방아 둘러보기",
+     "초가 이엉 얹는 가을 풍경 담기"
+    ],
+    "tip": "실제 주민이 거주하는 곳이라 열린 대문이라도 사유 공간은 조용히. 주차장은 마을 입구에 있고 안쪽은 도보로 돈다.",
+    "eat": "마을 어귀 손두부·파전과 연엽주(집에서 빚은 막걸리)를 파는 집이 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oeam_Folk_Village_2010.JPG/500px-Oeam_Folk_Village_2010.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Oeam_Folk_Village%2C_2006_%282%29.jpg/120px-Oeam_Folk_Village%2C_2006_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oeam_Folk_Village%2C_2006_%283%29.jpg/120px-Oeam_Folk_Village%2C_2006_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "현충사",
+    "rom": "충무공 이순신을 모신 사당",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🌲 넓은 숲길",
+     "⚔️ 역사"
+    ],
+    "desc": "숙종 때 세운 이순신 장군의 사당으로, 지금은 넓은 소나무 숲과 연못을 낀 성역이 되었다. 장군이 활을 쏘던 활터와 그가 살던 옛집이 그대로 남아, 사당의 엄숙함보다 한 사람의 생애가 먼저 다가온다. 국보 난중일기와 장군의 장검을 품은 기념관까지 돌면, 교과서 속 이름이 살아 있는 사람의 무게로 바뀐다.",
+    "todo": [
+     "본전 참배 후 옛집·활터 둘러보기",
+     "기념관에서 난중일기 진품 보기",
+     "은행나무길과 이어지는 숲 산책"
+    ],
+    "tip": "입장은 무료이며 부지가 넓으니 걷기 편한 신발로. 매주 월요일 기념관은 휴관일 수 있으니 확인하고 간다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg/500px-%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%9E%A5%EA%B2%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg/500px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아산 공세리성당",
+    "rom": "언덕 위 붉은 벽돌 고딕 성당",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⛪ 100년 성당",
+     "📷 사진명소"
+    ],
+    "desc": "조선 시대 세곡을 모으던 창고 터에 1922년 고딕 양식으로 올린 붉은 벽돌 성당이다. 삼백 년 넘은 느티나무가 성당을 둘러싸고, 언덕에 오르면 뾰족한 종탑이 나무 사이로 솟는다. 병인박해 순교자들이 잠든 자리이자 드라마·영화가 즐겨 찾은 장소라, 고요한 성지의 무게와 그림 같은 풍경이 한자리에 있다.",
+    "todo": [
+     "언덕 위에서 종탑과 고목 함께 담기",
+     "성당 내부 무지개빛 천장 올려다보기",
+     "박물관에서 순교 역사 살펴보기"
+    ],
+    "tip": "미사·전례 시간에는 관람이 제한되니 조용히. 주차장에서 성당까지 완만한 오르막을 조금 걷는다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg/500px-%EA%B3%B5%EC%84%B8%EB%A6%AC%EC%84%B1%EB%8B%B9_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "곡교천 은행나무길",
+    "rom": "현충사 앞 이 킬로미터 노란 터널",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🍁 11월 단풍",
+     "🚶 걷기 좋은"
+    ],
+    "desc": "현충사 앞 곡교천 둑을 따라 수백 그루 은행나무가 이 킬로미터 넘게 늘어서, 늦가을이면 하늘도 길도 온통 노랗다. 바람이 불 때마다 은행잎이 눈처럼 쏟아지고, 발밑에는 낙엽이 두껍게 깔린다. 아산 은행나무축제가 열리는 이 무렵이 절정이라, 사진 한 장 담으려는 사람들의 발길이 끊이지 않는다.",
+    "todo": [
+     "노란 터널 아래 천천히 걷기",
+     "떨어진 은행잎 위에서 인생샷",
+     "곡교천 물가 따라 자전거·산책"
+    ],
+    "tip": "단풍 절정은 대개 11월 초, 해에 따라 며칠 차이가 나니 개화(단풍) 상황을 확인하고 간다. 축제 기간 주말은 주차가 붐빈다.",
+    "eat": ""
+   },
+   {
+    "name": "온양온천",
+    "rom": "왕도 다녀간 우리나라 최고(最古) 온천",
+    "meta": [
+     "💴 목욕 약 8000원~",
+     "⏱ 반나절",
+     "♨️ 알칼리 온천",
+     "🚆 역세권"
+    ],
+    "desc": "기록상 우리나라에서 가장 오래된 온천으로, 세종·숙종 같은 임금들이 요양하러 행궁을 짓고 머물던 자리다. 오십도가 넘는 약알칼리 온천물이 매끄럽게 몸을 감싸, 걷다 지친 다리를 담그면 하루의 피로가 스르르 풀린다. 온양온천역 바로 곁이라 여행의 시작이나 끝에 몸을 데우기 좋다.",
+    "todo": [
+     "전통 온천탕에서 온천욕",
+     "온양온천역 옆 족욕 체험",
+     "온천시장에서 주전부리 사 먹기"
+    ],
+    "tip": "대중탕·호텔 사우나·가족탕 등 시설마다 요금과 분위기가 다르니 취향껏 고른다. 역과 온천단지가 붙어 있어 뚜벅이 여행에 유리하다.",
+    "eat": "온양온천시장의 순대·호떡·아산 특산 배로 만든 주전부리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg/500px-1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아산 지중해마을",
+    "rom": "탕정 들녘의 산토리니풍 파스텔 골목",
+    "meta": [
+     "💴 무료(가게 이용)",
+     "⏱ 1~2시간",
+     "📷 포토존",
+     "☕ 카페거리"
+    ],
+    "desc": "천안아산역 가까운 탕정에 하얀 벽과 파란 지붕, 노랑·주황 파스텔 건물이 모여 지중해 바닷마을을 흉내 낸 골목이 있다. 좁은 계단과 아치, 색색의 벽마다 사진을 부르는 배경이라 연인·가족의 발길이 잦다. 아기자기한 카페와 소품 가게를 기웃거리며 커피 한 잔 들고 천천히 도는 재미가 있는 곳.",
+    "todo": [
+     "파스텔 골목·아치 앞에서 사진 찍기",
+     "루프탑 카페에서 마을 내려다보기",
+     "소품·수제 디저트 가게 구경"
+    ],
+    "tip": "규모가 크지 않아 한두 시간이면 충분하다. 상가 운영 시간에 맞춰 낮에 가야 활기가 있다.",
+    "eat": "마을 안 베이커리·젤라토 카페."
+   },
+   {
+    "name": "신정호수공원",
+    "rom": "물가를 도는 둘레길과 조각 산책",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌊 호수 산책",
+     "🌙 야경"
+    ],
+    "desc": "아산 시내 가까이 있는 너른 저수지를 두른 호수공원으로, 물가를 따라 데크길과 산책로가 이어진다. 곳곳에 조형물과 벤치가 놓여 걷다 앉기 좋고, 해질 무렵이면 물 위로 노을이 번져 하늘이 두 겹으로 물든다. 관광지의 북적임 없이 동네 사람들 틈에서 조용히 한 바퀴 돌기 좋은 쉼터다.",
+    "todo": [
+     "호수 둘레 데크길 산책",
+     "노을·야경 시간에 맞춰 방문",
+     "카페거리에서 호수 뷰 커피"
+    ],
+    "tip": "호숫가에 카페·음식점이 모여 있어 산책과 함께 쉬기 좋다. 밤 조명이 켜지는 저녁이 특히 예쁘다.",
+    "eat": "신정호 주변 카페거리의 브런치·커피."
+   }
+  ]
+ },
+ "boeun": {
+  "nm": "보은",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울에서 승용차로 약 2시간 20분(청주 경유)·동서울터미널 시외버스 약 2시간 40분. 부산에서는 차로 약 2시간 40분. 대부분의 명소가 속리산 자락에 모여 있어 시내에서 차로 20분 안팎.",
+  "sep": "가을. 속리산 단풍이 전국에서 손꼽히고 말티재 굽이길과 정이품송 드라이브가 가장 아름다운 철이다. 봄 신록·철쭉, 여름 세조길 계곡도 좋다.",
+  "mood": "속리산 품에 안긴 천년 고찰과 27m 미륵대불, 임금에게 벼슬을 받은 소나무까지 — 느리게 걷기 좋은 산사(山寺)의 고장.",
+  "see": "법주사 팔상전·금동미륵대불, 속리산 세조길·문장대, 정이품송, 말티재 열두 굽이, 삼년산성",
+  "spots": [
+   {
+    "name": "법주사",
+    "rom": "속리산 자락 천년 고찰, 국보를 품은 산사",
+    "meta": [
+     "💴 관람료 무료·주차 별도",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🏯 유네스코 세계유산"
+    ],
+    "desc": "속리산으로 들어서면 가장 먼저 만나는 곳. 국내 유일의 목조 5층탑인 국보 팔상전이 하늘로 층층이 솟아 있고, 그 앞으로 27m 높이의 금동미륵대불이 금빛으로 빛난다. 신라 쌍사자석등과 석련지까지 국보만 여럿, 절 자체가 하나의 야외 박물관 같다.",
+    "todo": [
+     "국내 유일 목탑 팔상전 올려다보기",
+     "금동미륵대불 앞에서 규모 체감하기",
+     "쌍사자석등·석련지 국보 찾아보기"
+    ],
+    "tip": "세조길이 법주사 매표소 근처에서 시작되니, 절 관람과 계곡 산책을 자연스럽게 이어서 하면 좋다.",
+    "eat": "속리산 입구 식당가의 산채정식·더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/500px-Beopjusa_Temple_Stay_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg/500px-%EB%B2%95%EC%A3%BC%EC%82%AC_%EA%B4%80%EC%9D%8C%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "속리산 세조길·문장대",
+    "rom": "왕이 걸었다는 흙길과 구름 위 바위 전망대",
+    "meta": [
+     "⏱ 세조길 왕복 2~3시간",
+     "⛰️ 문장대 등반 하루",
+     "🍁 가을 단풍 명소",
+     "🅿️ 주차료 별도"
+    ],
+    "desc": "법주사에서 시작되는 세조길은 계곡물 소리를 따라 걷는 평탄한 흙길이라 남녀노소 부담 없이 숲을 즐길 수 있다. 체력이 된다면 해발 1,054m 문장대까지 올라 사방으로 열린 바위 능선과 겹겹의 산줄기를 내려다본다. 1970년 지정된 우리나라 여섯 번째 국립공원이다.",
+    "todo": [
+     "세조길 흙길 따라 계곡 산책하기",
+     "문장대 정상에서 능선 조망하기",
+     "가을엔 단풍, 초여름엔 신록 즐기기"
+    ],
+    "tip": "문장대는 왕복 7~8km 산행이라 등산화와 물이 필수. 가벼운 산책만 원하면 세조길만 걸어도 충분하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg/500px-Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munjangdae.jpg/500px-Munjangdae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정이품송",
+    "rom": "세조에게 벼슬을 받은 600년 노송",
+    "meta": [
+     "💴 무료",
+     "⏱ 20분",
+     "🌲 천연기념물",
+     "📷 포토스팟"
+    ],
+    "desc": "조선 세조가 법주사로 행차할 때 늘어진 가지를 스스로 들어올려 임금의 가마가 지나가게 했다는 소나무. 그 충심을 기려 정이품(오늘날 장관급) 벼슬을 내렸다는 이야기가 전해진다. 우산을 펼친 듯 넓게 뻗은 600여 년 노송이 길가에 홀로 서서 세월을 지키고 있다.",
+    "todo": [
+     "우산처럼 뻗은 수형 감상하기",
+     "세조 행차 전설 되새기기"
+    ],
+    "tip": "도로변에 있어 오가는 길에 잠깐 들르기 좋다. 조금 더 가면 '부인' 격인 서원리 소나무(정부인송)도 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/500px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "말티재",
+    "rom": "열두 굽이 꼬부랑길과 전망대",
+    "meta": [
+     "💴 전망대 무료",
+     "⏱ 1~2시간",
+     "🚗 드라이브 명소",
+     "📷 굽이길 조망"
+    ],
+    "desc": "속리산으로 넘어가는 열두 굽이 고갯길. 2020년 문을 연 말티재 전망대에 오르면 뱀처럼 휘감아 도는 도로가 발아래로 한눈에 펼쳐진다. 정상부에는 숲을 따라 걷는 꼬부랑길 산책로와 속리산 관문이 함께 있어 드라이브와 산책을 겸하기 좋다.",
+    "todo": [
+     "전망대에서 열두 굽이 내려다보기",
+     "꼬부랑길 숲길 산책하기",
+     "속리산 관문(터널 위) 둘러보기"
+    ],
+    "tip": "굽이길은 자전거·바이크 라이더에게도 인기. 해질 무렵 전망대의 일몰과 야경도 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EB%A7%90%ED%8B%B0%EC%9E%AC.jpg/500px-%EB%A7%90%ED%8B%B0%EC%9E%AC.jpg"
+    ]
+   },
+   {
+    "name": "삼년산성",
+    "rom": "3년 만에 쌓았다는 신라 돌성",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏯 사적",
+     "🚶 성곽 둘레길"
+    ],
+    "desc": "신라가 470년에 쌓기 시작해 3년 만에 완성했다는 데서 이름 붙은 돌성. 납작한 돌을 가로세로로 엇갈려 쌓아 1,500년을 버틴 둘레 약 1,800m의 성벽이 지금도 견고하게 남아 있다. 성곽을 따라 걸으며 보은 읍내와 들판을 내려다볼 수 있다.",
+    "todo": [
+     "돌로 쌓은 성벽 따라 한 바퀴 걷기",
+     "성 위에서 보은 읍내 조망하기"
+    ],
+    "tip": "보은 읍내에서 가까워 접근이 쉽다. 그늘이 적으니 여름엔 모자와 물을 챙기는 게 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Samnyeon_sanseong1.jpg/500px-Samnyeon_sanseong1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Samnyeon_sanseong2.jpg/250px-Samnyeon_sanseong2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Samnyeon_sanseong3.jpg/250px-Samnyeon_sanseong3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선병국가옥",
+    "rom": "만석꾼 집안이 지은 격식 있는 큰 한옥",
+    "meta": [
+     "💴 무료(개방 시)",
+     "⏱ 40분",
+     "🏯 국가민속문화재",
+     "🌳 여름 배롱나무"
+    ],
+    "desc": "구한말 만석꾼 집안이 지은 큰 한옥으로, 안채·사랑채·사당이 격식 있게 배치돼 있다. 넓은 마당과 고목, 여름이면 붉게 피는 배롱나무가 어우러져 옛 종갓집의 품위가 그대로 전해진다. 곡선을 그리는 기와선과 흙담이 사진에 곱게 담긴다.",
+    "todo": [
+     "안채·사랑채 배치 살펴보기",
+     "여름 배롱나무와 한옥 함께 담기"
+    ],
+    "tip": "실제 관리되는 공간이므로 개방 여부를 미리 확인하고 조용히 둘러본다."
+   }
+  ]
+ },
+ "bonghwa": {
+  "nm": "봉화",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 청량리역 무궁화호로 약 3시간(봉화역), 자가용은 중앙고속도로 영주IC·안동 방면. 부산에서는 약 3시간 30분. 산타마을·협곡열차는 분천역이 기점이다.",
+  "sep": "가을(10~11월) — 청량산 단풍이 벼랑을 붉게 물들이고 백두대간 협곡이 단풍으로 타오르는 계절, 여기에 세계 최고로 치는 봉화 송이가 난다. 겨울엔 분천역이 눈꽃 산타마을로 살아난다.",
+  "mood": "백두대간 가장 깊은 골짜기, 별보다 사람이 드문 산골 — 아시아 최대 수목원의 호랑이 숲과 협곡을 기어가는 열차, 그리고 500년 된 정자가 물 위에 거북처럼 떠 있는 곳.",
+  "see": "아시아 최대 수목원과 백두산 호랑이, 소금강이라 불린 청량산, 물 위에 뜬 정자 청암정, 눈꽃 산타마을과 협곡열차, 하늘도 세 평인 오지역.",
+  "spots": [
+   {
+    "name": "국립백두대간수목원",
+    "rom": "아시아 최대 수목원, 숲을 걷는 백두산 호랑이",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 반나절",
+     "🐯 호랑이 숲"
+    ],
+    "desc": "여의도의 몇 배에 달하는 산자락 전체가 하나의 수목원이다. 넓은 정원을 트램으로 돌다 보면 백두대간의 상징인 백두산 호랑이가 저벅저벅 숲을 거니는 '호랑이 숲'과 마주친다. 지하에는 지구 최후의 씨앗을 보관하는 시드볼트가 잠들어 있어, 이곳이 그저 예쁜 정원이 아니라 미래를 위한 방주임을 알게 된다.",
+    "todo": [
+     "트램 타고 호랑이 숲 만나기",
+     "계절 테마정원(매화·장미·야생화) 산책",
+     "시드볼트 외부 전시 관람"
+    ],
+    "tip": "워낙 넓어 트램 이용을 권한다(2시간 내외). 도보 전체 관람은 3~4시간 걸린다. 표는 매표소에서 현장 구매 가능. 가격은 약 5,000원 수준으로 변동될 수 있다.",
+    "eat": "제철 가을이면 춘양·봉화 송이 요리, 사철 봉화한약우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg/500px-%EA%B5%AD%EB%A6%BD%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84%EC%88%98%EB%AA%A9%EC%9B%90_%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청량산",
+    "rom": "낙동강이 감아 도는 소금강, 열두 봉우리와 하늘다리",
+    "meta": [
+     "🥾 반나절~하루",
+     "🍁 가을 단풍",
+     "🌉 하늘다리"
+    ],
+    "desc": "낙동강이 산허리를 감아 도는 소금강, 청량산이다. 열두 봉우리가 병풍처럼 둘러선 벼랑 사이로 아찔한 하늘다리가 걸려 있고, 그 품에 안긴 청량사는 천 년 넘게 산을 지켜왔다. 퇴계 이황이 '내 집 산(오가산)'이라 부르며 아꼈던 산이라, 걷다 보면 옛 선비의 발걸음을 따라 걷는 기분이 든다.",
+    "todo": [
+     "하늘다리 건너기",
+     "청량사 참배",
+     "김생굴·응진전 들르기"
+    ],
+    "tip": "코스가 1시간짜리부터 9시간짜리까지 다양하다. 하늘다리까지는 가벼운 반나절 코스로도 닿을 수 있다. 가을 단풍철엔 주차가 몹시 붐빈다.",
+    "eat": "청량산 입구 산채비빔밥과 더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg/500px-Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BH-CHNmt-Kch1.jpg/960px-BH-CHNmt-Kch1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청암정과 석천계곡 (닭실마을)",
+    "rom": "금 닭이 알을 품은 마을, 물 위에 뜬 거북 정자",
+    "meta": [
+     "💴 무료",
+     "🏯 명승 제60호",
+     "⏱ 1~2시간"
+    ],
+    "desc": "금 닭이 알을 품은 형상이라 하여 '닭실'이라 불리는 마을. 그 안쪽에 조선 중기 학자 충재 권벌이 세운 청암정이 있다. 거북 등을 닮은 너럭바위 위에 정자를 올리고 둘레에 물을 둘러 돌다리로 건너게 했으니, 정자가 마치 물 위에 뜬 거북 같다. 계곡을 따라 걸으면 아들 권동보가 지은 석천정사가 이어져, 한 집안의 500년이 물소리와 함께 흐른다.",
+    "todo": [
+     "청암정 거북바위와 연못 둘러보기",
+     "석천계곡 따라 석천정사까지 걷기",
+     "한옥 마을길 천천히 산책"
+    ],
+    "tip": "닭실마을 전통 한과가 유명하다 — 마을에서 직접 빚은 유과를 살 수 있다. 한옥스테이 체험도 가능하다.",
+    "eat": "닭실마을 전통 한과(유과)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "분천 산타마을 · 백두대간협곡열차",
+    "rom": "산골 간이역의 눈꽃 산타마을, 협곡을 기어가는 V-트레인",
+    "meta": [
+     "🎅 겨울 산타마을",
+     "🚂 협곡열차",
+     "💴 마을 입장 무료"
+    ],
+    "desc": "산골 간이역 분천역이 일 년에 몇 차례 온통 산타의 마을로 변신한다. 핀란드 로바니에미 산타마을을 본떠 눈꽃 트리와 산타 조형물, 이글루가 들어서고, 아이들은 산타 우체국에 편지를 부친다. 이곳에서 출발하는 백두대간협곡열차(V-트레인)는 통유리창 너머로 낙동강 최상류 협곡을 시속 30km 안팎으로 느릿느릿 지난다 — 차로는 닿을 수 없는 오지의 비경이 창밖으로 흐른다.",
+    "todo": [
+     "협곡열차 타고 승부역·양원역 지나기",
+     "산타마을 포토존·눈썰매 즐기기",
+     "산타 우체국에서 엽서 부치기"
+    ],
+    "tip": "산타마을은 연중 상시가 아니라 연 4회 시즌(겨울·여름 등)으로 운영된다 — 방문 전 봉화군·코레일 일정을 확인하자. 협곡열차는 예약을 권한다.",
+    "eat": "분천역 주변 간식, 봉화 산골 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Buncheonst.jpg/500px-Buncheonst.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "축서사",
+    "rom": "해발 800m 구름 위 산사, 발밑으로 첩첩산중",
+    "meta": [
+     "💴 무료",
+     "⛰ 해발 약 800m",
+     "🙏 산사"
+    ],
+    "desc": "문수산 해발 800m 안팎, 구름이 발밑으로 지나는 자리에 축서사가 앉아 있다. 신라 문무왕 때 의상대사가 창건했다는 오래된 절로, 대웅전 앞마당에 서면 첩첩이 겹친 산자락이 발아래로 펼쳐진다. 번잡한 관광지가 아니라 바람 소리와 풍경 소리만 남는 고요한 산사다.",
+    "todo": [
+     "대웅전 앞마당에서 산 전망 보기",
+     "보탑성전과 5층 사리탑 둘러보기"
+    ],
+    "tip": "올라가는 산길이 가파르니 승용차 운전에 주의한다. 일출과 운해 명소로도 알려져 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg/500px-%EB%AC%B8%EA%B2%BD_%EC%B6%95%EC%84%9C%EC%82%AC_%EC%84%9D%EB%93%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "승부역",
+    "rom": "하늘도 세 평, 꽃밭도 세 평인 오지 간이역",
+    "meta": [
+     "🚉 오지 간이역",
+     "🚂 협곡열차 정차",
+     "📷 인생사진"
+    ],
+    "desc": "'하늘도 세 평, 꽃밭도 세 평'이라 불리던 산골 오지의 간이역. 한때는 걸어서도 차로도 닿기 어려워 오직 기차만이 통로였다. 지금은 백두대간협곡열차가 잠시 멈춰 서는 낭만의 정거역이 되어, 승객들은 짧은 정차 시간에 내려 협곡의 맑은 공기를 들이켠다. 강물과 산비탈, 그리고 작은 역사 하나뿐인 풍경이 오래 마음에 남는다.",
+    "todo": [
+     "협곡열차 정차 시간에 내려 사진 찍기",
+     "역 주변 낙동강 최상류 물길 감상"
+    ],
+    "tip": "일반 도로 접근이 매우 어려워 협곡열차(V-트레인) 이용이 사실상 유일한 길이다. 정차 시간이 짧으니 열차를 놓치지 않도록 주의한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg/500px-Korail_Yeongdong_Line_Seungbu_Station_Panoramics.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG/500px-Korail_Yeongdong_Line_Seungbu_Station_Platform.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yeongam_Line_Opening_Monument.jpg/500px-Yeongam_Line_Opening_Monument.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "boryeong": {
+  "nm": "보령",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 서해안고속도로로 약 2시간, 또는 용산역 장항선 무궁화호로 대천역까지 약 2시간 반. 부산에서는 대전 경유로 약 4시간 거리.",
+  "sep": "여름(7~8월) — 머드축제와 해수욕이 절정. 다만 한적함을 원하면 조개 캐는 봄과 낙조 고운 가을이 오히려 낫다.",
+  "mood": "서해에서 가장 큰 백사장, 달마다 갈라지는 바닷길, 바다 밑 6.9km를 달리는 터널까지 — 보령은 바다로 노는 법을 다 안다.",
+  "see": "서해 최대 대천해수욕장, 모세의 기적 무창포, 국내 최장 해저터널.",
+  "spots": [
+   {
+    "name": "대천해수욕장",
+    "rom": "3.5km 백사장, 여름 머드축제의 무대",
+    "meta": [
+     "🏖️ 서해 최대 해변",
+     "🌊 7월 머드축제",
+     "🌅 낙조 명소"
+    ],
+    "desc": "서해안에서 가장 크고 잘 알려진 해변으로, 3.5km 고운 모래밭이 완만하게 펼쳐진다. 해질 무렵 바다 너머로 붉게 번지는 낙조가 특히 곱다. 매년 7월이면 전 세계 사람들이 몰려드는 보령머드축제가 바로 이 백사장 위에서 열린다.",
+    "todo": [
+     "백사장을 걸으며 서해 낙조 보기",
+     "여름이면 머드축제에서 갯벌 진흙 체험",
+     "대천항에서 회·조개구이로 저녁"
+    ],
+    "tip": "머드축제 기간(7월)엔 숙소가 일찍 마감되니 예약을 서두른다. 인파를 피하려면 봄·가을 평일이 한결 한적하다.",
+    "eat": "대천항 수산시장의 대하·키조개·간재미회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg/500px-Korea-Boryeong-Daecheon_Beach-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무창포해수욕장",
+    "rom": "달마다 바다가 갈라져 길이 열리는 곳",
+    "meta": [
+     "🌊 신비의 바닷길",
+     "🦪 굴·조개 캐기",
+     "🌅 일몰"
+    ],
+    "desc": "썰물이 되면 해변 앞 석대도까지 1.5km 남짓 바닷길이 드러난다. '모세의 기적'이라 불리는 이 갯벌 길 위로 사람들이 걸어 들어가 조개와 소라를 줍는다. 물이 빠지는 시간만 맞추면 누구나 바다 한가운데를 걸어볼 수 있다.",
+    "todo": [
+     "물때표 확인하고 바닷길 열릴 때 맞춰 걷기",
+     "드러난 갯벌에서 조개·소라 줍기",
+     "방파제에서 붉은 일몰 보기"
+    ],
+    "tip": "바닷길은 하루 두 번, 간조 시간에만 열린다. 방문 전 물때 시간을 꼭 확인하고 장화·목장갑을 챙기면 좋다."
+   },
+   {
+    "name": "보령해저터널",
+    "rom": "국내 최장, 바다 밑 6.9km를 달리는 길",
+    "meta": [
+     "🚗 국내 최장 해저터널",
+     "⏱ 통과 약 10분",
+     "🌉 원산도·안면도 연결"
+    ],
+    "desc": "대천항과 원산도를 잇는 6.9km 바다 밑 터널이다. 2021년 개통으로 95km를 돌아가던 길이 14km로 줄었다. 창밖은 온통 콘크리트 벽이지만 '지금 바다 밑을 지나고 있다'는 사실만으로 묘하게 설레는 드라이브다. 터널을 빠져나오면 원산안면대교가 안면도로 이어진다.",
+    "todo": [
+     "터널을 통과해 원산도·안면도까지 드라이브",
+     "원산도 오봉산해수욕장에서 잠시 쉬기"
+    ],
+    "tip": "터널 안은 정차·촬영 금지다. 사진은 원산도 쪽 진입로나 원산안면대교 전망 지점에서 남긴다."
+   },
+   {
+    "name": "삽시도",
+    "rom": "대천항에서 배로 닿는 조용한 섬",
+    "meta": [
+     "⛴ 대천항 여객선",
+     "🏖️ 거멀너머·진너머 해변",
+     "🥾 섬 둘레길"
+    ],
+    "desc": "대천연안여객선터미널에서 배를 타고 들어가는 섬이다. 거멀너머·진너머 두 해변과 썰물 때 나타나는 면삽지 갯바위, 물망터 약수가 소박하게 이어진다. 관광지다운 번잡함이 없어 하루 이틀 조용히 걷고 싶을 때 잘 어울린다.",
+    "todo": [
+     "썰물에 면삽지 갯바위까지 걸어보기",
+     "거멀너머 해변에서 물놀이",
+     "섬 둘레를 천천히 트레킹"
+    ],
+    "tip": "배편이 하루 몇 편뿐이라 왕복 시간표를 먼저 확인한다. 섬 안엔 대중교통이 거의 없어 도보 이동을 염두에 둔다.",
+    "eat": "섬 식당의 자연산 우럭·바지락칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%EC%82%BD%EC%8B%9C%EB%8F%84.jpg/500px-%EC%82%BD%EC%8B%9C%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg/500px-%EB%8C%80%EC%B2%9C%EC%97%B0%EC%95%88%EC%97%AC%EA%B0%9D%EC%84%A0%ED%84%B0%EB%AF%B8%EB%84%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보령 성주사지",
+    "rom": "통일신라 구산선문의 절터와 국보 비석",
+    "meta": [
+     "🏛 사적 제307호",
+     "🗿 국보 낭혜화상탑비",
+     "⏱ 약 1시간"
+    ],
+    "desc": "백제 오합사에서 통일신라 성주사로 이어진 큰 절이 있던 자리다. 지금은 건물 대신 넓은 터에 오층·삼층 석탑들과 국보 낭혜화상탑비가 남아 옛 규모를 짐작케 한다. 성주산을 배경으로 석탑들만 나란히 선 풍경이 고요하고 단정하다.",
+    "todo": [
+     "국보 낭혜화상탑비 앞에서 최치원이 쓴 비문 이야기 떠올리기",
+     "석탑들 사이를 천천히 걷기"
+    ],
+    "tip": "넓은 잔디밭 터라 그늘이 적다. 여름엔 모자·양산을 챙기고, 노을 무렵이면 사진이 더 곱게 나온다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Seongjusa_Temple_Site%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg/500px-Three-story_Stone_Pagoda_Seongjusa_Temple_Site%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보령석탄박물관",
+    "rom": "탄광의 시간을 걷는 지하 냉풍터널",
+    "meta": [
+     "🏛 국내 첫 석탄박물관",
+     "❄️ 냉풍터널 여름 피서",
+     "💴 입장료 소액(변동가능)"
+    ],
+    "desc": "한때 성주산 일대를 채웠던 탄광의 기억을 모은 곳이다. 실제 갱도처럼 꾸민 모의갱도를 따라 광부들의 하루를 되짚고, 땅속에서 나오는 시원한 바람으로 여름에도 서늘한 냉풍터널을 걷는다. 연탄 한 장에 담긴 시대를 아이와 함께 보기 좋다.",
+    "todo": [
+     "모의갱도 따라 광산 생활 체험",
+     "여름엔 냉풍터널에서 더위 식히기"
+    ],
+    "tip": "냉풍터널은 한여름에도 서늘하니 얇은 겉옷을 챙긴다. 인근 성주산자연휴양림과 묶어 둘러보기 좋다."
+   },
+   {
+    "name": "보령 충청수영성",
+    "rom": "천수만을 내려다보던 조선 수군의 성",
+    "meta": [
+     "🏛 사적 제501호",
+     "🌅 오천항 전망",
+     "⏱ 약 1시간"
+    ],
+    "desc": "조선시대 충청도 수군을 지휘하던 본영이 있던 성곽이다. 오천항 언덕 위 아치형 서문(망화문)과 남은 성벽을 따라 오르면 천수만 바다와 항구가 한눈에 들어온다. 조용한 어항 마을에 남은 옛 군영의 흔적이 정갈하다.",
+    "todo": [
+     "아치형 서문(망화문) 지나 성벽길 걷기",
+     "언덕에서 오천항과 천수만 조망"
+    ],
+    "tip": "바로 아래 오천항은 키조개 산지로 유명하다. 성곽을 둘러본 뒤 항구 식당에서 키조개 요리를 곁들이면 좋다.",
+    "eat": "오천항 키조개 관자·키조개 삼합",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chungcheong-do_Province%2C_Boryeong.jpg/500px-Chungcheong-do_Province%2C_Boryeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽도 상화원",
+    "rom": "대나무 섬을 두른 한국식 정원 회랑",
+    "meta": [
+     "🎋 대나무 섬",
+     "🌿 전통정원 상화원",
+     "🚶 바다 낀 회랑 산책"
+    ],
+    "desc": "남포방조제 길로 육지와 이어진 작은 섬으로, 대나무가 울창해 죽도라 불린다. 섬을 빙 두른 목조 회랑을 따라 걷는 한국 전통정원 상화원이 자리해, 서해 바다와 정원을 한눈에 담을 수 있다. 느리게 걷기 좋은 조용한 산책길이다.",
+    "todo": [
+     "상화원 회랑을 한 바퀴 돌며 바다 전망 보기",
+     "무창포 바닷길과 묶어 둘러보기"
+    ],
+    "tip": "상화원은 개방 시기·요일이 정해져 있고 입장료(약, 다과 포함)를 받으니 방문 전 운영 여부를 확인한다."
+   }
+  ]
+ },
+ "boseong": {
+  "nm": "보성",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울에서 시외버스로 약 4시간 30분, 또는 KTX·기차로 순천·광주 경유 후 경전선 보성역. 부산에서는 남해고속도로로 약 3시간.",
+  "sep": "봄(4~5월)—녹차 새순이 가장 푸르고 대원사 왕벚꽃까지 겹친다. 겨울(12~1월)엔 차밭 전체에 불을 켜는 차밭빛축제가 절정.",
+  "mood": "산비탈을 뒤덮은 초록 녹차 물결, 그리고 벌교 갯벌의 짭조름한 꼬막 한 접시. 초록과 바다가 나란히 있는 남도의 차향 고을.",
+  "see": "끝없는 녹차밭·율포 바다와 녹차온천·벌교 꼬막과 태백산맥 무대·1970년대 그대로인 득량역 옛 거리.",
+  "spots": [
+   {
+    "name": "대한다원 (보성 녹차밭)",
+    "rom": "산비탈을 물결치는 대한민국 대표 녹차밭",
+    "meta": [
+     "💴 입장 약 4,000원",
+     "📸 삼나무 숲길",
+     "🌿 사계절 녹차밭"
+    ],
+    "desc": "산비탈을 따라 곡선으로 심긴 녹차나무가 끝없이 물결치고, 입구엔 하늘로 곧게 뻗은 삼나무 숲길이 초록 터널을 이룬다. 아침 안개가 걸리면 사진 한 장이 그대로 엽서가 되고, 겨울엔 차밭 전체에 불빛이 켜지는 차밭빛축제가 열린다.",
+    "todo": [
+     "삼나무 숲길 걸으며 사진 찍기",
+     "녹차 아이스크림·녹차 국수 맛보기",
+     "전망대까지 올라 차밭 전경 담기"
+    ],
+    "tip": "봄 신록과 겨울 차밭빛축제(12~1월)가 절정. 주말·성수기엔 이른 오전이 가장 한산하다. 입장료 약 4,000원(변동 가능).",
+    "eat": "녹차 아이스크림, 녹차 삼겹살, 녹차 국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG/500px-%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG"
+    ]
+   },
+   {
+    "name": "율포솔밭해변 & 해수녹차온천",
+    "rom": "바다·솔숲·녹차 온천이 한자리에",
+    "meta": [
+     "🌊 남해 바다",
+     "♨️ 녹차 해수온천",
+     "🌅 노을 명소"
+    ],
+    "desc": "보성 유일의 해수욕장으로, 오래된 소나무 숲과 잔잔한 남해 바다가 나란히 펼쳐진다. 바로 옆 해수녹차온천에서는 바닷물을 데운 탕에 녹차를 더해, 짠 바다 냄새 대신 은은한 녹차 향에 몸을 담글 수 있다.",
+    "todo": [
+     "솔밭 그늘에서 바다 노을 보기",
+     "해수녹차탕에서 온천욕",
+     "해안 산책로 걷기"
+    ],
+    "tip": "여름 해수욕 성수기, 온천은 사계절 운영. 해 질 녘 노을 시간대가 가장 예쁘다.",
+    "eat": "바지락·키조개 등 남해 해산물"
+   },
+   {
+    "name": "태백산맥문학관 & 벌교 거리",
+    "rom": "조정래 대하소설의 무대, 꼬막의 고장",
+    "meta": [
+     "📖 태백산맥 무대",
+     "🦪 벌교 꼬막",
+     "🌉 홍교(보물)"
+    ],
+    "desc": "조정래의 대하소설 『태백산맥』의 배경이 된 벌교, 그 이야기를 고스란히 담은 문학관이 산자락에 안겨 있다. 소설 속 거리를 따라 걸으면 일제강점기 건물과 300년 된 무지개 돌다리 홍교가 나오고, 벌교 하면 빠질 수 없는 갯벌 꼬막이 밥상 위에 오른다.",
+    "todo": [
+     "문학관에서 소설 친필 원고 보기",
+     "소설 배경지 옛 거리 걷기",
+     "벌교 홍교 건너보기"
+    ],
+    "tip": "문학관 월요일 휴관. 꼬막은 겨울(11~3월)이 제철이라 이때 벌교 밥상이 가장 실하다.",
+    "eat": "벌교 꼬막정식, 꼬막비빔밥, 꼬막무침",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "득량역 추억의 거리",
+    "rom": "1970년대로 돌아간 간이역 골목",
+    "meta": [
+     "🚂 옛 간이역",
+     "📷 레트로 골목",
+     "💴 무료"
+    ],
+    "desc": "작은 시골 간이역 앞에, 주민들이 손수 꾸민 1970~80년대 옛 거리가 그대로 남아 있다. 문방구·이발관·만화방·교실이 재현된 골목을 걸으면 흑백 사진 속으로 들어간 듯하고, 옛 교복을 빌려 입고 사진을 남기는 사람도 많다.",
+    "todo": [
+     "옛 교복 입고 사진 찍기",
+     "추억의 문방구·이발관 구경",
+     "간이역 플랫폼에서 기차 기다리기"
+    ],
+    "tip": "무료로 둘러볼 수 있고, 남도해양열차(S-train) 정차역이라 기차 여행과 엮기 좋다.",
+    "eat": "역 앞 소박한 시골 분식·다방 커피",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png/500px-%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png/500px-%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%EB%93%9D%EB%9F%89%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png/500px-%EB%93%9D%EB%9F%89%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png"
+    ]
+   },
+   {
+    "name": "한국차박물관",
+    "rom": "차의 역사와 문화를 한자리에",
+    "meta": [
+     "🍵 차 문화 전시",
+     "🔭 전망대",
+     "⏱ 1~2시간"
+    ],
+    "desc": "보성 녹차밭 초입에 세워진 차 전문 박물관으로, 차의 역사·문화·생활을 층별로 풀어놓았다. 꼭대기 전망대에 오르면 발아래로 초록 차밭과 마을이 한눈에 들어오고, 차 문화 체험 프로그램이 운영되기도 한다.",
+    "todo": [
+     "층별 전시로 차 문화 둘러보기",
+     "5층 전망대에서 차밭 조망",
+     "다도·차 만들기 체험"
+    ],
+    "tip": "월요일 휴관. 대한다원·봇재와 가까워 함께 묶어 보기 좋다.",
+    "eat": "박물관 인근 녹차 디저트·녹차 라떼",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg/500px-Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg"
+    ]
+   },
+   {
+    "name": "대원사와 왕벚꽃길",
+    "rom": "봄이면 약 6km 왕벚꽃 터널이 열리는 산사",
+    "meta": [
+     "🌸 봄 왕벚꽃길",
+     "🛕 티벳박물관",
+     "🏯 백제 고찰"
+    ],
+    "desc": "백제 때 창건된 오래된 산사로, 절로 오르는 산길이 봄이면 굵고 탐스러운 왕벚꽃 터널로 뒤덮인다. 경내엔 티벳 불교 문화를 소개하는 티벳박물관이 함께 있어, 산사의 고요함과 이국적인 색채를 한 번에 만난다.",
+    "todo": [
+     "봄 왕벚꽃 터널길 드라이브·산책",
+     "티벳박물관 둘러보기",
+     "산사 마당에서 조용히 쉬기"
+    ],
+    "tip": "왕벚꽃은 보통 4월 초·중순 절정. 벚꽃철 주말은 진입로가 붐비니 오전이 낫다.",
+    "eat": "산사 인근 산채비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "buan": {
+  "nm": "부안",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 센트럴시티에서 고속버스로 약 3시간, 자가용은 서해안고속도로 부안IC. 부산에서는 약 3시간 30분~4시간. 변산반도 안쪽은 대중교통이 드물어 렌터카·자가용이 편하다.",
+  "sep": "가을(10~11월)이 최고다. 내소사 전나무숲 단풍이 붉게 물들고, 서해로 지는 낙조가 가장 맑고 길게 남는다. 봄이면 변산 들녘의 꽃과 초록도 좋다.",
+  "mood": "서해 절벽엔 수만 권 책 같은 지층이 쌓였고, 전나무 숲길 끝엔 천 년 된 절이 앉아 있다.",
+  "see": "채석강 층리 절벽과 낙조, 내소사 전나무숲, 변산반도 계곡과 폭포, 세계 최장 새만금방조제.",
+  "spots": [
+   {
+    "name": "채석강",
+    "rom": "수만 권 책을 쌓아올린 듯한 서해 절벽",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 낙조 명소",
+     "🪨 층리 절벽"
+    ],
+    "desc": "격포항 옆 닭이봉 아래로 내려서면, 파도가 오래 깎아낸 절벽이 마치 수만 권의 책을 차곡차곡 쌓아올린 듯한 층리로 서 있다. 백악기 퇴적암이 만든 이 무늬는 물이 빠진 시간에만 발밑까지 걸어 들어가 볼 수 있고, 해 질 무렵이면 붉은 낙조가 절벽과 바다를 함께 물들인다.",
+    "todo": [
+     "물때(간조) 맞춰 파식대 바닥까지 걸어보기",
+     "해 질 무렵 낙조 기다리기",
+     "옆동네 적벽강까지 이어 걷기"
+    ],
+    "tip": "가장 좋은 건 간조 시간. 물이 들어오면 절벽 아래 길이 잠기니 물때표를 미리 확인하고, 이끼 낀 바위는 미끄러우니 조심.",
+    "eat": "격포항 회센터의 제철 회와 백합죽",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/500px-Korea-Buan_County-Chaeseokgang-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "내소사",
+    "rom": "전나무 숲길 끝에 앉은 백제의 고찰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🌲 전나무숲길"
+    ],
+    "desc": "일주문을 지나면 하늘을 가린 전나무 숲길이 곧게 뻗는다. 그 서늘한 길 끝에 백제 때 세워졌다는 절이 나타나고, 못 하나 쓰지 않고 짜맞춘 대웅보전의 꽃살문이 오래된 나뭇결 그대로 남아 있다. 가을이면 절 마당의 느티나무와 단풍이 함께 붉어져 사진 어디를 담아도 그림이 된다.",
+    "todo": [
+     "전나무 숲길 천천히 걷기",
+     "대웅보전 꽃살문 들여다보기",
+     "천 년 넘은 당산나무 만나기"
+    ],
+    "tip": "숲길이 하이라이트이니 서두르지 말고 걸어서 진입. 단풍 절정기 주말은 주차장이 빨리 차서 오전 방문이 편하다.",
+    "eat": "인근 곰소의 젓갈백반과 바지락",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%EB%82%B4%EC%86%8C%EC%82%AC4.jpg/500px-%EB%82%B4%EC%86%8C%EC%82%AC4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG/330px-Naesosa_Iljumun_13-04403_-_Buan-gun%2C_Jeollabuk-do%2C_South_Korea.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "직소폭포",
+    "rom": "변산 능선 속으로 걸어드는 폭포 트레킹",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🥾 트레킹",
+     "💧 계곡·폭포"
+    ],
+    "desc": "변산반도 국립공원 안쪽, 내변산 탐방로를 따라 걸으면 봉래구곡의 맑은 물을 몇 굽이 지나 직소폭포가 쏟아진다. 화산암이 만든 주상절리와 못을 거쳐 흐르는 물빛이 유난히 투명해, 부안 사람들이 예로부터 첫손에 꼽던 경승이다. 저수지에 산이 통째로 비치는 관음봉 구간도 놓치기 아깝다.",
+    "todo": [
+     "내변산 탐방지원센터에서 출발해 폭포까지 걷기",
+     "직소보 물그림자 사진 담기",
+     "관음봉 능선 조망 즐기기"
+    ],
+    "tip": "왕복 두어 시간의 산길이니 운동화와 물을 챙길 것. 비 온 뒤 수량이 늘 때가 가장 장쾌하다.",
+    "eat": "변산 일대의 백합 요리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg/500px-%EC%A7%81%EC%86%8C%ED%8F%AD%ED%8F%AC_-_panoramio.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "새만금방조제",
+    "rom": "바다 위로 곧게 뻗은 세계 최장 방조제",
+    "meta": [
+     "💴 통행 무료",
+     "⏱ 2~3시간",
+     "🚗 드라이브",
+     "🌊 바다 한가운데"
+    ],
+    "desc": "부안에서 군산까지 바다를 가로질러 33km, 기네스에 오른 세계에서 가장 긴 방조제다. 양옆이 온통 바다인 도로를 달리면 육지도 섬도 아닌 한가운데를 지나는 기분이 든다. 중간의 가력·신시도 휴게소에 차를 세우면 탁 트인 서해와 낙조를 마주할 수 있다.",
+    "todo": [
+     "방조제 도로를 끝까지 드라이브",
+     "휴게소에서 바다·낙조 보기",
+     "새만금 전망대에 올라 전경 담기"
+    ],
+    "tip": "차로 이동하는 코스라 자가용·렌터카가 필수. 바람이 세니 해 질 무렵엔 겉옷을 챙기면 좋다.",
+    "eat": "가력도·계화도 쪽의 바지락죽과 백합칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Saemangeum_ast_2006280_lrg.jpg/500px-Saemangeum_ast_2006280_lrg.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Saemangeum_Seawall_Administrative_division_Promulgation.jpg/500px-Saemangeum_Seawall_Administrative_division_Promulgation.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg/500px-%EC%83%88%EB%A7%8C%EA%B8%88_3%ED%98%B8_%EB%B0%A9%EC%A1%B0%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "곰소염전",
+    "rom": "서해 갯벌이 소금을 만드는 자리",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1~2시간",
+     "🧂 천일염",
+     "📷 사진 포인트"
+    ],
+    "desc": "진서면 곰소 앞바다에 반듯하게 펼쳐진 소금밭이다. 햇볕과 바람만으로 바닷물을 졸여 천일염을 거두는 오래된 방식이 그대로 남아, 물을 가둔 칸마다 하늘이 통째로 비쳐 거대한 거울처럼 보인다. 이 소금으로 담근 곰소 젓갈은 부안을 대표하는 밥도둑이다.",
+    "todo": [
+     "소금밭에 비친 하늘·노을 사진 담기",
+     "소금 거두는 여름철 풍경 보기",
+     "곰소 젓갈시장 둘러보기"
+    ],
+    "tip": "천일염은 여름(6~8월) 맑은 날 작업이 가장 활발하다. 작업 중인 염부에게 방해가 되지 않게 통로에서만 관람.",
+    "eat": "곰소 젓갈백반 — 십수 가지 젓갈에 밥 한 상"
+   },
+   {
+    "name": "개암사",
+    "rom": "울금바위 아래 조용히 앉은 산사",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2시간",
+     "🏯 보물 대웅전",
+     "🍂 한적한 절"
+    ],
+    "desc": "상서면 변산 기슭, 두 개의 큰 바위봉우리 울금바위를 배경으로 백제 때 창건된 절이 자리한다. 관광객이 몰리지 않아 마당이 늘 고요하고, 보물로 지정된 대웅전의 짜임과 단청을 천천히 올려다보기 좋다. 절 뒤로 이어지는 우금산성 길은 짧은 산책으로도 시원한 조망을 준다.",
+    "todo": [
+     "대웅전 처마와 단청 올려다보기",
+     "울금바위·우금산성 방향으로 짧게 걷기",
+     "봄 벚꽃·가을 단풍 마당 즐기기"
+    ],
+    "tip": "내소사에 비해 덜 알려져 한적하다. 조용한 산사를 원하면 이곳이 답. 진입로가 좁으니 운전 시 주의.",
+    "eat": "부안 시내의 백합죽·바지락비빔밥"
+   }
+  ]
+ },
+ "bucheon": {
+  "nm": "부천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 바로 서쪽, 지하철로 닿는 도시 — 1호선(부천역)·7호선(상동·부천종합운동장역)으로 서울 도심에서 40분 안팎. 인천·김포공항과도 지척이라 환승 나들이로 가볍다.",
+  "sep": "봄(4~5월). 4월 초 원미산 진달래, 4월 중순 도당산 벚꽃, 5월 도당 백만송이장미까지 한 도시가 꽃으로 릴레이하듯 이어져, 부천의 진짜 얼굴이 드러나는 계절이다.",
+  "mood": "만화의 도시, 폐소각장이 미술관이 되고 봄이면 온 산이 분홍으로 물드는 서울 옆 산책 도시.",
+  "see": "만화박물관·아트벙커 같은 실내 문화공간부터 진달래동산·벚꽃길·장미원까지, 예술과 봄꽃이 지하철 몇 정거장으로 이어진다.",
+  "spots": [
+   {
+    "name": "한국만화박물관",
+    "rom": "만화도시 부천을 대표하는 만화 전문 박물관",
+    "meta": [
+     "💴 입장 약 5,000원(변동가능)",
+     "⏱ 반나절",
+     "🎨 실내·비 오는 날",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "옛날 만화방을 재현한 공간에 앉아 낡은 만화책을 넘기다 보면, 방바닥에 엎드려 만화를 보던 어린 오후가 통째로 돌아온다. 만화 100여 년의 역사와 웹툰 체험, 입체 상영관까지 4층 가득 채워져 있어 아이도 어른도 각자의 추억 앞에서 걸음을 멈춘다.",
+    "todo": [
+     "옛날 만화방 재현 공간에서 만화책 넘겨보기",
+     "웹툰·입체 상영 체험관 둘러보기"
+    ],
+    "tip": "월요일 휴관. 2층 만화도서관은 무료, 3·4층 상설전시는 유료다. 영상문화단지 안에 있어 상동호수공원과 묶어 돌기 좋다.",
+    "eat": "상동 먹자골목의 분식·카페·맛집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Korea_Manhwa_Museum.JPG/500px-Korea_Manhwa_Museum.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Korea_Manhwa_Museum_20251122_1.jpg/120px-Korea_Manhwa_Museum_20251122_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EA%B8%88%EC%88%B2_20251122buchon_053.jpg/120px-%EA%B8%88%EC%88%B2_20251122buchon_053.jpg"
+    ]
+   },
+   {
+    "name": "부천아트벙커 B39",
+    "rom": "쓰레기 소각장이 통째로 미술관이 된 곳",
+    "meta": [
+     "💴 상설공간 무료(기획전 별도)",
+     "⏱ 2~3시간",
+     "📸 사진 명소",
+     "🏭 산업유산"
+    ],
+    "desc": "39미터 높이의 거대한 쓰레기 저장고, 검게 그을린 벙커와 소각로 파이프가 그대로 남은 옛 삼정동 소각장 안을 걷는다. 버려질 뻔한 산업시설이 회색 콘크리트의 질감을 그대로 무기 삼아 압도적인 전시장으로 되살아났고, 그 낯선 스케일 앞에서 저절로 카메라를 들게 된다.",
+    "todo": [
+     "거대한 벙커(저장고) 내부를 올려다보기",
+     "소각로 설비가 남은 산책 동선 걷기"
+    ],
+    "tip": "화~일 운영, 월요일·공휴일 휴관(전시 일정에 따라 시간이 달라지니 방문 전 확인). 상설공간 관람은 무료이고 기획전은 별도다."
+   },
+   {
+    "name": "원미산 진달래동산",
+    "rom": "4월이면 산비탈 전체가 분홍으로 뒤덮이는 진달래 군락지",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌸 4월 진달래",
+     "🚶 완만한 산책"
+    ],
+    "desc": "나지막한 산비탈이 4월 초 며칠 동안 수많은 진달래로 통째로 분홍빛이 된다. 지하철역에서 몇 분만 걸으면 도심 한복판인데도, 꽃길에 들어서는 순간 봄 특유의 고요가 발밑에 내려앉는다.",
+    "todo": [
+     "진달래 만개 시기(4월 초) 능선 꽃길 산책",
+     "원미산 진달래축제 기간 맞춰 방문"
+    ],
+    "tip": "개화는 4월 초 한두 주로 짧으니 시기를 잘 맞춰야 한다. 산세가 완만해 남녀노소 부담 없이 오른다. 소사역·부천종합운동장역에서 가깝다."
+   },
+   {
+    "name": "도당산 벚꽃길",
+    "rom": "낮엔 하얀 벚꽃, 밤엔 조명 벚꽃 — 봄밤의 산책로",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🌸 4월 벚꽃",
+     "🌹 5월 장미"
+    ],
+    "desc": "4월 중순 도당산 자락에 벚꽃이 터지면 낮에는 파란 하늘 아래 하얀 꽃비가 흩날리고, 밤에는 LED 조명이 벚꽃을 무지갯빛으로 물들여 낮과는 전혀 다른 길을 연다. 벚꽃이 지고 나면 바로 아래 도당 백만송이장미원이 5월을 이어받아, 봄 내내 이 언덕은 꽃이 마르지 않는다.",
+    "todo": [
+     "4월 중순 밤 벚꽃 야간 조명 산책",
+     "5월 도당 백만송이장미원까지 이어 걷기"
+    ],
+    "tip": "벚꽃(4월 중순)과 장미(5월)는 절정 시기가 다르니 목적에 맞춰 방문한다. 둘 다 입장료 없이 자유롭게 즐긴다."
+   },
+   {
+    "name": "부천자연생태공원",
+    "rom": "식물원·수목원·생태박물관이 한자리에 모인 도심 자연학습장",
+    "meta": [
+     "💴 통합관람 약 4,000원(변동가능)",
+     "⏱ 반나절",
+     "🌷 봄 튤립·여름 수국",
+     "👨‍👩‍👧 아이 동반"
+    ],
+    "desc": "부천식물원의 유리온실, 무릉도원수목원의 수국 길, 자연생태박물관과 농경유물전시관이 한 울타리 안에 나란히 이어진다. 봄이면 튤립, 여름이면 수국이 산책로를 가득 채워, 도심 한복판에서 계절을 통째로 걸어 지나가는 기분이 든다.",
+    "todo": [
+     "부천식물원 유리온실 열대식물 구경",
+     "무릉도원수목원 수국 길 산책"
+    ],
+    "tip": "통합관람권으로 식물원·박물관을 함께 본다. 65세 이상은 무료. 봄 튤립과 6~7월 수국 시즌이 가장 볼 만하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bucheon_Botanical_Garden_20251122_8.jpg/500px-Bucheon_Botanical_Garden_20251122_8.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20251122_%EB%B6%80%EC%B2%9C%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_%EC%9B%A8%EC%A0%9C_6.jpg/120px-20251122_%EB%B6%80%EC%B2%9C%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_%EC%9B%A8%EC%A0%9C_6.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20251122_%EB%B6%80%EC%B2%9C%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_%EC%9B%A8%EC%A0%9C_12.jpg/120px-20251122_%EB%B6%80%EC%B2%9C%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_%EC%9B%A8%EC%A0%9C_12.jpg"
+    ]
+   },
+   {
+    "name": "상동호수공원",
+    "rom": "도심 한가운데 18만㎡ 호수를 낀 저녁 산책 명소",
+    "meta": [
+     "💴 무료",
+     "⏱ 2시간",
+     "🌆 저녁 노을",
+     "🚶 산책·피크닉"
+    ],
+    "desc": "아파트 숲 한복판에 18만 제곱미터 호수가 펼쳐져, 해질 무렵이면 물 위로 노을이 번지고 산책로 조명이 하나둘 켜진다. 한국만화박물관과 지척이라, 실내 전시로 채운 낮의 끝에 물가를 걸으며 하루를 마무리하기 좋다.",
+    "todo": [
+     "해질 녘 호수 둘레길 한 바퀴 돌기",
+     "야간 조명 켜진 물가 벤치에서 쉬어가기"
+    ],
+    "tip": "한국만화박물관과 가까워 함께 묶으면 동선이 짧다. 야간 산책도 무난하다.",
+    "eat": "인근 상동 먹자골목의 다양한 맛집과 카페",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "busan": {
+  "nm": "부산",
+  "region": "🏔️ 경상 · 부산광역시",
+  "route": "서울→부산: KTX 약 2시간 30분(서울역→부산역), 또는 김해공항 항공편. 시내는 도시철도 4개 노선+버스로 해운대·광안리·남포·태종대까지 대부분 연결된다.",
+  "sep": "5~6월 초여름과 10월이 베스트 — 바닷바람이 선선하고 하늘이 맑아 바다도 야경도 가장 곱다. 7~8월은 해수욕 절정이지만 인파·더위가 최고조. 10월엔 부산불꽃축제와 국제영화제로 도시 전체가 들썩인다.",
+  "mood": "산복도로 파스텔 마을과 광안대교 야경, 갓 뜬 회 한 접시까지 — 바다와 도시가 한 프레임에 담기는 곳.",
+  "see": "파스텔 계단마을·드넓은 백사장·깎아지른 해안 절벽·불빛 가득한 밤바다, 그리고 시장의 활기.",
+  "spots": [
+   {
+    "name": "감천문화마을",
+    "rom": "산비탈을 물들인 파스텔 계단 마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "📷 포토스팟"
+    ],
+    "desc": "산자락을 따라 켜켜이 쌓인 집들이 파랑·분홍·노랑으로 물들어, 골목마다 다른 색이 펼쳐진다. 좁은 계단을 오르내리다 보면 벽화와 작은 공방, 어린왕자 조형물이 불쑥 나타나고, 마을 꼭대기에서 내려다보면 지붕들이 바다처럼 층층이 흘러간다.",
+    "todo": [
+     "어린왕자 포토스팟에서 마을 전경 담기",
+     "골목 스탬프북 들고 숨은 벽화 찾기",
+     "전망 좋은 카페에서 마을 내려다보기"
+    ],
+    "tip": "언덕·계단이 많아 편한 신발 필수. 주말 낮엔 크게 붐비니 이른 아침이 한적하다. 주차가 협소해 대중교통 권장. 실제 주민이 사는 마을이라 사진·소음 예의를 지킨다.",
+    "eat": "마을 안 팥빙수와 씨앗호떡, 골목 분식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/500px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "해운대해수욕장",
+    "rom": "부산을 상징하는 넓은 백사장",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏖 여름 해수욕",
+     "🌃 야경"
+    ],
+    "desc": "1.5km 백사장 뒤로 고층 빌딩이 병풍처럼 서 있어, 도심과 바다가 한 화면에 담긴다. 여름엔 파라솔이 백사장을 가득 메우고, 밤이면 해변 산책로에 불이 들어와 파도 소리와 도시의 불빛이 나란히 걷는다.",
+    "todo": [
+     "백사장 맨발로 걷기",
+     "동백섬 누리마루·해안 산책로 한 바퀴",
+     "블루라인파크 해변열차 타기"
+    ],
+    "tip": "여름 성수기엔 인파와 주차난이 심하다. 아침 산책과 일출 시간이 가장 한적하다. 블루라인파크 해변열차·스카이캡슐은 예약·대기가 붐빈다.",
+    "eat": "해운대 시장 어묵·씨앗호떡, 인근 밀면과 활어회"
+   },
+   {
+    "name": "광안리해수욕장",
+    "rom": "광안대교 불빛이 밤바다를 물들이는 해변",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌃 야경",
+     "🎆 불꽃축제"
+    ],
+    "desc": "낮보다 밤이 더 아름다운 해변이다. 바다 위로 길게 뻗은 광안대교에 조명이 들어오면, 다리 불빛이 잔잔한 물결에 부서져 해변 카페 유리창까지 번진다. 주말 밤엔 드론쇼가 하늘에 그림을 그리고, 가을 불꽃축제 땐 온 도시가 이 바다를 보러 모인다.",
+    "todo": [
+     "해변 카페 창가에서 광안대교 야경 보기",
+     "주말 저녁 드론라이트쇼 관람",
+     "모래사장 따라 야간 산책"
+    ],
+    "tip": "광안대교 조명과 주말 드론쇼는 일정·날씨에 따라 변동된다. 부산불꽃축제(가을) 땐 극도로 붐비니 자리 선점이 필요하다.",
+    "eat": "광안리 회센터 활어회, 해변가 조개구이와 오션뷰 카페",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b9/P080713002.jpg/500px-P080713002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f0/P080713001.jpg/500px-P080713001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gwangan_Beach_in_2019.jpg/500px-Gwangan_Beach_in_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "태종대",
+    "rom": "파도가 깎은 절벽과 등대, 소나무 숲",
+    "meta": [
+     "💴 입장 무료(다누비열차 약 4,000원)",
+     "⏱ 반나절",
+     "🌊 해안 절벽",
+     "🚋 순환열차"
+    ],
+    "desc": "영도 남단, 깎아지른 해안 절벽이 짙푸른 바다와 맞닿아 탁 트인 수평선을 펼친다. 소나무 숲길을 걷거나 다누비열차로 순환하며 등대·전망대에 내려서면, 바위에 부딪는 파도 소리와 갈매기가 함께 따라온다.",
+    "todo": [
+     "다누비 순환열차로 전망대·등대 돌기",
+     "전망대에서 수평선과 오륙도 조망",
+     "숲길 산책 후 등대 아래 바위 구경"
+    ],
+    "tip": "순환도로가 길고 오르막이라 걷기 힘들면 다누비열차를 추천한다. 안개·강풍 시 조망이 제한되고, 주말엔 열차 대기가 길다.",
+    "eat": "태종대 입구 분식·어묵, 영도 조개구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/500px-Korea-Busan-Taejongdae-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Korea-Busan-Taejongdae-04.jpg/330px-Korea-Busan-Taejongdae-04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taejongdae_Monumental_Planted_Tree.jpg/120px-Taejongdae_Monumental_Planted_Tree.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "자갈치시장",
+    "rom": "'오이소, 보이소' 부산 대표 수산시장",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍜 먹거리",
+     "🐟 활어회"
+    ],
+    "desc": "좌판마다 갓 잡은 생선이 은빛으로 반짝이고, 아주머니들의 '오이소, 보이소' 소리가 시장을 채운다. 2층에서 회를 떠 바로 상을 받으면 통유리 너머로 남포동 바다가 펼쳐진다. 근처 국제시장·BIFF광장까지 걸으면 부산 원도심의 활기가 그대로 이어진다.",
+    "todo": [
+     "1층에서 활어 고르고 2층에서 회로 맛보기",
+     "국제시장·BIFF광장 먹자골목 걷기",
+     "곰장어 구이 도전"
+    ],
+    "tip": "회는 가격을 먼저 확인하고 주문한다. 인근 국제시장·용두산공원·부산타워까지 도보로 묶으면 좋다. 주말엔 붐빈다.",
+    "eat": "곰장어구이, 활어회, 씨앗호떡, 비빔당면"
+   },
+   {
+    "name": "흰여울문화마을",
+    "rom": "영도 절벽 위 하얀 골목",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "📷 포토스팟",
+     "🌊 바다뷰"
+    ],
+    "desc": "절벽 끝에 매달린 듯 하얀 집들이 다닥다닥 붙어 있고, 좁은 골목 사이로 바다가 파랗게 새어 든다. 해안 산책로로 내려서면 파도가 발밑에서 부서지고, 골목 카페 창밖으로는 배들이 정박한 남항이 그림처럼 놓인다.",
+    "todo": [
+     "절영해안산책로 따라 걷기",
+     "골목 사이로 보이는 바다 프레임 담기",
+     "바다뷰 카페에서 남항 바라보기"
+    ],
+    "tip": "실제 주민이 사는 마을이라 조용히 다닌다. 골목이 좁고 계단이 많다. 태종대·영도와 묶어 반나절 코스로 잡으면 좋다.",
+    "eat": "골목 카페 커피와 디저트, 영도 물회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg/500px-Huinnyeoul_culture_village%2C_Busan_on_October_25th%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cafe_in_Huinnyeoul_Culture_Village.jpg/250px-Cafe_in_Huinnyeoul_Culture_Village.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "범어사",
+    "rom": "금정산 자락 천년 고찰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "⛰ 산사",
+     "🍁 가을 단풍"
+    ],
+    "desc": "도심에서 조금만 벗어나면 금정산 울창한 숲 속에 천년 고찰이 고요히 앉아 있다. 일주문을 지나 계단을 오르면 단청 고운 대웅전과 오래된 석탑이 나오고, 계곡 물소리와 풍경 소리가 도시의 소음을 지운다. 봄 등나무꽃, 가을 단풍이 특히 곱다.",
+    "todo": [
+     "일주문·대웅전 등 가람 둘러보기",
+     "금정산 등산로 초입 숲길 걷기",
+     "산사의 고요한 분위기 느끼기"
+    ],
+    "tip": "도시철도와 마을버스로 접근한다. 산사이므로 조용히, 예의를 지킨다. 여름엔 계곡, 가을엔 단풍철이 붐빈다.",
+    "eat": "범어사 입구 산채비빔밥과 손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Korea-Busan-Beomeosa-01.jpg/500px-Korea-Busan-Beomeosa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea-Busan-Beomeosa-Daeungjeon-01.jpg/500px-Korea-Busan-Beomeosa-Daeungjeon-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "다대포해수욕장",
+    "rom": "부산에서 노을이 가장 아름다운 해변",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 낙조",
+     "⛲ 꿈의낙조분수"
+    ],
+    "desc": "부산 서쪽 끝, 얕고 넓은 바다 위로 해가 천천히 내려앉으면 백사장 전체가 주황빛으로 물든다. 물이 빠지면 드넓은 모래펄이 드러나 아이들이 맨발로 뛰고, 여름 밤엔 '꿈의낙조분수'가 음악에 맞춰 물줄기를 쏘아 올린다.",
+    "todo": [
+     "일몰 시간 맞춰 낙조 감상하기",
+     "썰물 때 넓은 모래펄 걷기",
+     "여름 저녁 꿈의낙조분수 음악분수 보기"
+    ],
+    "tip": "낙조분수는 여름 시즌 저녁에 운영하며 일정·날씨에 따라 변동된다. 일몰 시각을 확인하고 방문한다. 도심에서 다소 멀지만 도시철도 다대포해수욕장역 바로 앞이다.",
+    "eat": "다대포 인근 조개구이와 횟집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dadaepo_Beach_1.jpg/500px-Dadaepo_Beach_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "buyeo": {
+  "nm": "부여",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 센트럴시티에서 부여행 고속·시외버스 약 2시간, 자가용도 약 2시간 30분. 부산에서는 약 3시간 30분. 백제 유적은 시내에 옹기종기 모여 있어 하루에 걸어서도 둘러볼 만하다.",
+  "sep": "7월 초·중순이 절정. 궁남지 연꽃이 만개하고 서동연꽃축제가 열려 새벽 물안개와 함께 연밭이 가장 예쁘다. 유적 산책은 단풍 물드는 10~11월 가을도 더없이 좋다.",
+  "mood": "700년 백제가 마지막 120년을 보낸 옛 도읍 사비. 화려한 관광지가 아니라, 무너진 왕국이 남긴 가장 우아하고 고요한 폐허를 걷는 곳이다.",
+  "see": "부소산성과 낙화암, 홀로 선 정림사지 오층석탑, 새벽 연꽃 가득한 궁남지, 금동대향로가 있는 국립부여박물관.",
+  "spots": [
+   {
+    "name": "부소산성 · 낙화암",
+    "rom": "백제 사비의 마지막을 품은 강가 산성",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🍂 가을 단풍",
+     "🌊 백마강 유람선"
+    ],
+    "desc": "백제 왕궁의 뒷산이자 마지막 방어선이던 나지막한 산성이다. 솔숲 오솔길을 따라 오르면 백마강이 발아래로 굽이치고, 그 끝 벼랑이 삼천궁녀의 전설이 서린 낙화암이다. 벼랑 아래 물가에 매달린 고란사에서 배를 타면 강 위에서 낙화암을 올려다볼 수 있다.",
+    "todo": [
+     "낙화암 백화정에서 백마강 전경 보기",
+     "강가 고란사와 고란약수 들르기",
+     "고란사 선착장에서 백마강 유람선 타기"
+    ],
+    "tip": "산성 전체를 도는 데 두세 시간, 솔숲이 짙어 여름에도 시원하다. 편한 신발 필수. 유람선은 고란사↔구드래 구간 운항하며 계절·시간에 따라 배차가 달라 당일 확인이 안전하다.",
+    "eat": "구드래 나루터 인근 연잎밥·연꽃빵. 산성 아래 백제향 거리에서 백제 궁중식 한상도 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/500px-Buyeo_198.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정림사지 오층석탑",
+    "rom": "빈터에 홀로 남은 백제탑의 정수",
+    "meta": [
+     "💴 입장 약 1,500원",
+     "⏱ 1~2시간",
+     "🗿 국보 제9호",
+     "🏛️ 백제 석탑 2기 중 하나"
+    ],
+    "desc": "번성했던 절은 사라지고, 넓은 빈터 한가운데 오층석탑 하나만 오롯이 서 있다. 익산 미륵사지탑과 함께 백제가 남긴 단 두 기의 석탑 중 하나로, 목탑에서 석탑으로 넘어가던 순간의 절묘한 비례와 유려한 처마 곡선이 그대로 살아 있다. 아무것도 없어서 오히려 탑 하나에 온전히 집중하게 된다.",
+    "todo": [
+     "석탑 처마의 완만한 반전 곡선 눈에 담기",
+     "옆 전시관에서 정림사 복원 모형 보기"
+    ],
+    "tip": "해질 무렵 역광에 실루엣이 특히 아름답다. 부지가 트여 그늘이 적으니 여름엔 모자·양산을 챙기면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg/500px-%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg"
+    ]
+   },
+   {
+    "name": "궁남지",
+    "rom": "새벽 물안개 피는 백제의 별궁 연못",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🪷 7월 연꽃축제",
+     "📷 야경 명소"
+    ],
+    "desc": "백제 무왕이 만들었다고 전하는 우리나라에서 가장 오래된 인공 연못이다. 연못 한가운데 포룡정 정자가 물에 비치고, 여름이면 드넓은 연밭이 수천 송이 연꽃으로 뒤덮인다. 서동과 선화공주의 서동요 설화가 깃든 곳이라, 연잎 사이를 걷다 보면 옛이야기 속으로 걸어 들어가는 듯하다.",
+    "todo": [
+     "이른 아침 물안개 속 연꽃 산책",
+     "포룡정 다리 건너 정자에 앉아보기",
+     "7월 서동연꽃축제 밤 조명 감상"
+    ],
+    "tip": "연꽃은 새벽에 피고 한낮엔 오므라들어 이른 아침이 가장 예쁘다. 넓어서 한 바퀴 도는 데 넉넉히 시간을 두자. 야간 조명도 볼만하다.",
+    "eat": "연꽃을 테마로 한 연잎밥 정식이 부여의 대표 별미다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gungnamji_011.jpg/500px-Gungnamji_011.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립부여박물관",
+    "rom": "금동대향로가 기다리는 백제 미의 창고",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏺 백제금동대향로",
+     "🌧️ 비 와도 좋음"
+    ],
+    "desc": "부여 유적을 돌기 전이든 후든 꼭 들러야 할 곳. 능산리 절터에서 발굴된 백제금동대향로가 이곳의 주인공으로, 봉황과 신선의 산이 정교하게 새겨진 백제 공예의 최고 걸작이다. 실물 앞에 서면 1,400년 전 장인의 손끝이 믿기지 않을 만큼 섬세하다.",
+    "todo": [
+     "금동대향로 실물 앞에서 세부 문양 관찰하기",
+     "백제 기와·불상 전시실 둘러보기"
+    ],
+    "tip": "국립박물관이라 상설전시 관람료가 없다. 향로 전시실은 조명을 낮춰 유물이 더 돋보이니 천천히 감상하자. 비 오는 날 일정으로도 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Buyeo_National_Museum_%2820160719_1%29.png/500px-Buyeo_National_Museum_%2820160719_1%29.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/b7/Seven-Branched-Sword.jpg/500px-Seven-Branched-Sword.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/120px-%EA%B5%AD%EB%A6%BD%EB%B6%80%EC%97%AC%EB%B0%95%EB%AC%BC%EA%B4%80.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "백제문화단지",
+    "rom": "사비궁을 통째로 되살린 백제 테마 단지",
+    "meta": [
+     "💴 입장 약 6,000원",
+     "⏱ 반나절",
+     "🏯 사비궁 재현",
+     "👨‍👩‍👧 가족 여행"
+    ],
+    "desc": "사라진 백제 왕궁과 사찰을 실물 크기로 복원한 넓은 역사 단지다. 웅장한 사비궁 정전과 5층 목탑을 세운 능사가 재현돼, 유적지의 빈터에서 상상만 하던 백제의 규모를 눈으로 실감할 수 있다. 한복을 입고 궁궐을 거니는 사진 명소로도 인기다.",
+    "todo": [
+     "사비궁 정전에서 백제 궁궐 규모 체감하기",
+     "능사 5층 목탑 오르며 단지 전경 보기",
+     "전망대에서 롯데리조트·백마강 조망"
+    ],
+    "tip": "부지가 매우 넓어 걷는 양이 많다. 여름엔 그늘이 적으니 물과 모자를 챙기자. 인근에 리조트·아쿠아가든이 있어 가족 숙박 여행과 묶기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Baekje_Cultural_Land_007_%289706835400%29.jpg/500px-Baekje_Cultural_Land_007_%289706835400%29.jpg"
+    ]
+   },
+   {
+    "name": "부여 왕릉원",
+    "rom": "솔숲 언덕에 잠든 백제 임금들의 능",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 1시간",
+     "🌍 유네스코 세계유산",
+     "🌲 솔숲 산책"
+    ],
+    "desc": "옛 능산리 고분군으로 불리던 백제 사비 시기 왕들의 무덤이다. 완만한 능선 위에 봉분들이 나란히 솟아 있고, 잘 가꾼 잔디와 솔숲 사이로 난 길이 고요하다. 유네스코 세계유산 '백제역사유적지구'에 속하며, 재현한 고분 내부에서 은은한 사신도 벽화도 볼 수 있다.",
+    "todo": [
+     "봉분 사이 능선길 천천히 걷기",
+     "모형관에서 재현 벽화 사신도 보기"
+    ],
+    "tip": "바로 옆이 금동대향로가 출토된 능산리 절터다. 규모가 아담해 부소산성·박물관과 묶어 반나절 코스로 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg/500px-Tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG/500px-Model_of_tombs_in_Neungsan-ri%2C_Buyeo%2C_Korea.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무량사",
+    "rom": "만수산 깊은 골에 매월당이 잠든 절",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🍁 만수산 단풍",
+     "🧘 조용한 산사"
+    ],
+    "desc": "부여 외산면 만수산 자락에 안긴 고찰로, 세조에게 등을 돌린 생육신 김시습(매월당)이 말년을 보내고 눈을 감은 곳이다. 우람한 극락전과 보물 오층석탑, 매월당 영정이 산속 정적 속에 나란히 있다. 관광지의 번잡함에서 벗어나 백제의 여운을 조용히 마무리하기 좋은 절이다.",
+    "todo": [
+     "극락전 앞 오층석탑과 석등 감상하기",
+     "매월당 김시습 영정과 부도 찾아보기",
+     "만수산 계곡 따라 산책하기"
+    ],
+    "tip": "시내에서 차로 30~40분 떨어진 산속이라 대중교통이 드물다. 가을 단풍철이 특히 아름답다. 사찰이라 조용한 관람 예절을 지키자.",
+    "eat": "절 아래 식당가의 산채정식·더덕구이가 별미다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg/500px-%EB%AC%B4%EB%9F%89%EC%82%AC_%EA%B7%B9%EB%9D%BD%EC%A0%842.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "changnyeong": {
+  "nm": "창녕",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 KTX로 동대구→시외버스, 또는 승용차 약 4시간. 부산에서는 1시간 30분 남짓이라 부산·대구권 당일치기로도 다녀오기 좋다.",
+  "sep": "가을(10~11월)이 절정. 화왕산 억새가 은빛으로 물결치고 우포늪엔 철새가 내려앉는다. 습지 물안개는 이른 아침이 가장 곱다.",
+  "mood": "1억 4천만 년 된 늪과 가야 왕들의 무덤이 한 동네에 있다 — 창녕은 시간이 아주 천천히 흐르는 땅이다.",
+  "see": "국내 최대 내륙습지 우포늪, 억새의 명산 화왕산, 유네스코 가야고분군까지 한 군에 모여 있다.",
+  "spots": [
+   {
+    "name": "우포늪",
+    "rom": "1억 4천만 년을 견뎌온 국내 최대 내륙 습지",
+    "meta": [
+     "💴 입장 무료(생태관 별도)",
+     "⏱ 반나절",
+     "🦆 가을·겨울 철새",
+     "🌅 새벽 물안개"
+    ],
+    "desc": "공룡이 살던 시절부터 이 자리에 있었다는 늪이다. 340여 종의 식물과 62종의 새가 기대어 사는 물 위를, 낡은 나무배 한 척이 소리 없이 미끄러진다. 이른 아침 물안개가 갈대 사이로 피어오를 때, 시간이 아주 오래 멈춰 있던 곳에 발을 들인 기분이 든다.",
+    "todo": [
+     "탐방로 따라 우포·목포·사지포·쪽지벌 한 바퀴 걷기",
+     "우포늪생태관에서 습지가 만들어진 이야기 듣기",
+     "해질 무렵 전망대에서 물빛 물들어가는 것 보기"
+    ],
+    "tip": "둘레길이 넓어 자전거 대여가 편하다. 여름엔 볕이 강하니 모자와 물을 챙기고, 철새는 늦가을부터 겨울이 절정.",
+    "eat": "우포늪 인근에서 붕어찜·미나리를 곁들인 시골 백반이 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg/500px-%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화왕산",
+    "rom": "가을이면 온 산이 은빛으로 물드는 억새의 명산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절~하루",
+     "🌾 가을 억새",
+     "⛰ 해발 757m"
+    ],
+    "desc": "선사시대 화산이 남긴 분화구 자리에, 지금은 억새밭이 드넓게 펼쳐진다. 능선에 오르면 화왕산성 성벽을 따라 은빛 억새가 바람에 통째로 눕고 일어선다. 임진왜란 때 곽재우 의병이 지켰던 성터를 걷다 보면, 발밑의 억새 소리가 오래된 함성처럼 들린다.",
+    "todo": [
+     "억새 능선 따라 화왕산성 한 바퀴",
+     "정상 억새밭에서 창녕 들판 내려다보기",
+     "가을 억새 절정기 사진 담기"
+    ],
+    "tip": "정상까지 제법 가팔라 등산화 권장. 억새는 10월 중순~11월 초가 절정이라 이 시기 주말은 매우 붐빈다.",
+    "eat": "산행 후 창녕 읍내에서 소고기국밥으로 몸을 데우기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "관룡사",
+    "rom": "바위 병풍 아래 천오백 년을 이어온 산사",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🛕 보물 다수",
+     "🐉 용의 전설"
+    ],
+    "desc": "관룡산 기암 아래 조용히 앉은 절이다. 원효대사가 용이 하늘로 오르는 것을 보고 이름 지었다는 전설이 전한다. 임진왜란의 불길 속에서도 홀로 살아남은 약사전, 돌계단을 오르며 만나는 석조여래좌상이 오랜 세월의 결을 그대로 품고 있어, 절 마당에 서면 마음이 저절로 가라앉는다.",
+    "todo": [
+     "임진왜란을 견딘 약사전 앞에서 잠시 머물기",
+     "용선대 석조여래좌상까지 산길 올라보기",
+     "일주문 지나며 기암 병풍 올려다보기"
+    ],
+    "tip": "용선대까지는 가벼운 등산이라 편한 신발이 좋다. 화왕산·관룡산 산행과 함께 묶어도 잘 어울린다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EC%9A%A9%EC%84%A0%EB%8C%80_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/120px-%EC%B0%BD%EB%85%95_%EA%B4%80%EB%A3%A1%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "창녕 교동과 송현동 고분군",
+    "rom": "읍내를 굽어보는 가야 왕들의 무덤, 유네스코 세계유산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🏛 유네스코 세계유산",
+     "🌄 노을 명소"
+    ],
+    "desc": "창녕 읍내 뒤편 언덕에, 5~6세기 가야의 큰 무덤들이 초록 봉분으로 부드럽게 솟아 있다. 2023년 유네스코 세계유산으로 오른 이 능선을 걷다 보면, 이름 없이 잠든 옛 왕들의 시간이 발밑에 겹겹이 쌓여 있음을 느끼게 된다. 해질 무렵 봉분 사이로 번지는 노을이 특히 아름답다.",
+    "todo": [
+     "봉분 사이 산책로 천천히 걷기",
+     "창녕박물관에서 출토 유물 살펴보기",
+     "해질녘 능선에서 노을 사진 담기"
+    ],
+    "tip": "그늘이 적어 여름 한낮은 덥다. 바로 옆 창녕박물관을 함께 보면 무덤의 주인들이 훨씬 생생해진다.",
+    "eat": "읍내가 가까워 창녕 재래시장에서 국밥·수구레국밥을 맛보기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Changnyeong_royal_graves.JPG/500px-Changnyeong_royal_graves.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "부곡온천",
+    "rom": "지하에서 솟는 국내 최고 수온의 유황 온천",
+    "meta": [
+     "💴 이용료 약 8천원~(변동)",
+     "⏱ 반나절",
+     "♨️ 수온 50~75℃",
+     "🧖 사계절"
+    ],
+    "desc": "1972년 지하 63m에서 뜨거운 물이 처음 솟아오른 뒤, 부곡은 온천 마을로 자리 잡았다. 국내에서 가장 뜨겁다는 유황천이라 물에 몸을 담그면 하루의 피로가 스르르 풀린다. 산과 늪을 걷느라 지친 다리를, 김이 오르는 탕 속에서 천천히 데우는 저녁이 창녕 여행의 마침표가 된다.",
+    "todo": [
+     "따뜻한 유황탕에 몸 담그고 피로 풀기",
+     "온천 마을 산책하며 하루 마무리하기"
+    ],
+    "tip": "시설마다 가격·운영시간이 다르니 미리 확인. 화왕산·우포늪을 걷고 저녁에 들르는 코스로 잘 맞는다.",
+    "eat": "온천 상가에 오리불고기·한방백숙 등 보양식당이 모여 있다."
+   },
+   {
+    "name": "창녕 영산 만년교",
+    "rom": "실개천 위에 걸린 무지개 모양 조선 돌다리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분~1시간",
+     "🌉 보물 제564호",
+     "📷 포토존"
+    ],
+    "desc": "영산 마을 실개천 위에 화강암을 층층이 쌓아 무지개처럼 걸어 놓은 작은 돌다리다. 1780년에 처음 놓인 뒤 지금도 마을 사람들이 건너다닐 만큼 단단하다. 물에 비친 홍예가 온전한 원을 그리는 순간, 이백 년 넘은 돌다리가 왜 '만년교'라 불렸는지 저절로 알게 된다.",
+    "todo": [
+     "다리 아래에서 물에 비친 반원 담기",
+     "만년교 주변 영산 옛 마을 골목 걷기"
+    ],
+    "tip": "규모가 작아 짧게 둘러보기 좋다. 물이 잔잔한 맑은 날 아침에 반영이 가장 곱다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg/500px-%EC%B0%BD%EB%85%95_%EC%98%81%EC%82%B0_%EB%A7%8C%EB%85%84%EA%B5%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "창녕 석빙고",
+    "rom": "고분처럼 솟은 조선시대 얼음 창고",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분",
+     "🧊 보물 제310호",
+     "🏺 조선 영조 18년"
+    ],
+    "desc": "겉모습은 커다란 무덤 같은데, 안은 얼음을 저장하던 조선시대 냉장고다. 1742년 이 고을 현감이 세웠다고 전한다. 겨울에 언 강 얼음을 잘라 여기 재어 두고 한여름까지 썼다니, 냉장고 하나 없던 시절 사람들의 지혜가 돌 틈마다 스며 있다. 우포늪·고분군을 오가며 잠시 들르기 좋다.",
+    "todo": [
+     "고분 같은 겉모습과 서늘한 내부 구조 비교해 보기",
+     "환기공과 배수로가 어떻게 얼음을 지켰는지 살펴보기"
+    ],
+    "tip": "규모가 작아 다른 읍내 명소와 묶어 짧게 둘러보면 알맞다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Changnyeong_seokbinggo_angle.jpg/500px-Changnyeong_seokbinggo_angle.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stele_of_Changnyeong_seokbinggo.JPG/120px-Stele_of_Changnyeong_seokbinggo.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "changwon": {
+  "nm": "창원",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 KTX로 창원중앙역까지 약 3시간, 부산에서는 차로 약 1시간. 진해·마산·창원 도심은 시내버스로 이어진다.",
+  "sep": "4월 초. 진해군항제 벚꽃이 전국 최대 규모로 만개하는 시기다. 조용한 여행을 원하면 철새가 내려앉는 12~2월 주남저수지도 좋다.",
+  "mood": "4월이면 온 도시가 벚꽃에 잠기고, 붉은 다리는 바다 위를 건넌다 — 진해·마산·창원이 하나로 묶인 남해의 봄.",
+  "see": "벚꽃 도시 진해, 바다 위 콰이강의다리, 철새 낙원 주남저수지, 언덕 위 문신미술관.",
+  "spots": [
+   {
+    "name": "진해 여좌천 벚꽃길",
+    "rom": "온 도시가 연분홍으로 뒤덮이는 봄",
+    "meta": [
+     "🌸 4월 초 벚꽃",
+     "🎏 군항제",
+     "🆓 무료"
+    ],
+    "desc": "4월 초, 진해는 도시 전체가 벚꽃 터널로 바뀐다. 여좌천을 따라 개천 양옆으로 늘어선 벚나무가 물 위로 가지를 드리우고, 로망스 다리 위에서 내려다보면 분홍 꽃잎이 냇물에 흩날려 떠내려간다. 전국에서 사람이 몰리는 데는 이유가 있다.",
+    "todo": [
+     "여좌천 로망스 다리에서 물 위 벚꽃 담기",
+     "경화역 폐선 철길 벚꽃터널 걷기",
+     "밤 벚꽃 야경 감상"
+    ],
+    "tip": "군항제 기간(보통 4월 초)엔 인파·주차난이 심하다. 대중교통이나 이른 아침 방문을 추천.",
+    "eat": "진해 벚꽃빵, 충무김밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2016_Jinhae_Naval_Port_Festival_040.JPG/500px-2016_Jinhae_Naval_Port_Festival_040.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg/500px-1952%EB%85%84_%EC%A7%84%ED%95%B4_%EA%B5%B0%ED%95%AD%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "저도 콰이강의다리",
+    "rom": "바다 위를 걷는 붉은 스카이워크",
+    "meta": [
+     "🆓 무료",
+     "⏱ 반나절",
+     "🌉 스카이워크"
+    ],
+    "desc": "붉은 철제 다리가 바다를 가로지른다. 1987년 개통한 옛 연륙교를 보행 전용으로 바꿔, 다리 중간에 강화유리 바닥을 깔아 발밑으로 바닷물이 그대로 내려다보인다. 해 질 녘 조명이 켜지면 은하수 같은 산책길로 변한다.",
+    "todo": [
+     "강화유리 구간에서 발밑 바다 내려다보기",
+     "저도 비치로드 해안 둘레길 걷기",
+     "일몰·야경 시간에 맞춰 가기"
+    ],
+    "tip": "주차장에서 다리까지 도보 이동. 야경이 백미라 늦은 오후 출발이 좋다.",
+    "eat": "구산면 미더덕·오만둥이 요리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Masan_Jeodo_bridge.jpg/500px-Masan_Jeodo_bridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "주남저수지",
+    "rom": "수만 마리 철새가 내려앉는 겨울 습지",
+    "meta": [
+     "🦆 겨울 철새",
+     "🆓 무료",
+     "📷 탐조"
+    ],
+    "desc": "겨울이면 시베리아에서 날아온 재두루미와 가창오리 수만 마리가 이 너른 물 위에 내려앉는다. 해 질 무렵 가창오리 떼가 한꺼번에 날아올라 하늘에 검은 물결을 그리는 군무는 겨울 주남에서만 볼 수 있는 장면이다. 여름엔 연꽃과 가시연이 수면을 덮는다.",
+    "todo": [
+     "탐조대에서 망원경으로 철새 관찰",
+     "해 질 녘 가창오리 군무 기다리기",
+     "람사르문화관 둘러보기"
+    ],
+    "tip": "철새는 11월~이듬해 2월이 절정. 새를 놀라게 하지 않도록 조용히 움직인다.",
+    "eat": "동읍 미나리·연근 요리"
+   },
+   {
+    "name": "창원시립마산문신미술관",
+    "rom": "바다가 내려다보이는 언덕 위 조각미술관",
+    "meta": [
+     "💴 입장 약 500원",
+     "🗿 조각",
+     "🌊 마산만 전망"
+    ],
+    "desc": "프랑스에서 이름을 알린 조각가 문신이 고향 마산의 언덕에 직접 세운 미술관. 야외 조각공원에 서면 문신의 좌우대칭 조각들 너머로 마산 앞바다가 펼쳐진다. 전시관과 석고 원형 미술관까지, 한 예술가의 세계가 언덕 하나에 온전히 담겨 있다.",
+    "todo": [
+     "야외 조각공원에서 마산만 전망 보기",
+     "석고 원형 미술관 관람",
+     "언덕 위 산책"
+    ],
+    "tip": "매주 월요일 휴관. 관람 시간은 09:00~18:00. 요금은 변동 가능.",
+    "eat": "마산 아귀찜, 오동동 통술"
+   },
+   {
+    "name": "제황산공원 진해탑",
+    "rom": "365계단 위에서 내려다보는 진해",
+    "meta": [
+     "🆓 무료(모노레일 별도)",
+     "🚡 모노레일",
+     "🌆 전망"
+    ],
+    "desc": "진해 중원로터리 곁 야트막한 부엉산 정상에, 군함 마스트를 본떠 세운 9층 진해탑이 서 있다. 365계단을 오르거나 모노레일을 타고 올라 전망대에 서면, 방사형으로 뻗은 진해 시가지와 벚꽃 계절의 도시가 한눈에 들어온다.",
+    "todo": [
+     "전망대에서 진해 시가지 조망",
+     "모노레일 타보기",
+     "진해박물관 관람"
+    ],
+    "tip": "계단이 부담되면 모노레일 이용. 벚꽃철 전망이 특히 예쁘다.",
+    "eat": "진해 중앙시장 먹거리"
+   },
+   {
+    "name": "진해루 해변공원",
+    "rom": "바다 위 누각에서 보내는 노을 시간",
+    "meta": [
+     "🆓 무료",
+     "🌅 일몰",
+     "🚲 해안 산책"
+    ],
+    "desc": "바다 쪽으로 나앉은 커다란 누각 진해루 앞으로 잔잔한 진해만이 열린다. 경사 없는 해안선을 따라 자전거를 타거나 걷다 보면, 바다로 지는 노을이 누각 지붕에 걸린다. 해변을 낀 공원이라 아이와 함께 걷기에도 좋다.",
+    "todo": [
+     "진해루 누각에서 바다 바라보기",
+     "해안선 따라 자전거 타기",
+     "일몰 노을 감상"
+    ],
+    "eat": "진해 해산물",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jinhaeru_at_night.jpg/500px-Jinhaeru_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "마산로봇랜드",
+    "rom": "바닷가에 들어선 로봇 테마파크",
+    "meta": [
+     "💴 종일권 약 3만원(변동 가능)",
+     "🤖 로봇 체험",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "구산면 바닷가에 2019년 문을 연, 로봇을 주제로 한 테마파크. 산업용 로봇부터 사람과 소통하는 인공지능 로봇까지 로봇의 세계를 전시로 체험하고, 다양한 놀이기구를 즐긴다. 아이와 함께라면 하루가 짧다.",
+    "todo": [
+     "로봇 전시관 둘러보기",
+     "놀이기구 타기",
+     "바닷가 산책"
+    ],
+    "tip": "휴장일·운영시간과 요금은 방문 전 확인. 가격은 변동 가능.",
+    "eat": "구산면 해안 카페·해산물",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg/500px-%EB%A7%88%EC%82%B0%EB%A1%9C%EB%B4%87%EB%9E%9C%EB%93%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "cheonan": {
+  "nm": "천안",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 SRT·KTX로 천안아산역까지 40분대, 수도권 전철 1호선으로도 천안역 직통(약 1시간 반). 부산에서 KTX 약 2시간. 자차는 경부고속도로 천안IC.",
+  "sep": "봄(4월)과 가을(10~11월)이 정점. 봄엔 천안삼거리공원 벚꽃과 능수버들이 늘어지고, 가을엔 광덕산·광덕사 단풍이 붉게 물든다. 9~10월엔 시내에서 천안흥타령춤축제가 열린다.",
+  "mood": "수도권에서 가장 가까운 충청의 관문이자 독립운동의 성지 — 815개 태극기가 나부끼는 벌판, 숲에 앉은 거대한 청동대불, 그리고 갓 구운 호두과자 냄새가 한자리에 있다.",
+  "see": "독립기념관 겨레의 집과 태극기 한마당, 각원사 청동대불, 유관순 열사 사적지, 천안삼거리 능수버들.",
+  "spots": [
+   {
+    "name": "독립기념관",
+    "rom": "흑성산 아래 펼쳐진 겨레의 기억",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🇰🇷 역사",
+     "🅿️ 주차 유료"
+    ],
+    "desc": "흑성산 자락에 끝없이 펼쳐진 겨레의 집이 먼저 눈에 들어온다. 815개의 태극기가 바람에 일제히 나부끼는 태극기 한마당을 지나면, 일곱 개 전시관이 항일과 독립의 이야기를 차례로 들려준다. 한국에서 가장 큰 역사 박물관답게 하루를 온전히 써도 아깝지 않다.",
+    "todo": [
+     "겨레의 집과 7개 전시관 둘러보기",
+     "태극기 한마당에서 815개 태극기 물결 보기",
+     "야외 조선총독부 철거 부재 전시 찾기"
+    ],
+    "tip": "입장은 무료지만 주차는 유료다. 부지가 아주 넓으니 편한 신발이 필수. 8월 15일 광복절엔 특별 행사가 열린다.",
+    "eat": "정문 앞과 천안 시내 어디서나 갓 구운 천안 호두과자",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Independence_Hall_of_Korea%28main_hall%29.jpg/500px-Independence_Hall_of_Korea%28main_hall%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Independence_Hall_of_Korea%28monument%29.jpg/500px-Independence_Hall_of_Korea%28monument%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Independence_Hall_of_Korea_02.JPG/120px-Independence_Hall_of_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "각원사",
+    "rom": "숲에 앉은 국내 최대급 청동대불",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2시간",
+     "🙏 청동대불",
+     "🍁 가을 단풍"
+    ],
+    "desc": "태조산 울창한 숲을 배경으로 남북통일을 염원하며 세운 거대한 청동 좌불이 조용히 앉아 있다. 돌계단을 밟고 올라 고개를 젖혀 올려다보는 순간의 압도감이 이 절의 첫인상이다. 국내 최대 규모의 목조 대웅보전과 산책로가 마음을 차분하게 가라앉힌다.",
+    "todo": [
+     "청동대불 앞 계단 오르며 올려다보기",
+     "대웅보전 목조 건축 살펴보기",
+     "태조산 숲길 한 바퀴 걷기"
+    ],
+    "tip": "경내가 넓고 언덕이 있어 천천히 걷기 좋은 신발을 신는 게 좋다. 새벽·이른 아침이 특히 고요하다.",
+    "eat": "천안 시내로 나오면 호두과자와 병천순대"
+   },
+   {
+    "name": "유관순 열사 사적지",
+    "rom": "아우내장터 만세 함성이 시작된 곳",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "✊ 3·1운동",
+     "🍜 병천순대"
+    ],
+    "desc": "1919년 봄, 열일곱 유관순이 이 병천 아우내장터에서 만세를 외쳤다. 추모각과 유관순열사기념관을 지나 매봉산 봉화탑까지 오르면, 그날의 함성이 골짜기에 여전히 서려 있는 듯하다. 역사 앞에서 자세가 절로 반듯해지는 자리다.",
+    "todo": [
+     "유관순열사기념관에서 생애 따라가기",
+     "추모각 참배하기",
+     "매봉산 봉화탑까지 걸어 올라 마을 내려다보기"
+    ],
+    "tip": "생가와 기념관, 매봉산이 조금씩 떨어져 있으니 동선을 미리 묶어 두면 편하다.",
+    "eat": "바로 곁 병천이 순대의 고장 — 얼큰한 병천순대국밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg/500px-%EC%9C%A0%EA%B4%80%EC%88%9C%EC%97%B4%EC%82%AC-%EC%9C%A0%EC%A0%81-The-Relics-of-Patriot-Yu-Gwansun-18.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "천안삼거리공원",
+    "rom": "능수버들과 흥타령이 흐르는 옛 길목",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌿 능수버들",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "'천안삼거리 흥~' 흥타령으로 노래된 삼남대로의 옛 갈림길이다. 연못가로 능수버들이 길게 늘어지고 봄이면 벚꽃이 함께 피어, 산책만으로도 옛 이야기 속을 걷는 기분이 든다. 영남루와 흥타령비가 지난 시절을 나직이 일러 준다.",
+    "todo": [
+     "연못가 능수버들 아래 천천히 걷기",
+     "영남루·흥타령비 둘러보기",
+     "봄철 벚꽃길 사진 남기기"
+    ],
+    "tip": "봄 벚꽃철이 가장 예쁘다. 시내와 가까워 짧은 시간에 가볍게 들르기 좋다.",
+    "eat": "인근 천안 시내의 호두과자"
+   },
+   {
+    "name": "광덕사",
+    "rom": "한국 호두나무가 처음 심긴 산사",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🌰 호두 시배지",
+     "🍁 가을 단풍"
+    ],
+    "desc": "광덕산 자락에 안긴 천년 고찰로, 고려 말 이 땅에 호두나무가 처음 심긴 곳이다. 천연기념물로 지정된 늙은 호두나무가 여태 절 마당을 지키고 있다. 가을이면 절로 드는 단풍길이 붉고, 이곳을 들머리 삼아 광덕산 정상을 향하는 이도 많다.",
+    "todo": [
+     "천연기념물 호두나무 찾아보기",
+     "가을 단풍길 걷기",
+     "광덕산 등산 들머리로 삼아 정상 오르기"
+    ],
+    "tip": "단풍철 주말엔 등산객이 몰려 주차가 붐빈다. 오전 일찍 도착하면 여유롭다.",
+    "eat": "천안의 명물, 갓 구운 호두과자로 마무리"
+   },
+   {
+    "name": "천안홍대용과학관",
+    "rom": "조선의 천문학자를 기리는 별 보는 곳",
+    "meta": [
+     "💴 관람료 있음(변동)",
+     "⏱ 반나절",
+     "🔭 천문대",
+     "👨‍👩‍👧 아이 동반"
+    ],
+    "desc": "천안이 낳은 조선 실학자이자 천문학자 홍대용의 이름을 딴 과학관이다. 천체투영관에서 쏟아지는 별빛을 눕듯이 올려다보고, 맑은 밤이면 천문대에서 실제 별과 달을 관측할 수 있다. 아이와 함께라면 하루가 금세 지나간다.",
+    "todo": [
+     "천체투영관에서 별자리 상영 보기",
+     "밤 관측 프로그램으로 망원경 들여다보기",
+     "홍대용의 천문 사상 전시 살펴보기"
+    ],
+    "tip": "관람료와 야간 관측 프로그램은 시즌·날씨에 따라 바뀌니 방문 전 운영 일정을 확인하는 게 좋다.",
+    "eat": "천안 시내로 나와 병천순대나 호두과자"
+   }
+  ]
+ },
+ "cheongdo": {
+  "nm": "청도",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 → SRT·KTX로 동대구, 무궁화호 갈아타 청도역 약 3시간 / 부산 → 무궁화호나 차로 약 1시간이면 닿는 대구 아래 첫 고을",
+  "sep": "볼거리가 계절마다 갈린다 — 여름(7~8월)엔 유등연지 연꽃이 연못을 가득 덮고, 가을(10~11월)엔 주홍 반시가 익고 프로방스 빛축제가 켜진다. 소싸움이 목표면 봄(4월).",
+  "mood": "감빛으로 물드는 작은 고을. 소가 맞붙는 함성과, 100년 넘은 굴속 와인향과, 밤을 밝히는 프로방스 불빛이 한 군에 다 있다.",
+  "see": "옛 철길 와인터널 · 소싸움 함성 · 비구니 도량 운문사 · 연꽃 가득한 유등연지 · 밤을 밝히는 프로방스",
+  "spots": [
+   {
+    "name": "청도 와인터널",
+    "rom": "옛 경부선 철길이 감와인 저장고가 된 터널",
+    "meta": [
+     "💴 입장 약 5000원",
+     "⏱ 반나절",
+     "🍷 감와인 시음",
+     "📸 조명 포토존"
+    ],
+    "desc": "옛 경부선 기차가 다니던 터널이 지금은 감와인이 익어가는 지하 저장고가 됐다. 1930년대에 노선이 바뀌며 버려졌던 굴을 감와인 창고로 되살린 곳이다. 길이 1km 남짓 터널 안은 한여름에도 15도 안팎으로 서늘하고, 벽을 따라 청도 반시 와인이 가득 늘어서 있다. 오색 조명이 아치 천장을 물들이는 안쪽은 걷기만 해도 사진이 되는 자리다.",
+    "todo": [
+     "감으로 빚은 청도 반시 와인 시음하기",
+     "터널 안쪽 조명 포토존에서 사진 남기기"
+    ],
+    "tip": "여름엔 바깥과 온도차가 커서 얇은 겉옷 하나 챙기면 좋다. 주말·성수기엔 주차가 붐빈다.",
+    "eat": "감와인, 감식초"
+   },
+   {
+    "name": "청도 프로방스",
+    "rom": "밤마다 켜지는 별빛동화마을 빛축제",
+    "meta": [
+     "💴 입장 약 12000원",
+     "⏱ 두세 시간",
+     "🌙 야간 빛축제",
+     "📸 야경 포토존"
+    ],
+    "desc": "프랑스 남부 프로방스 마을을 청도 언덕에 옮겨놓은 테마파크다. 낮에는 파스텔빛 집과 아기자기한 소품 사이를 거닐고, 해가 지면 수많은 조명이 켜지며 온 마을이 빛축제로 바뀐다. 커플과 가족이 밤 산책 삼아 찾는 곳이라 어둑해질 무렵 가는 게 제맛이다.",
+    "todo": [
+     "해 질 무렵 들어가 낮과 밤 풍경 둘 다 담기",
+     "빛 터널·포토존에서 야경 사진 찍기"
+    ],
+    "tip": "빛축제는 저녁에 절정이니 일몰 30분 전 입장을 노린다. 언덕 위라 밤엔 바람이 차다.",
+    "eat": ""
+   },
+   {
+    "name": "운문사",
+    "rom": "비구니 승가대학이 있는 호거산 도량",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌲 솔숲 진입로",
+     "🌸 봄·가을"
+    ],
+    "desc": "560년 창건된 유서 깊은 절이자 비구니 스님들이 수행하는 큰 도량이다. 일주문에서 절까지 이어지는 솔숲 진입로가 특히 아름다워 걷는 것만으로 마음이 가라앉는다. 앞뜰에는 400살 넘은 처진소나무가 가지를 땅으로 늘어뜨린 채 천연기념물로 보호받고 있다.",
+    "todo": [
+     "일주문부터 이어지는 소나무 숲길 천천히 걷기",
+     "앞뜰 처진소나무 앞에서 잠시 머물기"
+    ],
+    "tip": "수행 도량이라 정숙이 기본. 새벽 예불이나 이른 아침의 고요한 시간이 가장 좋다.",
+    "eat": "운문사 근처 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unmun-Tempel-Korea-Layout.jpg/500px-Unmun-Tempel-Korea-Layout.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "유등연지",
+    "rom": "군자정이 곁에 선 연꽃 연못",
+    "meta": [
+     "💴 무료·주차 무료",
+     "⏱ 한두 시간",
+     "🪷 여름 연꽃",
+     "🚶 둘레길 산책"
+    ],
+    "desc": "연못이 한여름이면 온통 연잎과 연꽃으로 뒤덮인다. 조선시대 선비가 세운 것으로 전하는 정자 군자정이 연꽃 곁에 선 풍경은 청도에서 손꼽히는 여름 정경이다. 입장료도 주차비도 없이 물가를 한 바퀴 도는 산책이 전부라 마음이 편하다.",
+    "todo": [
+     "이른 아침 활짝 핀 연꽃 보러 가기",
+     "연못 둘레길 한 바퀴 걷기"
+    ],
+    "tip": "연꽃은 7~8월이 절정이고 오전에 가장 잘 핀다. 그늘이 적으니 여름엔 모자·물을 챙긴다.",
+    "eat": ""
+   },
+   {
+    "name": "청도 소싸움경기장",
+    "rom": "국내 최대 규모 전통 소싸움",
+    "meta": [
+     "💴 관람 약 유료",
+     "⏱ 반나절",
+     "🐂 주말 경기",
+     "🌸 봄 축제"
+    ],
+    "desc": "덩치 큰 싸움소 두 마리가 뿔을 맞대고 힘을 겨루는 전통 소싸움을 지붕 덮인 상설 경기장에서 볼 수 있다. 날씨와 상관없이 원형 관람석에 앉아 경기를 즐길 수 있고, 매년 봄이면 전국 규모의 소싸움 축제가 열려 함성이 온 고을을 울린다. 다른 데서는 보기 힘든 청도만의 장면이다.",
+    "todo": [
+     "주말 경기 일정 확인하고 관람하기",
+     "봄이면 소싸움 축제 기간에 맞춰 방문하기"
+    ],
+    "tip": "경기는 주로 주말에 열리니 방문 전 일정을 확인한다. 와인터널·프로방스와 가까워 묶어 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg/500px-Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청도읍성",
+    "rom": "고려 때 세워져 복원된 옛 읍성",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🏯 성곽 산책",
+     "🌸 계절 꽃"
+    ],
+    "desc": "고려 때부터 쌓은 것으로 전하는 옛 읍성으로, 조선 선조 때 돌로 다시 쌓았다. 성문과 옹성, 성벽을 따라 걷다 보면 옛 고을의 골격이 그대로 그려진다. 성벽 안팎으로 계절마다 꽃이 피어 성곽을 배경으로 사진 남기기에도 좋다.",
+    "todo": [
+     "성문에서 성벽을 따라 한 바퀴 걷기",
+     "가까운 향교·석빙고까지 이어 둘러보기"
+    ],
+    "tip": "그늘이 적으니 한낮 더위를 피해 해질 무렵에 걸으면 좋다. 주변에 볼거리가 모여 있어 도보로 묶기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "낙대폭포",
+    "rom": "숲속 벼랑에서 쏟아지는 물줄기",
+    "meta": [
+     "💴 무료",
+     "⏱ 두세 시간",
+     "💦 여름 피서",
+     "🥾 오르막 산길"
+    ],
+    "desc": "남산 자락 숲길을 얼마간 오르면 높은 벼랑에서 물이 쏟아지는 낙대폭포가 나온다. 청도의 이름난 폭포로, 비가 온 뒤엔 물줄기가 우렁차게 떨어져 폭포다운 위용을 보인다. 여름이면 물맞이하러 오는 사람이 많은, 청도의 대표 여름 피서지다.",
+    "todo": [
+     "숲길 따라 폭포까지 걸어 오르기",
+     "여름엔 시원한 물소리 들으며 더위 식히기"
+    ],
+    "tip": "오르막 산길이라 편한 신발이 필요하다. 비 온 다음 날 물줄기가 가장 세다.",
+    "eat": ""
+   }
+  ]
+ },
+ "cheongju": {
+  "nm": "청주",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울 센트럴시티에서 청주행 고속버스 약 1시간 40분, KTX는 오송역 하차(약 50분) 후 시내버스·택시로 시내까지 20분. 부산에선 고속버스 약 3시간 30분.",
+  "sep": "봄(4월)엔 청남대 진입로와 무심천의 벚꽃, 상당산성 신록이 가장 곱다. 가을(10~11월)엔 청남대·대청호 단풍 드라이브가 절정이라 이때가 베스트.",
+  "mood": "세계에서 가장 오래된 금속활자 '직지'가 태어난 도시. 대통령의 옛 별장과 천 년 철당간, 산성길 노을이 한데 어우러진 충북의 중심.",
+  "see": "직지의 고인쇄박물관, 대통령 별장 청남대, 4km 산성 둘레길, 대청호반의 전통마을 문의문화재단지.",
+  "spots": [
+   {
+    "name": "청남대",
+    "rom": "대청호를 내려다보던 대통령의 옛 별장",
+    "meta": [
+     "💴 입장 약 6,000원",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃·가을 단풍"
+    ],
+    "desc": "대청호를 내려다보는 언덕 위, 20년 동안 대통령들의 여름 별장이었던 곳이다. 2003년 시민에게 열린 뒤로는 너른 잔디밭과 호숫가 산책로, 역대 대통령 기념관이 공원처럼 펼쳐진다. 진입로를 가득 메운 벚나무와 가을 단풍이 특히 유명해서, 계절이 바뀔 때마다 다시 오고 싶어지는 자리다.",
+    "todo": [
+     "대청호 전망 데크에서 물빛 바라보기",
+     "벚꽃길·단풍길 따라 본관까지 걷기",
+     "음악분수와 하늘정원 둘러보기"
+    ],
+    "tip": "매주 월요일 휴관. 벚꽃 성수기엔 차량 통제로 대기가 길어 셔틀버스 이용을 권한다. 기본 관람 약 2시간, 등산로까지 돌면 약 4시간.",
+    "eat": "문의면 쪽 붕어찜, 올갱이(다슬기)국",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG/500px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%9E%85%EA%B5%AC_%EC%82%B0%EC%B1%85%EB%A1%9C.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG/250px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EC%96%91%EC%96%B4%EC%9E%A5_%281%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "상당산성",
+    "rom": "시내를 감아 도는 4km 돌성",
+    "meta": [
+     "💴 무료",
+     "⏱ 둘레길 4.1km",
+     "🌅 노을·야경"
+    ],
+    "desc": "청주 시내 뒤편 산 능선을 4km 넘게 감아 도는 옛 돌성이다. 삼국시대에 처음 쌓여 조선 후기에 지금의 석성으로 크게 개축됐다. 공남문 앞 넓은 잔디밭에서 시작해 성벽 위를 걷다 보면 발아래로 청주 시가지와 성안 저수지가 시원하게 펼쳐진다. 해질 무렵 성문에 노을이 걸리면, 왜 사람들이 저녁마다 이 길을 오르는지 알게 된다.",
+    "todo": [
+     "공남문에서 성벽 한 바퀴 둘레길 걷기",
+     "산성 안 저수지와 마을 풍경 내려다보기"
+    ],
+    "tip": "성곽 한 바퀴 약 2시간, 운동화 필수. 산성마을에 한정식·손두부 식당이 모여 있어 걷고 나서 든든하게 먹기 좋다.",
+    "eat": "산성마을 한정식·손두부, 도토리묵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/500px-Cheongju_Sangdangsangseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg/500px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EB%8F%99%EB%AC%B81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg/250px-%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1_%EC%84%9C%EB%AC%B82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청주고인쇄박물관",
+    "rom": "구텐베르크보다 앞선 '직지'가 태어난 자리",
+    "meta": [
+     "📖 직지·세계 최고 금속활자",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "1377년, 바로 이곳 흥덕사에서 '직지'가 찍혔다. 구텐베르크의 금속활자보다 앞선, 세계에서 가장 오래된 금속활자 인쇄본이다. 절터 위에 세운 박물관은 활자를 하나하나 부어 만들던 과정과 옛 책들을 조용히 보여주는데, 인쇄와 기록의 도시 청주의 자부심이 어디서 왔는지 여기서 이해하게 된다.",
+    "todo": [
+     "직지와 금속활자 주조 과정 전시 보기",
+     "바로 옆 흥덕사지 절터 걷기"
+    ],
+    "tip": "매주 월요일 휴관. 근현대 인쇄전시관도 함께 있어 아이들과 보기에 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cheongju_City_Printing_Museum_2.JPG/500px-Cheongju_City_Printing_Museum_2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "문의문화재단지",
+    "rom": "대청호가 내려다보이는 언덕 위 전통마을",
+    "meta": [
+     "🏘 전통 한옥·민속자료",
+     "💴 입장료 소액(변동가능)",
+     "🏞 대청호반 전망"
+    ],
+    "desc": "대청호가 한눈에 내려다보이는 언덕 위에, 옛 살림집과 민속 자료를 모아 세운 전통문화 단지다. 1997년 문을 연 이곳에는 한옥과 전시관 등 옛 건물들이 들어서 있어, 사라져 가는 우리 옛 생활의 결을 천천히 둘러볼 수 있다. 청남대·대청호와 가까워 호반 드라이브 길에 함께 묶어 들르기 좋다.",
+    "todo": [
+     "언덕 위 전통 가옥과 민속자료전시관 둘러보기",
+     "대청호가 보이는 마을 길 걷기"
+    ],
+    "tip": "청남대·대청호와 묶어 문의면 반나절 코스로 돌기 좋다. 언덕 지형이라 걷기 편한 신발을 권한다.",
+    "eat": "문의면 붕어찜, 올갱이(다슬기)국"
+   },
+   {
+    "name": "대청호",
+    "rom": "물안개 피는 내륙의 바다",
+    "meta": [
+     "💴 무료",
+     "🚗 드라이브",
+     "🍂 가을 단풍"
+    ],
+    "desc": "청주와 대전 사이를 크게 채운, 내륙의 바다 같은 호수다. 문의 방면 호숫가 도로는 물안개 피는 아침과 단풍 지는 가을에 특히 아름다워 드라이브 코스로 사랑받는다. 물가에 앉아 있으면 도시에서 이렇게 가까운 곳에 이런 고요가 있다는 게 새삼 신기해진다.",
+    "todo": [
+     "문의 방면 호반도로 드라이브",
+     "대청호오백리길 일부 구간 걷기"
+    ],
+    "tip": "청남대·문의문화재단지와 묶어 반나절 코스로 돌기 좋다. 물안개는 이른 아침이 절정이다.",
+    "eat": "문의 붕어찜, 호숫가 카페",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청주 용두사지 철당간",
+    "rom": "도심 한복판에 천 년째 선 무쇠 기둥",
+    "meta": [
+     "💴 무료·국보 제41호",
+     "⏱ 30분",
+     "🏙 도심 성안길"
+    ],
+    "desc": "청주 도심 한복판, 성안길 번화가 옆에 962년에 세운 13m 높이의 무쇠 기둥이 천 년째 서 있다. 절은 사라졌지만 만든 연도가 새겨진 국보로, 쇼핑하다 문득 올려다보면 이 자리가 얼마나 오래된 도시의 중심인지 실감난다. 바로 옆 중앙공원의 노거수 은행나무(압각수)까지 걸어서 둘러볼 만하다.",
+    "todo": [
+     "철당간과 당간에 새겨진 명문 보기",
+     "중앙공원 압각수·성안길 거리 걷기"
+    ],
+    "tip": "성안길 상권 한가운데라 시내 구경과 함께 잠깐 들르기 좋다.",
+    "eat": "성안길 일대 분식·노포 식당",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yongdusa_Dangan_01.JPG/500px-Yongdusa_Dangan_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Yongdusa_Dangan_04.JPG/250px-Yongdusa_Dangan_04.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yongdusa_Dangan_03.JPG/250px-Yongdusa_Dangan_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "초정약수",
+    "rom": "톡 쏘는 천연 탄산 광천수",
+    "meta": [
+     "🥤 천연 탄산약수",
+     "💴 원탕 무료",
+     "♨ 탄산 스파"
+    ],
+    "desc": "톡 쏘는 천연 탄산이 그대로 솟는 광천수로 이름난 곳이다. 조선 세종이 이 물로 눈병을 다스렸다는 이야기가 전할 만큼 오래 사랑받아 왔다. 지금은 약수를 받아 마시는 원탕 옆으로 탄산 스파와 초정행궁, 숲 산책로가 어우러진 쉼터가 되었다.",
+    "todo": [
+     "원탕에서 톡 쏘는 탄산 약수 맛보기",
+     "초정행궁·약수공원 숲길 걷기"
+    ],
+    "tip": "약수는 원탕에서 무료로 받을 수 있으나 스파·행궁 관람은 별도 요금. 가을 세종대왕과 초정약수 축제 때 가면 볼거리가 더 많다.",
+    "eat": ""
+   }
+  ]
+ },
+ "cheongsong": {
+  "nm": "청송",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 동서울터미널에서 청송행 시외버스 약 3시간 30분~4시간, 부산에서도 직행버스 운행. 자가용은 서울에서 약 3시간 30분·부산에서 약 2시간 30분. 군 안에서는 대중교통이 드물어 렌터카나 자가용이 사실상 필수",
+  "sep": "10월 말~11월 초. 주왕산 계곡을 붉게 물들이는 단풍이 절정이고, 같은 시기 새벽 주산지에는 왕버들 사이로 물안개가 피어오른다. 청송사과가 익어가는 계절이기도 해서 가을 맛까지 챙길 수 있다",
+  "mood": "화산이 빚은 바위 병풍과 물속에 발 담근 300년 왕버들. 청송은 유네스코가 인정한 지질공원 한복판에서 조용히 걷는 산골 여행이다",
+  "see": "주왕산 기암단애와 계곡 폭포, 물안개 피는 주산지 왕버들, 만석꾼의 99칸 고택",
+  "spots": [
+   {
+    "name": "주왕산 국립공원",
+    "rom": "죽순처럼 솟은 바위 병풍을 끼고 걷는 계곡길",
+    "meta": [
+     "💴 입장 무료(주차 약 4,000원)",
+     "⏱ 반나절~하루",
+     "🍂 가을 단풍",
+     "🥾 폭포 트레킹"
+    ],
+    "desc": "손가락을 모아 하늘로 뻗은 듯한 기암 봉우리가 계곡 양옆에 병풍처럼 늘어서 있다. 백악기 화산이 남긴 응회암 절벽 사이로 맑은 물이 흐르고, 대전사에서 용추폭포·용연폭포까지 이어지는 길은 큰 오르막 없이 누구나 걸을 수 있다. 1976년 열두 번째 국립공원으로 지정된, 청송 여행의 심장이다.",
+    "todo": [
+     "대전사~용추폭포~용연폭포 계곡길 왕복 걷기",
+     "기암단애 올려다보며 사진 남기기",
+     "체력이 되면 절골계곡이나 급수대 주상절리까지"
+    ],
+    "tip": "단풍철 주말은 이른 아침에 도착해야 주차와 한적한 계곡을 모두 잡을 수 있다. 계곡길은 대체로 평탄하지만 물가 바위가 미끄러우니 트레킹화 권장.",
+    "eat": "산 입구 상가의 산채비빔밥과 파전, 그리고 청송 어디서나 만나는 청송사과",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg/500px-%EC%A3%BC%EC%99%95%EC%82%B0_%28_2_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juwangsan_national_park_canyon.jpg/500px-Juwangsan_national_park_canyon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "주산지",
+    "rom": "물속에 선 300년 왕버들과 새벽 물안개",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 새벽 물안개",
+     "📷 명승 제105호"
+    ],
+    "desc": "조선 숙종 때 만들어져 300년 넘게 마른 적이 없다는 저수지. 물 한가운데 왕버들과 능수버들 스무 그루 남짓이 발을 담근 채 서 있어, 새벽 물안개가 낄 때면 세상이 아닌 듯한 풍경이 된다. 영화 《봄 여름 가을 겨울 그리고 봄》이 이곳에서 찍혔다.",
+    "todo": [
+     "해 뜰 무렵 물안개 낀 왕버들 감상",
+     "저수지 둘레 관찰데크 따라 한 바퀴",
+     "계절마다 다른 물빛과 반영 담기"
+    ],
+    "tip": "물안개는 일교차가 큰 이른 봄·늦가을 새벽에 잘 낀다. 주차장에서 저수지까지 완만한 흙길을 15분쯤 걸어 들어가며, 갈수기에는 수위가 낮아질 수 있다.",
+    "eat": "인근 이전리 일대 백숙·오리요리, 돌아나오는 길의 청송사과즙",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg/500px-%EC%A3%BC%EC%82%B0%EC%A7%80-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jusanji2.jpg/500px-Jusanji2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jusanji3.jpg/500px-Jusanji3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대전사",
+    "rom": "기암을 배경으로 앉은 주왕산 입구의 천년고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "🛕 신라 고찰",
+     "🏔 기암 배경"
+    ],
+    "desc": "주왕산 들머리에 자리한 절로, 신라 문무왕 때 창건했다고 전한다. 보광전 지붕 너머로 주왕산 기암 봉우리가 그대로 솟아올라, 법당과 바위가 한 폭 그림처럼 겹쳐 보이는 자리다. 대부분의 계곡 트레킹이 이 절 앞마당에서 시작된다.",
+    "todo": [
+     "보광전 뒤로 솟은 기암 봉우리 함께 담기",
+     "경내 조용히 둘러보고 계곡길로 이어 걷기"
+    ],
+    "tip": "주왕산 산행을 시작하는 지점이라 이곳에서 잠시 숨을 고르고 출발하면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Daejeonsa_%26_Juwang_Mt.jpg/500px-Daejeonsa_%26_Juwang_Mt.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "송소고택",
+    "rom": "만석꾼 심부잣집의 99칸 한옥",
+    "meta": [
+     "💴 관람 약 2,000원",
+     "⏱ 1시간",
+     "🏯 국가민속문화재",
+     "🛏 한옥 하룻밤"
+    ],
+    "desc": "1880년경 지어진 99칸 규모의 대저택으로, 9대에 걸쳐 250년간 만석의 부를 누렸다는 청송 심씨 집안의 본가다. 사랑채·안채·행랑이 저마다 독립된 마당을 두른 경북 북부 민가 양식이 고스란히 남아 있어, 옛 상류층의 살림과 품격을 눈으로 읽을 수 있다.",
+    "todo": [
+     "사랑채와 안채의 마당·담장 구조 살펴보기",
+     "원한다면 고택에서 하룻밤 묵어보기"
+    ],
+    "tip": "숙박 체험도 운영하니 조용한 한옥에서 하루 묵고 싶다면 미리 예약하는 편이 안전하다. 실제 거주·관리 공간이 있으니 관람 예절을 지킬 것.",
+    "eat": "덕천마을 일대의 한식 백반, 청송사과",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Songso_Historic_House%2C_Cheongsong.jpg/500px-Songso_Historic_House%2C_Cheongsong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청송 얼음골",
+    "rom": "여름에도 얼음, 겨울엔 거대한 인공 빙벽",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "❄️ 겨울 빙벽",
+     "🧗 아이스클라이밍"
+    ],
+    "desc": "한여름에도 바위틈에서 찬 기운이 새어 나와 얼음이 어는 기묘한 골짜기. 겨울이면 절벽 위에서 물을 흘려 만든 거대한 인공 빙벽이 얼어붙어, 전국에서 아이스클라이머들이 모여드는 명소가 된다. 주왕산에서 영덕 쪽으로 넘어가는 길목에 있다.",
+    "todo": [
+     "겨울 인공 빙벽 앞에서 규모 체감하기",
+     "한여름 얼음골의 찬 공기 느껴보기"
+    ],
+    "tip": "빙벽은 겨울철에만 볼 수 있고, 등반은 안전장비와 경험이 필요한 활동이다. 도로가 좁고 겨울엔 결빙되니 운전에 유의.",
+    "eat": ""
+   },
+   {
+    "name": "백석탄",
+    "rom": "흰 바위를 깎아낸 신성계곡의 물길",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🪨 세계지질공원",
+     "💧 포트홀·계곡"
+    ],
+    "desc": "길안천이 오랜 세월 흰 사암을 깎으며 만든 계곡으로, 물살이 바위를 둥글게 파낸 포트홀과 켜켜이 쌓인 지층이 그대로 드러난다. 하얀 돌 위로 맑은 물이 흐르는 풍경이 이름 그대로 '흰 돌 여울'이다. 청송 유네스코 세계지질공원의 대표 지질명소 중 하나.",
+    "todo": [
+     "흰 바위에 팬 포트홀과 지층 무늬 관찰하기",
+     "물가에 내려가 맑은 계곡물에 발 담그기"
+    ],
+    "tip": "방문자센터에서 하천까지 도보 약 300m. 비 온 뒤에는 물이 불어 바위가 미끄러우니 무리해서 내려가지 말 것. 신성계곡 드라이브 코스와 함께 묶으면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CES-BST-Knil7.jpg/500px-CES-BST-Knil7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Baekseoktan2.jpg/960px-Baekseoktan2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Baekseoktan3.jpg/960px-Baekseoktan3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "달기약수탕",
+    "rom": "톡 쏘는 탄산 약수로 끓인 백숙 한 그릇",
+    "meta": [
+     "💴 무료(약수)",
+     "⏱ 1~2시간",
+     "🥤 천연 탄산약수",
+     "🍲 약수 백숙"
+    ],
+    "desc": "바위틈에서 솟는 철분 섞인 탄산 약수로, 한 모금 마시면 사이다처럼 톡 쏘는 맛이 난다. 이 약수로 닭을 고아낸 '약수 백숙'이 청송의 대표 보양식이라, 약수터 주변으로 백숙집이 골목을 이룬다. 산책 삼아 들러 물맛을 보고 든든한 한 끼를 챙기기 좋은 곳.",
+    "todo": [
+     "여러 약수터를 돌며 물맛 비교해보기",
+     "약수로 끓인 백숙·닭죽으로 한 끼"
+    ],
+    "tip": "탄산 약수라 처음엔 쇠 맛·신맛이 강하게 느껴질 수 있다. 백숙은 조리 시간이 걸리니 도착 전 전화로 미리 주문해두면 기다림이 줄어든다.",
+    "eat": "달기약수 백숙과 닭죽, 후식으로 청송사과"
+   }
+  ]
+ },
+ "cheongyang": {
+  "nm": "청양",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 남부터미널에서 시외버스로 약 2시간, 자가용은 약 2시간(대전 경유). 부산에서는 약 3시간 반, 대전에서는 약 1시간.",
+  "sep": "가을. 칠갑산 능선이 온통 단풍으로 물들고, 고운식물원엔 핑크뮬리와 단풍이 겹쳐 붉게 타오른다. 한겨울엔 알프스마을 얼음분수 축제가 또 다른 별미.",
+  "mood": "충남의 알프스라 불리는 칠갑산 자락, 콩밭 매는 아낙네의 노랫가락이 흐르고 겨울이면 계곡물이 얼어 거대한 얼음분수로 솟는 산골.",
+  "see": "호수 위를 출렁이는 현수교와 황룡·호랑이 전설, 상·하 대웅전을 나란히 품은 천년고찰, 계절마다 색이 완전히 바뀌는 대형 식물원.",
+  "spots": [
+   {
+    "name": "칠갑산",
+    "rom": "충남의 알프스, 콩밭 매는 아낙네의 산",
+    "meta": [
+     "⛰ 해발 561m",
+     "🍁 가을 단풍",
+     "🚶 반나절 등산"
+    ],
+    "desc": "백제 사비성의 진산으로 하늘에 제사를 올리던 영산이다. \"콩밭 매는 아낙네야\"로 시작하는 주병선의 노래로 온 국민에게 이름이 각인됐다. 충남의 알프스라 불릴 만큼 산세가 깊어, 정상에 서면 첩첩이 겹친 능선이 파도처럼 밀려온다.",
+    "todo": [
+     "정상에서 겹겹이 밀려오는 능선 조망하기",
+     "장곡사·천장호 방면 코스로 하산하기",
+     "가을 단풍철 능선 걷기"
+    ],
+    "tip": "도립공원으로 지정된 산. 대표 등산로는 장곡사 방면과 천장호 방면이다. 단풍 성수기엔 주차가 크게 혼잡하니 이른 시간 출발을 권한다.",
+    "eat": "산채정식·더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Map_of_Chilgap_mountain.JPG/500px-Map_of_Chilgap_mountain.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "천장호 출렁다리",
+    "rom": "호수를 가로지르는 207m 스릴의 현수교",
+    "meta": [
+     "💴 무료",
+     "🐉 황룡·호랑이 조형",
+     "⏱ 1~2시간"
+    ],
+    "desc": "천장호 물 위를 가로지르는 길이 207m의 현수교. 한 발 내디딜 때마다 다리가 출렁여 스릴이 짜릿하다. 칠갑산 전설 속 황룡과 호랑이 조형물이 다리 끝을 지키고, 호수에 비친 산 그림자와 어우러진 풍경이 사진 명소로 손꼽힌다.",
+    "todo": [
+     "다리 한가운데서 출렁임 온몸으로 느끼기",
+     "호수 둘레길 산책하기",
+     "칠갑산 등산과 연계하기"
+    ],
+    "tip": "주차장·화장실 무료로 갖춰져 있다. 겨울 결빙 시 다리 위가 미끄러우니 신발을 조심할 것."
+   },
+   {
+    "name": "장곡사",
+    "rom": "대웅전이 둘, 국보를 품은 천년고찰",
+    "meta": [
+     "🛕 신라 850년 창건",
+     "🏛 국보 2점",
+     "💴 무료"
+    ],
+    "desc": "칠갑산 남쪽 기슭에 안긴 천년 고찰이다. 대웅전이 상·하로 둘 있는 보기 드문 절로, 철조약사여래좌상과 미륵불괘불탱 같은 국보를 품었다. 약사여래 기도도량으로도 이름나, 계곡 물소리 사이로 은은한 향 냄새가 배어난다.",
+    "todo": [
+     "상대웅전과 하대웅전 두 법당 나란히 보기",
+     "국보 철조약사여래좌상 앞에 서보기",
+     "절 앞 계곡 숲길 걷기"
+    ],
+    "tip": "칠갑산 등산 들머리와 바로 연결된다. 조용한 산사이니 예불 시간에는 정숙할 것.",
+    "eat": "구기자차",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%EC%9E%A5%EA%B3%A1%EC%82%AC.JPG/500px-%EC%9E%A5%EA%B3%A1%EC%82%AC.JPG"
+    ]
+   },
+   {
+    "name": "칠갑산 알프스마을",
+    "rom": "겨울엔 얼음분수, 여름엔 조롱박 터널",
+    "meta": [
+     "❄ 겨울 얼음분수 축제",
+     "🌻 여름 조롱박·연꽃",
+     "👨‍👩‍👧 가족 체험"
+    ],
+    "desc": "칠갑산 자락 정산면 천장리의 농촌체험마을. 겨울이면 계곡물을 얼려 만든 거대한 얼음분수와 얼음벽이 장관을 이루고, 여름엔 조롱박 터널과 연꽃이 마을을 뒤덮는다. 계절마다 표정이 통째로 바뀌는 곳이다.",
+    "todo": [
+     "겨울 얼음분수 축제에서 얼음벽 걷기",
+     "여름 조롱박 터널·연꽃 구경하기",
+     "마을 먹거리·체험 즐기기"
+    ],
+    "tip": "겨울·여름 축제 기간 방문이 핵심이다. 축제가 아닌 시기엔 볼거리가 적을 수 있으니 방문 전 축제 일정을 확인할 것."
+   },
+   {
+    "name": "고운식물원",
+    "rom": "봄 튤립, 가을 핑크뮬리, 밤엔 조명 정원",
+    "meta": [
+     "💴 입장 약 12,000원",
+     "🌷 봄 튤립·가을 핑크뮬리",
+     "🌃 야간 조명"
+    ],
+    "desc": "대치면 산자락에 넓게 펼쳐진 대규모 사립 식물원. 봄엔 튤립이 언덕을 물들이고, 가을엔 핑크뮬리와 단풍이 겹쳐 온통 붉게 타오른다. 해 질 무렵부터 켜지는 조명이 정원을 딴 세상처럼 바꿔 야경 산책도 인기다.",
+    "todo": [
+     "봄 튤립·가을 핑크뮬리 시즌 맞춰 가기",
+     "해 진 뒤 조명 켜진 정원 산책하기",
+     "전망 좋은 언덕에서 정원 전체 내려다보기"
+    ],
+    "tip": "입장료는 약 12,000원(계절·행사에 따라 변동). 언덕 경사가 많으니 편한 신발이 좋다.",
+    "eat": "구기자 먹거리"
+   },
+   {
+    "name": "칠갑산천문대 스타파크",
+    "rom": "천체망원경으로 담는 청양의 별밤",
+    "meta": [
+     "🔭 천체망원경 관측",
+     "🌌 별·행성 관측",
+     "👨‍👩‍👧 가족 프로그램"
+    ],
+    "desc": "대치면 칠갑산 자락에 자리한 천문대. 천체망원경으로 달과 행성, 별을 직접 눈에 담을 수 있다. 전문 해설과 함께 밤하늘을 올려다보며, 도시에서 잊고 지낸 은하수를 마주하는 밤이 기다린다.",
+    "todo": [
+     "야간 별 관측 프로그램 참여하기",
+     "전문 해설과 함께 밤하늘 별자리 보기",
+     "낮 시간대 태양 관측 체험하기"
+    ],
+    "tip": "관측 프로그램은 예약제이며 날씨의 영향을 크게 받는다. 산 위라 밤엔 기온이 뚝 떨어지니 방한 준비가 필수."
+   }
+  ]
+ },
+ "cheorwon": {
+  "nm": "철원",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울(동서울종합터미널)에서 시외버스로 약 2시간, 자가용은 국도로 1시간 반~2시간. 명소가 넓게 흩어져 있고 시내버스 배차가 뜸해 렌터카·자차가 사실상 필수다.",
+  "sep": "봄(5월)과 가을(10월). 봄엔 신록과 고석정 일대 꽃밭, 가을엔 한탄강 협곡을 물들이는 단풍과 억새가 절정이다. 여름은 한탄강 래프팅 성수기, 겨울은 두루미가 찾아드는 철새의 계절.",
+  "mood": "화산이 빚은 검은 협곡과, 전쟁이 멈춘 자리가 한 장의 지도 위에 겹쳐 있는 곳.",
+  "see": "한탄강 주상절리 절벽길과 고석정·폭포, 그리고 노동당사·월정리역처럼 분단이 남긴 시간의 흔적.",
+  "spots": [
+   {
+    "name": "한탄강 주상절리길(잔도)",
+    "rom": "절벽에 매달려 협곡 위를 걷는 길",
+    "meta": [
+     "💴 입장 약 10,000원(상품권 환급)",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🥾 3.6km 트래킹"
+    ],
+    "desc": "순담계곡에서 드르니까지 3.6km, 한탄강 절벽에 잔도(棧道)를 붙여 만든 벼랑길이다. 발밑으로 수십만 년 전 용암이 식으며 갈라진 검은 주상절리 협곡이 아득하게 펼쳐지고, 다리 몇 곳은 바닥이 유리로 뚫려 있어 강물 위를 걷는 아찔함을 준다. 계절마다 협곡의 색이 바뀌어 봄 신록도, 가을 단풍도 다르게 담긴다.",
+    "todo": [
+     "유리 구간에서 발밑 협곡 내려다보기",
+     "순담계곡 쪽 전망 포인트에서 사진 남기기"
+    ],
+    "tip": "입장료 일부가 철원사랑상품권으로 환급돼 지역에서 되쓸 수 있다. 편도 코스라 시작점과 끝점 주차 위치를 미리 정하고, 계단·경사가 있어 편한 신발이 좋다.",
+    "eat": "한탄강 인근 매운탕·오대쌀밥집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고석정",
+    "rom": "임꺽정 전설이 깃든 한탄강의 절경",
+    "meta": [
+     "💴 무료(주변)",
+     "⏱ 1~2시간",
+     "🚣 래프팅 출발지",
+     "🪨 국가지질공원"
+    ],
+    "desc": "한탄강 한복판에 우뚝 솟은 약 15m 화강암 바위와 그 곁의 정자를 함께 이르는 이름이다. 신라 진평왕이 정자를 세웠다 전하고, 의적 임꺽정이 바위 굴에 숨어 지냈다는 이야기가 내려온다. 철원 한탄강 국가지질공원의 관문이자 여름 래프팅이 출발하는 자리라, 검은 협곡과 옥빛 물살이 한눈에 담긴다.",
+    "todo": [
+     "강가로 내려가 고석바위 마주보기",
+     "지질공원 방문자센터 둘러보기"
+    ],
+    "tip": "인근 고석정 꽃밭은 봄·가을 꽃축제 기간에 유료로 운영된다. 래프팅은 여름 성수기 예약이 몰리니 미리 잡는 게 좋다.",
+    "eat": "철원 오대쌀로 지은 쌀밥 정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/500px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg/120px-20230815_%EA%B3%A0%EC%84%9D%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "직탕폭포",
+    "rom": "한국의 나이아가라라 불리는 가로 폭포",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "🌊 한탄강 현무암"
+    ],
+    "desc": "높이는 3m 남짓으로 낮지만 강 전체를 가로질러 약 80m 폭으로 넓게 쏟아지는 독특한 일자형 폭포다. 검은 현무암 위를 한 줄로 넘어가는 물살 때문에 '한국의 나이아가라'라는 별명이 붙었다. 물안개가 피는 아침이나 물이 불어난 여름에 특히 위세가 좋다.",
+    "tip": "주상절리길 트래킹이나 고석정과 이어 보기 좋은 짧은 코스다. 바위가 미끄러우니 물가로 너무 내려가지 않는 게 안전하다.",
+    "eat": "인근 매운탕·민물고기 요리"
+   },
+   {
+    "name": "삼부연폭포",
+    "rom": "겸재 정선도 그린 3단 물줄기",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "🎨 진경산수 명소"
+    ],
+    "desc": "명성산 자락에서 세 번 꺾여 약 20m를 떨어지는 3단 폭포다. 아래에 파인 세 개의 소(沼)가 가마솥을 닮았다 하여 삼부연(三釜淵)이라 불린다. 조선의 화가 겸재 정선이 진경산수로 그려 남길 만큼 예부터 이름난 절경으로, 좁은 협곡 사이로 쏟아지는 물소리가 시원하다.",
+    "tip": "폭포 바로 옆 오래된 굴다리(터널)를 지나야 도착한다. 차 한 대가 겨우 지나는 좁은 길이니 맞은편 차량에 주의한다.",
+    "eat": "철원 막국수"
+   },
+   {
+    "name": "철원 노동당사",
+    "rom": "분단이 멈춰 세운 회색 콘크리트 골조",
+    "meta": [
+     "💴 무료(외관)",
+     "⏱ 30분",
+     "🏛 근대문화유산",
+     "🎸 노래 배경지"
+    ],
+    "desc": "1946년 북한이 지역을 통제하려 세운 3층 건물로, 한국전쟁을 거치며 위층은 골조만 앙상하게 남았다. 총탄 자국이 촘촘한 회색 벽과 텅 빈 창틀이 그대로 서서, 이 땅이 한때 북한 땅이었다는 사실을 말없이 증언한다. 서태지와 아이들의 '발해를 꿈꾸며' 뮤직비디오 배경으로도 알려져 발길이 끊이지 않는다.",
+    "todo": [
+     "총탄 흔적이 남은 외벽 가까이서 보기",
+     "맞은편 조형물·안내판으로 역사 읽기"
+    ],
+    "tip": "안전 문제로 내부 진입은 통제되고 외관 위주로 둘러본다. 노동당사 주변은 옛 철원 시가지 자리로, 함께 폐허의 흔적을 볼 수 있다.",
+    "eat": "철원읍 시내 백반·순두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg/500px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_Rside_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg/120px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_rear_beeniru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "도피안사",
+    "rom": "천 년의 철불이 앉아 있는 산사",
+    "meta": [
+     "💴 무료",
+     "⏱ 30~40분",
+     "🛕 국보 철불",
+     "🌿 조용한 절"
+    ],
+    "desc": "865년 신라 도선국사가 창건했다 전하는 작은 절이다. 이곳의 철조비로자나불좌상(국보)은 천 년을 앉아 있으면서도 온화한 미소를 잃지 않았고, 화강암 삼층석탑(보물)이 그 곁을 지킨다. 화려하지 않아 오히려 마음이 가라앉는, 조용히 머물다 가기 좋은 산사다.",
+    "todo": [
+     "국보 철불 앞에서 잠시 앉아 있기",
+     "삼층석탑과 절 마당 천천히 걷기"
+    ],
+    "tip": "군부대 인근이라 조용히 참배하는 분위기다. 규모가 작아 다른 명소와 묶어 짧게 들르기 좋다.",
+    "eat": "동송읍내 손두부·나물밥"
+   },
+   {
+    "name": "월정리역 · 철의 삼각 안보관광",
+    "rom": "달리고 싶어도 멈춰 선 경원선의 종착",
+    "meta": [
+     "💴 안보관광 유료·예약제",
+     "⏱ 반나절",
+     "🪪 신분증 필수",
+     "🚂 DMZ"
+    ],
+    "desc": "'철마는 달리고 싶다'는 문구 아래, 전쟁 때 폭격으로 멈춘 열차 잔해가 녹슨 채 남아 있는 경원선의 마지막 역이다. 민간인 출입통제선 안에 있어 개인이 함부로 들어갈 수 없고, 철원 평화전망대·제2땅굴·철의 삼각전망대를 잇는 안보관광 코스로만 만날 수 있다. 철책 너머로 손에 닿을 듯 가까운 북녘 들판이 분단의 실감을 안긴다.",
+    "todo": [
+     "멈춰 선 철마 앞에서 분단의 시간 느끼기",
+     "평화전망대에서 비무장지대 조망하기"
+    ],
+    "tip": "고석정 국가지질공원센터 등에서 출발하는 안보관광은 사전 예약·정해진 시간에만 입장하며 신분증이 반드시 필요하다. 코스 안에서는 지정 구역 외 촬영이 제한될 수 있다.",
+    "eat": "철원 오대쌀밥·두루미(겨울 탐조와 곁들여)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/c/c2/Weoljeongri_station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DMZ_2803.jpg/500px-DMZ_2803.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DMZ_2802.jpg/500px-DMZ_2802.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "철원 승일교",
+    "rom": "남과 북이 절반씩 이어 완성한 아치 다리",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "🌉 근대문화유산",
+     "🌙 야경"
+    ],
+    "desc": "1948년 북한이 착공했다가 전쟁으로 멈춘 것을, 1958년 남한이 이어받아 완성한 한탄강의 아치교다. 그래서 다리 양쪽 교각의 모양과 공법이 서로 달라, 한 다리 안에 두 시대·두 체제의 손길이 나란히 남아 있다. 지금은 차 대신 사람과 자전거만 건너며, 밤이면 조명이 들어와 협곡 위 실루엣이 근사하다.",
+    "todo": [
+     "양쪽 교각의 다른 아치 모양 비교해 보기",
+     "바로 옆 한탄대교·강변에서 다리 전경 담기"
+    ],
+    "tip": "차량은 인근 한탄강대교로 우회한다. 한탄강 물윗길·주상절리길과 가까워 함께 둘러보기 좋다.",
+    "eat": "한탄강변 매운탕"
+   }
+  ]
+ },
+ "chilgok": {
+  "nm": "칠곡",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 SRT·KTX로 동대구역까지 약 1시간 40분, 여기서 대구권 광역철도(왜관역)·버스로 30분 안팎 / 부산은 경부선으로 대구 경유 / 자가용은 경부고속도로 왜관IC·가산IC로 곧장",
+  "sep": "가을(10월)이 절정 — 가산수피아·칠곡보의 핑크뮬리와 낙동강변 억새가 분홍·은빛으로 물들고, 저녁엔 호국의 다리 야경까지 이어진다. 봄엔 벚꽃길로 옷을 갈아입는다",
+  "mood": "낙동강 55일, 나라를 지켜낸 최후 방어선 위로 지금은 핑크빛 억새가 물결친다",
+  "see": "6·25 격전지 전적지들과 신라 벽돌탑·산성, 그리고 솔숲을 두른 핑크뮬리 언덕이 한 고을에",
+  "spots": [
+   {
+    "name": "다부동전적기념관",
+    "rom": "55일 낙동강 방어선, 그 최전선의 언덕",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🎖 6·25 격전지"
+    ],
+    "desc": "1950년 여름, 대구를 지키느냐 잃느냐가 이 능선에서 갈렸다. 다부동은 낙동강 방어선에서 가장 치열했던 전투가 벌어진 곳으로, 기념관 언덕에는 실물 탱크와 전투기, 위령탑이 늘어서 있다. 전쟁을 겪지 않은 세대에게도 '여기서 버텨냈구나' 하는 무게가 묵직하게 내려앉는다.",
+    "todo": [
+     "야외에 전시된 실물 탱크·전투기 둘러보기",
+     "구국관에서 전투의 흐름 따라가기",
+     "위령탑 앞에서 잠시 묵념"
+    ],
+    "tip": "실외 전시가 많아 여름엔 이른 아침·늦은 오후가 편하다. 주차 무료.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hill_518.jpg/500px-Hill_518.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg/500px-%EC%97%B0%EB%8C%80%EB%AA%85%EB%A0%B9%EC%9A%94%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ch%C5%8Fng_Pong-uk.png/500px-Ch%C5%8Fng_Pong-uk.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "왜관철교 (호국의 다리)",
+    "rom": "폭파된 철교가 밤이면 빛의 다리로",
+    "meta": [
+     "💴 무료",
+     "🌙 야경·일몰",
+     "🌉 등록문화재"
+    ],
+    "desc": "1905년 놓인 붉은 벽돌 철교는 6·25 때 남하하는 북한군을 막으려 경간 하나가 폭파됐고, 그 끊긴 흔적을 그대로 안은 채 지금은 사람이 건너는 산책 다리가 됐다. 해가 지면 다리에 조명이 켜지고 낙동강 수면 위로 빛이 길게 늘어진다. 아픈 역사를 걸어서 건너는 저녁 산책.",
+    "todo": [
+     "일몰 시각 맞춰 다리 건너보기",
+     "끊긴 경간의 폭파 흔적 살펴보기",
+     "강변 데크 따라 야경 산책"
+    ],
+    "tip": "야경이 백미라 일몰 무렵~저녁 시간대 방문을 추천한다. 다리 위는 보행 전용이라 천천히 걷기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg/500px-%EC%B9%A0%EA%B3%A1_%EC%99%9C%EA%B4%80%EC%B2%A0%EA%B5%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "송림사",
+    "rom": "신라 벽돌탑이 지켜온 천년 사찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🗿 보물 오층전탑"
+    ],
+    "desc": "나지막한 돌담 안, 흙벽돌을 한 장씩 구워 쌓아 올린 오층전탑이 절 마당 한가운데 우뚝하다. 전탑은 국내에 몇 남지 않은 귀한 형식이라, 탑 꼭대기 금동 상륜부까지 온전히 남아 더 값지다. 요란하지 않고 단정한 경내를 천천히 돌다 보면 마음이 가라앉는다.",
+    "todo": [
+     "오층전탑을 한 바퀴 돌며 벽돌 결 살피기",
+     "대웅전·석등 둘러보기"
+    ],
+    "tip": "가산산성 가는 길목에 있어 함께 묶어 돌기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg/500px-%EC%86%A1%EB%A6%BC%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%A0%84%ED%83%91%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가산산성",
+    "rom": "세 겹으로 두른 산속 요새",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🥾 산성 트레킹"
+    ],
+    "desc": "임진왜란과 병자호란의 아픔 뒤, 적을 막으려 가산 능선을 따라 내·중·외성 세 겹으로 두른 산성이다. 성문과 성벽을 따라 걸으면 발아래로 칠곡 들판이 넓게 펼쳐지고, 정상 부근 가산바위에 서면 시야가 사방으로 탁 트인다. 산성 트레킹과 조망을 한 번에 누리는 코스.",
+    "todo": [
+     "동문에서 시작해 성벽길 걷기",
+     "가산바위 전망대까지 올라 조망 즐기기",
+     "가을 단풍·억새 감상"
+    ],
+    "tip": "산길 구간이 있어 운동화는 필수. 정상까지는 왕복 시간을 넉넉히 잡는다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg/500px-%EA%B0%80%EC%82%B0%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PGS-GasanFt1.jpg/960px-PGS-GasanFt1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/PGS-GasanFt2.jpg/960px-PGS-GasanFt2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "성 베네딕도회 왜관수도원",
+    "rom": "독일계 베네딕도회가 한국에 뿌리내린 수도원",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "⛪ 베네딕도회 수도원"
+    ],
+    "desc": "독일계 성 베네딕도회(상트 오틸리엔 연합회) 수도자들이 1952년 왜관에 자리 잡은 국내 대표 수도원이다. 정갈한 성당과 회랑, 넓은 정원이 조용한 기도의 공간을 이루고, 수도원에서 직접 만드는 정통 독일식 '분도' 소시지와 성물·수제품을 파는 매장이 소소한 재미다.",
+    "todo": [
+     "성당·회랑과 정원 둘러보기",
+     "수도원 소시지·수제품 구경하기",
+     "정갈한 정원 산책"
+    ],
+    "tip": "미사·기도 시간에는 정숙이 기본이다. 소시지는 인기라 이른 시간 방문을 추천한다.",
+    "eat": "수도원에서 만드는 정통 독일식 '분도' 수제 소시지·햄",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg/500px-%EC%99%9C%EA%B4%80%EC%88%98%EB%8F%84%EC%9B%90_%EB%8C%80%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가산수피아",
+    "rom": "소나무 숲을 배경 삼은 핑크뮬리 언덕",
+    "meta": [
+     "💴 입장 약 8,000원(변동)",
+     "🍂 가을 핑크뮬리",
+     "📷 포토존"
+    ],
+    "desc": "깊고 푸른 솔숲을 병풍처럼 두른 언덕에 핑크뮬리가 분홍빛 물결로 넘실댄다. 허브정원과 산책로, 포토존이 곳곳에 있어 아이와 함께 걷기에도 좋고, 가을이면 핑크뮬리와 순백의 구절초가 함께 피어 사진 어디를 찍어도 그림이 된다. 봄엔 벚꽃길로 옷을 갈아입는다.",
+    "todo": [
+     "핑크뮬리 언덕에서 인생샷 남기기",
+     "허브정원 둘러보기",
+     "솔숲 산책로 걷기"
+    ],
+    "tip": "핑크뮬리 성수기(10월) 주말엔 주차가 몹시 혼잡하다. 개화 시기와 입장료는 방문 전 확인이 안전하다."
+   },
+   {
+    "name": "칠곡호국평화기념관",
+    "rom": "55일 낙동강 방어선을 되짚는 기념관",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1~2시간",
+     "🕊 평화·역사"
+    ],
+    "desc": "6·25 당시 55일간 이어진 낙동강 방어선 전투를 주제로 세운 기념관으로, 전시관과 야외 상징 조형물, 체험 공간이 넓게 조성돼 있다. 다부동·왜관으로 이어지는 칠곡의 호국 이야기를 한자리에서 정리해 볼 수 있어, 전적지들을 돌기 전 첫걸음으로도 좋다. 아이와 함께라면 체험형 전시가 지루하지 않다.",
+    "todo": [
+     "전시관에서 낙동강 방어선 전투의 흐름 보기",
+     "야외 상징 조형물·전망 둘러보기"
+    ],
+    "tip": "다부동전적기념관·왜관철교와 묶으면 하루 호국여행 코스가 완성된다."
+   }
+  ]
+ },
+ "chuncheon": {
+  "nm": "춘천",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 용산·청량리에서 ITX-청춘/경춘선으로 약 1시간~1시간 20분. 부산에서는 서울까지 KTX 후 경춘선 환승. 뚜벅이도 부담 없는, 수도권에서 가장 가까운 강원도.",
+  "sep": "봄과 가을이 최고. 4월엔 벚꽃과 신록, 10~11월엔 남이섬 메타세쿼이아와 강촌 협곡의 단풍이 절정이다. 겨울 소양호 물안개와 빙어도 별미지만, 색을 보려면 단풍철이 가장 진하다.",
+  "mood": "서울에서 딱 한 시간, 물안개 낀 호수의 도시. 닭갈비 연기와 막국수 한 그릇, 레일바이크 위로 스치는 북한강 바람 — 낭만이라는 말이 촌스럽지 않게 어울리는 곳.",
+  "see": "북한강·소양호가 감싼 물의 도시. 남이섬 숲길, 강 위 레일바이크, 배 타고 닿는 산속 절, 한옥 간이역까지 물과 초록이 촘촘하다.",
+  "spots": [
+   {
+    "name": "남이섬",
+    "rom": "배 타고 5분, 사계절 내내 사람이 끊이지 않는 그 섬",
+    "meta": [
+     "🚢 승선 약 16,000원",
+     "🍁 가을 메타세쿼이아",
+     "⏱ 반나절"
+    ],
+    "desc": "선착장에서 배로 5분이면 초록이 빽빽한 섬에 내린다. 곧게 뻗은 메타세쿼이아 가로수길은 가을이면 온통 붉고 노랗게 물들어, 사진 한 장을 찍으려는 사람들로 길이 메워진다. 자전거를 빌려 강바람을 맞으며 섬을 한 바퀴 돌다 보면 반나절이 훌쩍 간다.",
+    "todo": [
+     "메타세쿼이아길·은행나무길 끝까지 걷기",
+     "자전거 빌려 섬 한 바퀴",
+     "강가 벤치에서 북한강 바라보기"
+    ],
+    "tip": "주말·단풍철엔 배 대기줄이 길다. 오전 일찍 들어가면 한산한 숲길을 오래 누릴 수 있다. 행정구역은 춘천이지만 선착장은 가평 쪽이라 가평역·상천역에서도 접근한다.",
+    "eat": "섬 안 식당보다 나오는 길에 춘천 닭갈비 한 판을 추천.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소양강 스카이워크",
+    "rom": "발밑으로 강물이 흐르는, 소양강 처녀상 앞 유리다리",
+    "meta": [
+     "💴 입장 약 2,000원(상품권 반환)",
+     "🌉 투명 유리 바닥",
+     "⏱ 1~2시간"
+    ],
+    "desc": "소양강 위로 길게 뻗은 유리 바닥 다리를 걸으면 발밑으로 강물이 그대로 비쳐 아찔하다. 다리 끝에는 노래로 유명한 소양강 처녀상이 서 있고, 강 건너로는 춘천 시내와 물빛이 시원하게 펼쳐진다. 노을 질 무렵이면 강물이 주황빛으로 물들어 산책하기 좋다.",
+    "tip": "덧신을 신고 들어가며 입장료는 지역 상품권으로 되돌려준다. 근처 소양강 인어상, 스카이워크 야경도 함께 보면 좋다.",
+    "eat": "강 근처 닭갈비 골목이나 소양강 근처 막국수집."
+   },
+   {
+    "name": "청평사",
+    "rom": "배를 타고 소양호를 건너 오르는 오봉산 산속 절",
+    "meta": [
+     "⛴ 소양호 유람선",
+     "🥾 계곡 트레킹",
+     "⏱ 반나절"
+    ],
+    "desc": "소양강댐 선착장에서 배를 타고 호수를 건너면 오봉산 자락에 안긴 고려 시대 옛 절에 닿는다. 배에서 내려 계곡을 따라 오르는 길엔 구성폭포가 쏟아지고, 공주와 상사뱀 전설이 깃든 숲이 서늘하다. 보물로 지정된 회전문을 지나 절 마당에 서면, 배까지 타고 온 수고가 아깝지 않다.",
+    "todo": [
+     "소양강댐에서 유람선 타기",
+     "구성폭포·공주굴 지나 계곡길 오르기",
+     "회전문·고려선원 둘러보기"
+    ],
+    "tip": "선착장~절까지 도보로 20~30분 오르막이다. 편한 신발 필수. 배 시간표가 정해져 있으니 막배 시각을 미리 확인해 둘 것.",
+    "eat": "소양강댐 아래 식당가의 닭갈비·막국수, 겨울엔 빙어.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cheongpyeongsa_Temple_Tourist_Park_09.jpg/500px-Cheongpyeongsa_Temple_Tourist_Park_09.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cheongpyeongsa_Temple_Tourist_Park_07.jpg/330px-Cheongpyeongsa_Temple_Tourist_Park_07.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cheongpyeongsa_Temple_Tourist_Park_03.jpg/500px-Cheongpyeongsa_Temple_Tourist_Park_03.jpg"
+    ]
+   },
+   {
+    "name": "김유정문학촌",
+    "rom": "소설 '봄봄'의 무대, 한옥 간이역이 있는 실레마을",
+    "meta": [
+     "📖 봄봄·동백꽃 무대",
+     "🚉 한옥 김유정역",
+     "⏱ 1~2시간"
+    ],
+    "desc": "소설가 김유정이 나고 자란 실레마을에 그의 생가와 전시관이 복원돼 있다. 초가지붕과 마당, 이야기 속 인물들의 동상 사이를 걷다 보면 '봄봄'과 '동백꽃'의 한 장면 속으로 들어선 기분이 든다. 바로 옆 김유정역은 인물 이름을 딴 최초의 역답게 한옥 지붕에 궁서체 간판을 단, 사진 찍기 좋은 간이역이다.",
+    "todo": [
+     "생가·전시관에서 김유정 작품 따라 걷기",
+     "한옥 김유정역에서 사진 찍기",
+     "실레마을 이야기길 산책"
+    ],
+    "tip": "김유정역에서 내려 걸어서 갈 수 있어 뚜벅이에게 좋다. 강촌 레일바이크 출발역과도 이어져 함께 묶기 편하다.",
+    "eat": "실레마을 앞 감자전·막국수, 춘천 닭갈비.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg/500px-%EA%B9%80%EC%9C%A0%EC%A0%95%EB%AC%B8%ED%95%99%EC%B4%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Literary_Village_of_Kimyoujeong_01.jpg/120px-The_Literary_Village_of_Kimyoujeong_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Literary_Village_of_Kimyoujeong_02.jpg/120px-The_Literary_Village_of_Kimyoujeong_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "강촌 레일파크(김유정 레일바이크)",
+    "rom": "폐선 위를 페달로 달리는, 북한강 협곡 레일바이크",
+    "meta": [
+     "🚲 2인 약 35,000원",
+     "🏞 북한강 협곡",
+     "⏱ 반나절"
+    ],
+    "desc": "옛 경춘선 폐철로 위를 두 발로 페달을 밟아 달린다. 김유정역에서 출발해 강과 산 사이 협곡을 지나면, 바람과 강물 소리에 어느새 웃고 있는 자신을 발견한다. 어두운 터널 구간엔 빛과 음악이 흘러 아이도 어른도 즐거워한다.",
+    "todo": [
+     "페달 밟으며 북한강 협곡 지나기",
+     "터널 조명 구간 통과하기"
+    ],
+    "tip": "주말·성수기엔 예약이 빨리 찬다. 미리 온라인 예약 권장. 요금·코스는 시즌마다 바뀌니 출발 전 확인.",
+    "eat": "강촌 일대 닭갈비·막국수 식당."
+   },
+   {
+    "name": "제이드가든 수목원",
+    "rom": "산속에 펼쳐진 이탈리아풍 정원, 드라마 단골 촬영지",
+    "meta": [
+     "💴 입장 약 11,000원",
+     "🌳 이탈리아풍 수목원",
+     "⏱ 반나절"
+    ],
+    "desc": "굴봉산역 가까운 산비탈에 유럽 정원처럼 꾸며진 수목원이 펼쳐진다. 하얀 온실과 돌계단, 숲 사이 산책로가 이어져 계절마다 다른 색으로 물든다. 여러 드라마 촬영지로도 알려져, 나무내음길·단풍나무길을 걷다 보면 어디를 찍어도 그림이 된다.",
+    "todo": [
+     "온실·유럽풍 건물에서 사진 찍기",
+     "숲속 산책로 천천히 걷기"
+    ],
+    "tip": "언덕이 많아 편한 신발이 좋다. 봄 신록과 가을 단풍철이 특히 예쁘다.",
+    "eat": "춘천 시내로 나와 닭갈비 골목.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20241109_Real_rism_Jade_Garden_1.jpg/500px-20241109_Real_rism_Jade_Garden_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20241109_Real_rism_Jade_Garden_7.jpg/120px-20241109_Real_rism_Jade_Garden_7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20241109_Real_rism_Jade_Garden_8.jpg/120px-20241109_Real_rism_Jade_Garden_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소양강댐·소양호",
+    "rom": "산으로 둘러싸인 '내륙의 바다', 물안개 피어오르는 호수",
+    "meta": [
+     "💧 내륙의 바다",
+     "🌅 물안개",
+     "⏱ 1~2시간"
+    ],
+    "desc": "우리나라에서 가장 큰 사력댐이 만들어낸 소양호는 산들에 둘러싸여 바다처럼 넓다. 댐 정상에 서면 잔잔한 호수 위로 물안개가 피어오르고, 이 물을 건너면 청평사로 가는 배가 뜬다. 봄내길을 따라 걸으며 호수 바람을 쐬기 좋다.",
+    "tip": "댐 정상까지 셔틀버스가 다닌다. 청평사 유람선을 함께 계획하면 동선이 자연스럽다.",
+    "eat": "댐 아래 식당가의 닭갈비·막국수, 겨울 빙어튀김.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Soyang_River_Dam_231207.jpg/500px-Soyang_River_Dam_231207.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg/500px-%EC%86%8C%EC%96%91%ED%98%B8_%EC%A0%80%EC%82%AC%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "chungju": {
+  "nm": "충주",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울 동서울터미널에서 시외버스 약 1시간 40분, 자가용은 중부내륙고속도로로 약 2시간. 부산에서는 KTX·버스 환승으로 4시간 안팎.",
+  "sep": "봄·가을이 가장 좋다. 남한강과 충주호의 물빛이 맑아지고, 탄금대 송림과 계명산 단풍이 물드는 4~5월과 10~11월에 걸으면 걷는 맛이 산다.",
+  "mood": "한반도의 정중앙, 남한강이 크게 휘도는 물의 고장. 강과 호수, 오래된 탑과 절터가 조용히 어깨를 겯는 곳.",
+  "see": "강 절벽 위의 탄금대, 들판 한가운데 우뚝한 중앙탑, 드넓은 충주호, 그리고 협곡과 폭포가 만나는 수주팔봉까지.",
+  "spots": [
+   {
+    "name": "탄금대",
+    "rom": "남한강 절벽 위, 우륵이 가야금을 타던 솔숲",
+    "meta": [
+     "🎫 무료",
+     "⏱ 반나절",
+     "🌲 솔숲 산책",
+     "🌅 강 전망"
+    ],
+    "desc": "남한강이 절벽을 크게 휘감아 도는 언덕에 울창한 소나무 숲이 얹혀 있다. 가야의 악성 우륵이 이곳에서 가야금을 탔다 하여 붙은 이름이고, 임진왜란 때 신립 장군이 배수진을 쳤던 비장한 역사도 함께 흐른다. 솔향 가득한 산책로를 따라 걷다 열두대 절벽 끝에 서면, 발아래로 남한강이 굽이쳐 흐른다.",
+    "todo": [
+     "솔숲 산책로를 따라 열두대 절벽 전망대까지 걷기",
+     "탄금대비와 감자꽃 노래비 둘러보기",
+     "강변으로 내려가 물길과 다리 풍경 담기"
+    ],
+    "tip": "그늘이 많아 여름에도 걷기 좋지만, 절벽 끝은 안전난간 밖으로 나가지 말 것. 주차장 넓고 무료.",
+    "eat": "근처 시내에서 충주의 향토음식 꿩요리나 올갱이(다슬기)해장국을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png/500px-%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "중앙탑(탑평리 칠층석탑)",
+    "rom": "한반도 정중앙에 선 통일신라 최대의 석탑",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1~2시간",
+     "🗿 국보",
+     "🌊 강변 공원"
+    ],
+    "desc": "남한강가 너른 잔디 공원 한가운데, 통일신라 석탑 중 가장 큰 칠층석탑이 하늘로 곧게 솟아 있다. 한반도의 정중앙에 가깝다 하여 '중앙탑'이라 불리며, 이 별명 덕에 마을 이름까지 중앙탑면이 되었다. 해질 무렵 강물에 노을이 번지면 탑의 실루엣이 길게 드리운다.",
+    "todo": [
+     "잔디밭을 한 바퀴 돌며 탑을 여러 각도에서 바라보기",
+     "바로 옆 충주박물관·조각공원 함께 둘러보기",
+     "강변 벤치에서 노을 기다리기"
+    ],
+    "tip": "공원이 넓고 평탄해 가족·반려견 산책에 좋다. 여름 저녁엔 분수와 야간 조명을 볼 수 있다.",
+    "eat": "중앙탑 인근 강변길에 붕어·메기 매운탕집이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg/500px-%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg/250px-Jungwontappyeongnichilcheungseoktap_%28Seven_storied_stone_pagoda_in_Tap-pyeong-ri%29_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "충주호",
+    "rom": "산자락을 삼킨 거대한 인공 호수",
+    "meta": [
+     "🚤 유람선",
+     "⏱ 반나절",
+     "🍂 가을 단풍",
+     "🏞 호수 드라이브"
+    ],
+    "desc": "1985년 충주댐이 계곡을 막으며 생겨난 드넓은 호수로, 충주에서 단양 도담삼봉까지 산자락 사이를 굽이굽이 채운다. 잔잔한 물 위로 유람선이 미끄러지고, 물가를 따라 이어진 드라이브 길에서는 계절마다 다른 산빛이 물에 잠긴다. 안개 낀 아침의 호수는 특히 고요하다.",
+    "todo": [
+     "충주나루에서 유람선 타고 호수 한복판 나가보기",
+     "계명산·종댕이길 등 호숫가 둘레길 걷기",
+     "전망 좋은 카페에서 물빛 바라보기"
+    ],
+    "tip": "유람선은 계절·수위에 따라 운항이 달라지니 당일 운항 여부를 미리 확인. 가을 단풍철이 가장 붐빈다.",
+    "eat": "호수 주변 식당의 민물새우탕과 송어회가 별미다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chungjuho_Lake.jpg/500px-Chungjuho_Lake.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수주팔봉",
+    "rom": "협곡을 가르는 여덟 봉우리와 출렁다리",
+    "meta": [
+     "🎫 무료",
+     "⏱ 2~3시간",
+     "📸 인생샷",
+     "🌊 물길·폭포"
+    ],
+    "desc": "달천이 굽이도는 자리에 여덟 개의 뾰족한 봉우리가 병풍처럼 늘어서 있다. 칼바위 능선 위 출렁다리에 오르면 발아래로 물길이 갈라지고 인공폭포가 쏟아지는 협곡이 시원하게 펼쳐진다. 드라마 '빈센조'의 무대로도 알려지며 사진 명소가 되었다.",
+    "todo": [
+     "칼바위 위 출렁다리 건너 협곡 전망 즐기기",
+     "달천 모래사장에서 봉우리 배경으로 사진 찍기",
+     "여름엔 물놀이·캠핑으로 하룻밤 머물기"
+    ],
+    "tip": "출렁다리까지는 짧지만 가파른 계단 구간이 있어 편한 신발 권장. 주말·성수기 주차장이 빨리 찬다.",
+    "eat": "살미면 일대에서 더덕구이 정식과 산채비빔밥을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CS-Ocm1.jpg/500px-CS-Ocm1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CS-Ocm3.jpg/500px-CS-Ocm3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CS-Ocm4.jpg/500px-CS-Ocm4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "활옥동굴",
+    "rom": "100년 광산이 별빛 동굴로 되살아난 곳",
+    "meta": [
+     "💴 입장 약 10,000원",
+     "⏱ 1~2시간",
+     "❄️ 사계절 시원",
+     "🛶 동굴 보트"
+    ],
+    "desc": "1922년부터 활석을 캐던 광산 갱도 800m를 관광 동굴로 되살렸다. 한여름에도 11~15도로 서늘한 굴속을 걸으면 형형색색 조명이 물든 지하 호수가 나타나고, 투명 보트를 타고 그 위를 미끄러질 수도 있다. 광부들의 100년 흔적과 판타지 같은 빛이 한자리에 있다.",
+    "todo": [
+     "갱도를 따라 걸으며 지하 호수와 조명 감상하기",
+     "투명 보트 타고 동굴 물길 건너기",
+     "동굴 카페에서 시원한 지하 공기 즐기기"
+    ],
+    "tip": "동굴+보트 패키지는 약 15,000원. 월요일 휴관이니 방문 요일 확인. 여름에도 겉옷 한 벌 챙기면 좋다.",
+    "eat": "충주 시내로 나오면 충주 특산 사과를 활용한 사과빵·사과즙을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CH-JC.jpg/500px-CH-JC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CH-JC3725.jpg/500px-CH-JC3725.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/CH-JC3959.jpg/500px-CH-JC3959.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수안보온천",
+    "rom": "왕들이 찾던 천년의 자연 온천 마을",
+    "meta": [
+     "♨️ 온천욕",
+     "⏱ 반나절",
+     "❄️ 겨울 추천",
+     "🏞 월악산 초입"
+    ],
+    "desc": "고려 시대 기록에도 등장하는 오래된 온천으로, 조선의 왕족과 관리들이 몸을 담그러 찾던 곳이다. 지하 깊은 곳에서 53도로 솟는 약알칼리성 온천수가 온천 마을 곳곳으로 흐른다. 월악산과 충주호로 이어지는 길목이라, 하루를 걷고 저녁에 온천으로 풀기 좋다.",
+    "todo": [
+     "온천욕으로 여행의 피로 풀기",
+     "온천 마을 족욕 시설에서 잠깐 쉬어가기",
+     "가까운 월악산·미륵대원지와 묶어 둘러보기"
+    ],
+    "tip": "숙소·목욕탕마다 요금이 다르니 미리 확인. 겨울철 눈 내린 온천 마을 정취가 특히 좋다.",
+    "eat": "수안보의 명물 꿩요리(꿩만두·꿩샤부)를 이 마을에서 제대로 맛볼 수 있다."
+   },
+   {
+    "name": "미륵대원지",
+    "rom": "마의태자 전설이 깃든 하늘재 아래 석굴 절터",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1~2시간",
+     "🗿 사적",
+     "⛰ 하늘재 옛길"
+    ],
+    "desc": "월악산 하늘재 초입, 옛 절터에 커다란 석불입상이 북쪽을 바라보고 서 있다. 신라의 마지막 태자 마의태자가 금강산으로 가던 길에 이 불상을 세웠다는 전설이 전해진다. 우리나라에서 드물게 북향으로 앉은 석굴사원 터로, 돌담과 석등 사이로 고려 초의 적막이 흐른다.",
+    "todo": [
+     "석불입상과 오층석탑, 돌거북 사이 천천히 걷기",
+     "이어지는 하늘재 옛길 초입 산책하기",
+     "석굴 형태로 남은 법당 터 살펴보기"
+    ],
+    "tip": "수안보·월악산과 가까워 함께 묶기 좋다. 오르막이 완만해 부담 없이 둘러볼 수 있다.",
+    "eat": "인근 미륵리·송계리 계곡가 식당의 산채더덕정식이 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/30/%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg/500px-%EC%B6%A9%EC%A3%BC_%EB%AF%B8%EB%A5%B5%EB%8C%80%EC%9B%90%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mireuk-ri_Won_Site.jpg/500px-Mireuk-ri_Won_Site.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "daegu": {
+  "nm": "대구",
+  "region": "🏔️ 경상 · 대구광역시",
+  "route": "서울역에서 KTX로 동대구역까지 약 1시간 50분, 부산에서는 약 50분. 도심 명소는 지하철·도보로 충분히 이어지고, 팔공산·앞산만 시내버스나 차로 붙는다.",
+  "sep": "봄(3~4월)엔 수성못과 이월드에 벚꽃이 터지고, 가을(10~11월)엔 팔공산 단풍이 붉다. 여름은 분지 지형 탓에 '대프리카'라 불릴 만큼 뜨거우니 해질녘과 밤 나들이를 추천.",
+  "mood": "노래가 흐르는 골목, 4천 점포가 들썩이는 시장, 그리고 밤이면 불 켜지는 83타워. 대구는 '정 많고 뜨거운 도시'라는 말이 딱 맞는 곳이다.",
+  "see": "김광석길과 근대골목의 감성, 서문시장의 먹거리, 팔공산·앞산의 산세, 이월드·수성못의 야경까지 도심 안에 다 있다.",
+  "spots": [
+   {
+    "name": "김광석다시그리기길",
+    "rom": "노래가 벽마다 걸린 350m 골목",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🎸 감성 산책",
+     "📷 벽화·포토존"
+    ],
+    "desc": "방천시장 옆 350m 남짓한 좁은 골목에, 이 동네에서 자란 가수 김광석의 얼굴과 노랫말이 벽화로 이어진다. 어디선가 그의 목소리가 잔잔히 흘러나오고, 기타를 든 동상 앞엔 늘 사진을 찍는 사람들이 선다. 한국관광 100선에 든 곳답게 천천히 걷기만 해도 마음이 말랑해진다.",
+    "todo": [
+     "기타 든 김광석 동상 앞에서 사진 찍기",
+     "골목 안 작은 카페·소품샵 들르기",
+     "라이브 공연이 열리는 주말 저녁 맞춰 가기"
+    ],
+    "tip": "주말 오후엔 사람이 많아 사진이 붐빈다. 한적한 분위기를 원하면 평일 오전이나 해질녘이 좋다. 지하철 경대병원역·대봉교 방향에서 도보로 접근.",
+    "eat": "붙어 있는 방천시장에서 대구식 납작만두와 떡볶이를 맛볼 수 있다."
+   },
+   {
+    "name": "서문시장",
+    "rom": "조선 3대 장터, 대구 최대 재래시장",
+    "meta": [
+     "💴 무료(먹거리 별도)",
+     "⏱ 2~3시간",
+     "🍜 먹거리 천국",
+     "🌙 야시장"
+    ],
+    "desc": "조선시대 전국 3대 시장의 하나로 꼽히던 큰 장터로, 지금도 4천여 점포가 빼곡히 들어차 하루 종일 북적인다. 밤이 되면 서문시장 야시장에 먹거리 매대가 줄지어 불을 밝히고, 김이 오르는 손맛 음식 냄새가 골목을 가득 채운다. 대구 사람들의 생활력과 정이 그대로 느껴지는 공간이다.",
+    "todo": [
+     "대구 명물 납작만두·찜갈비 맛보기",
+     "저녁엔 야시장에서 길거리 음식 순례",
+     "직물·섬유 상가 구경하며 시장 규모 실감하기"
+    ],
+    "tip": "야시장은 보통 저녁 무렵부터 열리고 주말 저녁이 가장 붐빈다. 지하철 3호선 서문시장역에서 바로 연결돼 접근이 편하다.",
+    "eat": "납작만두, 칼국수, 찜갈비, 수제비가 대표 먹거리. 인근 국채보상로 일대 맛집도 함께 도는 사람이 많다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg/500px-10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg/500px-Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg/500px-1957%EB%85%84_%EB%8C%80%EA%B5%AC_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5_%EC%83%81%EA%B0%80_%EC%8B%A0%EC%B6%95%EA%B3%B5%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대구 근대골목",
+    "rom": "청라언덕·90계단, 100년 전으로 걷는 길",
+    "meta": [
+     "💴 무료(일부 시설 유료)",
+     "⏱ 반나절",
+     "🏛 근대건축",
+     "🚶 도보 투어"
+    ],
+    "desc": "중구 일대에 19세기 말~20세기 초 대구의 모습이 그대로 남아, 골목을 걷다 보면 선교사 주택과 오래된 성당, 좁은 진골목이 차례로 나타난다. 청라언덕에서 3·1운동길 90계단을 내려오면 계산성당과 이상화·서상돈 고택이 이어진다. 발걸음마다 시간이 겹겹이 쌓인 도시의 결이 느껴진다.",
+    "todo": [
+     "청라언덕에서 3·1만세운동길 90계단 걸어 내려오기",
+     "계산성당과 이상화 고택 둘러보기",
+     "진골목의 오래된 한옥과 노포 구경하기"
+    ],
+    "tip": "'근대로의 여행' 골목투어 코스 안내가 잘 돼 있어 지도 한 장이면 혼자서도 돈다. 오르내림이 있으니 편한 신발 필수.",
+    "eat": "진골목·종로 일대에 오래된 중식당과 노포가 많아 골목투어 중간 식사로 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/3.1_Independence_Movement_Road.jpg/500px-3.1_Independence_Movement_Road.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "팔공산 (갓바위·동화사)",
+    "rom": "소원 하나는 꼭 들어준다는 영산",
+    "meta": [
+     "💴 케이블카 왕복 약 12,000원",
+     "⏱ 반나절~하루",
+     "⛰ 국립공원",
+     "🍁 가을 단풍"
+    ],
+    "desc": "대구와 경북에 걸친 팔공산은 2023년 국립공원으로 지정된 명산이다. 관봉 꼭대기의 갓바위 석불은 '평생 한 가지 소원은 꼭 들어준다'는 믿음으로 사시사철 기도객이 오르고, 산자락의 동화사는 거대한 통일대불을 품은 대표 사찰이다. 케이블카를 타고 오르면 발아래로 능선이 굽이치고, 가을엔 온 산이 붉게 물든다.",
+    "todo": [
+     "갓바위 올라 소원 빌기",
+     "동화사 통일대불 참배",
+     "팔공산 케이블카로 능선 전망 즐기기"
+    ],
+    "tip": "갓바위까지는 계단이 많아 왕복 1시간 이상 걸린다. 수능·시험철엔 기도객으로 크게 붐빈다. 시내에서 버스나 차로 이동해야 하니 반나절 이상 비워 두는 게 좋다.",
+    "eat": "동화사·갓바위 입구 식당가에서 산채비빔밥과 파전, 두부요리를 낸다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg/120px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EB%B9%84%EB%A1%9C%EB%B4%89_%EB%B9%84%EC%84%9D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "이월드 83타워",
+    "rom": "두류공원 위 대구의 밤을 밝히는 타워",
+    "meta": [
+     "💴 자유이용권 약 39,000원(변동)",
+     "⏱ 반나절",
+     "🎡 테마파크",
+     "🌃 야경 명소"
+    ],
+    "desc": "두류공원에 자리한 테마파크로, 202m 83타워를 중심으로 놀이기구와 사계절 꽃정원이 펼쳐진다. 낮엔 롤러코스터와 포시즌가든을 즐기고, 밤이 되면 별빛 조명과 타워 전망대에서 내려다보는 대구 야경이 압권이다. 봄엔 벚꽃 조명 축제로 도시 전체가 반짝인다.",
+    "todo": [
+     "83타워 전망대에서 대구 시내 야경 보기",
+     "봄 벚꽃 조명 시즌에 야간 개장 맞춰 가기",
+     "포시즌가든에서 계절 꽃 구경하기"
+    ],
+    "tip": "자유이용권과 전망대 입장은 요금이 다르고 시즌·행사에 따라 변동된다. 방문 전 공식 안내로 확인하는 게 좋다. 벚꽃철 야간은 매우 붐빈다.",
+    "eat": "두류공원 인근에 먹자골목과 카페가 많아 나들이 전후로 들르기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/E_WORLD_in_Daegu_on_April_5th_2013.jpg/500px-E_WORLD_in_Daegu_on_April_5th_2013.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Merry-go-round_in_E_WORLD%2C_Daegu.jpg/330px-Merry-go-round_in_E_WORLD%2C_Daegu.jpg"
+    ]
+   },
+   {
+    "name": "수성못",
+    "rom": "물가 카페와 야경이 흐르는 도심 호수",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🚶 산책·데이트",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "1927년에 만들어진 둘레 2km의 인공 호수로, 지금은 대구 사람들의 대표 쉼터가 됐다. 물가를 따라 카페와 음식점이 늘어서 있고, 저녁이면 조명과 음악분수가 어우러진 야경이 잔잔하다. 봄엔 벚꽃이 호수를 감싸고, 사철 언제 가도 걷기 좋은 곳이다.",
+    "todo": [
+     "호수 한 바퀴 산책하며 야경 즐기기",
+     "물가 카페에서 노을 보며 쉬어가기",
+     "저녁 음악분수 시간 맞춰 방문"
+    ],
+    "tip": "지하철 3호선(모노레일) 수성못역에서 도보로 가깝다. 주말 저녁은 사람이 많으니 여유 있게. 음악분수는 계절·요일에 따라 운영 시간이 달라진다.",
+    "eat": "수성못 둘레길을 따라 분위기 좋은 카페와 브런치·맥주집이 많다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/500px-Suseonglakeducks.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Suseong_Lake_Trail_on_April_7th%2C_2017.jpg/330px-Suseong_Lake_Trail_on_April_7th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg/330px-Suseongmot-gil%2C_Daegu_on_October_27th%2C_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "앞산공원",
+    "rom": "곤돌라로 오르는 대구 최고의 야경 전망",
+    "meta": [
+     "💴 곤돌라 왕복 약 10,000원(변동)",
+     "⏱ 반나절",
+     "🌆 야경 전망",
+     "🥾 등산"
+    ],
+    "desc": "도심 남쪽을 병풍처럼 두른 자연공원으로, 여러 계곡과 봉우리를 품고 있다. 곤돌라를 타고 앞산전망대에 오르면 분지 안에 촘촘히 박힌 대구 시내가 한눈에 펼쳐지는데, 특히 해질녘부터 이어지는 야경이 대구에서 손꼽힌다. 낮엔 완만한 등산로를 따라 숲길을 걷기에도 좋다.",
+    "todo": [
+     "곤돌라 타고 앞산전망대에서 시내 조망",
+     "해 질 무렵 올라 야경까지 이어 보기",
+     "낙동강승전기념관·안일사 등 산자락 명소 둘러보기"
+    ],
+    "tip": "야경을 노린다면 일몰 30분~1시간 전에 올라가는 게 좋다. 곤돌라 운영 시간과 요금은 계절·요일에 따라 바뀌니 미리 확인. 정상 부근은 바람이 차니 겉옷 챙기기.",
+    "eat": "앞산 카페거리(앞산맛둘레)에 전망 좋은 카페와 음식점이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/500px-Daegupanorama4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "daejeon": {
+  "nm": "대전",
+  "region": "🏞️ 충청 · 대전광역시",
+  "route": "KTX로 서울역에서 약 1시간, 부산역에서 약 1시간 40분이면 대전역. 경부·호남고속도로가 만나는 교통의 심장이라 어디서 오든 가깝고, 도심 명소는 지하철·버스로, 대청호·장태산은 차가 편하다.",
+  "sep": "봄(4월)과 가을(10~11월)이 정점. 봄엔 대청호 벚꽃 터널과 계족산 신록이 터지고, 가을엔 장태산 6,300그루 메타세쿼이아가 통째로 붉게 물든다. 여름엔 한밭수목원 무료 물놀이장이 도심 피서지가 된다.",
+  "mood": "빵 하나로 전국을 줄 세우는 도시. 그런데 도심을 조금만 벗어나면 맨발로 밟는 황톳길, 하늘까지 뻗은 메타세쿼이아 숲, 벚꽃이 끝없이 이어지는 호숫가가 기다린다.",
+  "see": "성심당 튀김소보로부터 계족산 맨발 걷기, 장태산 메타세쿼이아 하늘길, 대청호 벚꽃 드라이브까지 — '노잼도시'라는 별명이 무색한 알찬 한 바퀴.",
+  "spots": [
+   {
+    "name": "성심당 본점",
+    "rom": "대전을 대표하는 국민 빵집",
+    "meta": [
+     "💴 튀김소보로 약 2,000원",
+     "⏱ 1시간",
+     "🍞 대전 상징",
+     "🕗 08:00 오픈"
+    ],
+    "desc": "대전에 왔으면 여기부터다. 1956년 문을 연 이 빵집은 '대전 하면 떠오르는 것 1위'로 꼽힐 만큼 도시의 상징이 됐다. 갓 튀겨낸 튀김소보로의 바삭한 겉과 촉촉한 팥속, 매대를 가득 채운 수백 종의 빵 사이를 지나는 것만으로도 여행의 시작이 실감난다.",
+    "todo": [
+     "튀김소보로·튀소구마 갓 나온 것 맛보기",
+     "이탈리안 샌드위치와 부추빵 담기",
+     "케이크 진열대 구경하기"
+    ],
+    "tip": "주말과 명절엔 대기줄이 길다. 평일 오전이나 이른 시간이 여유롭다. 인기 빵은 시간대별로 매진되니 갓 나온 트레이가 나오는 타이밍을 노려보자.",
+    "eat": "튀김소보로, 튀소구마, 소금빵, 이탈리안 샌드위치",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sungsimdang_hanja_logo.png/330px-Sungsimdang_hanja_logo.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sungsimdang_2019.jpg/500px-Sungsimdang_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sungsimdang_display_stand.jpg/500px-Sungsimdang_display_stand.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한밭수목원",
+    "rom": "도심 한복판의 전국 최대 수목원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌳 국내 최대 도심 수목원",
+     "🚫 월요일 휴원"
+    ],
+    "desc": "약 39만㎡, 도심 속 수목원으로는 전국에서 가장 넓다. 동원·서원·열대식물원으로 나뉘어 2,000종이 넘는 나무와 풀이 사계절 다른 얼굴을 보여준다. 엑스포시민광장·미술관과 이어져 있어, 산책만 해도 반나절이 그냥 흘러간다.",
+    "todo": [
+     "동원·서원 산책로 한 바퀴",
+     "열대식물원에서 이국적인 식물 구경",
+     "엑스포시민광장까지 이어 걷기"
+    ],
+    "tip": "입장은 무료지만 월요일은 정비 휴원. 여름(7월 말~8월 중순)엔 어린이 물놀이장이 무료로 열려 가족 단위 피서지가 된다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/ba/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg/500px-%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanbat_Aboretum_Garden_under_the_Moon.jpg/120px-Hanbat_Aboretum_Garden_under_the_Moon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hanbat_Treegarden_East_Square.JPG/120px-Hanbat_Treegarden_East_Square.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "계족산 황톳길",
+    "rom": "전국 맨발 걷기 열풍의 시작점",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절~하루",
+     "👣 맨발 황톳길 14.5km",
+     "🌿 삼림욕"
+    ],
+    "desc": "전국에 맨발 걷기 유행을 퍼뜨린 바로 그 길. 계족산을 감아 도는 14.5km의 붉은 황톳길을 신발을 벗고 밟으면, 발바닥으로 전해지는 부드러운 흙의 감촉과 숲 냄새가 동시에 밀려온다. 한국관광 100선에 여러 번 오른 대전의 자랑이다.",
+    "todo": [
+     "신발 벗고 황톳길 맨발로 걷기",
+     "장동산림욕장에서 삼림욕 즐기기",
+     "다 걷고 발 씻는 세족장에서 마무리"
+    ],
+    "tip": "전체 원점회귀 코스는 넉넉히 5시간. 입장료·주차 모두 무료다. 발을 닦을 세족 시설이 있으니 수건 한 장 챙기면 좋고, 매년 5월엔 맨발축제가 열린다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gyejoksan_Fortress.jpg/500px-Gyejoksan_Fortress.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Daejeon_southern_cityscape_from_Gyejoksan.jpg/120px-Daejeon_southern_cityscape_from_Gyejoksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장태산 자연휴양림",
+    "rom": "6,300그루 메타세쿼이아 하늘 숲",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍 명소",
+     "🌲 스카이웨이"
+    ],
+    "desc": "1973년부터 심은 메타세쿼이아 6,300여 그루가 40m 높이로 솟아 이국적인 숲을 이룬다. 나무 사이를 가로지르는 높이 12m·길이 116m의 스카이웨이에 오르면, 숲을 눈높이가 아니라 나무 중턱에서 내려다보는 색다른 풍경이 펼쳐진다.",
+    "todo": [
+     "스카이웨이 하늘 산책로 걷기",
+     "전망대에서 메타세쿼이아 숲 내려다보기",
+     "가을 단풍철 사진 남기기"
+    ],
+    "tip": "입장·주차 모두 무료. 개방 시간은 계절마다 달라 겨울엔 오후 5시, 여름엔 오후 7시까지다. 단풍이 절정인 10~11월이 가장 인기라 주말엔 이른 방문을 추천한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png/500px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%83%80%EC%9B%8C.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대청호 오백리길",
+    "rom": "호수를 감아 도는 벚꽃 드라이브길",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃 터널",
+     "🚗 드라이브"
+    ],
+    "desc": "대전과 충북에 걸친 거대한 인공호수 대청호. 그 물가를 따라 걷고 달리는 길이 오백리길이다. 봄이면 오동선을 따라 벚꽃길이 길게 이어지고, 탁 트인 호수와 벚꽃이 겹쳐 대전을 대표하는 드라이브 코스가 된다. 곳곳의 쉼터에 내려 사진 한 장 남기기 좋다.",
+    "todo": [
+     "오동선 벚꽃길 드라이브",
+     "호반 쉼터(한터)에 내려 산책·사진",
+     "사색·데이트 코스 구간 골라 걷기"
+    ],
+    "tip": "벚꽃 드라이브 전 구간 완주는 약 2시간. 봄 주말엔 차가 몰리니 오전이 낫다. 밤엔 조명이 켜져 야경 코스로도 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/500px-Daecheong_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg/500px-Daecheong_Dam_Water_Culture_Center_-_%EB%8C%80%EC%B2%AD%EB%8C%90%EB%AC%BC%EB%AC%B8%ED%99%94%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg/500px-Daecheong_Dam_after_rain_-_%EB%8C%80%EC%B2%AD%EB%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립중앙과학관",
+    "rom": "과학도시 대전의 대표 배움터",
+    "meta": [
+     "💴 상설관 무료",
+     "⏱ 반나절",
+     "🔬 아이와 함께",
+     "🚫 월요일 휴관"
+    ],
+    "desc": "'과학의 도시' 대전을 상징하는 국내 대표 과학관. 자연사부터 우주, 인간, 미래 기술까지 상설전시관을 무료로 둘러볼 수 있어 아이와 함께라면 하루가 짧다. 천체관·특별전은 별도 요금이지만 그만한 볼거리가 있다.",
+    "todo": [
+     "상설전시관에서 자연사·과학 체험",
+     "천체관에서 별 보기",
+     "야외 전시장 산책"
+    ],
+    "tip": "상설관은 무료지만 천체관·일부 특별전은 유료다. 월요일은 휴관. 한밭수목원·엑스포과학공원과 가까워 묶어서 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/500px-National_Science_Museum_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Js-Ji-Bt.jpg/500px-Js-Ji-Bt.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Okcheon_Group.jpg/500px-Okcheon_Group.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "유성온천",
+    "rom": "전국에서 가장 오래된 온천 휴양지",
+    "meta": [
+     "💴 족욕체험장 무료",
+     "⏱ 1~2시간",
+     "♨️ 실리카 온천",
+     "🚇 유성온천역"
+    ],
+    "desc": "우리나라 온천지 가운데 가장 오래되고 규모도 전국 최대인 유성온천. 지하에서 솟는 27~56도의 실리카 온천수로 이름났다. 하루 여정을 마친 저녁, 뜨끈한 물에 몸을 담그면 계족산과 장태산에서 쌓인 피로가 스르르 풀린다.",
+    "todo": [
+     "온천에서 하루의 피로 풀기",
+     "유성온천 족욕체험장에서 무료 족욕",
+     "온천지구 저녁 거리 산책"
+    ],
+    "tip": "온천 지구에 무료 족욕체험장이 있어 부담 없이 즐길 수 있다. 지하철 유성온천역에서 가깝고, 숙박을 여기 잡으면 이동이 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png/500px-%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png"
+    ]
+   },
+   {
+    "name": "대전 스카이로드 (으능정이 문화거리)",
+    "rom": "머리 위로 펼쳐지는 초대형 LED 밤거리",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌃 야경 LED쇼",
+     "🚫 월요일 휴무"
+    ],
+    "desc": "은행동 으능정이 문화거리 위로 길이 214m의 거대한 LED 아케이드가 하늘을 덮는다. 저녁이면 머리 위 천장 전체가 영상으로 물들어, 걷는 것만으로 공연 한복판에 선 기분이다. 성심당 본점과도 가까워 낮의 빵집, 밤의 LED쇼로 이어 즐기기 좋다.",
+    "todo": [
+     "저녁 LED 영상쇼 올려다보기",
+     "으능정이·은행동 거리 먹거리·쇼핑",
+     "성심당 본점과 묶어 도심 밤 산책"
+    ],
+    "tip": "LED쇼는 월요일을 제외한 저녁 시간대에 상영된다. 대전역에서 지하철 한 정거장이라 접근이 쉽다.",
+    "eat": "은행동·선화동 일대 노포 먹거리"
+   }
+  ]
+ },
+ "damyang": {
+  "nm": "담양",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산→광주송정 KTX 약 1시간 50분, 이후 차로 40분 / 광주 시내에서 시내버스·자차로 30분. 자차는 호남고속도로 고서분기점에서 빠지면 금방이다.",
+  "sep": "초여름(5~6월)이 첫손이다. 메타세쿼이아길과 죽녹원이 가장 짙은 초록으로 물들 때라 걷기만 해도 서늘하다. 8월 말에는 명옥헌 배롱나무가 붉게 터지고, 가을엔 관방제림 노거수가 단풍으로 물든다.",
+  "mood": "대숲을 스치는 바람 소리, 백 년 넘은 나무 그늘, 조선 선비가 앉았던 정원까지 — 온통 초록으로만 채운 도시.",
+  "see": "메타세쿼이아 가로수길과 죽녹원 대숲, 그리고 소쇄원·명옥헌·식영정으로 이어지는 조선 정원의 계보.",
+  "spots": [
+   {
+    "name": "담양 메타세쿼이아길",
+    "rom": "하늘을 가린 초록 터널, 담양의 얼굴",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 한두 시간",
+     "🌿 초여름 신록",
+     "🚶 산책"
+    ],
+    "desc": "곧게 뻗은 메타세쿼이아가 도로 양옆으로 늘어서 하늘을 반쯤 가린 초록 터널을 만든다. 차 없이 걷는 길이라 발밑에는 바람 소리와 나뭇잎 스치는 소리뿐이다. 사진 어디를 찍어도 배경이 되어주는, 담양에 오면 결국 한 번은 걷게 되는 길이다.",
+    "todo": [
+     "초록 터널 한가운데서 정면 사진 남기기",
+     "천천히 왕복하며 계절 냄새 맡기"
+    ],
+    "tip": "주말·성수기 오전에는 입구가 붐빈다. 이른 아침이나 해질 무렵이 사람도 적고 빛도 좋다. 바로 옆 메타프로방스 상가에 주차하면 편하다.",
+    "eat": "길 끝 상가촌의 대통밥과 떡갈비 정식"
+   },
+   {
+    "name": "죽녹원",
+    "rom": "드넓은 대숲, 초록 그늘 속 산책로",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "🎋 대나무숲",
+     "🚶 산책"
+    ],
+    "desc": "성인산 자락을 대나무로 채운 드넓은 대숲으로, 여덟 갈래 산책로가 숲을 가로지른다. 대나무가 서로 부딪는 소리와 잎 사이로 부서지는 빛 때문에 한여름에도 안쪽은 서늘하다. 걷다 보면 정자와 전망대가 나와 잠시 앉아 대숲을 내려다보게 된다.",
+    "todo": [
+     "여덟 산책로 중 죽림욕 코스 걷기",
+     "대숲 사이 정자에서 쉬어가기"
+    ],
+    "tip": "언덕과 계단이 있어 편한 신발이 좋다. 비 온 다음 날이나 안개 낀 아침의 대숲이 가장 운치 있다.",
+    "eat": "죽녹원 앞 국수거리의 멸치국수와 약초비빔국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/500px-Damyang_Jungnogwon_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg/120px-Korea-Damyang-Juknogwon-Bamboo_Garden-06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jungnogwon_6.JPG/120px-Jungnogwon_6.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "담양 관방제림",
+    "rom": "홍수 막으려 심은 백 년 나무들의 둑길",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🌳 노거수",
+     "🍜 국수거리"
+    ],
+    "desc": "담양천 북쪽 둑을 따라 약 2km, 느티나무·푸조나무·팽나무 같은 노거수 삼백여 그루가 줄지어 선 인공 숲이다. 1648년 홍수를 막으려 심은 나무들이 삼백 년을 자라 지금은 팔 벌린 그늘길이 되었다. 물소리를 옆에 두고 큰 나무 아래를 걷는 것만으로 마음이 느긋해진다.",
+    "todo": [
+     "둑길 따라 오래된 나무들 올려다보며 걷기",
+     "천변 벤치에서 물소리 듣기"
+    ],
+    "tip": "메타세쿼이아길·죽녹원과 가까워 함께 묶어 걷기 좋다. 여름엔 나무 그늘이 짙어 한낮에도 시원하다.",
+    "eat": "관방제림 앞 국수거리 — 담양 국수 한 그릇은 꼭",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG/500px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aphananthe_aspera.JPG/120px-Aphananthe_aspera.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG/120px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC_2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "담양 소쇄원",
+    "rom": "조선 선비가 지은 자연 그대로의 정원",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 한두 시간",
+     "🏯 조선 별서정원",
+     "🍁 사계절"
+    ],
+    "desc": "출세를 접은 선비 양산보가 1530년대부터 가꾼 별서정원으로, 자연을 거의 손대지 않고 그 위에 정자와 담장만 살짝 얹었다. 계곡물이 담을 통과해 흐르고 제월당·광풍각이 물소리를 마주 본다. 조선 중기 호남 선비들이 모여 시를 짓던 자리라, 걷다 보면 그 시절의 고요가 그대로 남아 있다.",
+    "todo": [
+     "계곡을 가로지르는 담장과 물길 살펴보기",
+     "광풍각 마루에 앉아 계곡 소리 듣기"
+    ],
+    "tip": "명옥헌·식영정과 같은 가사문학 권역이라 하루에 정원들을 이어 보기 좋다. 여름 녹음, 가을 단풍 때가 특히 아름답다.",
+    "eat": "인근 가사문학면·고서면의 담양 떡갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg/500px-KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Soswaewon_1.jpg/330px-Soswaewon_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Korea-Damyang-Soswaewon-05.jpg/250px-Korea-Damyang-Soswaewon-05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "담양 명옥헌 원림",
+    "rom": "연못을 붉게 물들이는 배롱나무 정원",
+    "meta": [
+     "💴 무료",
+     "⏱ 한 시간",
+     "🌺 8월 배롱나무",
+     "📸 사진"
+    ],
+    "desc": "네모난 연못을 배롱나무가 둘러싼 조선시대 정원으로, 물 흐르는 소리가 옥이 부딪는 소리 같다 하여 이름이 붙었다. 8월이면 백일 넘게 피는 배롱나무 붉은 꽃이 연못 수면에 그대로 비쳐 정자에 앉으면 위아래가 온통 붉다. 담양에서 여름 사진이 가장 예쁘게 남는 자리다.",
+    "todo": [
+     "연못에 비친 배롱나무 반영 사진 찍기",
+     "정자에 앉아 산수 풍경 바라보기"
+    ],
+    "tip": "배롱나무 절정은 8월 초·중순. 이 시기 주말엔 사람이 많으니 이른 아침이 좋다. 주차장에서 조금 걸어 올라간다.",
+    "eat": "돌아나오는 길 고서면 떡갈비·대통밥집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "담양 식영정",
+    "rom": "송강 정철의 성산별곡이 태어난 정자",
+    "meta": [
+     "💴 무료",
+     "⏱ 한 시간",
+     "📜 가사문학",
+     "🌄 전망"
+    ],
+    "desc": "'그림자가 쉬어 가는 정자'라는 뜻의 식영정은 김성원이 장인을 위해 지은 곳으로, 송강 정철이 여기서 성산별곡을 지었다. 언덕 위 정자에 오르면 광주호와 들판이 한눈에 트여, 옛 선비가 왜 이 자리에서 시를 읊었는지 절로 납득된다. 소쇄원·명옥헌과 함께 담양 가사문학의 뿌리를 이루는 자리다.",
+    "todo": [
+     "정자에 올라 광주호 방향 전망 보기",
+     "가사문학관까지 이어 둘러보기"
+    ],
+    "tip": "바로 옆 한국가사문학관과 묶어 보면 이해가 깊어진다. 노을 무렵 호수 쪽 풍경이 특히 좋다.",
+    "eat": "가사문학면 일대의 담양 한정식·떡갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Korea-Damyang-Sikyeongjeong-01.jpg/250px-Korea-Damyang-Sikyeongjeong-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "dangjin": {
+  "nm": "당진",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 서해안고속도로로 약 1시간 30분(송악IC·당진IC), 시외버스는 센트럴시티·남부터미널에서 당진버스터미널까지 약 1시간 40분. 서해대교를 건너 들어간다",
+  "sep": "겨울~초봄이 백미다. 왜목마을에서 바다에서 해가 떠 바다로 지는 장면이 가장 선명하고, 새해 해맞이 인파가 몰린다. 여름엔 합덕제 연꽃과 해안이 시원하다",
+  "mood": "서해에서 해가 뜨고 또 지는 걸 한자리에서 볼 수 있는 드문 땅. 김대건 신부가 태어난 솔뫼, 심훈이 『상록수』를 쓴 필경사까지, 바다와 이야기가 나란히 흐른다",
+  "see": "왜목마을 일출·일몰, 솔뫼·신리 천주교 성지, 삽교호 함상공원, 심훈 필경사, 기지시줄다리기, 면천읍성",
+  "spots": [
+   {
+    "name": "왜목마을",
+    "rom": "서해에서 해가 뜨고 지는 곳",
+    "meta": [
+     "🌅 일출·일몰",
+     "🆓 무료",
+     "⏱ 반나절",
+     "🅿️ 주차 가능"
+    ],
+    "desc": "서해안인데도 바다 위로 해가 떠오르는, 지형이 만든 신기한 마을이다. 육지가 손가락처럼 삐죽 나와 있어 계절에 따라 일출과 일몰을 한자리에서 볼 수 있다. 새해 첫날이면 해맞이 인파로 방파제가 가득 차고, 평일 저녁엔 물빛이 붉게 물드는 걸 조용히 바라보게 된다.",
+    "todo": [
+     "해 뜨는 시각 맞춰 방파제 끝까지 걸어가 보기",
+     "석문산·왜목전망대에서 마을과 바다 내려다보기",
+     "노을 질 때 실루엣 사진 남기기"
+    ],
+    "tip": "일출 시각은 계절마다 다르니 전날 확인하고 30분 일찍 도착하는 게 좋다. 새해 첫날은 매우 붐비므로 대중교통이나 이른 도착 권장.",
+    "eat": "바로 앞 바다에서 나는 우럭·간재미회, 겨울엔 실치회와 바지락칼국수"
+   },
+   {
+    "name": "솔뫼성지",
+    "rom": "한국 첫 사제 김대건이 태어난 곳",
+    "meta": [
+     "⛪ 천주교 성지",
+     "🆓 무료",
+     "🏛 사적",
+     "🌲 소나무숲"
+    ],
+    "desc": "한국인 최초의 사제 김대건 신부가 태어난 마을이다. 이름 그대로 소나무가 뫼처럼 우거진 숲 사이로 생가와 기념 성당이 앉아 있고, 4대에 걸친 순교자 가족의 이야기가 조용히 스며 있다. 종교가 없어도 솔숲을 걷다 보면 마음이 가라앉는, 결이 다른 산책이 된다.",
+    "todo": [
+     "소나무 숲길 천천히 걷기",
+     "김대건 신부 생가와 기념관 둘러보기",
+     "대형 원형 기념성전에서 잠시 앉아보기"
+    ],
+    "tip": "교황 프란치스코가 다녀간 뒤 순례객이 늘었다. 넓고 그늘이 많아 여름 산책에도 좋다. 미사·행사 시간과 겹치면 조용히 예를 지키자.",
+    "eat": "우강면 일대 소박한 백반, 인근 합덕에서 연잎밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg/500px-Korea_Shrine_of_Somoe_06_%2814002139700%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삽교호관광지",
+    "rom": "방조제 위 함상공원과 바다 놀이터",
+    "meta": [
+     "🚢 함상공원",
+     "🎡 놀이공원",
+     "⏱ 반나절",
+     "🅿️ 주차 가능"
+    ],
+    "desc": "삽교천을 막아 만든 넓은 호수와 서해가 방조제 하나를 사이에 두고 나란히 있다. 방조제를 상징해 온 함상공원과 회센터, 놀이공원, 먹거리 골목이 이어져 가족 단위로 하루가 금세 간다. 방조제 위로 부는 바닷바람이 시원하다.",
+    "todo": [
+     "방조제 산책하며 호수와 서해 함께 보기",
+     "함상공원·놀이공원 둘러보기",
+     "회센터에서 제철 회 맛보기"
+    ],
+    "tip": "주말과 성수기엔 주차장이 붐빈다. 함상공원·놀이공원의 운영과 개방 여부는 시기에 따라 달라질 수 있으니 방문 전 확인하는 게 좋다.",
+    "eat": "삽교호 회센터의 광어·우럭회, 새우튀김과 조개구이"
+   },
+   {
+    "name": "필경사",
+    "rom": "심훈이 『상록수』를 쓴 집",
+    "meta": [
+     "📖 문학 유적",
+     "🆓 무료",
+     "🏛 충남 기념물",
+     "⏱ 1~2시간"
+    ],
+    "desc": "소설가 심훈이 1934년 직접 설계해 지은 작은 한옥이다. '붓으로 밭을 간다'는 뜻의 이름처럼, 그는 이 집에서 농촌계몽소설 『상록수』를 써냈다. 팔작지붕 아래 소박한 마루에 앉으면 그 시절의 결기가 느껴지고, 옆의 상록수문화관에서 그의 삶과 작품을 함께 볼 수 있다.",
+    "todo": [
+     "심훈이 살던 필경사 내부와 마루 둘러보기",
+     "상록수문화관에서 육필 원고·유품 보기",
+     "주변 산책로 걷기"
+    ],
+    "tip": "부지가 아담해 1~2시간이면 충분하다. 왜목마을·솔뫼성지와 묶어 돌기 좋은 위치.",
+    "eat": "송악읍내 손칼국수와 순대국밥"
+   },
+   {
+    "name": "기지시줄다리기박물관",
+    "rom": "유네스코 무형유산이 된 500년 줄다리기",
+    "meta": [
+     "🎎 유네스코 무형유산",
+     "💴 관람 약 무료~소액",
+     "🏛 박물관",
+     "⏱ 1~2시간"
+    ],
+    "desc": "지름 1m가 넘는 거대한 줄을 온 마을이 함께 당기는, 500년 넘게 이어진 풍년 기원 의식이다. 2015년 유네스코 인류무형문화유산에 오른 이 놀이를 박물관에서 실물 줄과 영상으로 만날 수 있다. 사람 키보다 두꺼운 줄 앞에 서면 그 규모에 절로 압도된다.",
+    "todo": [
+     "박물관에서 실제 사용된 거대한 줄 보기",
+     "줄 꼬는 과정과 축제 영상 관람",
+     "봄 축제 시기라면 실제 줄다리기 구경"
+    ],
+    "tip": "박물관은 상설 전시라 언제 가도 좋고, 실제 줄다리기 축제 일정은 해마다 달라질 수 있으니 미리 확인하면 진짜 장면을 볼 수 있다.",
+    "eat": "송악·기지시 일대 백반과 청국장",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EA%B8%B0%EC%A7%80%EC%8B%9C%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0.jpg/330px-%EA%B8%B0%EC%A7%80%EC%8B%9C%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0.jpg"
+    ]
+   },
+   {
+    "name": "면천읍성",
+    "rom": "조선 세종 때 쌓은 평지 읍성",
+    "meta": [
+     "🏯 조선 읍성",
+     "🆓 무료",
+     "🌸 봄 벚꽃",
+     "⏱ 1~2시간"
+    ],
+    "desc": "1439년 왜구를 막으려 세종 때 쌓은 평지 읍성이다. 복원된 성벽과 옹성, 성안의 옛 골목과 은행나무가 어우러져 느리게 걷기 좋다. 성돌마다 충청도 여러 고을 이름이 새겨져 있어, 먼 데서 온 사람들이 함께 쌓은 손길을 더듬어 볼 수 있다. 봄이면 성곽을 따라 꽃이 핀다.",
+    "todo": [
+     "복원된 성곽길 한 바퀴 걷기",
+     "성안 골목과 오래된 은행나무 둘러보기",
+     "면천읍성 안 전통차 카페에서 쉬어가기"
+    ],
+    "tip": "봄 벚꽃·가을 은행 시즌이 특히 예쁘다. 마을이 아담해 반나절이면 여유롭게 돈다.",
+    "eat": "면천면 두견주(전통주)와 인근 손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아미미술관",
+    "rom": "폐교가 미술관이 된 자리",
+    "meta": [
+     "🎨 미술관",
+     "💴 입장료 있음(변동 가능)",
+     "📷 사진 명소",
+     "⏱ 1~2시간"
+    ],
+    "desc": "문 닫은 시골 초등학교를 그대로 살려 만든 미술관이다. 옛 교실과 복도에 넝쿨과 빛이 스며들어, 전시 작품만큼이나 공간 자체가 작품이 된다. 낡은 창틀 사이로 들어오는 오후 햇살이 특히 아름다워, 조용히 사진 찍으며 오래 머무는 사람이 많다.",
+    "todo": [
+     "옛 교실을 개조한 전시실 천천히 둘러보기",
+     "빛 드는 복도에서 사진 남기기",
+     "미술관 카페에서 쉬어가기"
+    ],
+    "tip": "운영 시간·휴관일과 입장료는 미리 확인하자. 실내 조도가 낮아 삼각대 없이도 자연광 사진이 잘 나온다.",
+    "eat": "순성면 일대 한정식과 계절 나물밥"
+   }
+  ]
+ },
+ "danyang": {
+  "nm": "단양",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울 청량리역에서 KTX-이음으로 단양역까지 약 1시간 20분(중앙고속도로 차로 약 2시간), 부산에서는 차로 약 3시간 30분.",
+  "sep": "봄(5월 말~6월 초) 소백산 철쭉이 능선을 뒤덮을 때가 절정이고, 가을 단풍과 겨울 눈꽃도 못지않다. 유리 전망대와 잔도 야경은 사철 좋다.",
+  "mood": "남한강이 휘도는 물길마다 봉우리가 솟고, 절벽엔 유리길이 매달린 곳 — 단양은 발밑이 아찔하고 눈앞이 시원한 도시다.",
+  "see": "남한강 위 도담삼봉과 만천하스카이워크, 절벽에 매달린 단양강 잔도, 4억 년을 품은 석회동굴과 소백산 능선.",
+  "spots": [
+   {
+    "name": "도담삼봉 · 석문",
+    "rom": "남한강 위에 솟은 세 봉우리, 단양팔경의 으뜸",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 일출·야경",
+     "🚶 석문까지 도보 10분"
+    ],
+    "desc": "남한강 푸른 물 한가운데 세 개의 봉우리가 섬처럼 떠 있다. 조선의 정도전이 자기 호를 '삼봉'이라 지을 만큼 아꼈다는 풍경으로, 아침 물안개가 걷힐 때와 해질녘 조명이 켜질 때가 특히 곱다. 강변을 따라 조금 오르면 구름다리처럼 뚫린 석문이 나와, 그 창 너머로 남한강과 강 건너 마을이 액자처럼 담긴다.",
+    "todo": [
+     "유람선·나룻배로 봉우리 가까이 다가가기",
+     "강변 데크 산책",
+     "석문 프레임으로 남한강 사진 담기"
+    ],
+    "tip": "입장은 무료지만 주차료가 있고, 야경 조명 점등 시간대를 확인하면 좋다. 여름 성수기 오후엔 사람이 몰린다.",
+    "eat": "단양 마늘로 만든 마늘떡갈비와 마늘한우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "만천하스카이워크",
+    "rom": "남한강을 발밑에 두고 걷는 아찔한 유리 전망대",
+    "meta": [
+     "💴 입장 약 3,000원(변동가능)",
+     "⏱ 2~3시간",
+     "😱 약 80m 상공 유리바닥",
+     "🎢 슬라이드·짚와이어"
+    ],
+    "desc": "절벽 끝에서 강 쪽으로 쭉 뻗은 유리 바닥 길 위에 서면, 발밑으로 남한강이 말굽처럼 휘도는 물길이 아득하게 내려다보인다. 세 갈래로 갈라진 전망대 끝은 다리가 후들거릴 만큼 시원하고, 옆으로는 만천하슬라이드와 짚와이어가 강을 향해 내리꽂힌다.",
+    "todo": [
+     "유리바닥 전망대 끝까지 걸어보기",
+     "만천하슬라이드·짚와이어 타기",
+     "해질녘 전망대 야경 담기"
+    ],
+    "tip": "입구에서 정상까지 모노레일이 별도 요금이며 도보 산책로도 있다. 주말은 대기가 길고, 입장료는 지역화폐 환급 여부를 확인하면 좋다.",
+    "eat": "시내 남한강 쏘가리·메기 매운탕"
+   },
+   {
+    "name": "단양강 잔도",
+    "rom": "절벽에 매달린 1.2km 물 위 산책로",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🚶 왕복 2.4km 평지",
+     "🌃 야간 조명"
+    ],
+    "desc": "남한강 절벽면에 선반처럼 매달아 놓은 데크 길이 이어진다. 한쪽은 깎아지른 바위, 한쪽은 유유히 흐르는 강물이라 걷는 내내 물소리가 따라온다. 도심 상진철교와 이어져 저녁이면 다리와 잔도에 조명이 들어와, 물에 비친 불빛까지 함께 걷는 기분이 된다.",
+    "todo": [
+     "상진철교에서 잔도로 이어 걷기",
+     "수양개빛터널과 묶어 저녁 코스로",
+     "물 위 데크에서 야경 산책"
+    ],
+    "tip": "거의 평지라 남녀노소 편하게 걷는다. 여름 한낮엔 그늘이 적으니 아침·저녁이 낫고, 야경은 일몰 후에 켜진다."
+   },
+   {
+    "name": "사인암",
+    "rom": "붓으로 그은 듯한 수직 절벽, 단양팔경의 그림",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🎨 추사가 극찬한 절경",
+     "🏞 여름 계곡 물놀이"
+    ],
+    "desc": "맑은 운계천 옆으로 병풍 같은 바위 절벽이 하늘을 향해 곧게 솟아 있다. 추사 김정희가 '하늘에서 내려온 한 폭 그림 같다'고 했을 만큼, 켜켜이 쌓인 바위결과 그 위에 뿌리내린 소나무가 한 장의 동양화처럼 어우러진다. 여름이면 절벽 아래 맑은 물에 발을 담그는 사람들로 계곡이 붐빈다.",
+    "todo": [
+     "출렁다리 건너 절벽 정면으로 감상",
+     "여름 계곡물에 발 담그기",
+     "바위에 새겨진 옛 글씨(각자) 찾아보기"
+    ],
+    "tip": "도담삼봉과 반대편(남쪽)이라 동선을 나눠 잡는 게 좋다. 여름 성수기엔 주차가 붐빈다.",
+    "eat": "대강면 대강양조장 막걸리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고수동굴",
+    "rom": "4억 5천만 년이 빚은 지하 석회 궁전",
+    "meta": [
+     "💴 입장 약 11,000원(변동가능)",
+     "⏱ 1~1.5시간",
+     "🕯 연중 15℃ 서늘",
+     "🧗 좁은 계단 많음"
+    ],
+    "desc": "입구를 들어서면 사철 서늘한 공기와 함께, 수십만 년에 걸쳐 물방울이 쌓아 올린 종유석과 석순의 숲이 펼쳐진다. 사람 키를 훌쩍 넘는 석주와 커튼처럼 흘러내린 유석 사이로 좁은 통로와 계단이 이어져, 마치 지하 궁전을 탐험하듯 걷게 된다. 천연기념물로 지정된 국내 대표 석회동굴이다.",
+    "todo": [
+     "조명 밝혀진 대형 석주 앞에서 걸음 멈추기",
+     "사자바위 등 이름난 형성물 찾기"
+    ],
+    "tip": "계단과 좁은 구간이 많아 편한 신발이 필수고 바닥이 젖어 미끄럽다. 여름에도 서늘하니 얇은 겉옷을 챙기면 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/500px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg/500px-20170705_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EA%B3%A0%EC%88%981.jpg/250px-%EA%B3%A0%EC%88%981.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소백산",
+    "rom": "능선을 뒤덮는 봄 철쭉과 겨울 눈꽃의 명산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 종일",
+     "🌸 5월말~6월초 철쭉",
+     "❄️ 겨울 상고대"
+    ],
+    "desc": "비로봉으로 오르는 능선은 나무가 없는 초원지대라, 사방이 탁 트인 하늘길을 걷는 기분이 든다. 5월 말이면 능선 가득 연분홍 철쭉이 물결치고, 겨울에는 나뭇가지마다 서리꽃이 하얗게 피어 은세계가 된다. 바람이 매섭지만 그만큼 정상에서 보는 일출과 운해가 오래 남는다.",
+    "todo": [
+     "비로봉 정상 능선 걷기",
+     "철쭉철·눈꽃철 산행",
+     "희방폭포 코스로 오르기"
+    ],
+    "tip": "정상은 사철 바람이 강해 방풍 준비가 필요하다. 겨울 눈꽃 산행은 아이젠 등 장비가 있어야 하고, 철쭉철 주말엔 주차가 혼잡하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "온달관광지 (온달동굴·온달산성)",
+    "rom": "온달 장군 전설이 흐르는 동굴과 산성, 사극 세트",
+    "meta": [
+     "💴 입장 약 5,000원(변동가능)",
+     "⏱ 반나절",
+     "🏰 고구려 드라마 세트",
+     "🕯 물 흐르는 온달동굴"
+    ],
+    "desc": "남한강이 내려다보이는 언덕에 온달 장군과 평강공주의 전설이 겹겹이 쌓여 있다. 물이 흐르는 온달동굴을 허리 굽혀 지나면 종유석 사이로 서늘한 지하수가 발밑을 적시고, 언덕 위로 오르면 고구려 산성과 드라마 촬영 세트가 남한강을 배경으로 펼쳐진다.",
+    "todo": [
+     "물길 있는 온달동굴 탐험",
+     "온달산성 올라 남한강 전망 보기",
+     "고구려 드라마 세트장 구경"
+    ],
+    "tip": "동굴은 허리를 굽히는 좁은 구간과 물길이 있어 옷·신발이 젖기 쉽다. 산성까지는 오르막 길을 걸어야 한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg/500px-%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ondal_cave_entrance.jpg/500px-Ondal_cave_entrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구담봉 · 옥순봉",
+    "rom": "충주호 물길 위로 솟은 단양팔경의 바위 봉우리",
+    "meta": [
+     "💴 유람선 약 15,000원(변동가능)",
+     "⏱ 반나절",
+     "⛵ 충주호 유람선",
+     "🥾 등산로 별도"
+    ],
+    "desc": "충주호 푸른 물 위로 거북을 닮은 구담봉과, 대나무순처럼 뾰족뾰족 솟은 옥순봉이 나란히 물에 비친다. 유람선을 타면 두 봉우리 사이를 미끄러지듯 지나며 병풍 같은 절벽을 올려다보게 되고, 발품을 팔면 능선을 걸어 봉우리 위에서 호수를 내려다볼 수도 있다.",
+    "todo": [
+     "장회나루에서 충주호 유람선 타기",
+     "구담봉·옥순봉 능선 산행",
+     "호반 드라이브로 물길 따라가기"
+    ],
+    "tip": "유람선은 계절과 수위에 따라 운항이 바뀌니 사전 확인이 필요하다. 등산은 계란재 등 별도 들머리에서 시작한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg/500px-%EC%B2%AD%ED%92%8D%ED%98%B8_%EA%B5%AC%EB%8B%B4%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg/500px-%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%A0%95%EC%83%81%EC%97%90_%EA%B1%B0%EB%B6%81_%ED%98%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_%EA%B5%AC%EB%8B%B4%EB%B4%89_%EC%B0%BD%ED%95%98%EC%A0%95_%ED%83%84%EA%B8%88_%EC%9A%B0%EB%A5%B5%EC%84%A0%EC%9D%B8_%EC%95%99%EB%AA%A8_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "dongducheon": {
+  "nm": "동두천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선 한 번으로 소요산역까지, 전철만 타고 닿는 산도시. 부산에선 KTX로 서울역·수서 뒤 1호선 환승, 반나절 거리.",
+  "sep": "10월 하순 단풍철이 최고. '경기의 소금강'으로 불리는 소요산 붉은 단풍이 화강암 절벽과 어우러져 한 해의 절정을 이룬다.",
+  "mood": "전철 종점의 작은 산도시. 붉은 단풍 명산과 한국 속 작은 일본, 60년 넘은 단관극장이 한 도시에 겹겹이 쌓여 있다.",
+  "see": "소요산 단풍, 원효대사의 자재암, 일본마을 니지모리, 오래된 단관극장 동광극장.",
+  "spots": [
+   {
+    "name": "소요산",
+    "rom": "경기의 소금강, 수도권 최고의 단풍 명산",
+    "meta": [
+     "⛰️ 해발 587m",
+     "🍁 가을 단풍",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "전철 1호선 종점 가까이에 이렇게 단정한 단풍 명산이 있다는 게 늘 놀랍다. 일주문에서 계곡을 따라 오르면 붉은 단풍나무와 소나무 숲이 병풍처럼 감싸고, 화강암 절벽 사이로 원효폭포와 선녀탕의 물소리가 이어진다. 예로부터 '경기의 소금강'이라 불릴 만큼, 봄꽃 같다는 가을 단풍이 이 산의 이름값이다.",
+    "todo": [
+     "일주문에서 자재암까지 단풍길 걷기",
+     "원효폭포·선녀탕 계곡 따라가기",
+     "체력 되면 하백운대~상백운대 능선까지"
+    ],
+    "tip": "단풍 절정은 10월 하순. 이 시기 주말은 소요산역부터 사람이 몰리니 아침 일찍 오르는 게 좋다.",
+    "eat": "소요산역·산 입구 상가에 산채비빔밥과 도토리묵, 파전 내는 집이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Soyosan.jpg/500px-Soyosan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "자재암",
+    "rom": "원효대사가 창건했다 전하는 소요산 속 암자",
+    "meta": [
+     "🛕 신라 645년 창건",
+     "🍁 단풍길 끝",
+     "⏱ 1~2시간"
+    ],
+    "desc": "소요산 단풍길을 다 오르면 절벽 아래 아담하게 안긴 암자가 나온다. 신라 선덕여왕 시절 원효대사가 창건했다 전하는 곳으로, 바위틈에서 솟는 원효샘 물맛이 맑다. 큰 사찰의 위압감 대신, 산이 품어 안은 작은 절 특유의 고요가 오래 남는다.",
+    "todo": [
+     "나한전 앞에서 절벽·계곡 내려다보기",
+     "원효샘 약수 한 모금",
+     "단풍철 절 마당의 붉은 빛 담기"
+    ],
+    "tip": "자재암은 소요산 등산로 초입 구간 끝에 있어, 등산을 크게 하지 않아도 왕복 산책 삼아 다녀오기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "니지모리 스튜디오",
+    "rom": "한국 속 작은 일본, 에도풍 테마파크",
+    "meta": [
+     "💴 입장 약 20,000원",
+     "🎌 일본 에도 마을",
+     "📸 기모노 체험"
+    ],
+    "desc": "넓은 부지 위에 일본 전통 가옥과 거리를 옮겨와 지은 에도풍 마을이다. 호수를 중심으로 목조 가옥과 붉은 등롱, 일식당과 카페, 의상실이 골목처럼 이어져, 문 하나 들어서면 여행지가 바뀐 듯한 착각이 든다. 기모노를 빌려 입고 골목을 걸으면 사진이 통째로 다른 나라가 된다.",
+    "todo": [
+     "기모노·유카타 빌려 골목 산책",
+     "호수 낀 목조 마을에서 사진 찍기",
+     "일식당·찻집에서 한 끼 or 차 한 잔"
+    ],
+    "tip": "입장료 약 2만 원대(요일·시즌별 변동 가능), 온라인 사전예매 시 할인. 자가용 접근이 편하고 주차장이 있다.",
+    "eat": "마을 안 일식당의 라멘·돈부리, 붕어빵을 닮은 다이야키 같은 일본식 간식."
+   },
+   {
+    "name": "경기북부어린이박물관",
+    "rom": "소요산 자락, 숲에서 노는 어린이 박물관",
+    "meta": [
+     "👶 아이 동반",
+     "🌲 숲·자연 체험",
+     "🌳 실내+야외"
+    ],
+    "desc": "소요산 자락 숲에 안긴 체험형 어린이 박물관이다. 자연과 숲을 주제로 한 실내 체험 전시와 몸으로 오르내리며 노는 놀이 시설이 있고, 야외에도 아이들이 뛰놀 마당이 펼쳐진다. 머리가 아니라 온몸으로 놀며 배우도록 꾸며진 곳이라, 비 오는 날에도 종일 든든하다.",
+    "todo": [
+     "실내 체험 전시에서 몸으로 놀기",
+     "야외 놀이 공간에서 뛰놀기",
+     "소요산 나들이와 묶어 하루 코스로"
+    ],
+    "tip": "주말·방학엔 사전 예약제로 운영되는 회차가 있으니 방문 전 홈페이지 확인. 소요산 등산과 한 동선으로 묶기 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "자유수호평화박물관",
+    "rom": "6·25 유엔 참전국을 기억하는 곳",
+    "meta": [
+     "🕊️ 무료 입장",
+     "🎖️ 6·25 역사",
+     "⏱ 1~2시간"
+    ],
+    "desc": "6·25 전쟁에 참전한 유엔 참전국들의 희생을 기억하기 위해 세운 박물관이다. 실물 전차 등 군장비가 놓인 야외 전시장, 전쟁의 흐름을 따라가는 실내 전시가 이어져, 오래 미군 부대와 함께 살아온 이 도시의 내력을 조용히 짚어준다. 아이와 함께 걸으며 역사를 손으로 만져보는 교육의 장이다.",
+    "todo": [
+     "야외 전차 등 실물 군장비 둘러보기",
+     "유엔 참전국 전시로 전쟁의 흐름 따라가기",
+     "소요산 권역 나들이와 묶어 걷기"
+    ],
+    "tip": "입장 무료, 대체로 오전 9시~오후 6시 운영(휴관일·시간 변동 가능). 소요산 권역에 있어 등산·어린이박물관과 묶기 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "동광극장",
+    "rom": "1959년부터 한자리를 지킨 단관극장",
+    "meta": [
+     "🎬 1959년 개관",
+     "🎞️ 레트로 감성",
+     "⏱ 영화 한 편"
+    ],
+    "desc": "1959년 문을 연 뒤 60여 년째 영사기가 도는, 상업영화를 트는 오래된 단관극장이다. 스크린 하나, 매표소 하나, 손수 걸린 손글씨 간판까지 옛 극장의 공기가 그대로 보존돼 있다. 표 한 장 끊고 앉으면 시간이 몇십 년 뒤로 물러난다.",
+    "todo": [
+     "손글씨 간판 앞에서 사진 남기기",
+     "단관 스크린으로 영화 한 편 보기",
+     "보산동 관광특구 골목까지 이어 걷기"
+    ],
+    "tip": "동두천 생연동 시내에 있어 접근이 쉽다. 상영작·시간은 그날그날 바뀌니 방문 전 확인.",
+    "eat": "시내 노포 분식·중식과 함께, 미군 문화가 남은 보산동 일대의 이국적 먹거리."
+   }
+  ]
+ },
+ "donghae": {
+  "nm": "동해",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울·청량리역에서 KTX(강릉선)로 동해역까지 약 2시간 30분, 무궁화호·ITX는 더 걸린다. 자가용은 영동·동해고속도로로 약 3시간. 부산에서는 동해선으로 북상.",
+  "sep": "여름과 가을이 가장 좋다. 한여름엔 망상 백사장과 무릉계곡 물놀이로 더위를 피하고, 가을엔 두타산 단풍과 맑은 계곡물이 절정을 이룬다. 겨울 추암 일출도 명불허전.",
+  "mood": "동해라는 이름을 그대로 품은 도시. 촛대바위 위로 해가 뜨고, 산자락엔 신선이 놀았다는 계곡이 흐른다. 바다와 산이 이렇게 가까운 곳이 또 있을까.",
+  "see": "촛대바위 일출과 무릉계곡, 묵호 언덕의 벽화마을과 바다 위로 걷는 스카이밸리까지.",
+  "spots": [
+   {
+    "name": "무릉계곡",
+    "rom": "신선이 노닐던 동해안 제일의 산수",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🏞 명승 제37호"
+    ],
+    "desc": "두타산과 청옥산 자락을 타고 흐르는 계곡으로, 이름 그대로 무릉도원 같은 풍경이 펼쳐진다. 초입의 무릉반석은 약 1,500평 너럭바위가 통째로 드러나 김시습·양사언 같은 옛 문인들의 시가 새겨져 있고, 물길을 따라 오르면 쌍폭포와 용추폭포가 시원하게 쏟아진다. 계곡 안쪽엔 신라 자장율사가 세웠다는 삼화사가 고즈넉이 앉아 있다.",
+    "todo": [
+     "무릉반석에 새겨진 옛 시와 이름 찾아보기",
+     "쌍폭포·용추폭포까지 걸어 올라가기",
+     "삼화사 경내 한 바퀴 둘러보기"
+    ],
+    "tip": "쌍폭포까지는 왕복 2~3시간 산길. 운동화 필수이고 여름 성수기엔 아침 일찍 가야 물가 자리를 잡는다. 베틀바위 전망대로 이어지는 등산로가 있으니 체력이 되면 함께 묶어도 좋다.",
+    "eat": "계곡 입구 식당촌의 산채비빔밥과 감자옹심이, 손두부.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Samhwasa_and_murung_velley.jpg/500px-Samhwasa_and_murung_velley.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%EC%82%AC%EC%A7%84%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg/330px-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "추암 촛대바위",
+    "rom": "애국가 첫 소절의 그 일출 바위",
+    "meta": [
+     "💴 무료",
+     "🌅 일출 명소",
+     "🌉 출렁다리",
+     "⏱ 1~2시간"
+    ],
+    "desc": "바다에서 솟은 뾰족한 바위 하나, 애국가 영상 속 해 뜨는 그 장면의 주인공이다. 촛대바위를 둘러싼 기암괴석과 해안 절벽이 만든 풍경은 작지만 강렬해서, 특히 바위 끝에 해가 걸리는 새벽엔 사진 찍는 사람들로 붐빈다. 절벽을 따라 놓인 출렁다리를 건너면 바다 위를 걷는 기분으로 촛대바위를 여러 각도에서 볼 수 있다.",
+    "todo": [
+     "일출 시각 맞춰 촛대바위 위로 뜨는 해 보기",
+     "추암 출렁다리 건너며 해안 절벽 감상",
+     "바다열차가 지나는 해안 절경 눈에 담기"
+    ],
+    "tip": "일출을 노린다면 전날 근처에서 묵는 게 편하다. 새벽엔 주차장이 금방 차고 바닷바람이 매서우니 겉옷을 챙길 것. 해가 없는 낮에 가도 기암 풍경은 충분히 볼만하다.",
+    "eat": "인근 삼척·동해 경계의 곰치국과 물회로 속을 푼다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%EC%B6%94%EC%95%94%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/330px-%EC%B6%94%EC%95%94%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
+    ]
+   },
+   {
+    "name": "묵호 논골담길",
+    "rom": "언덕을 오르는 어촌 벽화 골목",
+    "meta": [
+     "💴 무료",
+     "🎨 벽화마을",
+     "⏱ 1~2시간",
+     "🐙 먹거리"
+    ],
+    "desc": "묵호등대 아래 가파른 언덕에 다닥다닥 붙은 옛 어촌 마을이 벽화 골목으로 되살아났다. 미로 같은 계단 길을 오르며 뒤돌아보면 묵호항과 바다가 발밑으로 펼쳐지고, 담벼락엔 등짐 지고 언덕을 오르던 옛 뱃사람들의 고단한 하루가 그림으로 남아 있다. 꼭대기 묵호등대에 서면 탁 트인 동해가 한눈에 들어온다.",
+    "todo": [
+     "논골1~3길 미로 골목 따라 등대까지 오르기",
+     "언덕 중턱에서 묵호항 내려다보며 사진 찍기",
+     "묵호등대 전망대에서 바다 조망"
+    ],
+    "tip": "경사가 상당해 편한 신발이 좋다. 골목이 좁고 주민이 사는 동네이니 조용히 다니고, 묵호항 수산시장과 도째비골 스카이밸리가 걸어갈 거리라 함께 묶으면 좋다.",
+    "eat": "묵호항의 곰치국과 도루묵, 볕에 말린 오징어·먹태."
+   },
+   {
+    "name": "도째비골 스카이밸리",
+    "rom": "바다 위 허공을 걷는 유리 전망대",
+    "meta": [
+     "💴 스카이워크 약 3,000원",
+     "🌊 바다 조망",
+     "⏱ 1시간",
+     "📸 인생샷"
+    ],
+    "desc": "묵호등대 옆 해안 절벽에 놓인 명물로, '도째비(도깨비)'라는 이름처럼 바다 위 허공으로 뻗어 나간 붉은 스카이워크가 압권이다. 유리 바닥 아래로 파도가 부서지는 걸 내려다보며 걷다 보면 발끝이 아찔하고, 절벽을 따라 짚와이어와 스카이사이클이 바다를 가로지른다. 묵호의 바다를 가장 스릴 있게 만나는 방법.",
+    "todo": [
+     "유리 바닥 스카이워크 끝까지 걸어보기",
+     "해랑전망대에서 탁 트인 동해 담기",
+     "짚와이어·스카이사이클로 바다 가로지르기"
+    ],
+    "tip": "스카이워크는 덧신을 신고 입장하며 짚와이어 등은 별도 요금. 바람이 강한 날은 운영이 제한될 수 있으니 미리 확인하고, 논골담길과 이어 걷기 좋다.",
+    "eat": "묵호항 활어회와 대게, 근처 카페에서 바다 보며 커피 한 잔."
+   },
+   {
+    "name": "망상해수욕장",
+    "rom": "완만한 백사장의 가족 해변",
+    "meta": [
+     "💴 무료",
+     "🏖 여름 물놀이",
+     "⏱ 반나절",
+     "🏕 오토캠핑"
+    ],
+    "desc": "동해에서 가장 넓고 완만한 백사장을 가진 해변으로, 수심이 얕고 모래가 고와 아이들과 물놀이하기 좋다. 여름이면 해변을 따라 오토캠핑장과 물놀이 인파가 붐비고, 겨울엔 텅 빈 백사장을 따라 걷는 산책만으로도 마음이 넓어진다. 근처 해안도로 드라이브 풍경도 시원하다.",
+    "todo": [
+     "넓은 백사장에서 물놀이·모래놀이",
+     "해안 오토캠핑장에서 하룻밤 캠핑",
+     "해변 따라 자전거·산책"
+    ],
+    "tip": "여름 성수기엔 주차·자리 경쟁이 심하니 이른 오전 도착을 추천. 캠핑장은 미리 예약해야 하고, 조수·기상 안내를 확인하고 물놀이할 것.",
+    "eat": "해변가 횟집의 물회와 오징어순대, 여름철 조개구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%EB%A7%9D%EC%83%81%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%28AMJ%29.jpg/500px-%EB%A7%9D%EC%83%81%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%28AMJ%29.jpg"
+    ]
+   },
+   {
+    "name": "천곡황금박쥐동굴",
+    "rom": "도심 한가운데 숨은 석회암 동굴",
+    "meta": [
+     "💴 입장 약 4,000원",
+     "🦇 천연 동굴",
+     "⏱ 1시간",
+     "❄️ 사계절 시원"
+    ],
+    "desc": "시내 한복판에 자리한 보기 드문 도심형 석회암 동굴로, 걸어서 닿을 수 있어 접근이 쉽다. 4~5억 년에 걸쳐 자란 종유석과 석순, 동굴 산호가 조명을 받아 신비롭게 빛나고, 한여름에도 내부는 서늘해 더위를 식히기 좋다. 이름의 '황금박쥐'는 이 동굴에서 발견된 멸종위기 박쥐에서 따왔다.",
+    "todo": [
+     "종유석·석순·동굴 산호 조명 감상",
+     "좁은 통로 따라 동굴 안쪽까지 탐험",
+     "여름철 시원한 동굴 피서"
+    ],
+    "tip": "통로가 좁고 바닥이 미끄러워 편한 신발이 필수. 키 큰 사람은 머리를 조심해야 하고, 휠체어·유모차는 진입이 어렵다.",
+    "eat": "시내라 접근이 좋아 동해 시장통 순두부·물회로 마무리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CGC-CEp1.jpg/500px-CGC-CEp1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGC-CEp9.jpg/500px-CGC-CEp9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CGC-CEp2.jpg/500px-CGC-CEp2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "두타산 베틀바위전망대",
+    "rom": "병풍처럼 펼쳐진 기암 절경",
+    "meta": [
+     "💴 무료",
+     "⛰ 반나절 산행",
+     "🍁 가을 단풍",
+     "📸 절경"
+    ],
+    "desc": "무릉계곡에서 이어지는 산길을 오르면 만나는 전망대로, 눈앞에 베틀처럼 층층이 솟은 거대한 기암 절벽이 병풍처럼 펼쳐진다. '한국의 장가계'라 불릴 만큼 웅장한 바위 능선과 그 아래 굽이치는 계곡이 한 폭의 산수화 같고, 가을 단풍이 물들면 그 색감이 절정에 이른다. 조금 힘들어도 정상에서 마주하는 풍경이 모든 걸 보상한다.",
+    "todo": [
+     "베틀바위 전망대에서 기암 절벽 파노라마 담기",
+     "산성길 따라 두타산성·마천루 능선 걷기",
+     "무릉계곡과 이어 하루 산행 코스로 묶기"
+    ],
+    "tip": "전망대까지 왕복 2시간 안팎의 가파른 산길이라 등산화와 물을 챙기고 체력 안배가 필요하다. 무릉계곡 입장료로 함께 입장하며, 겨울 결빙기엔 아이젠을 준비할 것.",
+    "eat": "하산 후 무릉계곡 입구의 산채정식과 감자전, 막걸리 한 잔.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "eumseong": {
+  "nm": "음성",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울에서 승용차로 약 1시간 30분(중부내륙·평택제천고속도로 음성IC·감곡IC). 동서울터미널에서 시외버스 약 1시간 40분. 부산에서는 차로 약 3시간. 명소들이 읍·면에 흩어져 있어 이동은 승용차가 편하다.",
+  "sep": "봄·가을. 감곡성당 언덕과 큰바위얼굴 조각공원, 백야휴양림 숲길이 걷기 가장 좋은 철이다. 여름엔 설성공원 연꽃과 감곡 복숭아가 제철, 가을엔 산자락 단풍이 곱다.",
+  "mood": "고추밭 언덕 위로 붉은 벽돌 고딕 성당 첨탑이 솟고, 산자락엔 올려다봐야 할 만큼 큰 돌부처가 서 있는 — 조용하고 소박한 충북의 시골 고장.",
+  "see": "감곡의 붉은 고딕 성당, 미타사 거대 석불, 바위에 새긴 세계 위인들의 얼굴, 유엔 사무총장의 고향 마을",
+  "spots": [
+   {
+    "name": "감곡성당 (매괴성모순례지)",
+    "rom": "고추밭 언덕 위 붉은 벽돌 고딕 성당",
+    "meta": [
+     "⛪ 1930년 건립",
+     "🕊️ 매괴성모 순례지",
+     "📷 사진 명소"
+    ],
+    "desc": "감곡면 나지막한 언덕 위에 붉은 벽돌 고딕 성당이 뾰족한 첨탑을 세우고 있다. 1896년 프랑스인 신부가 세운 충청북도 최초의 성당으로, 지금의 고딕 성당 건물은 1930년에 지어졌다. 스테인드글라스로 스며드는 빛과 언덕 아래로 펼쳐진 마을 풍경이 마음을 조용히 가라앉힌다. 전국에서 순례자들이 찾아오는 매괴성모 순례지다.",
+    "todo": [
+     "성당 내부 스테인드글라스 올려다보기",
+     "언덕 위에서 감곡 마을 내려다보기"
+    ],
+    "tip": "미사·전례 시간에는 정숙이 필요하다. 언덕 위라 해 질 무렵 노을과 함께 담는 사진이 특히 곱다.",
+    "eat": "여름철 감곡면의 명물 감곡 복숭아",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gamgok_Catholic_Church_04.jpg/500px-Gamgok_Catholic_Church_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "미타사",
+    "rom": "산자락에 우뚝 선 거대한 돌부처",
+    "meta": [
+     "🛕 조계종 사찰",
+     "🗿 대형 지장보살 석상",
+     "⏱ 1~2시간"
+    ],
+    "desc": "소이면 산자락에 자리한 조계종 사찰로, 경내에 목을 한껏 젖혀야 올려다보이는 커다란 지장보살 석상이 서 있다. 계단을 오르며 마주하는 석불의 위용과 산에서 내려오는 바람이 어우러져 절로 발걸음이 느려진다. 붐비지 않아 조용히 마음을 비우고 오기 좋은 절이다.",
+    "todo": [
+     "거대 지장보살 석상 앞에서 규모 체감하기",
+     "산사 마당에서 잠시 쉬어가기"
+    ],
+    "tip": "산길 주차 후 계단을 올라야 하니 편한 신발을 신는 게 좋다."
+   },
+   {
+    "name": "큰바위얼굴 조각공원",
+    "rom": "바위에 새긴 세계 위인들의 얼굴",
+    "meta": [
+     "🗿 야외 조각공원",
+     "💴 입장 약 6,000원(변동가능)",
+     "👨‍👩‍👧 가족 나들이"
+    ],
+    "desc": "생극면 산자락에 세계 위인과 역사 속 인물들의 얼굴을 커다란 바위에 새긴 이색 조각공원이다. 숲길을 걸으며 하나씩 마주하는 거대한 얼굴들이 낯설고도 흥미롭다. 아이와 함께 '이건 누구지?' 이야기하며 천천히 걷기 좋은 곳이다.",
+    "todo": [
+     "숲길 따라 바위 얼굴 하나씩 찾아보기",
+     "가장 마음에 드는 인물 앞에서 사진 찍기"
+    ],
+    "tip": "야외 산책로라 봄·가을이 가장 쾌적하다. 입장료와 운영시간은 방문 전 확인하는 게 좋다."
+   },
+   {
+    "name": "반기문 생가마을",
+    "rom": "유엔 사무총장이 나고 자란 행치마을",
+    "meta": [
+     "🕊️ 반기문 고향",
+     "🏡 생가 복원",
+     "🚶 산책 무료"
+    ],
+    "desc": "원남면 행치마을은 제8대 유엔 사무총장 반기문이 태어난 곳이다. 복원된 생가와 기념 공간, 너른 잔디마당이 어우러져 조용히 걷기 좋다. 소박한 시골 마을 풍경 속에서 한 사람의 시작점을 되짚어보는 잔잔한 재미가 있다.",
+    "todo": [
+     "복원된 생가 둘러보기",
+     "마을 산책로 천천히 걷기"
+    ],
+    "tip": "생가와 기념 공간 위주라 관람에 오래 걸리지 않는다. 조용한 시골 마을이니 음성 다른 명소와 묶어 하루 코스로 돌기 좋다."
+   },
+   {
+    "name": "설성공원",
+    "rom": "읍내 한복판 연못과 정자, 여름엔 연꽃",
+    "meta": [
+     "🌳 도심 공원",
+     "🪷 여름 연꽃",
+     "🚶 산책 무료"
+    ],
+    "desc": "음성읍 한복판, 연못 위 경호정 정자와 오래된 나무들이 어우러진 도심 공원이다. 여름이면 연못 가득 연꽃이 피어 산책하는 사람들의 발길을 붙잡는다. 근처 음성향교와 함께 천천히 걸으며 읍내의 여유를 느끼기 좋다.",
+    "todo": [
+     "연못 위 경호정 정자에서 쉬어가기",
+     "여름철 연꽃 감상하기",
+     "인근 음성향교까지 걸어보기"
+    ],
+    "eat": "음성 청결고추로 맛을 낸 매콤한 향토 음식, 다올찬 한우"
+   },
+   {
+    "name": "백야자연휴양림",
+    "rom": "저수지를 낀 숲에서 하룻밤",
+    "meta": [
+     "🌲 자연휴양림",
+     "🏕️ 숙박·캠핑",
+     "🍂 가을 단풍"
+    ],
+    "desc": "금왕읍 백야저수지를 낀 숲속 휴양림으로, 물가를 따라 걷는 산책로와 짙은 숲내음이 좋다. 통나무집에서 하룻밤 묵으며 새소리에 깨어나는 아침이 이곳의 매력이다. 도심의 소음에서 벗어나 조용히 쉬어가고 싶을 때 떠올리게 되는 곳.",
+    "todo": [
+     "저수지 둘레 산책로 걷기",
+     "숲속 통나무집에서 하룻밤 묵기"
+    ],
+    "tip": "숙박은 사전 예약이 필수다. 가을 단풍철이 특히 인기라 일찍 서두르는 게 좋다."
+   }
+  ]
+ },
+ "gangjin": {
+  "nm": "강진",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 센트럴시티→강진 고속버스 약 4시간 30분(하루 몇 편). 기차는 광주송정역 KTX 약 1시간 50분 뒤 시외버스로 환승. 부산에서 승용차로 약 3시간 30분.",
+  "sep": "봄(3~4월)엔 백련사 동백과 영랑생가 모란이, 가을(10~11월)엔 강진만 갈대밭과 청자축제가 절정. 남도의 봄·가을 둘 다 아깝지 않다.",
+  "mood": "유배객의 붓끝과 도공의 물레, 동백 지는 절과 갈대 우는 갯벌 — 남도의 깊이가 고요히 고여 있는 고장.",
+  "see": "다산의 초당과 동백 오솔길, 걸어 들어가는 섬 가우도, 고려 비색청자, 월출산 무위사, 은빛으로 눕는 강진만 갈대.",
+  "spots": [
+   {
+    "name": "다산초당",
+    "rom": "정약용이 18년 유배 중 학문을 벼려낸 초가",
+    "meta": [
+     "📖 목민심서 산실",
+     "🚶 백련사 오솔길",
+     "⏱ 반나절"
+    ],
+    "desc": "만덕산 자락, 뿌리가 드러난 흙 계단을 대숲 사이로 오르면 작은 초가 한 채가 나온다. 정약용이 유배살이 18년 중 11년을 이곳에 머물며 목민심서·경세유표 등 500여 권을 써낸 자리다. 바위에 손수 새긴 '정석' 두 글자와 약천 샘물이 그대로 남아, 낮게 앉아 붓을 들던 한 사람의 하루가 눈앞에 그려진다.",
+    "todo": [
+     "뿌리 드러난 오솔길 흙계단 오르기",
+     "'정석' 글씨와 약천 샘 찾아보기",
+     "천일각에 서서 강진만 내려다보기"
+    ],
+    "tip": "다산초당에서 백련사까지 약 800m 동백숲 오솔길이 이어진다. 두 곳을 함께 걷는 것이 정석 코스. 주차장에서 초당까지 오르막 도보 15분.",
+    "eat": "강진 한정식 — 남도의 반찬이 상 가득 깔리는 백반이 강진읍에 흔하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg/500px-Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "백련사",
+    "rom": "만덕산 동백숲에 안긴 천년 고찰",
+    "meta": [
+     "🌺 3~4월 동백",
+     "🚶 다산초당 연결 숲길",
+     "💴 무료"
+    ],
+    "desc": "만덕산 비탈에 동백나무가 울창한 숲을 이루고, 봄이면 붉은 꽃이 송이째 툭툭 떨어져 바닥까지 붉게 물든다. 대웅보전 앞마당에 서면 나무 사이로 강진만이 은빛으로 반짝인다. 정약용이 유배 시절 이곳 승려들과 차를 나누며 오가던 절이라, 다산초당까지 이어지는 숲길엔 그의 발자국이 겹쳐 있다.",
+    "todo": [
+     "동백꽃 떨어진 붉은 길 밟으며 숲 걷기",
+     "대웅보전 앞에서 강진만 바라보기"
+    ],
+    "tip": "동백은 보통 3월 말~4월 초가 절정. 다산초당~백련사 오솔길(약 30~40분)로 이으면 하루가 알차다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가우도",
+    "rom": "강진만 한가운데, 출렁다리로 걸어 들어가는 섬",
+    "meta": [
+     "🌉 보행 출렁다리",
+     "🎢 짚트랙 약 3만원",
+     "⏱ 반나절"
+    ],
+    "desc": "강진만에 뜬 유일한 유인도로, 육지 양쪽에서 놓인 출렁다리를 걸어야만 닿는다. 섬을 한 바퀴 두르는 '함께해길'을 걷다 보면 갯벌과 바다, 붉은 청자타워가 차례로 나타난다. 청자타워 꼭대기에서 바다 건너 대구면까지 단숨에 날아가는 짚트랙은 강진만 전체를 발밑에 두는 경험이다.",
+    "todo": [
+     "출렁다리 건너 섬으로 걸어 들어가기",
+     "섬 둘레 '함께해길' 산책하기",
+     "청자타워 짚트랙 타고 바다 건너기"
+    ],
+    "tip": "짚트랙은 유료(약 3만 원 안팎, 변동 가능)이고 체중 제한이 있다. 다리만 건너 섬을 산책하는 건 무료. 도암면·대구면 양쪽 진입로 어디서 걸어도 된다.",
+    "eat": "강진만 갯벌에서 나는 짱뚱어탕 — 구수하고 진한 국물이 향토음식으로 유명하다."
+   },
+   {
+    "name": "무위사",
+    "rom": "월출산 남쪽, 담백한 국보 극락보전의 절",
+    "meta": [
+     "🏛 극락보전 국보",
+     "🖼 아미타삼존 벽화",
+     "💴 무료"
+    ],
+    "desc": "월출산 자락에 단정하게 앉은 절로, 화려함을 덜어낸 극락보전(국보)이 마당 정면에 서 있다. 맞배지붕의 나지막한 선이 군더더기 없이 아름다워 오래 봐도 질리지 않는다. 법당 안에는 조선 초기 아미타여래삼존 벽화가 은은히 남아, 오백 년 전 붓질 앞에 절로 발이 멎는다.",
+    "tip": "월출산 남쪽 자락. 무위사에서 월출산 등산로로도 이어져, 산행과 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg/500px-%EA%B0%95%EC%A7%84%EB%AC%B4%EC%9C%84%EC%82%AC%EA%B7%B9%EB%9D%BD%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고려청자박물관",
+    "rom": "고려 비색청자를 빚어낸 가마터 위의 박물관",
+    "meta": [
+     "🏺 고려 비색청자",
+     "🎨 물레 체험",
+     "⏱ 2시간"
+    ],
+    "desc": "강진 대구면 일대는 고려 시대 최고 수준의 청자를 굽던 가마들이 밀집했던 곳으로, 사적으로 지정된 가마터 위에 박물관이 섰다. 은은한 비색과 상감의 정교함을 유물로 눈에 담고, 옆 공방에서 흙을 만지며 도공의 손끝을 흉내 내볼 수 있다.",
+    "todo": [
+     "비색청자·상감청자 실물 감상하기",
+     "물레·청자 만들기 체험",
+     "야외 재현 가마터 둘러보기"
+    ],
+    "tip": "매년 가을 강진청자축제가 이 일대에서 열린다. 만들기 체험은 예약을 권한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg/500px-%EA%B0%95%EC%A7%84_%EA%B3%A0%EB%A0%A4%EC%B2%AD%EC%9E%90_%EC%9A%94%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "강진만생태공원",
+    "rom": "탐진강이 바다와 만나는 드넓은 갈대밭 갯벌",
+    "meta": [
+     "🌾 가을 갈대",
+     "🦆 철새·짱뚱어",
+     "🚶 데크길 산책"
+    ],
+    "desc": "탐진강이 강진만으로 흘러들며 빚은 드넓은 갯벌에 갈대가 지평선까지 펼쳐진다. 갯벌 위로 놓인 데크를 걸으면 짱뚱어가 튀어 오르고, 겨울이면 큰고니 떼가 하얗게 내려앉는다. 해 질 녘 갈대가 노을에 물들며 통째로 금빛으로 눕는 순간이 이곳의 절정이다.",
+    "todo": [
+     "갈대밭 사이 데크길 걷기",
+     "노을과 철새 사진 담기"
+    ],
+    "tip": "갈대는 10~11월이 절정. 저녁 노을 시간대를 노리면 가장 좋다. 강진읍에서 가깝다."
+   },
+   {
+    "name": "강진 영랑생가",
+    "rom": "'모란이 피기까지는' 시인 김영랑이 나고 자란 한옥",
+    "meta": [
+     "🌸 4~5월 모란",
+     "🏡 전통 한옥",
+     "💴 무료"
+    ],
+    "desc": "'모란이 피기까지는'의 시인 영랑 김윤식이 나고 자란 한옥이 강진읍 언덕에 그대로 남아 있다. 마당에 심긴 모란과 동백, 장독대 사이를 거닐면 시의 배경이 눈앞에 살아난다. 곳곳에 그의 시구가 걸려 있어, 천천히 읽으며 걷기 좋은 뜰이다.",
+    "tip": "바로 옆 세계모란공원·시문학파기념관과 묶어 보면 좋다. 모란은 4~5월에 핀다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "강진 전라병영성",
+    "rom": "조선 500년 전라·제주를 총괄한 육군 사령부의 성곽",
+    "meta": [
+     "🏯 복원 성곽",
+     "⚓ 하멜 억류지",
+     "💴 무료"
+    ],
+    "desc": "조선 태종 때 쌓아 갑오개혁까지 500년간 전라도와 제주를 아우른 육군 총지휘부가 있던 성이다. 복원된 성벽 위를 걸으면 옛 병영 마을이 발아래로 펼쳐진다. 표류하던 네덜란드인 하멜이 여러 해를 억류돼 지낸 곳이기도 해, 이국 병사의 흔적을 더듬는 재미가 있다.",
+    "tip": "인근 하멜기념관과 병영마을 옛 담장길(한골목)을 함께 걸으면 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg/500px-%EA%B0%95%EC%A7%84_%EC%A0%84%EB%9D%BC%EB%B3%91%EC%98%81%EC%84%B1_%EB%82%A8%EB%AC%B8_%EC%9D%BC%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gangneung": {
+  "nm": "강릉",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 KTX로 약 2시간이면 강릉역 도착. 부산에서는 KTX·버스로 5~6시간. 역·시내에서 경포·정동진·주문진은 버스나 렌터카로 이어 다니기 좋다.",
+  "sep": "사계절 다 좋지만 커피 향 도는 초여름과, 바다에서 첫 해가 솟는 새해 무렵이 백미. 여름 해변 성수기와 겨울 해돋이 시즌은 사람이 많으니 마음의 여유를.",
+  "mood": "동해의 파란 파도와 소나무 향, 그리고 바닷가에 늘어선 커피 향. 강릉은 '바다 보며 커피 한 잔'이라는 말이 가장 잘 어울리는 도시다.",
+  "see": "경포호와 오죽헌 같은 옛 풍경, 정동진의 바다 기차역, 안목의 커피거리, 주문진의 활기찬 항구까지 — 한 도시에 결이 다른 장면이 다 있다.",
+  "spots": [
+   {
+    "name": "경포대와 경포호",
+    "rom": "호수에 뜬 달을 담는 700년 누각",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "🚶 호수 산책"
+    ],
+    "desc": "고려 때부터 자리를 지켜온 누각에 오르면 잔잔한 경포호가 발아래 펼쳐지고, 그 너머로 동해가 아득히 이어진다. 봄이면 호수를 둘러싼 벚꽃길이 분홍빛 터널을 만들어, 걷는 내내 물과 꽃과 바다가 번갈아 나타난다.",
+    "todo": [
+     "누각에 올라 호수와 바다를 한 화면에 담기",
+     "경포호 둘레길 자전거나 도보로 한 바퀴",
+     "바로 옆 경포해변까지 걸어 나가 파도 보기"
+    ],
+    "tip": "벚꽃 절정은 대개 4월 초. 이 시기 주말은 주차가 매우 붐비니 아침 일찍 가거나 대중교통을 권한다.",
+    "eat": "호수 근처에서 강릉 초당순두부와 짬뽕순두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gyeongpodae_Pavilion_Gangneung.JPG/500px-Gyeongpodae_Pavilion_Gangneung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gyeongpo_Lake_Cherry_Blossoms.JPG/500px-Gyeongpo_Lake_Cherry_Blossoms.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오죽헌",
+    "rom": "신사임당과 율곡 이이가 태어난 검은 대나무 집",
+    "meta": [
+     "💴 입장 약 3,000원(변동가능)",
+     "⏱ 1~2시간",
+     "📜 보물",
+     "🎋 검은 대숲"
+    ],
+    "desc": "집을 둘러싼 검은 대나무(오죽) 때문에 이름 붙은 이 고택은 신사임당과 그의 아들 율곡 이이가 태어난 곳이다. 오래된 기와와 마당의 배롱나무, 대숲 사이로 스며드는 빛을 걷다 보면 오천 원권 지폐 속 인물이 살던 시간 안에 들어선 기분이 든다.",
+    "todo": [
+     "몽룡실 등 생가 건물 둘러보기",
+     "함께 있는 강릉시립박물관·율곡기념관 관람",
+     "검은 대숲 사이로 사진 남기기"
+    ],
+    "tip": "월요일 휴관인 경우가 있으니 방문 전 확인. 넓지 않아 선교장·경포와 묶어 반나절에 함께 보기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ojukheon_sarangchae.jpg/500px-Ojukheon_sarangchae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ojukheon_20220501_001.jpg/330px-Ojukheon_20220501_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ojukheon_20220501_003.jpg/330px-Ojukheon_20220501_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선교장",
+    "rom": "99칸 사대부 고택, 배다리마을의 시간",
+    "meta": [
+     "💴 입장 약 5,000원(변동가능)",
+     "⏱ 1~2시간",
+     "🏯 국가민속문화재",
+     "🍵 한옥"
+    ],
+    "desc": "경포호를 배로 건너던 '배다리마을'에서 이름을 얻은 99칸 대저택. 솟을대문을 지나 활래정 연못과 긴 행랑채를 따라 걷다 보면, 한 집안이 수백 년을 이어온 규모와 정갈함에 절로 걸음이 느려진다. 계절마다 마당의 꽃과 나무가 바뀌어 언제 가도 다른 얼굴이다.",
+    "todo": [
+     "연못에 뜬 정자 활래정 감상",
+     "행랑채·안채·사랑채 두루 둘러보기",
+     "한복 대여로 고택 산책"
+    ],
+    "tip": "한옥 숙박 체험도 운영한다. 하룻밤 고택에 머물고 싶다면 미리 예약할 것.",
+    "eat": "근처 초당동에서 두부요리 정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seongyojang_20220501_060.jpg/500px-Seongyojang_20220501_060.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seongyojang_20220501_002.jpg/330px-Seongyojang_20220501_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Seongyojang_20220501_004.jpg/330px-Seongyojang_20220501_004.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정동진",
+    "rom": "바다에서 가장 가까운 기차역, 새해 첫 해",
+    "meta": [
+     "💴 역·해변 무료",
+     "⏱ 반나절",
+     "🌅 해돋이",
+     "🚂 기차"
+    ],
+    "desc": "'바다와 가장 가까운 역'으로 기네스에 오른 작은 기차역. 플랫폼에 서면 바로 앞이 파도다. 드라마 촬영지로 알려진 뒤로 해돋이 명소가 되었고, 새해 첫날이면 수평선에서 붉게 솟는 해를 보러 전국에서 사람이 모인다.",
+    "todo": [
+     "정동진역 플랫폼에서 바다 배경 사진",
+     "레일바이크로 해안선 따라 달리기",
+     "이른 아침 수평선 해돋이 기다리기"
+    ],
+    "tip": "해돋이는 계절마다 시간이 다르니 당일 일출 시각을 미리 확인. 새해 첫날은 극도로 붐비므로 방한과 여유가 필수.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jeongdongjin_Station_20160804_145225.jpg/500px-Jeongdongjin_Station_20160804_145225.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png/500px-%EC%A0%95%EB%8F%99%EC%A7%84%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Korea_Railroad_JiTung.JPG/120px-Korea_Railroad_JiTung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안목해변과 강릉 커피거리",
+    "rom": "파도를 마주 보는 바닷가 카페거리",
+    "meta": [
+     "💴 해변 무료",
+     "☕ 커피",
+     "🌊 바다뷰",
+     "🌇 노을"
+    ],
+    "desc": "예전 커피 자판기들이 늘어서 있던 자리가 지금은 개성 있는 로스터리 카페 거리로 변했다. 통유리 너머로 파도가 부서지는 카페에 앉아 갓 볶은 원두 향과 바다 냄새를 함께 들이키면, 강릉이 왜 '커피 도시'로 불리는지 단번에 이해된다.",
+    "todo": [
+     "바다 보이는 카페에서 핸드드립 한 잔",
+     "해변 백사장 따라 산책",
+     "해 질 무렵 노을 아래 커피"
+    ],
+    "eat": "강릉 로스터리 카페의 원두와 바닷가 디저트",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80%2C_AM_%EB%A3%A8%ED%94%84%ED%83%91%EC%97%90%EC%84%9C_%EB%B3%B8_%ED%92%8D%EA%B2%BD.jpg/500px-%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80%2C_AM_%EB%A3%A8%ED%94%84%ED%83%91%EC%97%90%EC%84%9C_%EB%B3%B8_%ED%92%8D%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Anmok_Beach_20220430_001.jpg/330px-Anmok_Beach_20220430_001.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Anmok_Beach_20220430_002.jpg/330px-Anmok_Beach_20220430_002.jpg"
+    ]
+   },
+   {
+    "name": "주문진항",
+    "rom": "한국에서 가장 오래된 어항, 펄떡이는 활기",
+    "meta": [
+     "💴 무료(먹거리 별도)",
+     "⏱ 반나절",
+     "🦑 수산시장",
+     "🌊 방파제"
+    ],
+    "desc": "1927년 문을 연 국내에서 가장 오래된 국가 어항. 이른 아침 위판장에는 갓 잡아 올린 오징어와 생선이 은빛으로 쏟아지고, 시장 골목엔 회 뜨는 소리와 호객 소리가 겹친다. 방파제 끝까지 걸어 나가 등대 앞에서 바다를 마주하는 시간도 좋다.",
+    "todo": [
+     "수산시장에서 제철 회·건어물 구경",
+     "방파제와 등대까지 걷기",
+     "새벽 위판 경매 분위기 엿보기"
+    ],
+    "tip": "회는 시장에서 떠서 근처 초장집에서 상차림 받는 방식이 흔하다. 가격은 흥정 전 미리 물어보고 정할 것.",
+    "eat": "제철 오징어회·물회, 갓 튀긴 오징어순대",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jumunjin_Harbor_20220501_003.jpg/500px-Jumunjin_Harbor_20220501_003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jumunjin_Harbor_20220501_002.jpg/330px-Jumunjin_Harbor_20220501_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jumunjin_Harbor_20220501_001.jpg/330px-Jumunjin_Harbor_20220501_001.jpg"
+    ]
+   },
+   {
+    "name": "초당순두부마을",
+    "rom": "바닷물로 간 맞춘 강릉의 두부 마을",
+    "meta": [
+     "💴 무료(식사 별도)",
+     "⏱ 1~2시간",
+     "🍲 순두부",
+     "🌾 노포"
+    ],
+    "desc": "소나무 우거진 초당동은 예부터 동해 바닷물로 간을 맞춰 두부를 빚어온 마을이다. 골목마다 오래된 순두부집에서 김이 모락모락 오르고, 갓 굳힌 몽글몽글한 순두부 한 그릇이면 속이 뜨끈하게 풀린다. 담백한 백순두부부터 얼큰한 짬뽕순두부까지 취향껏 고르는 재미가 있다.",
+    "todo": [
+     "갓 만든 초당순두부 정식 맛보기",
+     "소나무 우거진 마을 골목 산책",
+     "짬뽕순두부·순두부젤라토 별미 도전"
+    ],
+    "eat": "초당순두부 백반, 짬뽕순두부, 순두부 아이스크림",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chodang-dong_Community_service_center_20220502_001.jpg/500px-Chodang-dong_Community_service_center_20220502_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gangneungsine-map.png/500px-Gangneungsine-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gapyeong": {
+  "nm": "가평",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 용산·청량리에서 ITX-청춘 열차로 가평역까지 약 1시간. 자동차는 서울에서 경춘·서울양양고속도로로 1시간~1시간 20분이면 닿는다. 부산에서는 KTX로 서울까지 온 뒤 청춘열차로 갈아탄다.",
+  "sep": "봄(4~5월)엔 벚꽃과 야생화, 가을(9~10월)엔 단풍·코스모스·핑크뮬리가 절정이다. 특히 10월은 자라섬 재즈페스티벌, 아침고요 국화, 산자락 단풍이 한꺼번에 겹쳐 가평이 일 년 중 가장 화려하다.",
+  "mood": "서울에서 딱 한 시간, 북한강이 섬과 숲과 정원을 품은 곳. 물과 나무 사이로 잠깐 도망치고 싶을 때 떠올리는 도시다.",
+  "see": "강 위에 뜬 섬(남이섬·자라섬), 사철 피는 정원(아침고요수목원·쁘띠프랑스), 강을 따라 페달로 달리는 레일바이크까지 — 물과 초록으로 가득하다.",
+  "spots": [
+   {
+    "name": "남이섬",
+    "rom": "겨울연가의 그 메타세쿼이아 길",
+    "meta": [
+     "💴 입장 약 16,000원",
+     "⏱ 반나절",
+     "⛴ 배로 입도",
+     "🌳 사계절"
+    ],
+    "desc": "강 위에 뜬 반달 모양의 섬. 가평 선착장에서 배를 타면 5분 만에 닿는다. 곧게 뻗은 메타세쿼이아 길과 잣나무 숲길이 계절마다 색을 갈아입고, 다람쥐와 공작이 사람 곁을 스스럼없이 지나간다.",
+    "todo": [
+     "메타세쿼이아 길 끝까지 걸어보기",
+     "자전거 빌려 섬 한 바퀴 돌기",
+     "강변 벤치에서 커피 한 잔"
+    ],
+    "tip": "선착장 주차장이 성수기엔 금세 찬다. 아침 첫 배를 타면 사람 없는 숲길을 온전히 걸을 수 있다.",
+    "eat": "섬 안 춘천식 닭갈비와 막국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/500px-Nami_island_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%284%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG/250px-%EB%82%A8%EC%9D%B4%EC%84%AC_%2811%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아침고요수목원",
+    "rom": "축령산 자락, 사철 피는 정원",
+    "meta": [
+     "💴 입장 약 11,000원",
+     "⏱ 반나절",
+     "🌸 봄 야생화",
+     "❄️ 겨울 오색별빛"
+    ],
+    "desc": "축령산 품에 안긴 나지막한 언덕마다 정원이 층층이 이어진다. 봄엔 야생화, 여름엔 무궁화, 가을엔 국화가 번갈아 피고, 겨울밤엔 나무마다 오색 조명이 걸려 정원 전체가 별빛으로 물든다.",
+    "todo": [
+     "하경정원 능선 따라 산책하기",
+     "겨울 오색별빛정원 야간개장 즐기기",
+     "온실에서 다육·난 구경"
+    ],
+    "tip": "오색별빛정원은 해가 지고 나서가 절정이다. 산자락이라 낮에도 서늘하니 겉옷을 챙기자.",
+    "eat": "근처 잣칼국수·잣국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/500px-Morning_Calm_Arboretum_Sign.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Garden_of_Morning_Calm.JPG/500px-The_Garden_of_Morning_Calm.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg/120px-%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%98%EA%B5%AD%EC%B6%95%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "쁘띠프랑스",
+    "rom": "어린왕자가 사는 언덕 위 프랑스 마을",
+    "meta": [
+     "💴 입장 약 13,000원",
+     "⏱ 반나절",
+     "📸 사진 명소",
+     "🎭 인형극·오르골"
+    ],
+    "desc": "청평호를 내려다보는 언덕에 파스텔빛 프랑스풍 건물이 옹기종기 모였다. 생텍쥐페리 기념관과 어린왕자 조형물이 골목마다 서 있고, 어디선가 오르골 소리가 흐른다. 여러 드라마 촬영지로도 이름났다.",
+    "todo": [
+     "언덕 전망대에서 청평호 내려다보기",
+     "오르골 하우스 구경하기",
+     "어린왕자 조형물 앞에서 사진"
+    ],
+    "tip": "바로 옆 이탈리아마을(피노키오와 다빈치)과 통합권으로 묶으면 알뜰하게 둘 다 볼 수 있다.",
+    "eat": "마을 안 카페 디저트, 근처 호숫가 브런치",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg/500px-Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg"
+    ]
+   },
+   {
+    "name": "자라섬",
+    "rom": "가을이면 재즈가 흐르는 캠핑 섬",
+    "meta": [
+     "💴 무료(캠핑 별도)",
+     "⏱ 반나절",
+     "🎷 가을 재즈페스티벌",
+     "⛺ 캠핑"
+    ],
+    "desc": "북한강이 품은 넓은 섬으로, 남이섬의 1.5배쯤 된다. 오토캠핑장과 잔디밭이 펼쳐지고, 가을이면 은빛으로 흔들리는 코스모스·핑크뮬리 밭이 섬을 덮는다. 해마다 가을엔 국제재즈페스티벌이 열려 강바람에 음악이 실린다.",
+    "todo": [
+     "가을 코스모스·핑크뮬리 밭 산책",
+     "오토캠핑·차박으로 하룻밤",
+     "10월 재즈페스티벌에 맞춰 방문"
+    ],
+    "tip": "섬 자체는 무료 개방이지만 캠핑장은 예약제다. 남이섬 선착장과 가까워 함께 묶어 돌기 좋다.",
+    "eat": "가평 잣막걸리와 잣두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg/500px-%EC%9E%90%EB%9D%BC%EC%84%AC_%EB%82%B4%EC%9D%98_%EA%BD%83%EC%A0%95%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가평 레일바이크",
+    "rom": "폐철로 위를 달리는 북한강 자전거",
+    "meta": [
+     "💴 유료(인원·코스별 변동)",
+     "⏱ 1~2시간",
+     "🚲 페달",
+     "🌊 강변 코스"
+    ],
+    "desc": "옛 경춘선 철길 위를 페달로 달린다. 북한강을 옆에 끼고 터널을 지나면 색색의 조명이 반짝이고, 강바람과 함께 레일 위를 미끄러지듯 나아간다. 가족·연인 단위 나들이로 특히 인기다.",
+    "todo": [
+     "강변을 끼는 코스 골라 달리기",
+     "조명이 켜진 터널 구간 즐기기"
+    ],
+    "tip": "주말·성수기엔 홈페이지 사전예약을 권한다. 출발 회차 시간이 정해져 있으니 늦지 않게 도착하자.",
+    "eat": "가평역 근처 잣호두과자"
+   },
+   {
+    "name": "청평호",
+    "rom": "북한강이 고여 만든 물놀이 호수",
+    "meta": [
+     "💴 무료(수상레저 별도)",
+     "⏱ 반나절",
+     "🚤 수상레저",
+     "🌅 호반 드라이브"
+    ],
+    "desc": "청평댐이 북한강을 막아 만든 잔잔한 호수. 물 위로 모터보트와 바나나보트가 오가고, 호숫가를 따라 카페와 펜션이 줄지어 늘어선다. 강을 끼고 도는 호반 드라이브 길만 달려도 마음이 시원해진다.",
+    "todo": [
+     "보트·수상스키 등 수상레저 체험",
+     "호반 카페에서 물멍 때리기",
+     "청평호반 드라이브"
+    ],
+    "tip": "여름 성수기엔 수상레저 업체가 붐빈다. 이용 전 구명조끼 등 안전장비 착용을 꼭 확인하자.",
+    "eat": "청평 호숫가 매운탕·닭볶음탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg/500px-Cheongpyeong_Dam_Cheongpyeong_Hydroelectric_Power_Plant.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "명지산",
+    "rom": "경기 둘째 높이, 가평의 지붕",
+    "meta": [
+     "💴 무료",
+     "⏱ 종일",
+     "🥾 등산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "해발 1,267m로 경기도에서 손꼽히게 높은 산이다. 익근리에서 오르는 계곡길은 여름엔 시원한 물소리를, 가을엔 능선을 붉게 물들이는 단풍을 안겨준다. 정상에 서면 가평의 산줄기가 파도처럼 겹겹이 펼쳐진다.",
+    "todo": [
+     "익근리 계곡 코스로 등산하기",
+     "정상에서 겹능선 조망 즐기기"
+    ],
+    "tip": "왕복 5~6시간의 본격 산행이다. 물·간식·등산화는 필수, 겨울엔 아이젠을 챙기자.",
+    "eat": "하산 후 가평 잣두부와 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "geochang": {
+  "nm": "거창",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 대전통영고속도로 타고 거창IC까지 약 3시간, 부산에서는 약 2시간. 시외버스는 거창시외버스터미널이 관문이고, 명소가 흩어져 있어 렌터카가 편하다.",
+  "sep": "가을(10월)이 절정. 감악산 정상 꽃단지가 보랏빛으로 물들고, 온 고을이 빨갛게 익은 거창 사과 향으로 채워진다. 계곡을 원한다면 물빛 좋은 한여름.",
+  "mood": "덕유산과 가야산 사이, 해발 천 미터 봉우리들이 병풍처럼 두른 산골. 맑은 계곡물과 선비들이 노닐던 정자, 그리고 하늘 위 출렁다리가 한 고을에 다 모여 있다.",
+  "see": "산 위 꽃밭·계곡·옛 정자·출렁다리까지, 걷는 맛과 물맛이 살아있는 산악 고을",
+  "spots": [
+   {
+    "name": "우두산 Y자형 출렁다리",
+    "rom": "산봉우리 사이 허공에 걸린 세 갈래 다리",
+    "meta": [
+     "⏱ 반나절",
+     "🚶 등산·트레킹",
+     "🍂 가을 단풍"
+    ],
+    "desc": "가조면 우두산 능선, 두 봉우리 사이 아찔한 허공에 Y자 모양으로 놓인 출렁다리다. 보기 드문 Y자(세 갈래) 형태라 한가운데 서면 발밑으로 계곡과 능선이 삼면으로 펼쳐진다. 항노화힐링랜드 주차장에서 데크길을 따라 오르면 나오는데, 걷는 내내 소나무 향과 바람 소리가 함께한다.",
+    "todo": [
+     "다리 한가운데서 세 방향 능선 조망하기",
+     "인근 고견사까지 이어 걷기",
+     "가을 단풍철에 오르기"
+    ],
+    "tip": "주차장에서 다리까지 오르막 데크길이 있어 편한 신발 필수. 주말·단풍철엔 주차 대기가 길어 오전 일찍 도착하는 편이 낫다.",
+    "eat": "가조면 일대 흑돼지·오리백숙집"
+   },
+   {
+    "name": "거창 수승대",
+    "rom": "선비들이 최고로 꼽던 원학동 계곡의 명승",
+    "meta": [
+     "💴 주차료(변동가능)",
+     "⏱ 반나절",
+     "🏞 명승 제53호"
+    ],
+    "desc": "위천면 원학동 계곡 한가운데, 거대한 거북 모양 바위 '거북바위'를 중심으로 요수정과 관수루 같은 옛 정자가 물가에 앉아 있다. 조선 선비들이 영남에서 으뜸가는 동천으로 꼽으며 시를 새기던 곳으로, 퇴계 이황이 이름을 지었다는 이야기가 전한다. 너른 반석과 맑은 물이 어우러져 걷기만 해도 마음이 트인다.",
+    "todo": [
+     "거북바위에 새겨진 옛 글씨 찾아보기",
+     "요수정·관수루 정자에서 계곡 내려다보기",
+     "출렁다리 건너 산책로 한 바퀴"
+    ],
+    "tip": "여름이면 이 일대에서 거창국제연극제가 열려 밤 공연을 즐길 수 있다. 계곡 물놀이 구역은 안전선을 지킬 것.",
+    "eat": "위천면 산채정식·어탕국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suseungdae2.jpg/500px-Suseungdae2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Suseungdae1.jpg/500px-Suseungdae1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Suseungdae3.jpg/500px-Suseungdae3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "감악산 꽃단지",
+    "rom": "정상 풍력발전기 아래 펼쳐진 보랏빛 꽃밭",
+    "meta": [
+     "🌸 가을 아스타국화",
+     "⏱ 반나절",
+     "🚗 정상 부근 주차"
+    ],
+    "desc": "해발 950여 미터 감악산 정상, 하얀 풍력발전기가 돌아가는 능선 아래로 아스타국화와 천일홍이 보랏빛·붉은빛 물결을 이룬다. 가을이면 꽃밭과 파란 하늘, 바람개비 같은 풍력기가 한 화면에 담겨 거창에서 가장 사진이 예쁜 자리로 꼽힌다. 산 아래 연수사에는 수백 년 묵은 은행나무와 약수가 있어 오르내리는 길에 들르기 좋다.",
+    "todo": [
+     "풍력발전기와 꽃단지를 배경으로 사진 찍기",
+     "연수사 은행나무·약수 들르기",
+     "해질 무렵 능선 노을 보기"
+    ],
+    "tip": "정상 부근까지 차로 오를 수 있지만 산길이 좁고 굽어 초보 운전자는 주의. 꽃은 대체로 9월 말~10월이 절정이다.",
+    "eat": "신원면·남상면 시골 백반"
+   },
+   {
+    "name": "금원산 자연휴양림",
+    "rom": "유안청계곡과 거대한 문바위를 품은 숲",
+    "meta": [
+     "💴 입장·주차료(변동가능)",
+     "⏱ 반나절",
+     "💧 여름 계곡"
+    ],
+    "desc": "위천면 깊숙이, 해발 1300미터 금원산 자락에 안긴 휴양림이다. 유안청계곡을 따라 오르면 층층이 쏟아지는 자운폭포와 너른 소가 이어지고, 국내에서 손꼽히게 큰 바위인 문바위가 숲 사이에 우뚝 서 있다. 여름엔 발 담그기 좋은 계곡, 사철 걷기 좋은 숲길이 함께 있어 하루가 짧다.",
+    "todo": [
+     "유안청계곡 따라 자운폭포까지 걷기",
+     "웅장한 문바위 앞에 서 보기",
+     "휴양림 숲길 산책"
+    ],
+    "tip": "여름 성수기엔 계곡 주변 데크·평상이 일찍 찬다. 휴양림 숙박은 예약제이니 미리 확인할 것.",
+    "eat": "위천면 산채비빔밥·더덕구이"
+   },
+   {
+    "name": "월성계곡",
+    "rom": "덕유산 자락에서 흘러내리는 맑은 물길",
+    "meta": [
+     "💧 여름 피서",
+     "⏱ 반나절",
+     "🏕 물놀이·야영"
+    ],
+    "desc": "북상면, 덕유산에서 발원한 물이 굽이굽이 흘러내리는 긴 계곡이다. 소나무 우거진 물가에 사선대 같은 너른 반석이 놓여 있어, 옛사람들이 신선처럼 노닐던 자리라 전해진다. 도심에서 멀찍이 떨어져 물빛이 유난히 맑고, 여름이면 발을 담그기만 해도 서늘함이 온몸을 감싼다.",
+    "todo": [
+     "사선대 반석에서 물소리 들으며 쉬기",
+     "계곡 상류 드라이브 코스 따라가기",
+     "물가에서 도시락 펼치기"
+    ],
+    "tip": "계곡이 깊은 구간이 있으니 아이와 함께라면 얕은 곳에서만. 여름 피서철 외에는 인적이 드물어 한적하다.",
+    "eat": "북상면 토종닭백숙·민물매운탕"
+   },
+   {
+    "name": "거창 창포원",
+    "rom": "황강 물가에 조성된 수변생태공원",
+    "meta": [
+     "💴 무료",
+     "⏱ 두세 시간",
+     "🌿 산책·자연"
+    ],
+    "desc": "남하면, 황강 물길 옆에 조성된 너른 수변생태공원이다. 창포와 수련, 억새가 계절마다 다른 풍경을 만들고, 물 위로 놓인 데크길을 걸으면 잔잔한 물 너머 산 능선이 통째로 비친다. 자전거를 타거나 천천히 걸으며 물새를 구경하기 좋은, 힘 빼고 쉬어가는 자리다.",
+    "todo": [
+     "수변 데크길 한 바퀴 걷기",
+     "계절 꽃·억새밭에서 사진 찍기",
+     "자전거 대여해 둘러보기"
+    ],
+    "tip": "그늘이 적어 여름 한낮은 덥다. 아침·해질 무렵 빛이 부드러울 때가 가장 좋다.",
+    "eat": "거창 사과, 거창읍내 갈비·한정식"
+   }
+  ]
+ },
+ "geoje": {
+  "nm": "거제",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널·센트럴시티에서 고속버스로 약 4시간 반, 승용차는 통영대전고속도로를 탄다. 부산에서는 거가대교를 건너 1시간 남짓이면 섬에 닿는다.",
+  "sep": "5~6월 초여름과 9~10월 가을이 가장 좋다 — 바다가 잔잔해 유람선 운항이 안정적이고, 한여름 더위와 성수기 인파를 피할 수 있다. 이른 봄엔 동백이 붉게 핀다.",
+  "mood": "한려수도 물길 끝, 파도가 억겁 동안 조각한 섬 거제. 유럽식 해상정원부터 태풍이 남긴 성벽까지, 남해가 품은 풍경이 여기서 가장 짙다.",
+  "see": "배 타고 드는 해상 식물원과 기암 절벽, 몽돌 구르는 소리와 바다를 향해 도는 풍차.",
+  "spots": [
+   {
+    "name": "외도 보타니아",
+    "rom": "남해 위에 떠 있는 유럽식 해상 정원",
+    "meta": [
+     "⛴ 유람선+입장 약 30,000원",
+     "⏱ 반나절",
+     "🌴 아열대 식물",
+     "📸 인생사진"
+    ],
+    "desc": "도장포·지세포·장승포 선착장에서 유람선을 타고 들어가는 작은 섬 전체가 하나의 정원이다. 다양한 아열대 식물과 대리석 조각, 유럽풍 화단이 계단식으로 펼쳐지고, 비너스가든에 서면 코발트빛 바다가 발아래로 쏟아진다. 한 부부가 30년 넘게 손으로 일군 낙원이라는 사실이 걸음마다 실감난다.",
+    "todo": [
+     "비너스가든 전망대에서 남해 조망",
+     "선인장·야자수 온실 천천히 산책",
+     "해금강 코스와 묶어 유람선 한 번에"
+    ],
+    "tip": "섬은 배편 시간표에 매여 있어 왕복 배 시간을 먼저 확인한다. 바다가 거칠면 결항하니 당일 아침 운항 여부를 꼭 체크하고, 입장료는 유람선 요금과 별도인 경우가 많다.",
+    "eat": "선착장 주변 활어회·멸치쌈밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Korea-Geoje-Oedo_4073-06.JPG/500px-Korea-Geoje-Oedo_4073-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Korea-Geoje-Oedo_4078-06.JPG/120px-Korea-Geoje-Oedo_4078-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Korea-Geoje-Oedo_4074-06.JPG/120px-Korea-Geoje-Oedo_4074-06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "거제 바람의 언덕",
+    "rom": "네덜란드 풍차가 선 바다 위 초원 언덕",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌾 억새·풍차",
+     "🌅 일몰"
+    ],
+    "desc": "도장포 마을 위, 바다를 향해 완만하게 부풀어 오른 민둥 언덕이다. 나무 데크를 따라 오르면 흰 풍차 한 대가 파란 하늘을 배경으로 돌고, 사방에서 불어오는 바람에 억새가 눕는다. 드라마와 예능에 숱하게 등장한 그 풍경이 사진보다 실제가 훨씬 시원하다.",
+    "todo": [
+     "풍차 아래 데크 한 바퀴 걷기",
+     "바로 옆 신선대 기암 절벽까지 함께",
+     "해질 무렵 노을 타이밍 맞추기"
+    ],
+    "tip": "주차장에서 언덕까지 도보 5~10분. 그늘이 거의 없어 여름 한낮보다 이른 아침·해질녘이 좋다. 이름 그대로 바람이 정말 세니 모자와 가벼운 겉옷을 챙긴다.",
+    "eat": "언덕 초입 '바람의 핫도그' 등 간식거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2014%EB%85%84_5%EC%9B%94_25%EC%9D%BC_%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84_%EA%B1%B0%EC%A0%9C%EC%8B%9C_%EB%B0%94%EB%9E%8C%EC%9D%98%EC%96%B8%EB%8D%9517.jpg/500px-2014%EB%85%84_5%EC%9B%94_25%EC%9D%BC_%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84_%EA%B1%B0%EC%A0%9C%EC%8B%9C_%EB%B0%94%EB%9E%8C%EC%9D%98%EC%96%B8%EB%8D%9517.jpg"
+    ]
+   },
+   {
+    "name": "매미성",
+    "rom": "태풍이 남긴, 한 사람이 쌓아 올린 바닷가 성벽",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🏰 이국적 성벽",
+     "📸 포토스팟"
+    ],
+    "desc": "2003년 태풍 매미가 밭을 쓸어간 뒤, 한 주민이 설계도 없이 돌을 하나씩 쌓아 만든 방벽이다. 세월이 지나며 진짜 중세 유럽의 성처럼 자라났고, 지금은 거제에서 가장 붐비는 포토스팟이 됐다. 바다를 등지고 선 돌계단과 아치가 비현실적으로 낯설다.",
+    "todo": [
+     "성벽 위 계단·아치에서 인증샷",
+     "바다 쪽 난간에서 거가대교 조망"
+    ],
+    "tip": "주차공간이 좁아 주말엔 대기가 길다. 옆으로 카페 거리가 붙어 있어 커피 한 잔과 함께 들르기 좋고, 계단이 많으니 편한 신발을 권한다.",
+    "eat": "근처 오션뷰 카페의 커피·디저트"
+   },
+   {
+    "name": "거제 해금강",
+    "rom": "파도가 억겁 동안 깎아 낸 바다의 금강산",
+    "meta": [
+     "⛴ 유람선 약 20,000원",
+     "⏱ 반나절",
+     "🪨 기암괴석",
+     "🕳 십자동굴"
+    ],
+    "desc": "학동·도장포에서 유람선을 타고 나가면 사자·촛대·미륵을 닮은 바위 무리가 물 위로 솟아 있다. 명승 제2호로 지정된 이 두 바위섬은 배가 십자동굴 앞에 멈춰 서는 순간 절정을 맞는다. 억만 년 파도와 바람이 조각한 결이 눈앞에서 살아난다.",
+    "todo": [
+     "십자동굴 진입 포인트에서 감상",
+     "외도 코스와 묶은 통합 유람선 이용",
+     "갑판에서 갈매기 먹이 주기"
+    ],
+    "tip": "파도·기상에 따라 동굴 진입이나 운항 자체가 취소될 수 있어 아침 운항 확인이 필수다. 멀미가 있으면 약을 미리 챙기고, 외도와 한 배로 도는 코스가 가성비가 좋다.",
+    "eat": "학동 선착장 몽돌해변 먹거리 골목",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg/500px-KOCIS_Korea_Haegeumgang_08_%2810011695603%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg/330px-KOCIS_Korea_Haegeumgang_05_%2810011598385%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg/330px-KOCIS_Korea_Haegeumgang_09_%2810011623386%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "학동 흑진주 몽돌해변",
+    "rom": "파도가 자갈을 굴리는, 소리로 기억되는 해변",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🖤 흑몽돌",
+     "🎧 자연의 소리"
+    ],
+    "desc": "모래 대신 검고 둥근 몽돌이 길게 깔린, 국내 최대급 몽돌 해변이다. 파도가 밀려왔다 빠질 때마다 자갈이 자르르 구르는 소리가 나는데, 그 소리가 아름답기로 손꼽힌다. 발밑에서 데굴거리는 감촉과 소리를 눈 감고 듣는 것만으로 충분한 곳이다.",
+    "todo": [
+     "파도 소리에 맞춰 몽돌밭 천천히 걷기",
+     "해금강·외도 유람선 선착장이 바로 여기",
+     "여름철 해수욕 즐기기"
+    ],
+    "tip": "몽돌이 미끄럽고 걷기 힘드니 슬리퍼보다 발을 감싸는 신발이 낫다. 봄이면 해변 뒤편 학동 동백림이 붉게 물든다.",
+    "eat": "해변 앞 활어회·멸치회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GJ-HDBeach.jpg/500px-GJ-HDBeach.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "거제포로수용소 유적공원",
+    "rom": "한국전쟁의 기억이 남은 거대한 수용소 터",
+    "meta": [
+     "💴 입장 약 7,000원",
+     "⏱ 반나절",
+     "🕊 역사",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "1951년부터 최대 17만 명의 포로가 수용됐던 자리다. 잔존 건물과 디오라마·모형으로 그날의 막사와 폭동, 이념 갈등을 생생히 재현해 놓았다. 아름다운 바다 풍경 사이에서 거제가 통과한 무거운 역사를 마주하게 되는, 결이 다른 시간이다.",
+    "todo": [
+     "MVR돔·디오라마관 차분히 관람",
+     "모노레일로 계룡산 전망대까지",
+     "고현 시내와 가까워 접근이 쉬움"
+    ],
+    "tip": "실내 위주라 비 오는 날 대안으로 좋다. 모노레일은 별도 요금과 대기가 있고, 아이와 함께라면 반나절 코스로 넉넉히 잡는다.",
+    "eat": "고현 시내 백반·해물밥집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg/500px-1951%EB%85%84_%EA%B1%B0%EC%A0%9C%EB%8F%84_%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geoje-POW_Camp1.JPG/500px-Geoje-POW_Camp1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "거제식물원 정글돔",
+    "rom": "유리 돔 아래 통째로 옮겨 담은 열대 우림",
+    "meta": [
+     "💴 입장 약 8,000원",
+     "⏱ 2시간",
+     "🌴 실내 열대",
+     "☔ 비와도 OK"
+    ],
+    "desc": "수천 장의 유리로 덮인 국내 최대급 돔 온실이다. 안으로 들어서면 열대 나무가 높다랗게 치솟고, 폭포와 빛의 동굴, 선인장원이 차례로 이어진다. 바깥 날씨와 상관없이 사시사철 초록이 무성해, 흐리거나 추운 날 거제 여행의 든든한 실내 카드가 된다.",
+    "todo": [
+     "돔 내부 폭포·빛의 동굴 산책",
+     "2층 전망 데크에서 숲 내려다보기",
+     "이어진 야외 정원까지 걷기"
+    ],
+    "tip": "실내가 습하고 따뜻해 두꺼운 겉옷은 벗어 두는 게 편하다. 주말·연휴엔 붐비니 오전 방문을 추천한다.",
+    "eat": ""
+   }
+  ]
+ },
+ "geumsan": {
+  "nm": "금산",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 통영대전고속도로 금산IC까지 약 2시간, 부산에서 약 2시간 40분. 대전 시내에서는 30분 남짓이라 대전 여행과 묶기 좋다.",
+  "sep": "가을(10월)이 절정. 인삼 향이 온 읍내에 퍼지는 인삼축제 철에 대둔산·서대산 단풍이 함께 물든다. 봄 신록과 벚꽃도 조용히 아름답다.",
+  "mood": "인삼 향과 붉은 단풍, 그리고 700 의병의 결기가 함께 흐르는 충청의 산골 고을.",
+  "see": "단풍으로 물드는 대둔산, 천년 은행나무의 보석사, 전국 인삼이 모이는 인삼시장.",
+  "spots": [
+   {
+    "name": "대둔산 도립공원",
+    "rom": "금산·논산·완주에 걸친 기암괴석의 단풍 명산",
+    "meta": [
+     "🍁 가을 단풍",
+     "⛰ 기암괴석",
+     "⏱ 반나절"
+    ],
+    "desc": "기암괴석이 병풍처럼 솟은 대둔산은 금산·논산과 전북 완주에 걸쳐 있고, 정상 마천대를 중심으로 능선이 뻗는다. 케이블카와 금강구름다리·삼선계단이 놓인 화려한 얼굴은 전북 완주 쪽이고, 금산(진산면) 쪽은 사람이 덜 몰려 한적하게 단풍 능선을 즐기기 좋다. 가을이면 온 산이 붉게 물든다.",
+    "todo": [
+     "금산 쪽 등산로에서 단풍 능선 걷기",
+     "정상 마천대에서 사방 조망"
+    ],
+    "tip": "금강구름다리·케이블카를 타려면 전북 완주(운주면) 쪽 기점으로 가야 한다. 단풍철 주말은 완주 쪽 케이블카 대기줄이 길어 이른 오전이 낫고, 삼선계단은 오르기만 가능한 일방통행 구간이라 체력이 부담되면 우회로를 이용한다.",
+    "eat": "산행 후 산채비빔밥과 도토리묵, 인삼을 넣은 삼계탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/500px-Chilseongbong_at_Daedunsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MtDaedunsan_Cable_Car.jpg/500px-MtDaedunsan_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "칠백의총",
+    "rom": "임진왜란, 조헌과 700 의병이 잠든 자리",
+    "meta": [
+     "🎟 입장 무료",
+     "🕯 역사 유적",
+     "⏱ 1~2시간"
+    ],
+    "desc": "임진왜란 때 의병장 조헌과 승장 영규대사를 따라 끝까지 싸우다 스러진 700여 의병의 유해가 한자리에 모셔져 있다. 잘 가꾸어진 소나무 숲길을 걸어 순의비와 기념관을 지나노라면, 이 조용한 고을이 품은 결기가 묵직하게 다가온다.",
+    "todo": [
+     "의총과 종용사 참배",
+     "기념관에서 금산전투 기록 보기"
+    ],
+    "tip": "주차장과 입장 모두 무료다. 매년 9월 순의제향 무렵에 찾으면 추모 행사를 볼 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg/500px-%EC%B9%A0%EB%B0%B1%EC%9D%98%EC%B4%9D%EB%AC%98%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보석사 은행나무",
+    "rom": "천년 세월을 지켜온 진악산 자락의 노거수",
+    "meta": [
+     "🌳 천연기념물",
+     "🍂 가을 노랑",
+     "⏱ 1시간"
+    ],
+    "desc": "진악산 기슭 보석사 어귀에 천연기념물로 지정된 은행나무가 우람하게 서 있다. 나라에 큰 일이 있으면 울음소리를 낸다는 전설을 품은 이 노거수는, 가을이면 온몸을 노랗게 물들여 절 마당을 금빛으로 덮는다. 통일신라 말에 창건된 고찰의 고요함이 그 아래 흐른다.",
+    "todo": [
+     "은행나무 아래에서 절 마당 바라보기",
+     "대웅전 둘러보기",
+     "진악산 등산로 초입 걷기"
+    ],
+    "tip": "은행잎이 절정에 이르는 10월 말~11월 초가 가장 아름답다. 절 입구까지 숲길이 이어져 산책 삼아 걷기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg/500px-%EA%B8%88%EC%82%B0_%EB%B3%B4%EC%84%9D%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "금산 국제인삼시장",
+    "rom": "전국의 인삼이 모여드는 향기의 거리",
+    "meta": [
+     "🌿 인삼·약초",
+     "🍜 먹거리",
+     "⏱ 반나절"
+    ],
+    "desc": "골목마다 수삼과 홍삼, 온갖 약초 냄새가 진하게 배어 있다. 전국 인삼 거래의 큰 몫이 이곳을 거친다는 말이 실감 날 만큼 좌판이 빼곡하고, 흥정하는 상인들의 활기가 시장을 채운다. 바로 옆 인삼관에서는 인삼의 역사와 재배 과정을 한눈에 볼 수 있다.",
+    "todo": [
+     "수삼·홍삼 구경하고 시식하기",
+     "인삼관 전시 둘러보기",
+     "인삼튀김·인삼어죽 맛보기"
+    ],
+    "tip": "가격과 등급이 좌판마다 다르니 몇 곳을 비교해 보고 산다. 매년 가을 인삼축제 기간에는 거리 전체가 축제장이 된다.",
+    "eat": "인삼어죽, 인삼튀김, 도리뱅뱅이(민물고기 튀김조림)"
+   },
+   {
+    "name": "서대산",
+    "rom": "충청남도에서 가장 높은 봉우리, 904m",
+    "meta": [
+     "⛰ 충남 최고봉",
+     "🍁 가을 단풍",
+     "⏱ 하루"
+    ],
+    "desc": "높이 904m로 충청남도에서 가장 높은 산이다. 우뚝 솟은 바위 봉우리와 깊은 계곡이 어우러져, 정상에 서면 금산 일대의 산줄기가 겹겹이 펼쳐진다. 사람이 덜 몰려 한적하게 가을 산을 즐기려는 이에게 맞춤한 곳이다.",
+    "todo": [
+     "정상에 올라 충청 산줄기 조망",
+     "가을 단풍 능선 걷기"
+    ],
+    "tip": "코스가 가파른 편이라 등산화와 넉넉한 체력이 필요하다. 산 아래 오토캠핑장을 베이스로 삼으면 편하다.",
+    "eat": ""
+   },
+   {
+    "name": "금강 적벽강",
+    "rom": "붉은 절벽 아래 굽이도는 금강 상류",
+    "meta": [
+     "🏞 자연경관",
+     "🛶 물놀이",
+     "⏱ 반나절"
+    ],
+    "desc": "금강 상류가 금산 부리면을 지나며 깎아낸 기암절벽이 강물에 붉게 비쳐 '적벽강'이라 불린다. 완만하게 굽이도는 물줄기와 자갈밭, 층층이 쌓인 절벽이 어우러져 여름이면 물놀이와 피서를 즐기는 이들로 붐빈다. 강가에 앉아 흐르는 물소리를 듣는 것만으로도 마음이 트인다.",
+    "todo": [
+     "강변 자갈밭 산책",
+     "여름철 물놀이와 강변 피서",
+     "절벽 전망 지점에서 사진 찍기"
+    ],
+    "tip": "여름 성수기 외에는 한적하다. 물놀이는 수심이 갑자기 깊어지는 곳이 있으니 안전에 유의한다.",
+    "eat": "금강에서 잡은 민물고기로 끓인 어죽과 도리뱅뱅이"
+   }
+  ]
+ },
+ "gimcheon": {
+  "nm": "김천",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울역에서 KTX로 김천(구미)역까지 약 1시간 40분, 부산에서도 KTX·무궁화호로 닿는다. 자가용은 경부고속도로 김천IC. 시내의 직지사·연화지는 가깝고, 청암사·부항댐은 차로 40분~1시간 남짓 산길을 달려 들어간다.",
+  "sep": "4월 초 — 연화지와 직지사 진입로가 왕벚꽃 터널로 뒤덮이는 김천 최고의 계절. 조용히 걷고 싶다면 10~11월, 황악산과 직지사 숲길이 붉게 물드는 단풍철도 그에 못지않다.",
+  "mood": "천년 고찰의 숲길과 사명대사의 자취, 산속 댐 위를 건너는 출렁다리까지 — 김천은 요란하지 않게 걷다 보면 마음이 트이는 경북 내륙의 쉼표다.",
+  "see": "직지사 숲길, 황악산 단풍, 연화지 봄 벚꽃, 부항댐 출렁다리.",
+  "spots": [
+   {
+    "name": "직지사",
+    "rom": "황악산 자락의 천년 고찰, 사명대사가 출가한 절",
+    "meta": [
+     "🛕 천년고찰",
+     "🍁 가을 단풍",
+     "⏱ 반나절"
+    ],
+    "desc": "신라 눌지왕 때 아도화상이 창건했다고 전하는 조계종 제8교구 본사. 일주문을 지나 대웅전까지 이어지는 긴 숲길은 봄이면 벚꽃, 가을이면 단풍으로 물들어 그 자체가 목적지가 된다. 임진왜란 때 나라를 구한 사명대사가 이곳에서 출가했다는 사실을 알고 걸으면, 오래된 전각들이 조금 다르게 보인다.",
+    "todo": [
+     "일주문에서 대웅전까지 숲길 천천히 걷기",
+     "국보·보물 전각과 석탑 둘러보기",
+     "경내 성보박물관에서 유물 감상"
+    ],
+    "tip": "주차장에서 경내까지 걷는 진입로가 길고 예쁘니 서두르지 말 것. 단풍철·벚꽃철 주말은 주차장이 붐비므로 오전 일찍 도착하는 게 낫다.",
+    "eat": "직지사 앞 식당가의 산채정식과 더덕구이. 김천 특산 자두·호두를 곁들이면 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%A7%81%EC%A7%80%EC%82%AC1.jpg/500px-%EC%A7%81%EC%A7%80%EC%82%AC1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Jikjitempleentrance.jpg/500px-Jikjitempleentrance.jpg"
+    ]
+   },
+   {
+    "name": "청암사",
+    "rom": "인현왕후가 기도한, 계곡 옆 비구니 사찰",
+    "meta": [
+     "🛕 비구니 사찰",
+     "🌲 계곡 숲길",
+     "⏱ 반나절"
+    ],
+    "desc": "증산면 불령산 북쪽 기슭, 맑은 계곡을 끼고 앉은 조용한 비구니 사찰이다. 폐서인이 된 인현왕후가 복위를 빌며 머물렀다는 이야기가 전해져, 왕실과 얽힌 사연이 절 곳곳에 스며 있다. 다리를 건너 물소리를 따라 걷는 진입로가 특히 아름다워, 사람 붐비는 절이 부담스러울 때 찾기 좋다.",
+    "todo": [
+     "계곡 다리 건너 진입로 걷기",
+     "비구니 강원(승가대학) 고즈넉한 분위기 느끼기"
+    ],
+    "tip": "같은 수도산 자락에 있는 산내 암자 수도암(석조불상·삼층석탑)까지 이어서 보면 반나절 코스가 완성된다. 산길이라 겨울 빙판·눈길 운전은 조심.",
+    "eat": "증산면 계곡변의 민물매운탕과 산채 백반."
+   },
+   {
+    "name": "부항댐 출렁다리",
+    "rom": "산속 호수 위를 건너는 아찔한 흔들다리",
+    "meta": [
+     "🌉 산악 출렁다리",
+     "💴 다리 무료",
+     "🚡 짚라인 유료"
+    ],
+    "desc": "2013년 준공된 부항댐이 만든 부항호 위로, 산과 산을 잇는 긴 출렁다리가 걸려 있다. 발밑으로 푸른 호수가 펼쳐지고 다리가 살짝살짝 흔들려, 건너는 내내 웃음과 비명이 번갈아 터진다. 산속 깊은 곳까지 들어와야 하는 만큼, 도착하면 사방이 온통 물빛과 산빛뿐이다.",
+    "todo": [
+     "출렁다리 건너 호수 전망 즐기기",
+     "짚와이어(짚라인)로 호수 위 활강 체험",
+     "댐 전망대에서 부항호 내려다보기"
+    ],
+    "tip": "짚와이어는 유료이며 운영 시간·요금이 계절에 따라 바뀔 수 있으니 방문 전 확인. 시내에서 차로 40분 이상 걸리는 산길이라 왕복 시간을 넉넉히 잡을 것.",
+    "eat": "부항호 주변 매운탕·손두부 식당."
+   },
+   {
+    "name": "황악산",
+    "rom": "직지사를 품은 백두대간 1,111m 봉우리",
+    "meta": [
+     "⛰ 1,111m",
+     "🍁 가을 단풍",
+     "⏱ 종일"
+    ],
+    "desc": "김천과 충북 영동에 걸친 백두대간 능선으로, 최고봉 비로봉이 1,111m로 솟아 있다. 예부터 학이 많이 찾아 황학산이라 불렸다는 이름처럼 능선이 부드럽고 사철 표정이 다르다. 산 동쪽에 직지사가 자리해, 절을 기점으로 오르내리는 등산 코스가 잘 나 있다.",
+    "todo": [
+     "직지사에서 시작하는 능선 코스 등산",
+     "비로봉 정상에서 백두대간 조망",
+     "가을 단풍철 능선 종주"
+    ],
+    "tip": "직지사 기점 코스는 왕복 4~5시간 이상 걸리니 물·간식·등산화 필수. 단풍철 주말은 사람이 몰리므로 이른 산행을 권한다.",
+    "eat": "하산 후 직지사 앞 산채정식으로 든든하게."
+   },
+   {
+    "name": "사명대사공원",
+    "rom": "직지사 곁, 전망탑에서 내려다보는 김천의 밤",
+    "meta": [
+     "🗼 전망 타워",
+     "🌃 야경",
+     "⏱ 1~2시간"
+    ],
+    "desc": "직지사와 가까운 언덕에 조성된 넓은 공원으로, 이 절에서 출가한 사명대사의 뜻을 기려 이름을 붙였다. 높이 솟은 전망탑에 오르면 김천 시가지와 직지사 일대가 한눈에 들어오고, 해가 지면 잔잔한 야경이 펼쳐진다. 직지사를 본 김에 저녁 산책 삼아 들르기 좋은 곳이다.",
+    "todo": [
+     "전망 타워에 올라 김천 시내 조망",
+     "해질 무렵 야경 감상",
+     "직지사·세계도자기박물관과 묶어 둘러보기"
+    ],
+    "tip": "직지사 관람과 동선이 겹치니 함께 묶으면 효율적이다. 전망탑·부대시설 운영 시간은 계절별로 다를 수 있으니 확인 후 방문."
+   },
+   {
+    "name": "연화지",
+    "rom": "봉황대가 뜬 연못, 김천의 봄 벚꽃 명소",
+    "meta": [
+     "🌸 봄 벚꽃",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "시내 한가운데 자리한 연못으로, 물 위에 정자 봉황대가 떠 있어 사철 운치가 있다. 4월이면 연못을 빙 두른 왕벚나무가 한꺼번에 피어, 물에 비친 꽃그림자까지 겹쳐 김천에서 벚꽃이 가장 아름다운 곳으로 꼽힌다. 낮의 화사함도 좋지만 조명이 켜지는 밤 벚꽃도 놓치기 아깝다.",
+    "todo": [
+     "연못 한 바퀴 벚꽃길 산책",
+     "봉황대 정자에서 물빛 감상",
+     "밤 벚꽃·야간 조명 즐기기"
+    ],
+    "tip": "벚꽃 절정은 대개 4월 초, 해에 따라 며칠씩 앞뒤로 움직인다. 시내라 주차가 금세 차니 대중교통이나 도보 접근을 고려할 것.",
+    "eat": "시내 가까워 지례흑돼지 구이나 김천 시장 먹거리와 엮기 좋다."
+   },
+   {
+    "name": "김천 방초정",
+    "rom": "연못을 앞에 둔 400년 된 조선 누각",
+    "meta": [
+     "🏛 조선 정자",
+     "💴 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "구성면 마을 어귀에 선 2층 누각으로, 1625년에 처음 지어 오랜 세월을 견뎌 왔다. 정자 앞에는 최씨담이라 불리는 연못이 있고 그 안에 작은 섬 둘이 떠 있어, 옛 선비가 바라보던 정원 풍경이 지금도 고스란히 남아 있다. 화려하지 않지만 마을과 어우러진 단정함이 오래 눈에 남는 곳이다.",
+    "todo": [
+     "누각에 올라 연못과 마을 조망",
+     "최씨담 두 섬과 정원 구조 살펴보기"
+    ],
+    "tip": "규모가 크지 않아 가볍게 들르기 좋다. 조용한 마을 안에 있으니 차분히 둘러볼 것.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg/500px-%EA%B9%80%EC%B2%9C_%EB%B0%A9%EC%B4%88%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gimhae": {
+  "nm": "김해",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 SRT·KTX로 부산까지 2시간 반, 구포역이나 사상역에서 부산김해경전철로 갈아탄다. 부산 도심에서는 경전철로 30분 남짓이면 가야의 옛 서울에 닿고, 차로는 남해·중부내륙고속도로가 시내로 이어진다.",
+  "sep": "봄이 가장 좋다. 4월이면 수로왕릉과 대성동 일대에서 가야문화축제가 열리고, 연지공원과 도심 곳곳에 벚꽃이 흐드러진다. 여름엔 와인동굴이 서늘한 피서지가 되고, 가을 진영 단감철도 넉넉하다.",
+  "mood": "2천 년 전 철의 왕국 가야가 처음 도읍을 세운 땅. 왕릉과 고분, 파사석탑의 전설이 도심 한복판에 그대로 남아 있다.",
+  "see": "수로왕릉·대성동 고분·국립박물관으로 이어지는 가야 역사 벨트, 그리고 봉하마을과 도자·와인동굴 같은 오늘의 김해.",
+  "spots": [
+   {
+    "name": "수로왕릉",
+    "rom": "가락국을 세운 시조, 김해 김씨의 뿌리",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌸 봄 벚꽃",
+     "🏛 사적"
+    ],
+    "desc": "높이 5m의 둥근 봉토무덤이 도심 한가운데 왕릉공원 속에 고요히 앉아 있다. 전설 속 가락국 초대 임금이자 400만 김해 김씨의 시조 수로왕이 잠든 자리다. 홍살문과 숭선전을 지나 능 앞에 서면, 도시 소음 너머로 2천 년의 시간이 훅 다가온다.",
+    "todo": [
+     "능역을 감싼 왕릉공원 한 바퀴 산책",
+     "숭선전과 안향각 등 제향 공간 둘러보기",
+     "정문 납릉정문에 새겨진 두 마리 물고기 문양 찾아보기"
+    ],
+    "tip": "입장 무료이고 시내 중심이라 걸어서 접근하기 좋다. 봄 벚꽃철과 가을에 특히 아름답다.",
+    "eat": "인근 김해 뒷고기(돼지 특수부위 구이)가 이 지역 명물이다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suro_Tomb.JPG/500px-Suro_Tomb.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Suro_Tomb_sculptures.JPG/120px-Suro_Tomb_sculptures.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tombstones_at_Suro_Tomb.JPG/120px-Tombstones_at_Suro_Tomb.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립김해박물관",
+    "rom": "가야 문화를 한자리에 모은 철의 박물관",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🏺 가야 유물",
+     "☔ 실내"
+    ],
+    "desc": "검은 벽돌 외벽이 철의 왕국 가야를 상징하는 박물관. 대성동·양동리 고분에서 나온 철제 갑옷과 마구, 토기와 금동관이 시대순으로 펼쳐진다. 교과서 속 이름만 알던 금관가야가, 유물 하나하나에서 손에 잡힐 듯 살아난다.",
+    "todo": [
+     "가야 특유의 철제 갑옷과 판갑옷 관람",
+     "오리·수레 모양 상형토기 감상",
+     "박물관 앞 구지봉·고인돌까지 이어 걷기"
+    ],
+    "tip": "국립박물관이라 상설전시 관람은 무료. 정기 휴관일이 있으니 방문 전 확인하고, 대성동 고분군·수로왕릉과 도보로 묶어 하루에 볼 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/500px-Gimhae_national_museum.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대성동 고분군",
+    "rom": "금관가야 지배층이 잠든 언덕",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏛 사적",
+     "🌿 야외 산책"
+    ],
+    "desc": "국립박물관과 수로왕릉 사이, 완만한 구릉 위로 가야 왕과 귀족들의 무덤이 늘어서 있다. 1세기부터 5세기까지 널무덤·덧널무덤이 층층이 쌓인 이곳은 금관가야의 심장이었다. 잔디 언덕을 오르면 발밑에 잠든 왕국의 시간이 느껴진다.",
+    "todo": [
+     "언덕 위 고분 산책로 걷기",
+     "무덤 내부를 재현한 대성동고분박물관 관람",
+     "덧널무덤 발굴 현장 전시 살펴보기"
+    ],
+    "tip": "고분박물관은 월요일 휴관, 관람 무료. 그늘이 적어 여름엔 모자와 물을 챙기면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG/500px-%EA%B9%80%ED%95%B4_%EB%8C%80%EC%84%B1%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0Ancient_Tombs_in_Daeseong-dong%2C_Gimhae_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "봉하마을",
+    "rom": "노무현 전 대통령의 고향, 봉화산 아래 농촌",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌾 농촌 풍경",
+     "🚶 생태공원"
+    ],
+    "desc": "봉화산 봉수대 아래 단감밭과 논이 펼쳐진 진영읍의 조용한 마을. 노무현 전 대통령이 태어나고 퇴임 후 돌아와 살았던 곳으로, 생가와 너럭바위 묘역이 그대로 남아 있다. 논둑길을 걷다 보면 '사람 사는 세상'이라는 말이 마을 공기처럼 스민다.",
+    "todo": [
+     "대통령의 집과 복원된 생가 둘러보기",
+     "너럭바위 묘역에서 잠시 묵념",
+     "봉화산 사자바위까지 짧은 산행"
+    ],
+    "tip": "주말과 기일(5월) 무렵엔 방문객이 많다. 가을엔 마을 특산 진영 단감을 사 갈 수 있다.",
+    "eat": "진영 단감, 그리고 마을 주변 시골 백반집.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Roh_Moo-hyun%27s_House.jpg/500px-Roh_Moo-hyun%27s_House.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/KimhaeCityMap.png/500px-KimhaeCityMap.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PreviewImage.png/120px-PreviewImage.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "클레이아크김해미술관",
+    "rom": "흙과 건축이 만난 세계 최초 건축도자 미술관",
+    "meta": [
+     "💴 입장 약 6,000원(전시별 상이)",
+     "⏱ 반나절",
+     "🎨 도자·건축",
+     "📷 포토존"
+    ],
+    "desc": "수천 개의 도자 타일이 원형 벽을 감싼 돔하우스가 멀리서도 눈에 띈다. 흙(Clay)과 건축(Architecture)을 붙인 이름 그대로, 건축도자를 전문으로 다루는 미술관이다. 전시를 보고 나면 체험관에서 직접 흙을 빚어 나만의 작품을 만들 수 있다.",
+    "todo": [
+     "돔하우스 외벽의 도자 타일 벽화 감상",
+     "야외 조각공원과 세라믹창작센터 산책",
+     "체험관에서 도자 만들기 참여"
+    ],
+    "tip": "전시에 따라 관람료가 다르니 방문 전 확인. 월요일 휴관이며 넓은 야외 공간이 사진 찍기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Clayarch_Gimhae_Museum.JPG/500px-Clayarch_Gimhae_Museum.JPG"
+    ]
+   },
+   {
+    "name": "낙동강레일파크 와인동굴",
+    "rom": "폐선 터널 속 산딸기 와인과 미디어아트",
+    "meta": [
+     "💴 와인동굴 소액 입장(변동)",
+     "🚲 레일바이크 별도",
+     "⏱ 반나절",
+     "❄️ 여름 피서"
+    ],
+    "desc": "옛 경전선 폐터널이 반짝이는 와인동굴과 미디어아트 공간으로 되살아났다. 사철 서늘한 기온을 유지하는 터널 안엔 김해 특산 산딸기 와인이 늘어서 있고, 밖으로 나오면 낙동강 철교 위를 달리는 레일바이크가 기다린다.",
+    "todo": [
+     "폐터널 와인동굴에서 미디어아트 감상",
+     "낙동강 철교 위 레일바이크 타기",
+     "철교전망대에서 강 노을 바라보기"
+    ],
+    "tip": "레일바이크는 인원별 요금이 다르고 예약이 안전하다. 정기 휴무일이 있으니 방문 전 확인하고, 여름 피서지로 인기가 높다.",
+    "eat": "생림면 인근 민물매운탕과 산딸기 와인."
+   },
+   {
+    "name": "은하사",
+    "rom": "신어산 자락, 가야 창건 전설이 깃든 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⛰ 신어산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "신어산 서쪽 골짜기에 숨은 오래된 절. 전설에 따르면 수로왕의 왕후 허황옥의 오빠 장유가 창건했다고 전해지는, 가야 불교의 뿌리 같은 곳이다. 계곡물 소리와 고풍스러운 대웅전이 어우러져, 도심에서 멀지 않은데도 깊은 산사에 든 듯 마음이 가라앉는다.",
+    "todo": [
+     "경상남도 유형문화재 대웅전 살펴보기",
+     "대웅전 안 오래된 벽화 감상",
+     "신어산 등산로와 이어 걷기"
+    ],
+    "tip": "주차 후 짧게 걸어 오른다. 가을 단풍철 풍경이 특히 좋고, 조용히 둘러보기 좋은 곳이다.",
+    "eat": "신어산 자락 산채비빔밥·손두부."
+   }
+  ]
+ },
+ "gimje": {
+  "nm": "김제",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 용산역에서 KTX·SRT로 김제역까지 약 2시간, 새만금 들녘 한복판에 내린다",
+  "sep": "🍂 가을(10월) — 지평선축제와 함께 온 들판이 황금빛 벼로 물들 때가 절정. 봄 벚꽃, 여름 백련도 곱다",
+  "mood": "하늘과 땅이 한 줄로 만나는 곳 — 한국에서 지평선을 볼 수 있는 유일한 들녘",
+  "see": "천오백 년을 버틴 벽골제 둑길, 국보 미륵불을 품은 금산사, 서해로 지는 망해사 낙조",
+  "spots": [
+   {
+    "name": "벽골제",
+    "rom": "한반도에서 가장 오래되고 큰 고대 저수지 둑",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "🍂 가을 지평선축제"
+    ],
+    "desc": "백제 때 쌓아 올린 3.3km 흙둑이 아직도 너른 들판을 가른다. 단야루에 올라 끝없는 만경평야를 내려다보면 하늘과 땅이 한 줄로 맞닿는 지평선이 펼쳐진다. 해마다 10월이면 이 둑을 배경으로 지평선축제가 열려 황금 들녘 전체가 축제장이 된다.",
+    "todo": [
+     "단야루에 올라 지평선 바라보기",
+     "거대한 쌍룡 조형물 앞에서 사진 남기기",
+     "농경문화박물관에서 옛 물길과 수문 구조 보기"
+    ],
+    "tip": "10월 지평선축제 기간엔 주변이 크게 붐빈다. 축제 분위기를 원하면 그때, 한적한 들녘을 걷고 싶으면 평일에 가는 편이 좋다.",
+    "eat": "김제 지평선쌀로 지은 갓 지은 밥 한 그릇, 축제철엔 들녘 새참도 별미",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B2%BD%EA%B3%A8%EC%A0%9C.jpg/500px-%EB%B2%BD%EA%B3%A8%EC%A0%9C.jpg"
+    ]
+   },
+   {
+    "name": "금산사",
+    "rom": "세계 최대 실내 미륵불을 품은 모악산 천년 대가람",
+    "meta": [
+     "💴 관람료 폐지(무료)",
+     "⏱ 반나절",
+     "🛕 국보 미륵전"
+    ],
+    "desc": "599년 백제 때 세워진 절로, 3층 목조 미륵전 안에는 11m가 넘는 미륵불이 우뚝 서 있다 — 실내 입불로는 세계에서 가장 크다. 모악산 초입 계곡을 따라 오르면 국보와 보물이 곳곳에 놓여, 천천히 걷기만 해도 천 년이 발밑을 지나간다.",
+    "todo": [
+     "국보 미륵전 안 거대한 미륵불 올려다보기",
+     "경내에 흩어진 국보·보물 찾아 걷기",
+     "템플스테이로 하룻밤 머물기"
+    ],
+    "tip": "2023년 문화재관람료가 폐지되어 사찰은 무료로 둘러볼 수 있다. 미륵전 내부는 촬영이 제한될 수 있으니 안내를 따를 것.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korea-Gimje-Geumsansa-02.jpg/500px-Korea-Gimje-Geumsansa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%EA%B8%88%EC%82%B0%EC%82%AC.jpg/500px-%EA%B8%88%EC%82%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "모악산 도립공원",
+    "rom": "정상에서 만경평야를 굽어보는 호남의 어머니 산",
+    "meta": [
+     "💴 입장 무료(주차 별도)",
+     "⏱ 반나절~하루",
+     "🥾 793m 등산"
+    ],
+    "desc": "어머니가 아이를 품은 형상이라 하여 모악산이라 부른다. 정상 793m에 서면 발아래로 김제 들녘과 전주 시내가 한눈에 펼쳐진다. 금산사 쪽에서 오르는 길이 가장 완만해 초보자도 도전해 볼 만하다.",
+    "todo": [
+     "금산사 코스로 정상까지 올라 보기",
+     "정상 전망대에서 만경평야 조망하기",
+     "봄 진달래, 가을 단풍으로 물든 길 걷기"
+    ],
+    "tip": "정상까지 왕복 3~4시간은 잡아야 한다. 물과 간식을 챙기고, 정상 송신탑 전망대의 개방 시간을 미리 확인하면 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%AA%A8%EC%95%85%EC%82%B0.jpg/500px-%EB%AA%A8%EC%95%85%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c8/IMG_00512.JPG/500px-IMG_00512.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "망해사",
+    "rom": "서해 낙조가 절 마당까지 밀려드는 바닷가 암자",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 서해 낙조"
+    ],
+    "desc": "진봉산 기슭, 서해와 새만금 갯벌을 마주한 작은 절이다. 다른 어느 절에서도 보기 힘든 낙조가 마당 끝에서 바다로 진다. 해질 무렵 낙서전 앞에 서면 붉은 해가 갯벌을 물들이며 천천히 가라앉는 장면이 오래 남는다.",
+    "todo": [
+     "해질 무렵에 맞춰 도착하기",
+     "낙서전 앞에서 서해 낙조 지켜보기",
+     "가까운 심포항까지 이어 걷기"
+    ],
+    "tip": "낙조가 핵심이니 일몰 시각을 미리 확인하고 30분 전에는 도착할 것. 해안 바람이 차니 겉옷을 챙기면 좋다.",
+    "eat": "가까운 심포항의 백합조개 요리와 갯벌에서 나는 해산물"
+   },
+   {
+    "name": "아리랑문학마을",
+    "rom": "조정래 대하소설 『아리랑』이 되살아난 그 들판",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📖 근대 역사"
+    ],
+    "desc": "조정래의 소설 『아리랑』의 무대가 된 김제 들녘에, 일제강점기 마을을 그대로 재현해 세운 곳이다. 초가와 일본식 가옥, 이민자 합숙소가 나란히 서서 수탈의 시대를 걸으며 읽게 한다. 소설을 몰라도 그 시절 들판의 아픔이 발끝에 전해진다.",
+    "todo": [
+     "재현된 근대 마을 골목 천천히 걷기",
+     "주재소 등 근대 수탈기관 세트 둘러보기",
+     "이민자 합숙소에서 그 시절 삶 상상해 보기"
+    ],
+    "tip": "실내 전시관은 휴관일이 있으니 방문 전 확인. 야외 마을은 그늘이 적어 여름엔 모자와 물이 필수다."
+   },
+   {
+    "name": "청운사 하소백련지",
+    "rom": "여름 들녘을 하얗게 덮는 백련 연못",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌸 여름 백련"
+    ],
+    "desc": "성덕면 청운사 앞 너른 연못이 여름이면 새하얀 백련으로 가득 찬다. 초록 연잎 사이로 흰 꽃이 피어오르면, 논 한가운데 또 하나의 하얀 들판이 열린 듯하다. 7~8월 백련축제 무렵이 절정이다.",
+    "todo": [
+     "연못 사이 나무데크 따라 산책하기",
+     "이른 아침 활짝 핀 백련 보기",
+     "청운사 경내에 잠시 들르기"
+    ],
+    "tip": "백련은 아침에 활짝 피고 한낮이면 오므라든다. 7~8월 오전에 가야 제대로 볼 수 있다."
+   }
+  ]
+ },
+ "gimpo": {
+  "nm": "김포",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 김포골드라인 지하철로 약 30~40분, 또는 올림픽대로·48번국도로 승용차 1시간 안팎. 애기봉·문수산성 같은 북부 접경지는 대중교통이 뜸해 자가용이 편하다.",
+  "sep": "가을. 애기봉·문수산 능선이 붉게 물들고 공기가 맑아 조강 너머 개성 땅까지 또렷이 보인다. 대명항의 가을 꽃게철과 봄 실치철도 놓치기 아깝다.",
+  "mood": "한강과 조강이 갈라지는 서쪽 끝, 손 닿을 듯 가까운 북녘을 바라보는 접경의 도시.",
+  "see": "분단의 전망대 애기봉, 병인·신미양요의 격전지 문수산성과 덕포진, 서해 포구 대명항과 베네치아풍 수로 라베니체.",
+  "spots": [
+   {
+    "name": "애기봉평화생태공원",
+    "rom": "조강 너머 개성을 바라보는 분단의 전망대",
+    "meta": [
+     "🕊️ 평화·접경",
+     "🔭 개성 조망",
+     "⏱ 반나절"
+    ],
+    "desc": "북한 개풍 땅이 조강 너머 약 3km 앞으로 다가서는, 한국에서 가장 가까운 접경 전망대다. 건축가 승효상이 설계한 공원에 조강전망대와 112m 흔들다리, 평화의 종이 놓여 분단의 무게를 담담히 보여준다. 맑은 날엔 저 멀리 개성 송악산 능선까지 눈에 들어온다.",
+    "todo": [
+     "조강전망대에서 개풍 마을·송악산 조망",
+     "112m 흔들다리 건너보기",
+     "평화의 종 앞에서 잠시 머물기"
+    ],
+    "tip": "군사시설보호구역이라 신분증을 챙기고 운영시간·개방일을 미리 확인하는 게 안전하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg/500px-20240927_%EC%95%A0%EA%B8%B0%EB%B4%89_%ED%8F%AC%ED%86%A0%EC%9B%8C%ED%81%AC_Real_rism_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/UK_Aegibong_memorial_stone.svg/500px-UK_Aegibong_memorial_stone.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg/500px-%EC%95%A0%EA%B8%B0%EB%B4%89_%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4_250521.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김포 문수산성",
+    "rom": "강화해협을 지킨 조선의 산성, 병인양요 격전지",
+    "meta": [
+     "🏯 사적",
+     "🥾 능선 등산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "숙종 때 강화해협을 지키려 쌓은 둘레 약 2.4km의 산성이다. 병인양요 때 김포 출신 한성근 부대가 프랑스군을 격퇴한 격전의 현장으로, 지금은 산등성이를 잇는 성곽만 남았다. 능선을 따라 오르면 강화대교와 염하(강화해협)가 한눈에 내려다보인다.",
+    "todo": [
+     "복원된 남문에서 능선 성곽길 걷기",
+     "정상에서 강화해협·강화도 조망"
+    ],
+    "tip": "산림욕장 코스로 완만하게 오를 수 있고 정상까지 왕복 2시간 안팎. 가을 단풍철이 가장 붐빈다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%AC%B8%EC%88%98%EC%82%B0%EC%84%B1_%EB%B6%81%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김포 덕포진",
+    "rom": "손돌목을 지킨 서해 관문의 포대",
+    "meta": [
+     "🏯 사적",
+     "💣 조선 포대",
+     "🌊 강화만"
+    ],
+    "desc": "서울로 드는 뱃길의 길목 손돌목을 지키던 조선의 요새다. 병인양요 때 프랑스 함대, 신미양요 때 미국 함대와 포격전을 벌인 곳으로, 흙에 묻혔던 포대와 돈대·파수청 터가 남아 있다. 강화만을 향해 늘어선 포대에 서면 뱃길을 지키던 긴장이 그대로 전해진다.",
+    "todo": [
+     "가·나·다 포대와 돈대 터 둘러보기",
+     "손돌목 물길과 강화도 조망"
+    ],
+    "tip": "발굴 때 나온 포탄·상평통보가 전시관에 있고, 인근 손돌묘 전설과 함께 보면 좋다. 대명항·함상공원과 묶어 돌기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg/500px-%EA%B9%80%ED%8F%AC_%EB%8D%95%ED%8F%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대명항",
+    "rom": "김포 유일의 포구, 서해 활어와 젓갈",
+    "meta": [
+     "🦀 가을 꽃게",
+     "🐟 수산시장",
+     "🌅 서해 노을"
+    ],
+    "desc": "김포에서 하나뿐인 지방 어항으로, 강화도와 마주한 서해 포구다. 활어를 파는 수산시장과 젓갈·회센터가 이어지고 가을이면 꽃게, 봄이면 실치가 제철을 맞는다. 함상공원과 덕포진이 걸어서 닿는 거리라 반나절 나들이로 알맞다.",
+    "todo": [
+     "수산시장에서 제철 활어·꽃게 고르기",
+     "포구 방파제 산책과 서해 노을 보기"
+    ],
+    "tip": "주말엔 주차가 붐비니 오전이 여유롭다. 회는 시장에서 사서 초장집에 상차림값을 내고 먹는 방식이 흔하다.",
+    "eat": "가을 꽃게찜·꽃게탕, 봄 실치회·실치국, 새우젓 등 서해 젓갈.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Choji_Bridge_02.JPG/500px-Choji_Bridge_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김포함상공원",
+    "rom": "퇴역 상륙함 위에 오르는 안보 체험 공원",
+    "meta": [
+     "🚢 함상 체험",
+     "⚓ 운봉함 LST",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "2006년 퇴역한 해군 상륙함 '운봉함(LST 671)'을 대명항 부두에 세워 만든 함상공원이다. 실제 갑판과 함내를 걸으며 조타실·포·선실을 둘러볼 수 있어 아이들과 오기 좋다. 갑판에 오르면 대명항 포구와 강화 앞바다가 시원하게 펼쳐진다.",
+    "todo": [
+     "운봉함 갑판·함내 조타실 둘러보기",
+     "국가안보전시관 관람",
+     "갑판에서 강화 앞바다 조망"
+    ],
+    "tip": "대명항 바로 옆이라 수산시장·덕포진과 한 번에 묶어 돌 수 있다. 입장료가 있으니 운영시간을 확인하자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gimpo_Marine_Park_01.JPG/120px-Gimpo_Marine_Park_01.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gimpo_Marine_Park_02.JPG/120px-Gimpo_Marine_Park_02.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gimpo_Marine_Park_03.JPG/120px-Gimpo_Marine_Park_03.JPG"
+    ]
+   },
+   {
+    "name": "라베니체",
+    "rom": "한강신도시 금빛수로의 베네치아풍 수변거리",
+    "meta": [
+     "🚤 곤돌라",
+     "🌃 물빛 야경",
+     "☕ 수변 카페"
+    ],
+    "desc": "한강신도시 금빛수로를 따라 조성된 베네치아풍 수변 상가거리다. 물길 위로 다리가 놓이고 양옆에 카페·맛집이 이어져, 저녁이면 조명이 물에 비쳐 이국적인 야경을 만든다. 수로를 오가는 곤돌라를 타면 잠깐이나마 베네치아를 걷는 기분이 든다.",
+    "todo": [
+     "금빛수로 따라 야경 산책",
+     "수로 곤돌라(수상택시) 타보기",
+     "수변 카페에서 물멍하기"
+    ],
+    "tip": "낮보다 해 질 무렵부터 밤이 예쁘다. 김포골드라인 장기역·운양역 쪽에서 접근이 편하다.",
+    "eat": "수변 카페거리의 디저트와 브런치, 저녁엔 물가 테라스 맛집."
+   },
+   {
+    "name": "장릉",
+    "rom": "인조가 아버지에게 올린 조선왕릉, 유네스코 세계유산",
+    "meta": [
+     "👑 조선왕릉",
+     "🌳 숲길 산책",
+     "🎫 입장 약 1000원(변동가능)"
+    ],
+    "desc": "인조의 아버지 원종과 인헌왕후를 모신 쌍릉으로, 조선왕릉 40기가 함께 유네스코 세계유산에 등재됐다. 병풍석 없이 보호석만 두른 단정한 능침 아래로 저수지와 소나무 숲길이 이어져, 도심 곁에서 고요한 산책을 즐길 수 있다. 김포한강신도시와 가까워 나들이 삼아 들르기 좋다.",
+    "todo": [
+     "홍살문·정자각 지나 능침 조망",
+     "저수지 둘레 소나무 숲길 산책"
+    ],
+    "tip": "입장료는 약 1,000원(변동 가능)이고 문화재청 관리로 정해진 관람시간이 있다. 인근 김포아트빌리지와 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JangNeung_in_Gimpo_City.jpg/500px-JangNeung_in_Gimpo_City.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gochang": {
+  "nm": "고창",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 센트럴시티 → 고창 시외버스 약 3시간 40분 · 자가용은 서해안고속도로 고창IC · 기차는 KTX 정읍역 하차 후 버스·택시로 갈아탄다(고창엔 기차역 없음).",
+  "sep": "4~5월과 9월 말, 두 번의 절정. 봄엔 학원농장 청보리가 초록 물결을 이루고 선운사 동백이 붉게 피며, 9월 말이면 선운사 계곡가에 꽃무릇이 핏빛으로 번진다. 색을 보러 가는 여행이라면 이 두 시기를 노린다.",
+  "mood": "선운사 꽃무릇이 붉게 타오르고 청보리밭엔 초록이 넘실댄다. 고창은 계절이 색으로 말을 거는 땅이다.",
+  "see": "유네스코 고인돌과 갯벌, 천년 고찰 선운사, 성곽길 도는 모양성, 끝없이 펼쳐진 청보리밭.",
+  "spots": [
+   {
+    "name": "선운사",
+    "rom": "꽃무릇과 동백이 계절을 물들이는 천년 고찰",
+    "meta": [
+     "🌺 꽃무릇 9월 말",
+     "🌸 동백 4월",
+     "⛰ 선운산 도립공원"
+    ],
+    "desc": "고창 선운산 자락에 안긴 천년 고찰. 9월 말이면 절로 드는 오솔길과 계곡가에 꽃무릇이 핏빛으로 번지고, 4월엔 대웅전 뒤 동백숲이 붉게 피어난다. 도솔암으로 오르는 길목의 마애불과 장사송까지, 걷는 내내 풍경이 계절 옷을 갈아입는다.",
+    "todo": [
+     "도솔암 마애불까지 계곡길 걷기",
+     "천연기념물 동백나무숲 둘러보기"
+    ],
+    "tip": "꽃무릇은 9월 셋째~넷째 주가 절정. 주말엔 일찍 도착해야 주차가 수월하다.",
+    "eat": "선운사 입구의 풍천장어와 복분자주가 고창의 대표 조합.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg/500px-%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg/250px-%EC%84%A0%EC%9A%B4%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고창읍성",
+    "rom": "들판을 굽어보며 한 바퀴 도는 조선 성곽길",
+    "meta": [
+     "🏯 조선 읍성(모양성)",
+     "💴 입장 약 1,000원(변동)",
+     "🍂 가을 성곽길"
+    ],
+    "desc": "조선시대에 자연석으로 쌓은 성곽이 야트막한 언덕을 따라 1.7km 이어진다. 성벽 위를 한 바퀴 걸으면 고창 읍내와 들판이 발아래로 펼쳐지고, 가을엔 단풍과 맞물려 걷는 맛이 배가된다. 머리에 돌을 이고 성을 도는 답성놀이 풍습도 전해 온다.",
+    "todo": [
+     "성곽 한 바퀴 걷기",
+     "맹종죽림과 복원 관아 둘러보기"
+    ],
+    "tip": "매년 가을 모양성제가 열린다. 성곽길은 흙·돌길이라 편한 신발을 권한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg/500px-%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gochang_Fortress_20080420.JPG/120px-Gochang_Fortress_20080420.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gochang_castle_at_spring.JPG/120px-Gochang_castle_at_spring.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고창 고인돌 유적",
+    "rom": "수천 년 전 흔적, 유네스코 세계유산 고인돌 군락",
+    "meta": [
+     "🗿 유네스코 세계유산",
+     "🚂 탐방열차",
+     "⏱ 반나절"
+    ],
+    "desc": "고창 들녘엔 청동기 시대 고인돌 수백 기가 무리 지어 남아 있다. 사람 키를 훌쩍 넘는 거대한 돌들이 줄지어 선 풍경은 수천 년 전 이곳에 살던 이들의 흔적이다. 유네스코 세계유산으로, 고인돌박물관과 탐방열차로 편하게 둘러볼 수 있다.",
+    "todo": [
+     "고인돌박물관 관람",
+     "죽림리 고인돌 군락 산책"
+    ],
+    "tip": "여름엔 그늘이 적으니 모자와 물을 챙기고, 박물관과 탐방열차를 묶어 보면 편하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg/500px-%EC%A3%BD%EB%A6%BC%EB%A6%AC%EA%B3%A0%EC%9D%B8%EB%8F%8C%282014%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "학원농장",
+    "rom": "구릉을 뒤덮는 청보리와 메밀꽃의 꽃밭",
+    "meta": [
+     "🌾 청보리 4~5월",
+     "🌼 메밀꽃 9월",
+     "💴 입장 무료"
+    ],
+    "desc": "야트막한 구릉 전체가 계절 꽃밭으로 물드는 곳. 4~5월엔 청보리가 바람에 초록 물결을 만들고, 9월엔 하얀 메밀꽃이 언덕을 뒤덮는다. 영화·드라마 촬영지로도 유명해, 어느 계절에 가도 사진 한 장이 그림엽서가 된다.",
+    "todo": [
+     "보리밭 사잇길 산책",
+     "언덕 전망 지점에서 농장 전경 담기"
+    ],
+    "tip": "청보리밭 축제는 보통 4월 말~5월 초. 이 시기 주말은 붐비니 오전 방문을 권한다.",
+    "eat": "농장에서 파는 보리 아이스크림과 보리빵이 소소한 별미."
+   },
+   {
+    "name": "상하농원",
+    "rom": "짓고 놀고 먹는, 가족을 위한 체험 농원",
+    "meta": [
+     "🐑 체험 목장",
+     "👨‍👩‍👧 가족여행",
+     "💴 입장 약 9,000원(변동)"
+    ],
+    "desc": "'짓다·놀다·먹다'를 주제로 한 체험형 농원. 양·젖소·닭이 있는 목장과 빵·소시지 공방을 오가며 만들고 맛보는 하루가 채워진다. 아이와 함께라면 종일 머물기 좋고, 정갈하게 가꾼 정원과 카페는 어른의 산책을 부른다.",
+    "todo": [
+     "동물 먹이주기 체험",
+     "수제 빵·소시지 공방 체험"
+    ],
+    "tip": "인기 체험은 홈페이지 예약을 권한다. 숙박(파머스빌리지)도 함께 운영한다.",
+    "eat": "농원에서 만든 우유·요구르트와 갓 구운 빵."
+   },
+   {
+    "name": "고창 갯벌",
+    "rom": "노을을 담는 유네스코 세계자연유산 갯벌",
+    "meta": [
+     "🦀 유네스코 갯벌",
+     "🌅 노을 명소",
+     "⏱ 반나절"
+    ],
+    "desc": "서해로 열린 고창 바닷가엔 세계에서 손꼽히는 두꺼운 퇴적층의 갯벌이 펼쳐진다. 물이 빠지면 끝이 보이지 않는 진흙 벌판 위로 게와 짱뚱어가 분주하고, 해질녘엔 온 갯벌이 붉은 노을을 담는다. 유네스코 세계자연유산 '한국의 갯벌' 중 한 곳이다.",
+    "todo": [
+     "물때 맞춰 갯벌 생태 체험",
+     "구시포·동호 해변에서 노을 보기"
+    ],
+    "tip": "물때표를 미리 확인해 간조 시간에 맞춰 가야 갯벌이 넓게 드러난다.",
+    "eat": "바지락·백합 조개 요리와 조개 소금구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg/500px-%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285142409%29.jpg/500px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285142409%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20150808%EC%B5%9C%EA%B4%91%EB%AA%A8RX10DSC01732.JPG/500px-20150808%EC%B5%9C%EA%B4%91%EB%AA%A8RX10DSC01732.JPG"
+    ]
+   },
+   {
+    "name": "미당시문학관",
+    "rom": "'국화 옆에서'의 시인, 서정주의 고향 문학관",
+    "meta": [
+     "📖 서정주 시인",
+     "💴 입장 약 3,000원(변동)",
+     "⏱ 1~2시간"
+    ],
+    "desc": "'국화 옆에서'의 시인 미당 서정주의 고향 마을에 선 문학관. 폐교를 고쳐 만든 나지막한 건물 안에 시인의 육필과 유품 수천 점이 놓였고, 전망대에 오르면 그가 노래한 질마재 들판과 바다가 한눈에 든다. 조용히 시 한 편 읽고 가기 좋은 곳이다.",
+    "tip": "인근 질마재길·소금밭과 묶어 둘러보면 시인의 고향 풍경이 자연스레 이어진다."
+   }
+  ]
+ },
+ "goesan": {
+  "nm": "괴산",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울에서 중부내륙고속도로 괴산IC까지 약 1시간 40분, 부산 기준 약 3시간 30분. 대중교통은 불편해 청주·충주에서 시외버스 뒤 군내버스로 갈아타야 하니 자동차 여행을 권한다.",
+  "sep": "가을(10월 말~11월 초)이 절정 — 산막이옛길과 화양구곡의 단풍, 문광저수지 은행나무길이 한꺼번에 물든다. 여름엔 쌍곡·선유동 맑은 계곡이 피서지로 좋다.",
+  "mood": "서울에서 두 시간, 사방이 산으로 둘러싸인 물의 고장. 호숫가 벼랑을 따라 걷는 옛길과, 흰 바위를 씻어 내리는 아홉 굽이 계곡이 기다린다.",
+  "see": "괴산호를 끼고 도는 산막이옛길, 우암 송시열의 자취가 남은 화양구곡, 쌍곡·선유동의 맑은 물길과 천년 고찰 각연사.",
+  "spots": [
+   {
+    "name": "산막이옛길",
+    "rom": "괴산호를 끼고 걷는 벼랑 위 옛길",
+    "meta": [
+     "💴 입장 무료(주차료 별도)",
+     "⏱ 왕복 반나절",
+     "🚶 데크길 트레킹",
+     "🍁 가을 단풍"
+    ],
+    "desc": "산골 마을 사오랑에서 산막이마을까지, 괴산호 물가 벼랑을 따라 4km 남짓 이어지는 나무 데크길이다. 왼편은 깎아지른 절벽, 오른편은 잔잔한 호수라 걸음마다 물빛이 따라온다. 예전 주민들이 걸어 다니던 소롯길을 다듬어 만든 길이라 이름 그대로 '옛길'의 정취가 남아 있다.",
+    "todo": [
+     "연리지·앉은뱅이약수 등 이름 붙은 쉼터 지나며 완주하기",
+     "산막이마을 선착장에서 유람선으로 호수 위 풍경 담기"
+    ],
+    "tip": "편도로 걷고 유람선이나 전동차로 돌아오면 무릎이 편하다. 주말과 단풍철 오전엔 주차장이 금세 차니 일찍 도착하는 게 좋다.",
+    "eat": "괴산호 인근 식당의 올갱이(다슬기) 해장국과 손두부"
+   },
+   {
+    "name": "화양구곡",
+    "rom": "우암 송시열이 사랑한 아홉 굽이 계곡",
+    "meta": [
+     "💴 입장 무료(주차료 별도)",
+     "⏱ 반나절",
+     "🏞️ 명승 제110호",
+     "🌿 여름 계곡"
+    ],
+    "desc": "속리산 자락 화양천을 따라 경천벽부터 파곶까지 아홉 굽이 절경이 3km에 걸쳐 이어진다. 조선 후기 대학자 우암 송시열이 머물며 제자를 가르친 곳으로, 물가 바위 위 작은 서재 암서재가 여전히 계곡을 내려다본다. 흰 너럭바위 위로 맑은 물이 흐르는 풍경이 선비들이 왜 이곳에 반했는지 말해 준다.",
+    "todo": [
+     "1곡 경천벽부터 순서대로 짚어 걸으며 각 굽이 이름 찾기",
+     "물가 바위 위 암서재와 화양서원 터 둘러보기"
+    ],
+    "tip": "계곡 안쪽까지 걷는 길이라 편한 신발이 필수. 여름 성수기엔 물놀이 인파로 붐비니 이른 시간을 노리자.",
+    "eat": "화양동 입구 식당가의 산채비빔밥과 도토리묵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg/500px-%ED%99%94%EC%96%91%EA%B5%AC%EA%B3%A1_%EC%95%94%EC%84%9C%EC%9E%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "쌍곡계곡",
+    "rom": "속리산국립공원 속 청정 아홉 소",
+    "meta": [
+     "💴 입장 무료(주차료 별도)",
+     "⏱ 반나절",
+     "🏔️ 속리산국립공원",
+     "🏊 여름 피서"
+    ],
+    "desc": "군자산과 보배산 사이로 흐르는 쌍곡은 소금강이라 불릴 만큼 물과 바위가 어우러진 계곡이다. 호롱소, 소금강, 쌍벽 같은 아홉 명소가 10여 리에 걸쳐 이어지고, 여름이면 맑고 시원한 물빛에 발을 담그러 오는 이들로 붐빈다. 물가 그늘 바위에 앉아 흐르는 물소리만 들어도 더위가 가신다.",
+    "todo": [
+     "쌍곡폭포와 소금강 앞에서 물빛 감상하기",
+     "군자산 등산로 초입까지 가볍게 걸어보기"
+    ],
+    "tip": "여름 성수기엔 계곡 진입 차량이 통제될 수 있으니 주차장 상황을 미리 확인하자.",
+    "eat": "쌍곡 입구 마을의 능이·표고버섯 백숙"
+   },
+   {
+    "name": "선유동계곡",
+    "rom": "신선이 노닐던 흰 바위 물길",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 두어 시간",
+     "🌊 아홉 굽이 계곡",
+     "📷 사진 명소"
+    ],
+    "desc": "화양구곡에서 멀지 않은 선유동은 '신선이 노닐던 골짜기'라는 이름 그대로 희고 매끈한 화강암을 물이 굽이굽이 씻어 내리는 곳이다. 선유동문, 학소대 같은 기암 사이로 옥빛 물이 고였다 흐르길 반복해, 굽이마다 발걸음을 멈추게 한다. 화양구곡과 묶어 하루에 둘러보기 좋다.",
+    "todo": [
+     "아홉 굽이 기암을 하나씩 짚어보며 걷기",
+     "물 맑은 소에서 발 담그고 쉬어가기"
+    ],
+    "tip": "화양구곡과 가까워 함께 코스로 엮으면 이동 시간이 절약된다. 큰비 뒤엔 물이 불어 미끄러우니 주의.",
+    "eat": "인근 청천면의 손칼국수와 감자전"
+   },
+   {
+    "name": "각연사",
+    "rom": "까마귀가 점지한 천년 산사",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 한두 시간",
+     "🛕 신라 고찰",
+     "🏛️ 보물 비로자나불"
+    ],
+    "desc": "칠성면 태성리 깊은 산속에 신라 법흥왕 때 세워졌다는 각연사가 조용히 앉아 있다. 까마귀 떼가 연못 속 석불을 물어 나른 자리에 절을 지었다는 전설에서 이름이 나왔다. 비로전에 모신 석조비로자나불좌상(보물)과 통일대사탑비 등 천년의 흔적이 소박한 산사 마당을 지킨다.",
+    "todo": [
+     "비로전의 석조비로자나불좌상 앞에서 잠시 머물기",
+     "절 뒤 통일대사탑까지 숲길 오르기"
+    ],
+    "tip": "관광지가 아니라 수행 도량이니 조용히 예를 갖추고 둘러보는 것이 좋다. 진입로가 좁으니 서행.",
+    "eat": "칠성면 일대의 올갱이국과 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%EA%B0%81%EC%97%B0%EC%82%AC.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg/500px-%EA%B0%81%EC%97%B0%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%B9%84%EB%A1%9C%EC%9E%90%EB%82%98%EB%B6%88%EC%A2%8C%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "문광저수지 은행나무길",
+    "rom": "물에 비친 노란 은행 터널",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 한두 시간",
+     "🍂 11월 초 절정",
+     "📷 반영 사진"
+    ],
+    "desc": "문광면 조용한 저수지 둑을 따라 늘어선 아름드리 은행나무가 11월 초면 온통 황금빛으로 물든다. 잔잔한 물 위로 노란 잎과 하늘이 그대로 비쳐, 사진 좋아하는 이들이 새벽부터 삼각대를 세우는 가을 명소다. 낙엽이 깔린 흙길을 천천히 걷는 것만으로 계절이 가슴에 스민다.",
+    "todo": [
+     "둑길 은행 터널 걸으며 낙엽 밟기",
+     "물에 비친 반영 사진 담기"
+    ],
+    "tip": "단풍 절정은 해마다 다르지만 대체로 11월 상순. 아침 물안개가 낄 때가 가장 예쁘고 주차 공간이 넉넉지 않다.",
+    "eat": "문광·괴산읍내의 괴산 찰옥수수와 대학찰옥수수 간식"
+   },
+   {
+    "name": "수옥폭포",
+    "rom": "조령 아래로 쏟아지는 세 단 물줄기",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 한 시간",
+     "💦 약 20m 폭포",
+     "❄️ 겨울 빙벽"
+    ],
+    "desc": "연풍면 조령 고갯길 아래, 약 20m 높이로 세 단을 이루며 쏟아지는 수옥폭포가 시원한 물보라를 뿜는다. 폭포 앞 정자 수옥정에 앉으면 물줄기 소리가 그대로 귀를 씻어 준다. 여름엔 청량한 피서지, 한겨울엔 물줄기가 얼어붙어 빙벽으로 변하는 두 얼굴의 명소다.",
+    "todo": [
+     "폭포 앞 수옥정에서 물보라 바라보기",
+     "주변 산책로 따라 조령 방향으로 걸어보기"
+    ],
+    "tip": "폭포까지는 주차장에서 짧게 걸으면 닿는다. 비 온 뒤 수량이 많을 때가 가장 웅장하다.",
+    "eat": "연풍 일대의 손두부와 청국장 정식"
+   }
+  ]
+ },
+ "goheung": {
+  "nm": "고흥",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 센트럴시티터미널에서 고흥행 시외버스 약 4시간 30분~5시간. 자가용은 서울에서 약 4시간 30분, 부산에서 약 3시간. 가까운 순천역·여수공항에서 차로 1시간 남짓.",
+  "sep": "봄(4~5월) 팔영산 신록과 유채, 여름(7~8월) 나로도·남열 해수욕, 가을(10~11월) 하늘이 맑아 다도해 조망과 우주센터가 가장 좋다. 겨울엔 굴·꼬막 등 남해 별미가 제철.",
+  "mood": "로켓이 하늘로 오른 한반도 남쪽 끝. 섬과 바다와 우주가 한자리에 모인 고흥.",
+  "see": "우리나라 유일 우주발사장, 다도해를 굽어보는 팔영산, 아픔을 품은 소록도까지 — 바다와 우주가 겹치는 남녘.",
+  "spots": [
+   {
+    "name": "나로우주센터 우주과학관",
+    "rom": "한국 로켓이 하늘로 오른 그 자리",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "🚀 우주 체험"
+    ],
+    "desc": "우리나라 최초의 우주발사장이 있는 외나로도, 그 옆 우주과학관에는 실물 크기 로켓 모형과 발사 원리를 손으로 만져보는 전시가 가득하다. 아이 손을 잡고 로켓 아래에 서 보면 '여기서 진짜 로켓이 올라갔다'는 실감이 온다. 창밖으로는 남해 바다와 발사대 방향이 트여 있어, 과학관이 아니라 우주로 향하는 문 앞에 선 기분이 든다.",
+    "todo": [
+     "실물 크기 로켓 모형 아래에서 사진 찍기",
+     "우주 비행·무중력 체험 전시 돌아보기",
+     "전망대에서 발사대 방향 바다 바라보기"
+    ],
+    "tip": "우주센터 본 시설은 평소 통제구역이라 일반 관람은 우주과학관만 가능. 주말·방학엔 붐비니 오전 일찍 가면 여유롭다.",
+    "eat": "외나로도 나로도항 주변 삼치회·해산물, 고흥 특산 유자차.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/KSLV-II_Nuri_and_the_launchpad_02.jpg/500px-KSLV-II_Nuri_and_the_launchpad_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "팔영산",
+    "rom": "여덟 봉우리로 다도해를 굽어보다",
+    "meta": [
+     "🅿️ 주차 무료",
+     "⏱ 반나절~하루",
+     "⛰️ 능선 산행",
+     "🌊 다도해 조망"
+    ],
+    "desc": "여덟 개의 바위 봉우리가 나란히 솟은 팔영산은, 능선에 올라서면 발아래로 다도해의 섬들이 점점이 흩뿌려진다. 봉우리마다 쇠사다리와 밧줄을 잡고 오르는 재미가 있어 짧아도 알찬 산행이 된다. 산자락에는 오래된 절 능가사가 조용히 앉아 있어, 내려오는 길에 한 번 들르면 마음이 가라앉는다.",
+    "todo": [
+     "1봉부터 8봉까지 능선 종주",
+     "능가사 대웅전과 오래된 나무 둘러보기",
+     "정상에서 다도해 섬 세어보기"
+    ],
+    "tip": "바위 구간이 많아 미끄럼 없는 등산화 필수. 팔영산 자연휴양림 쪽에서 오르면 코스가 비교적 완만하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소록도",
+    "rom": "아픔을 품은 섬, 지금은 치유의 숲",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🕊️ 역사·치유"
+    ],
+    "desc": "작은 사슴을 닮았다는 소록도는 오랜 세월 한센병 환자들의 삶과 아픔이 새겨진 섬이다. 소록대교를 건너 들어서면 손으로 하나하나 가꾼 중앙공원의 나무들이 단정하게 반겨준다. 부모와 자식이 멀리서만 바라봐야 했던 '수탄장' 이야기 앞에 서면, 이 고요한 숲이 왜 이렇게 마음을 붙드는지 알게 된다.",
+    "todo": [
+     "중앙공원 산책하며 조형물·기념비 보기",
+     "한센병 박물관에서 섬의 역사 읽기",
+     "수탄장 자리에서 잠시 머물기"
+    ],
+    "tip": "병원·거주 구역은 출입 제한이니 개방된 탐방로만 걷는다. 정숙이 예의인 곳, 조용히 둘러본다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%EC%86%8C%EB%A1%9D%EB%8F%84_%EB%B0%94%EB%8B%A4.jpg/500px-%EC%86%8C%EB%A1%9D%EB%8F%84_%EB%B0%94%EB%8B%A4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%EC%86%8C%EB%A1%9D%EB%8F%84%EC%9D%98_%EC%A0%84%EA%B2%BD.jpg/500px-%EC%86%8C%EB%A1%9D%EB%8F%84%EC%9D%98_%EC%A0%84%EA%B2%BD.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%EC%86%8C%EB%A1%9D%EB%8F%84_%ED%95%99%EA%B5%90.jpg/500px-%EC%86%8C%EB%A1%9D%EB%8F%84_%ED%95%99%EA%B5%90.jpg"
+    ]
+   },
+   {
+    "name": "거금도·거금대교",
+    "rom": "바다 위 다리를 건너 만나는 자전거 섬",
+    "meta": [
+     "🚲 해안 자전거길",
+     "🌉 거금대교",
+     "⏱ 반나절"
+    ],
+    "desc": "소록도를 지나 거금대교를 건너면 나오는 거금도는, 섬을 한 바퀴 도는 해안 자전거길로 이름난 곳이다. 파도 소리 옆에서 페달을 밟으면 바다와 하늘이 통째로 내 것이 된다. 섬 가운데 솟은 적대봉에 오르면 다도해가 사방으로 펼쳐지고, 프로레슬러 김일의 고향답게 그를 기리는 체육관도 만날 수 있다.",
+    "todo": [
+     "거금도 해안 자전거길 라이딩",
+     "적대봉 정상에서 다도해 조망",
+     "거금대교 전망대에서 다리 야경 보기"
+    ],
+    "tip": "자전거는 녹동·금진 쪽에서 대여 가능. 오르막 구간이 있어 전기자전거가 편하다.",
+    "eat": "거금도 굴·꼬막, 유자 향 나는 고흥 한상."
+   },
+   {
+    "name": "고흥 우주발사전망대",
+    "rom": "바다 위로 솟은 로켓 모양 전망대",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "🌅 일출·바다",
+     "⏱ 1~2시간"
+    ],
+    "desc": "영남면 바닷가 언덕에 로켓처럼 솟은 우주발사전망대는, 꼭대기 전망층에 서면 남열해돋이해수욕장과 다도해가 한눈에 담긴다. 날 좋은 날엔 멀리 나로도 방향까지 시야가 트여 이름값을 톡톡히 한다. 아래 남열해수욕장은 서핑과 일출 명소라, 이른 아침 바다에서 해가 솟는 장면을 노려볼 만하다.",
+    "todo": [
+     "전망층에서 다도해·해수욕장 파노라마 보기",
+     "남열해돋이해수욕장 모래밭 걷기",
+     "해 뜰 무렵 일출 맞이하기"
+    ],
+    "tip": "전망대로 오르는 해안도로가 드라이브 코스로 좋다. 일출을 보려면 해 뜨기 40분 전 도착."
+   },
+   {
+    "name": "녹동항",
+    "rom": "소록도로 건너가는 남녘의 항구",
+    "meta": [
+     "🐟 회·수산시장",
+     "⛴️ 유람선",
+     "🌃 항구 야경"
+    ],
+    "desc": "고흥반도 끝에 자리한 녹동항은 소록도·거금도로 가는 길목이자, 갓 잡은 해산물이 모이는 활기찬 항구다. 수산시장에서 제철 회 한 접시를 떠 바다를 보며 먹으면 여행의 피로가 씻긴다. 밤이면 소록대교와 항구에 불이 들어와, 바닷바람 맞으며 걷기 좋은 야경 산책길이 된다.",
+    "todo": [
+     "녹동 수산시장에서 제철 회·꼬막 맛보기",
+     "소록대교 야경 산책",
+     "유람선·낚싯배로 바다 나가보기"
+    ],
+    "eat": "녹동항 활어회, 고흥 참장어(하모)·굴구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg/500px-Nokdong_Coastal_Ferry_Terminal_DEC2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "나로도 해수욕장·편백숲",
+    "rom": "우주센터 옆, 백사장과 편백 향의 섬",
+    "meta": [
+     "🏖️ 여름 해수욕",
+     "🌲 편백숲 산책",
+     "⏱ 반나절"
+    ],
+    "desc": "나로우주센터가 있는 외나로도는 로켓만의 섬이 아니다. 고운 백사장이 이어지는 나로도해수욕장에선 여름이면 물놀이가, 언덕 위 편백숲에선 사철 맑은 향의 숲길 산책이 기다린다. 우주센터를 본 뒤 바다와 숲으로 하루를 이어 붙이면, 이 남쪽 섬이 얼마나 알찬지 알게 된다.",
+    "todo": [
+     "나로도해수욕장 백사장 걷기·물놀이",
+     "편백숲에서 삼림욕 산책",
+     "나로도항에서 해산물 맛보기"
+    ],
+    "tip": "여름 성수기엔 해수욕장 주차가 붐빈다. 우주센터와 묶어 반나절씩 나눠 도는 코스가 편하다.",
+    "eat": "나로도항 삼치회·갈치조림.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PortHamiltonLocMap.png/500px-PortHamiltonLocMap.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gokseong": {
+  "nm": "곡성",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 전라선 열차로 곡성역까지 약 2시간 40분, 부산에서는 자가용 약 3시간(순천완주고속도로 곡성IC). 역과 기차마을이 걸어서 닿는 거리라 뚜벅이 여행에 잘 맞는다.",
+  "sep": "5월. 천사장미원에 장미가 만발해 세계장미축제가 열리고, 섬진강변 신록과 증기기관차가 가장 어울리는 계절이다. 가을 새벽 침실습지 물안개도 이때 못지않게 아름답다.",
+  "mood": "느린 증기기관차가 섬진강을 끼고 달리고, 새벽 강가엔 물안개가 피어오르는 곳. 급할 것 하나 없는 전라도 산골 마을.",
+  "see": "섬진강 따라 달리는 증기기관차와 강변 레일바이크, 물안개 피는 습지, 산자락에 조용히 앉은 옛 절과 계곡.",
+  "spots": [
+   {
+    "name": "섬진강 기차마을",
+    "rom": "폐선 위를 다시 달리는 증기기관차",
+    "meta": [
+     "💴 증기기관차 왕복 약 9,000원(변동가능)",
+     "⏱ 반나절",
+     "🌹 5월 장미축제"
+    ],
+    "desc": "1998년 전라선이 새로 놓이며 버려진 옛 철길 위를, 증기기관차를 본떠 만든 관광열차가 다시 달린다. 곡성역에서 가정역까지 섬진강 협곡을 끼고 천천히 나아가면 강물과 산 그림자가 창밖으로 흘러간다. 봄이면 천사장미원에 장미가 흐드러지게 피어 세계장미축제가 열린다.",
+    "todo": [
+     "증기기관차 타고 곡성~가정역 왕복하기",
+     "천사장미원(1004 장미공원) 한 바퀴 걷기",
+     "구 곡성역 근처 옛 역사 풍경 담기"
+    ],
+    "tip": "5월 세계장미축제 기간과 주말은 기차·주차가 크게 붐빈다. 증기기관차는 회차 시간이 정해져 있으니 미리 예매하고 시간표를 확인하는 게 좋다.",
+    "eat": "역 앞 재래시장의 곡성 한우와 국밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Oldgokseongst.jpg/500px-Oldgokseongst.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gokseongststeamlocomotive.jpg/500px-Gokseongststeamlocomotive.jpg"
+    ]
+   },
+   {
+    "name": "섬진강 레일바이크",
+    "rom": "강바람 맞으며 페달로 달리는 옛 철길",
+    "meta": [
+     "💴 2인승 약 3만원(변동가능)",
+     "⏱ 1시간",
+     "🚲 강변 코스"
+    ],
+    "desc": "침곡역에서 가정역까지 5km 남짓, 옛 철길을 그대로 살린 레일바이크가 섬진강을 바로 옆에 두고 달린다. 두 발로 페달을 밟는 만큼만 앞으로 나가니 강바람과 물소리를 온전히 느끼며 갈 수 있다. 도착지 가정역엔 강을 건너는 출렁다리가 있어 걸음을 잇기 좋다.",
+    "todo": [
+     "침곡역에서 가정역까지 강변 레일바이크 타기",
+     "가정역 출렁다리 건너 섬진강 바라보기"
+    ],
+    "tip": "여름 한낮엔 그늘이 적어 모자와 물을 챙기는 게 좋다. 2인승·4인승이 있고 주말엔 조기 매진되니 예약 권장."
+   },
+   {
+    "name": "침실습지",
+    "rom": "새벽마다 물안개가 피어오르는 강가",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌫 새벽 물안개"
+    ],
+    "desc": "섬진강이 굽이도는 자리에 넓게 펼쳐진 습지로, 생태가 살아 있어 국가습지보호지역으로 지정됐다. 해 뜨기 전 강 위로 물안개가 자욱하게 깔리면 낮은 잠수교와 나무들이 안개 속에 잠겨 비현실적인 풍경이 된다. 사진 찍는 사람들이 새벽을 기다려 찾는 곳이다.",
+    "todo": [
+     "새벽에 잠수교 위에서 물안개 바라보기",
+     "습지 데크길 따라 천천히 산책하기"
+    ],
+    "tip": "물안개는 일교차가 큰 봄가을 새벽에 가장 잘 낀다. 잠수교는 비가 많이 오면 물에 잠기니 강 수위를 확인하고 갈 것."
+   },
+   {
+    "name": "태안사",
+    "rom": "숲길 끝 계곡 위에 앉은 천년 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "동리산 깊은 골짜기, 통일신라 때 세워진 구산선문의 한 본산이다. 일주문에서 절까지 이어지는 계곡 숲길이 길고 조용해 걷는 동안 마음이 가라앉는다. 계곡 물 위에 다리처럼 놓인 능파각을 지나면 오래된 부도탑들이 나무 사이에 서 있다.",
+    "todo": [
+     "일주문부터 계곡 따라 숲길 걷기",
+     "능파각 위에서 계곡 물소리 듣기",
+     "적인선사탑 등 옛 부도탑 둘러보기"
+    ],
+    "tip": "진입로가 좁고 길어 운전에 여유가 필요하다. 가을 단풍철이 가장 아름답지만 그만큼 붐빈다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "곡성 도림사",
+    "rom": "너럭바위 계곡을 낀 동악산 절집",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "💧 여름 계곡"
+    ],
+    "desc": "동악산 자락에 660년 무렵 세워졌다 전해지는 절로, 도인들이 숲처럼 모여들었다 하여 도림사라 불린다. 절 아래로 이어지는 도림사 계곡은 널찍한 너럭바위 위로 맑은 물이 흘러 여름이면 발 담그러 오는 이가 많다. 보물로 지정된 괘불탱을 품은 조용한 산사다.",
+    "todo": [
+     "도림사 계곡 너럭바위에서 쉬어가기",
+     "동악산 초입 산길 잠깐 걷기"
+    ],
+    "tip": "여름 성수기엔 계곡 주차가 어렵다. 물놀이보다 바위에 앉아 쉬기 좋은 곳으로 생각하고 가면 실망이 없다.",
+    "eat": "곡성 다슬기(대사리) 수제비와 탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dorimsa_%28Gokseong%29_13-08808.JPG/500px-Dorimsa_%28Gokseong%29_13-08808.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG/120px-Dorimsa_Odomun_%28Gokseong%29_13-08805.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG/120px-Dorimsa_Bogwangjeon_%28Gokseong%29_13-08817.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "관음사",
+    "rom": "심청 이야기가 흐르는 성덕산 옛 절",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏛 고려 목조건축"
+    ],
+    "desc": "성덕산 자락에 백제 때 세워졌다 전해지는 절로, 눈먼 아버지를 위해 몸을 바친 심청 설화의 원류가 깃든 곳으로 알려져 있다. 고려 말 건축 양식을 잘 보여주는 원통전이 자리해 건축을 좋아하는 이들이 일부러 찾는다. 사람이 많지 않아 고요하게 옛 절의 결을 느끼기 좋다.",
+    "todo": [
+     "원통전 앞에서 고려 목조건축 살펴보기",
+     "성덕산 숲에 둘러싸인 경내 천천히 걷기"
+    ],
+    "tip": "관광지처럼 꾸며진 곳이 아니라 조용한 산사다. 편한 신발로 여유 있게 둘러보는 걸 권한다."
+   }
+  ]
+ },
+ "gongju": {
+  "nm": "공주",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 남부터미널에서 고속버스로 약 1시간 40분, 자가용은 천안논산고속도로로 약 2시간. 부산에선 대전 경유가 편하다. 시내가 아담해 명소끼리 차로 가깝게 이어진다.",
+  "sep": "봄엔 '춘마곡' 마곡사 신록과 공산성 벚꽃, 가을엔 '추갑사' 갑사 단풍이 최고다. 9~10월 백제문화제 땐 금강에 유등이 뜨고 공산성 야경이 절정을 이룬다.",
+  "mood": "1500년 전 백제의 두 번째 수도. 금강이 감싸안은 성벽과 왕의 무덤이 여전히 도시 한복판에 살아 숨 쉰다.",
+  "see": "유네스코 백제역사유적(공산성·무령왕릉)부터 산사 마곡사·갑사, 강가 구석기 석장리까지 이어지는 시간여행.",
+  "spots": [
+   {
+    "name": "공주 공산성",
+    "rom": "금강을 굽어보는 백제 웅진의 왕성",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "🌃 야경·🌸 봄 벚꽃"
+    ],
+    "desc": "금강을 굽어보는 언덕 위로 2.6km 성벽이 능선을 따라 굽이친다. 백제가 웅진(공주)으로 도읍을 옮겼던 475년의 왕성으로, 한 바퀴 걷다 보면 강바람과 함께 옛 도성의 윤곽이 발밑에 펼쳐진다. 해 질 무렵 성벽에 조명이 들어오면 금강 수면에 빛이 번져 야경이 특히 곱다.",
+    "todo": [
+     "성벽 한 바퀴(약 2.6km) 걷기",
+     "금서루·공북루에서 금강 조망",
+     "야간개장 때 성벽 야경 보기"
+    ],
+    "tip": "매표소는 금서루 쪽. 성벽길은 오르내림이 있어 편한 신발을 권한다. 백제문화제 기간엔 야간 행사와 유등이 함께 열린다.",
+    "eat": "공산성 앞 산성시장에서 국밥·칼국수, 후식으로 공주 밤(栗) 간식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg/500px-%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg/500px-Geumseoru_Gate_Pavilion_of_Gongsanseong_Fortress_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monuments_at_Geumseoru_Gate_Pavilion.jpg/500px-Monuments_at_Geumseoru_Gate_Pavilion.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "공주 무령왕릉과 왕릉원",
+    "rom": "주인이 밝혀진 삼국시대 유일의 왕릉",
+    "meta": [
+     "💴 입장 약 1,500원",
+     "⏱ 1~2시간",
+     "🏛 유네스코 세계유산"
+    ],
+    "desc": "1971년 배수로 공사 중 우연히 열린, 삼국시대에서 유일하게 주인이 확인된 왕의 무덤이다. 벽돌을 쌓아 만든 아치형 무덤방에서 무령왕과 왕비의 금제 관식과 지석이 쏟아져 나왔다. 실제 능은 보존을 위해 닫혀 있지만, 옆 모형 전시관에서 그 정교한 벽돌방을 그대로 재현해 걸어 들어가 볼 수 있다.",
+    "todo": [
+     "웅진백제역사관·모형 전시관에서 무덤 내부 재현 보기",
+     "송산리 고분군 언덕 산책",
+     "국립공주박물관과 이어서 관람"
+    ],
+    "tip": "실물 능 내부는 비공개라 모형관 위주로 본다. 국립공주박물관이 도보권이라 출토 유물 실물까지 함께 보면 이야기가 완성된다.",
+    "eat": "인근 시내에서 공주 칼국수·밤 막걸리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tomb_of_Muryeong_of_Baekje.JPG/500px-Tomb_of_Muryeong_of_Baekje.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG/500px-Tombs_of_No._5%2C_No_6%2C_and_Muryeong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg/500px-%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89%EB%B0%9C%EA%B5%B4%EA%B3%BC%EC%A0%95_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립공주박물관",
+    "rom": "무령왕릉 국보를 실물로 만나는 곳",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏛 무령왕릉 유물"
+    ],
+    "desc": "무령왕릉에서 나온 금제 관식·지석·석수 같은 국보들이 실제로 놓여 있는 곳이다. 무덤에서 본 '재현'이 여기선 진짜 유물로 이어진다. 웅진백제의 세련된 금속 공예를 눈앞에서 보고 나면, 1500년 전 이 도시가 어떤 곳이었는지 실감이 난다.",
+    "todo": [
+     "무령왕릉실 국보 유물 관람",
+     "야외 정원·석조물 산책"
+    ],
+    "tip": "입장 무료다. 무령왕릉과 도보권이라 묶어서 보기 좋고, 월요일 휴관 여부를 미리 확인하자.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gongju_National_Museum_2023.jpg/500px-Gongju_National_Museum_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chungcheongnam-do_History_Museum.jpg/500px-Chungcheongnam-do_History_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "마곡사",
+    "rom": "봄이 가장 아름다운 유네스코 산사, 춘마곡",
+    "meta": [
+     "💴 입장료 변동가능",
+     "⏱ 반나절",
+     "🌸 춘마곡 봄",
+     "🏛 유네스코 산사"
+    ],
+    "desc": "'봄은 마곡사'라 해서 춘마곡이라 불릴 만큼 봄 경관이 이름난 절이다. 태화산 자락 깊은 계곡을 끼고 개울 위 다리를 건너 경내에 들어서면 오래된 나무 향과 물소리가 함께 흐른다. 유네스코가 인정한 '한국의 산지승원'으로, 백범 김구가 한때 몸을 숨긴 곳으로도 알려져 있다.",
+    "todo": [
+     "개울 건너 대광보전·오층석탑 보기",
+     "마곡사 솔바람길(태화산 숲길) 걷기",
+     "백범 김구 은거 흔적 둘러보기"
+    ],
+    "tip": "봄 신록과 가을 단풍이 특히 좋다. 시내에서 차로 약 30분이며 대중교통 편수가 적으니 미리 확인하는 게 좋다.",
+    "eat": "사찰 앞 식당가의 산채비빔밥·더덕구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/500px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2009-10-11_-_Magoksa_Panorama.jpg/1280px-2009-10-11_-_Magoksa_Panorama.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "갑사",
+    "rom": "계룡산 서쪽 자락, 가을이 깊은 추갑사",
+    "meta": [
+     "💴 입장료 변동가능",
+     "⏱ 반나절",
+     "🍁 추갑사 단풍"
+    ],
+    "desc": "'가을은 갑사'라 하여 추갑사로 불리는, 계룡산 서쪽 자락의 오래된 절이다. 일주문에서 절까지 이어지는 '오리숲' 숲길이 특히 유명해, 단풍철이면 붉게 물든 터널을 걷는 기분이 든다. 계룡산 등산의 들머리이자, 가볍게 숲만 걸어도 충분히 좋은 곳이다.",
+    "todo": [
+     "오리숲 숲길 산책",
+     "갑사~용문폭포 계곡길 걷기",
+     "계룡산 연천봉 방향 등산(선택)"
+    ],
+    "tip": "가을 단풍 성수기 주말은 주차가 혼잡하니 아침 일찍 가면 숲이 한적하다. 등산에 나선다면 코스 난이도를 미리 확인하자.",
+    "eat": "갑사 입구의 도토리묵·산채정식·파전.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%EA%B3%B5%EC%A3%BC_%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "공주 석장리 유적(석장리박물관)",
+    "rom": "한반도 구석기를 처음 증명한 강가 유적",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 1~2시간",
+     "🦕 구석기 선사"
+    ],
+    "desc": "금강 강가에서 한반도에 구석기 시대가 있었음을 처음으로 증명한 유적이다. 남한 최초로 발견된 구석기 유적지로, 강변을 따라 발굴터와 움집 복원지, 야외 선사공원이 이어진다. 아이와 함께라면 뗀석기와 원시 생활을 눈높이에서 보여줄 수 있어 특히 좋다.",
+    "todo": [
+     "석장리박물관 전시관 관람",
+     "야외 선사공원·움집 복원지 산책",
+     "금강 강변 풍경 감상"
+    ],
+    "tip": "매년 봄 구석기축제가 열린다. 아이 동반 가족 코스로 무난하니 관람 시간에 여유를 두자.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EA%B3%B5%EC%A3%BC_%EC%84%9D%EC%9E%A5%EB%A6%AC_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "공주 한옥마을",
+    "rom": "유적지 옆에서 하룻밤, 백제 도읍의 정취",
+    "meta": [
+     "💴 무료(숙박 별도)",
+     "⏱ 1~2시간",
+     "🏠 한옥 체험"
+    ],
+    "desc": "무령왕릉과 국립공주박물관 바로 옆에 조성된 한옥 단지다. 낮에는 마당과 처마 사이를 거닐며 백제의 정취를 느끼고, 원한다면 하룻밤 묵어 갈 수도 있다. 유적지 사이에 자리해 있어 공주의 옛 도읍 분위기를 그대로 이어 걷기 좋다.",
+    "todo": [
+     "한옥 마당·전통 건축 둘러보기",
+     "한옥 숙박 체험(예약)",
+     "인근 무령왕릉·박물관과 연계 산책"
+    ],
+    "tip": "숙박은 성수기·주말이면 예약이 필수다. 무령왕릉·박물관과 도보권이라 묶어 반나절 코스로 짜기 좋다.",
+    "eat": ""
+   }
+  ]
+ },
+ "goryeong": {
+  "nm": "고령",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "대구 서부정류장에서 고령행 버스로 약 40~50분(사실상 대구 생활권). 서울은 동대구까지 KTX로 온 뒤 대구에서 환승, 부산에서는 자차로 1시간 30분 안팎.",
+  "sep": "봄과 가을. 봄이면 쌍림면 딸기가 제철이라 온 동네가 달콤하고 개실마을 뒷산에 진달래가 붉게 물든다. 가을엔 지산동 고분 능선이 억새와 단풍으로 부드럽게 물들어 걷기 좋다.",
+  "mood": "능선을 따라 봉긋봉긋 솟은 수백 기의 무덤. 삼국에 묻히지 않았던 대가야가, 1500년이 지난 지금도 이 언덕 위에 그대로 앉아 있다.",
+  "see": "유네스코 세계유산 지산동 고분군, 대가야박물관, 가야금의 고향 우륵박물관, 한옥마을 개실마을.",
+  "spots": [
+   {
+    "name": "고령 지산동 고분군",
+    "rom": "능선 위에 솟은 대가야 왕들의 언덕",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "💴 야외 무료",
+     "🍂 가을 억새·능선"
+    ],
+    "desc": "주산 능선을 따라 크고 작은 무덤 수백 기가 봉긋봉긋 솟아 있다. 4~6세기 대가야 왕과 귀족들이 잠든 자리로, 우리나라에서 처음 확인된 순장 왕릉도 이곳에 있다. 능선을 오르면 발밑으로 고령 읍내가 펼쳐지고, 무덤 사이로 부는 바람 속에 삼국에 끝내 편입되지 않았던 한 나라의 시간이 고스란히 남아 있다.",
+    "todo": [
+     "능선길 따라 정상까지 걸으며 무덤 군집 내려다보기",
+     "노을 질 무렵 무덤 실루엣 사진 담기"
+    ],
+    "tip": "고분군은 야외라 무료이며 상시 개방된다. 능선 경사가 있으니 편한 신발 필수. 아래 대가야박물관·왕릉전시관과 도보로 이어지니 함께 묶어 보면 좋다.",
+    "eat": "읍내 대가야로 주변에 한우국밥·손칼국수 집이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg/500px-%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2014-04-06_Goryeong_Jisan-dong_Tombs.jpg/250px-2014-04-06_Goryeong_Jisan-dong_Tombs.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg/330px-%EA%B3%A0%EB%A0%B9_%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대가야박물관",
+    "rom": "왕릉 속을 그대로 들여다보는 곳",
+    "meta": [
+     "💴 입장료 소액",
+     "⏱ 반나절",
+     "🏺 금동관·순장묘"
+    ],
+    "desc": "대가야역사관과 왕릉전시관을 아우르는 고령 답사의 중심이다. 특히 왕릉전시관은 지산동 44호분 내부를 실물 크기로 재현해, 순장의 흔적과 함께 무덤 속으로 걸어 들어가는 듯한 기분을 준다. 화려한 금동관과 토기·철기를 보고 나면 '가야'가 왜 제4의 왕국이라 불리는지 눈으로 이해된다.",
+    "todo": [
+     "왕릉전시관에서 44호분 순장묘 내부 관람",
+     "대가야역사관에서 출토 토기·금동관 살펴보기"
+    ],
+    "tip": "관람료는 소액(성인 기준)이며 변동될 수 있으니 방문 전 확인. 월요일 휴관인 경우가 많다. 고분군 답사와 이어서 보기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Korea-Gaya_Royal_tomb_exhibition_site.jpg/500px-Korea-Gaya_Royal_tomb_exhibition_site.jpg"
+    ]
+   },
+   {
+    "name": "대가야역사테마관광지",
+    "rom": "가야 사람들의 하루를 걸어보는 마을",
+    "meta": [
+     "💴 입장료 소액",
+     "👨‍👩‍👧 가족·체험",
+     "🏕 야영·숙박"
+    ],
+    "desc": "철의 왕국 대가야를 테마로 대가야박물관 건너편 넓은 부지에 조성한 야외 관광지다. 대가야를 재현한 시설과 잔디밭을 거닐고 음악분수 같은 볼거리를 즐길 수 있어 아이와 함께 걷기 좋다. 오토캠핑장과 숙박시설이 있어 하룻밤 머물며 대가야의 시간을 천천히 느끼려는 사람에게 어울린다.",
+    "todo": [
+     "대가야 재현 시설과 잔디밭 거닐기",
+     "계절별 체험 프로그램·음악분수 즐기기"
+    ],
+    "tip": "입장료는 소액 수준이며 체험·숙박은 별도. 사전 예약이 필요한 프로그램이 있으니 고령군 통합예약을 미리 확인.",
+    "eat": ""
+   },
+   {
+    "name": "우륵박물관",
+    "rom": "가야금이 처음 울린 정정골",
+    "meta": [
+     "💴 입장료 소액",
+     "🎵 가야금 테마",
+     "⏱ 1~2시간"
+    ],
+    "desc": "가야금을 만든 악성 우륵을 기리는 테마 박물관이다. 우륵이 이 부근 정정골에서 가야금을 뜯었다는 이야기가 전하는 자리에 세워졌으며, 열두 곡에 담긴 이야기와 가야금의 구조·소리를 차근히 풀어놓았다. 화려한 유물보다 '소리로 남은 대가야'를 만나고 싶은 사람에게 조용히 권하고 싶은 곳.",
+    "todo": [
+     "가야금 12곡에 얽힌 이야기 읽어보기",
+     "가야금 제작 과정·소리 체험 코너 둘러보기"
+    ],
+    "tip": "규모가 크지 않아 1~2시간이면 충분하다. 대가야박물관과 묶어 하루 코스로 잡으면 동선이 자연스럽다.",
+    "eat": ""
+   },
+   {
+    "name": "개실마을",
+    "rom": "꽃 피는 골짜기의 한옥 세거지",
+    "meta": [
+     "🏡 한옥 슬로여행",
+     "🍓 봄 딸기 체험",
+     "🍬 엿 만들기"
+    ],
+    "desc": "'꽃이 피는 아름다운 골짜기'라는 이름 그대로, 산자락에 안기고 앞으로는 작은 하천이 흐르는 한옥마을이다. 조선 사림파의 영수 점필재 김종직 선생의 후손들이 오래도록 모여 산 세거지로, 마을의 팔 할이 한옥이다. 봄이면 딸기 따기와 엿 만들기 체험으로 손끝이 달콤해지고, 툇마루에 앉아 있으면 시간이 느리게 흐른다.",
+    "todo": [
+     "엿 만들기·딸기 따기(제철) 체험",
+     "한옥 민박에서 하룻밤 묵으며 마을 산책"
+    ],
+    "tip": "딸기 따기 체험은 대개 3~5월에만 가능하다. 체험·한옥스테이는 마을에서 사전 예약을 받으니 미리 문의할 것.",
+    "eat": "고령 특산 딸기로 만든 딸기잼·딸기쿠키, 마을에서 직접 고는 옛날 엿."
+   },
+   {
+    "name": "미숭산 자연휴양림",
+    "rom": "고령 서쪽을 지키는 숲과 능선",
+    "meta": [
+     "🌲 숲길·휴양림",
+     "🥾 등산 반나절",
+     "🍃 여름 피서"
+    ],
+    "desc": "고령 서쪽에 솟은 미숭산은 완만한 능선과 짙은 숲으로 둘러싸여 있다. 산자락에 조성된 자연휴양림은 여름이면 서늘한 그늘을 내주고, 능선을 오르면 대가야의 옛 땅이 한눈에 내려다보인다. 유적을 걷다 지친 다리를 숲의 공기로 씻어내기 좋은 자리다.",
+    "todo": [
+     "휴양림 숲길 산책, 능선 전망 오르기",
+     "여름철 계곡·그늘에서 쉬어가기"
+    ],
+    "tip": "휴양림 숙박·주차는 성수기에 붐비니 예약 권장. 등산은 물과 편한 신발을 챙길 것.",
+    "eat": ""
+   },
+   {
+    "name": "반룡사",
+    "rom": "미숭산 자락의 오래된 산사",
+    "meta": [
+     "⛰ 산사",
+     "💴 무료",
+     "🍁 가을 단풍"
+    ],
+    "desc": "미숭산 깊은 골에 앉은 반룡사는 신라 때 세워졌다고 전하는 오래된 절이다. 다층석탑 같은 옛 문화재를 남긴 유서 깊은 절로, 번잡한 관광지에서 한 발 물러나 산길을 오르면 만나는 고요가 이 절의 진짜 매력이다. 가을 단풍철에 특히 조용하고 깊다.",
+    "todo": [
+     "산길 오르며 계절의 숲 느끼기",
+     "경내 둘러보며 산사의 고요 느끼기"
+    ],
+    "tip": "산 안쪽에 있어 진입로가 좁고 굽은 구간이 있으니 운전 주의. 겨울 결빙 시기에는 접근이 어려울 수 있다.",
+    "eat": ""
+   }
+  ]
+ },
+ "goseong-gangwon": {
+  "nm": "고성(강원)",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 동서울터미널에서 간성·거진행 버스로 약 2시간 40분~3시간, 자가용은 서울양양고속도로와 동해안 국도를 이어 약 3시간. 속초 바로 위, 남한 동해안이 끝나는 최북단 시군이다.",
+  "sep": "초여름부터 한여름이 대표 시즌. 동해 최북단이라 물빛이 유난히 맑고 해변은 붐비지 않아, 같은 값에 더 넉넉한 바다를 누린다. 늦가을~겨울엔 화진포와 송지호에 천연기념물 고니가 날아들어 또 다른 풍경이 열린다.",
+  "mood": "설악산을 등지고 동해안이 끝나는 곳. 철책 너머로 금강산이 보이고, 사람보다 파도가 먼저 반기는 남한 최북단 바다.",
+  "see": "바다와 맞붙은 석호, 관동팔경의 정자, 눈길 견디는 조선 한옥마을, 그리고 금강산이 눈에 담기는 통일전망대.",
+  "spots": [
+   {
+    "name": "화진포",
+    "rom": "바다와 호수가 나란히 누운 최북단 석호",
+    "meta": [
+     "🏖 무료 해변",
+     "🦢 겨울 고니",
+     "📷 가을동화 촬영지"
+    ],
+    "desc": "둘레 16km의 넓은 석호와 그 사이를 가르는 하얀 백사장이 나란히 펼쳐진다. 솔숲과 갈대밭이 호수를 두르고, 겨울이면 천연기념물 고니가 내려앉아 물 위가 하얗게 술렁인다. 드라마 《가을동화》의 그 바닷가가 바로 여기다.",
+    "todo": [
+     "호숫가 둘레길 산책하고 솔숲에서 쉬어가기",
+     "겨울 아침 고니 무리 관찰하기"
+    ],
+    "tip": "호수 언덕의 '화진포의 성'(옛 별장)과 이승만·이기붕 별장이 역사안보전시관으로 함께 묶여 있어 통합 관람이 편하다. 요금은 약 3,000원 안팎(변동 가능).",
+    "eat": "거진항이 가까워 도루묵·양미리 구이와 대게가 제철에 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고성 통일전망대",
+    "rom": "철책 너머 금강산과 해금강을 바라보는 자리",
+    "meta": [
+     "💴 입장료 있음",
+     "🔭 해금강 조망",
+     "🪖 출입신고 필요"
+    ],
+    "desc": "남한 동해안 도로가 더는 북으로 가지 못하고 멈추는 지점, 그 끝에 전망대가 선다. 맑은 날엔 바다 위로 솟은 해금강의 바위섬과 금강산 능선이 눈에 들어온다. 분단의 현실과 절경이 한 화면에 겹쳐 묘하게 마음이 가라앉는 곳이다.",
+    "tip": "민통선 안이라 출발 전 아래쪽 통일전망대 출입신고소에서 신고서를 작성해야 들어갈 수 있다. 시간에 여유를 두고, 신분증을 꼭 챙긴다.",
+    "todo": [
+     "전망대에서 해금강·금강산 방향 조망하기",
+     "가는 길의 DMZ박물관 함께 둘러보기"
+    ],
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg/500px-%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg/500px-%EA%B8%88%EA%B0%95%EC%82%B0%ED%95%B4%EA%B8%88%EA%B0%95%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청간정",
+    "rom": "관동팔경으로 꼽히는 바다 위 정자",
+    "meta": [
+     "🆓 무료",
+     "🌊 관동팔경",
+     "⏱ 30분"
+    ],
+    "desc": "기암절벽 위에 올라앉아 청간천과 동해가 한눈에 담기는 팔각지붕 정자다. 관동팔경 중에서도 손에 꼽는 경치로, 송시열과 이승만의 친필 현판이 나란히 걸려 있다. 누각에 올라서면 소나무 사이로 트인 바다가 그대로 액자가 된다.",
+    "tip": "규모가 크지 않아 30분이면 충분하다. 일출·일몰 시간대에 빛이 바다에 퍼질 때 사진이 가장 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%952016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%B2%AD%EA%B0%84%EC%A0%95.jpg/500px-%EC%B2%AD%EA%B0%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고성 왕곡마을",
+    "rom": "긴 겨울을 견디도록 지은 조선 한옥 집성촌",
+    "meta": [
+     "🆓 무료 관람",
+     "🏘 조선 한옥",
+     "🌾 양통집 구조"
+    ],
+    "desc": "14세기부터 함씨·최씨·김씨가 모여 산 집성촌으로, 19세기 전후의 기와집들이 산자락에 조용히 앉아 있다. 강원 북부 특유의 '양통집'은 방과 부엌을 앞뒤로 붙이고 처마 밑에 외양간을 두어 혹한을 견딘다. 관광지 티가 나지 않는 실제 마을이라 걸음이 절로 느려진다.",
+    "todo": [
+     "돌담 사이 골목을 천천히 걷기",
+     "양통집 구조와 초가·기와 지붕 비교해 보기"
+    ],
+    "tip": "주민이 실제 거주하는 마을이니 조용히 둘러보고 사유 공간은 들어가지 않는다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "건봉사",
+    "rom": "금강산 자락, 능파교를 건너 드는 옛 큰 절",
+    "meta": [
+     "🆓 무료",
+     "🛕 금강산 건봉사",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "'금강산 건봉사'로 불리던 신라 시대 창건의 큰 절로, 감로봉 자락에 자리한다. 한국전쟁으로 대부분 불탔지만 조선 시대 무지개다리 능파교(보물)와 일제강점기 불이문이 살아남아 옛 규모를 짐작하게 한다. 계곡물 소리 위로 다리를 건너 산문에 드는 길이 특히 깊다.",
+    "tip": "오랫동안 군사통제로 막혀 있다가 1980년대 말에야 민간인 출입이 열린 접경지 사찰이다. 봄철 경내와 진입로의 벚꽃이 좋으니 개화 시기를 노려볼 만하다."
+   },
+   {
+    "name": "송지호",
+    "rom": "재첩 나는 잔잔한 석호와 그 옆 해변",
+    "meta": [
+     "🏖 송지호해변",
+     "🦢 철새 도래지",
+     "🚶 둘레길"
+    ],
+    "desc": "둘레 6.5km의 잔잔한 석호로, 바닷물과 민물이 섞여 물고기와 재첩이 함께 산다. 겨울이면 고니가 찾아드는 철새 도래지이자, 호수 바로 옆으로는 고운 모래의 송지호해변이 이어진다. 호수 위에 재건된 송호정에 앉으면 물빛과 솔숲이 한 폭으로 가라앉는다.",
+    "todo": [
+     "호수 둘레 관망타워·산책로 걷기",
+     "여름엔 송지호해변에서 해수욕"
+    ],
+    "eat": "석호에서 나는 재첩으로 끓인 재첩국이 담백하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Songji_Lake_D_5.jpg/500px-Songji_Lake_D_5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "DMZ박물관",
+    "rom": "분단선 앞에 선, 비무장지대를 담은 박물관",
+    "meta": [
+     "🆓 무료 관람",
+     "🕊 분단 역사",
+     "🚫 월요일 휴관"
+    ],
+    "desc": "통일전망대로 오르는 길목, 민통선 안에 자리한 지상 3층 박물관이다. 전쟁과 분단, 그리고 사람의 손이 닿지 않아 되살아난 DMZ의 자연을 전시와 영상으로 풀어낸다. 전망대의 절경과 이어 보면 이 땅의 무게가 한결 또렷해진다.",
+    "tip": "월요일과 1월 1일은 휴관하고 계절마다 개관 시간이 다르니 출발 전 확인한다. 통일전망대와 묶어 한 동선으로 도는 게 효율적이다."
+   }
+  ]
+ },
+ "goseong-gyeongnam": {
+  "nm": "고성(경남)",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울남부터미널에서 고속버스로 약 4시간 30분, 또는 KTX로 진주역까지 간 뒤 시외버스 환승. 부산서부터미널에서는 1시간 30분이면 닿는다. 자가용은 통영대전고속도로 동고성IC로 나온다.",
+  "sep": "봄(3~5월)이 가장 좋다. 상족암 갯바위가 마르는 맑은 날이면 1억 년 전 공룡 발자국이 또렷하고, 당항포 벚꽃길과 연화산 신록이 함께 물오른다. 가을 단풍 무렵의 옥천사도 곱다.",
+  "mood": "1억 년 전 공룡이 걸어간 바닷가, 그 발자국이 아직 바위에 남아 있는 땅.",
+  "see": "공룡 발자국 화석과 해식동굴, 소가야 고분과 신라 천년 고찰, 이순신의 승전 포구까지.",
+  "spots": [
+   {
+    "name": "상족암군립공원",
+    "rom": "1억 년 전 공룡이 걸어간 바닷가 바위",
+    "meta": [
+     "💴 입장 무료(주차 약 2,000원)",
+     "⏱ 반나절",
+     "🦕 공룡 발자국 화석",
+     "🌊 해식동굴"
+    ],
+    "desc": "물이 빠진 갯바위 위로 공룡 발자국이 줄줄이 찍혀 있고, 파도가 깎아낸 상족암 해식동굴은 밥상다리처럼 층층이 포개진 바위다. 세계 3대 공룡발자국 화석지로 꼽히는 해안을 따라 걷다 보면, 백악기의 바닷가에 그대로 서 있는 기분이 든다.",
+    "todo": [
+     "갯바위 위 공룡 발자국 화석 직접 찾아보기",
+     "상족암 해식동굴 안으로 들어가 보기",
+     "해안 산책로 따라 병풍바위까지 걷기"
+    ],
+    "tip": "발자국은 물이 빠진 간조 때 더 잘 보인다. 갯바위가 미끄러우니 운동화는 필수이고, 물때(간조 시각)를 미리 확인하고 가면 좋다.",
+    "eat": "자란만이 가까워 굴·바지락 등 제철 해산물과 물회를 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GoseongJin20.jpg/500px-GoseongJin20.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GoseongJin3.jpg/960px-GoseongJin3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GoseongJin4.jpg/960px-GoseongJin4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고성공룡박물관",
+    "rom": "상족암 언덕 위, 국내 첫 공룡 전문 박물관",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 1~2시간",
+     "🦕 공룡 골격·모형",
+     "👨‍👩‍👧 아이 동반 좋음"
+    ],
+    "desc": "상족암 화석지 바로 위 언덕에 성처럼 올라앉은, 국내 최초의 공룡 전문 박물관이다. 실물 크기 공룡 골격과 익룡 모형이 층층이 이어지고, 3층 전망대에 오르면 발자국 화석이 남은 자란만 바다가 한눈에 펼쳐진다.",
+    "todo": [
+     "실물 크기 공룡 전신 골격 앞에서 크기 실감하기",
+     "3층 전망대에서 상족암 바다 내려다보기"
+    ],
+    "tip": "상족암군립공원과 붙어 있어 화석지와 묶어 반나절 코스로 돌기 좋다. 휴관일이 있으니 방문 전 운영시간을 확인하자.",
+    "eat": "하이면 자란만 일대 식당에서 조개구이와 해물칼국수를 낸다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/GoseongJin28.jpg/500px-GoseongJin28.jpg"
+    ]
+   },
+   {
+    "name": "당항포관광지",
+    "rom": "이순신이 왜선을 전멸시킨 승전의 포구",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "⚓ 이순신 승전지",
+     "🦕 공룡엑스포장"
+    ],
+    "desc": "이순신 장군이 두 차례 왜선을 전멸시킨 당항포 해전의 그 바다다. 잔잔한 내만을 따라 거북선과 충무공 사당, 자연사박물관이 들어서 있고, 공룡세계엑스포가 열리는 너른 관광지라 가족 단위 나들이객이 즐겨 찾는다.",
+    "todo": [
+     "거북선에 올라 판옥선 구조 살펴보기",
+     "당항포해전관·자연사박물관 둘러보기"
+    ],
+    "tip": "부지가 넓어 아이와 함께라면 천천히 반나절을 잡는 게 좋다. 공룡엑스포 기간에는 특별 전시가 열린다.",
+    "eat": "회진·거류 일대에서 갯장어(하모)와 굴 요리가 제철에 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_the_king_of_Joseon.svg/500px-Flag_of_the_king_of_Joseon.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyotomi_mon.png/500px-Toyotomi_mon.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥천사",
+    "rom": "연화산 품에 안긴 신라 천년 고찰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🍁 연화산 단풍",
+     "🛕 화엄 10대 사찰"
+    ],
+    "desc": "676년 의상조사가 연화산 자락에 세운 화엄 10대 사찰로, 절 이름처럼 마르지 않는 옥천(玉泉) 샘이 지금도 솟는다. 자방루의 묵직한 누각 아래를 지나면, 깊은 산사의 고요가 걸음을 저절로 늦춘다.",
+    "todo": [
+     "자방루 누각 아래 지나 대웅전 오르기",
+     "마르지 않는다는 옥천 샘물 한 모금 마시기",
+     "연화산 등산로와 이어 걷기"
+    ],
+    "tip": "연화산 도립공원 안에 있어 봄 신록과 가을 단풍이 특히 곱다. 성보박물관에 보물급 유물이 있으니 함께 보면 좋다.",
+    "eat": "개천면 일대에서 산채비빔밥과 손두부를 내는 집을 찾을 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고성 송학동 고분군",
+    "rom": "잊힌 소가야 왕들이 잠든 언덕",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1시간",
+     "⚱️ 소가야 왕릉",
+     "🌅 능선 산책"
+    ],
+    "desc": "고성읍 나지막한 언덕에 봉긋봉긋 솟은 무덤들은 1,600년 전 소가야 왕과 지배층의 무덤으로 전한다. 한때 일본 전방후원분을 닮았다는 논란을 낳았지만 발굴 끝에 가야 고유의 형식으로 밝혀졌고, 지금은 가야고분군의 하나로 유네스코 세계유산에 올랐다.",
+    "todo": [
+     "능선을 따라 고분 사이를 천천히 산책하기",
+     "해질 무렵 부드러운 고분 실루엣 담기"
+    ],
+    "tip": "고성읍 도심에서 가까워 잠깐 들르기 좋다. 인근 소가야 관련 전시를 함께 보면 이해가 깊어진다.",
+    "eat": "고성읍 재래시장에서 소박한 국밥과 제철 반찬을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Goseong_Seonghak_Tomb_01.JPG/500px-Goseong_Seonghak_Tomb_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고성 장산숲",
+    "rom": "600년 전 마을을 지키려 심은 비보(裨補) 숲",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "🌳 600년 된 인공숲",
+     "🚶 숲 산책"
+    ],
+    "desc": "마암면 장산리에 자리한, 약 600년 전 조선 태조 무렵 호은 허기 선생이 마을의 허한 지형을 보완하려고 조성했다고 전해지는 인공숲이다. 지금은 아름드리 고목 약 250그루가 우거져 그늘을 드리우고, 경상남도 기념물로 지정되어 마을과 함께 세월을 이어 왔다.",
+    "todo": [
+     "오래된 나무 사이 숲길 천천히 걷기",
+     "그늘 아래 쉬며 마을 정취 느끼기"
+    ],
+    "tip": "규모가 크지 않아 가볍게 둘러보기 좋다. 여름 녹음과 그늘이 특히 시원하다.",
+    "eat": "고성읍·마암면 일대에서 소박한 시골 백반과 제철 반찬을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg/500px-%EA%B3%A0%EC%84%B1_%EC%9E%A5%EC%82%B0%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "goyang": {
+  "nm": "고양",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 도심에서 지하철 3호선(대화·주엽·정발산역)이나 자유로·강변북로로 30~40분. 부산 등 지방은 KTX로 서울역까지 온 뒤 3호선 환승.",
+  "sep": "봄(4월 말~5월 초) — 고양국제꽃박람회와 호수공원 벚꽃, 왕릉 솔숲의 신록이 한꺼번에 겹치는 절정기. 북한산·호수공원 단풍이 드는 10~11월도 좋다.",
+  "mood": "서울 바로 옆, 큰 호수를 한 바퀴 돌고 왕릉 숲을 걷다 북한산 성벽까지 — 도시·자연·역사가 한 도시 안에 다 있다.",
+  "see": "국내 최대급 인공호수, 조선 왕릉군, 행주대첩의 강가 성곽, 대형 복합몰과 실내 아쿠아리움.",
+  "spots": [
+   {
+    "name": "일산호수공원",
+    "rom": "국내 최대급 인공호수를 품은 도심 속 산책 명소",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "🚶 호수 둘레 4.7km"
+    ],
+    "desc": "신도시 한복판에 이렇게 큰 물이 있다는 게 늘 놀랍다. 걸어서도 자전거로도 호수를 한 바퀴 돌다 보면 물빛에 비친 하늘과 갈대, 음악분수가 번갈아 눈에 든다. 계절마다 표정이 완전히 달라져, 봄엔 벚꽃 터널, 가을엔 억새와 단풍으로 옷을 갈아입는다.",
+    "todo": [
+     "호수 둘레길 한 바퀴(자전거 대여 가능)",
+     "장미원·전통정원 둘러보기",
+     "저녁 노래하는분수대 감상"
+    ],
+    "tip": "주차장이 여러 곳이라 목적지(장미원·분수대) 가까운 쪽으로 대는 게 편하다. 봄 꽃박람회 기간엔 인파가 몰리니 오전 방문을 추천.",
+    "eat": "근처 라페스타·웨스턴돔 상권에 카페와 맛집이 촘촘하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/500px-Goyang_Lake_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고양국제꽃박람회",
+    "rom": "봄의 호수공원을 통째로 물들이는 국내 대표 꽃축제",
+    "meta": [
+     "💴 성인 약 1.3만원(변동)",
+     "🌷 4월 말~5월 초",
+     "⏱ 반나절"
+    ],
+    "desc": "봄이 되면 일산호수공원 전체가 거대한 꽃밭으로 변한다. 국내외 화훼가 실내외 전시장을 가득 채우고, 튤립과 장미가 물결처럼 이어지는 길을 걷다 보면 향기로 계절을 실감하게 된다. 매년 30만 명 넘게 찾는, 봄의 대표 나들이다.",
+    "todo": [
+     "실내 대형 화훼 전시관 관람",
+     "야외 꽃길·튤립정원 산책",
+     "호수공원 나들이와 함께 즐기기"
+    ],
+    "tip": "4월 말~5월 초 17일간만 열린다. 주말은 붐비니 개장 직후나 평일에. 아쿠아플라넷 등 제휴 할인도 확인하면 좋다.",
+    "eat": "호수공원과 붙어 있어 라페스타·웨스턴돔 식당가로 이어 가기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg/500px-KOCIS_Goyang_International_Flower_Festival_%284560157260%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg/120px-%EA%B3%A0%EC%96%91%EA%B5%AD%EC%A0%9C%EA%BD%83%EB%B0%95%EB%9E%8C%ED%9A%8C_%EC%82%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg/120px-%EC%95%BC%EC%99%B8%EC%A0%95%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "행주산성",
+    "rom": "행주대첩의 함성이 남은 한강가 성곽",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🏯 임진왜란 3대 대첩",
+     "🌅 한강 조망"
+    ],
+    "desc": "덕양산 능선을 따라 오르면 임진왜란 행주대첩의 현장이 발밑에 펼쳐진다. 권율 장군과 부녀자들이 행주치마로 돌을 날랐다는 이야기가 스민 언덕 위에서, 유유히 흐르는 한강과 서울 방향 전경이 한눈에 들어온다. 짧은 오르막 끝에 만나는 탁 트인 강 조망이 이곳의 백미다.",
+    "todo": [
+     "대첩기념관·충장사 둘러보기",
+     "정상 대첩비에서 한강 조망",
+     "강변 역사누리길 산책"
+    ],
+    "tip": "정상까지 완만한 오르막 20~30분이니 편한 신발이 좋다. 주차장이 있지만 주말엔 만차가 잦다.",
+    "eat": "행주산성 인근은 원조 국수와 장어구이 노포가 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Haengjusanseong-Toseong.jpg/500px-Haengjusanseong-Toseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chungjangsa.jpg/250px-Chungjangsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Haengjudaecheopbi%28old%29.jpg/250px-Haengjudaecheopbi%28old%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서오릉",
+    "rom": "솔숲에 잠든 조선 왕들의 능침",
+    "meta": [
+     "💴 성인 약 1,000원",
+     "⏱ 2~3시간",
+     "🌲 능림 숲길",
+     "🏛 유네스코 세계유산"
+    ],
+    "desc": "다섯 기의 왕릉이 울창한 솔숲 사이에 흩어져 있어, 능과 능을 잇는 흙길을 걷는 것만으로 마음이 차분해진다. 조선왕릉 가운데 동구릉 다음으로 규모가 크고, 장희빈의 대빈묘까지 품고 있어 역사의 결이 깊다. 사람도 적어 조용한 숲 산책지로 그만이다.",
+    "todo": [
+     "명릉·경릉 등 능침 둘러보기",
+     "솔숲 관람로 천천히 걷기",
+     "역사문화관 관람"
+    ],
+    "tip": "2009년 유네스코 세계유산에 등재됐다. 오르내림이 적어 걷기 편하고, 정문 앞에 주차할 수 있다.",
+    "eat": "인근 용두동·구산동 쪽에 백숙·손칼국수 집이 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seooreung_7.JPG/500px-Seooreung_7.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/d/db/%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%A1%B0%EC%84%A0%EC%99%95%EB%A6%89_%EC%84%B8%EA%B3%84%EC%9C%A0%EC%82%B0%EA%B8%B0%EB%85%90%EB%B9%84_%EC%84%9C%EC%98%A4%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/4/4c/%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg/120px-%EC%9D%B5%EB%A6%89_%EC%84%9C%EC%98%A4%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "북한산성",
+    "rom": "능선을 따라 이어지는 웅장한 산성 트레킹",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절~하루",
+     "⛰ 등산·성곽길",
+     "🍁 가을 단풍"
+    ],
+    "desc": "고양 쪽 북한산성 입구에서 계곡을 따라 오르면 바위 능선과 옛 성벽이 번갈아 나타난다. 대서문과 행궁터를 지나 대남문까지 이어지는 성곽길은 발아래로 수도권이 펼쳐지는 시원한 조망을 내어준다. 서울 근교에서 이만한 바위산 풍경을 이렇게 가까이 만나기는 쉽지 않다.",
+    "todo": [
+     "북한산성탐방지원센터에서 출발",
+     "대서문·행궁지 코스 걷기",
+     "대남문 능선에서 조망 즐기기"
+    ],
+    "tip": "코스 난이도가 다양하니 등산화는 필수. 주말엔 이른 아침 주차를 권한다. 겨울 결빙에 주의.",
+    "eat": "산성 입구 쪽에 두부·산채정식 식당이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Korea-Bukhansan-04.jpg/500px-Korea-Bukhansan-04.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Korea-Bukhansan-18.jpg/120px-Korea-Bukhansan-18.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Korea-Bukhansan-19.jpg/120px-Korea-Bukhansan-19.jpg"
+    ]
+   },
+   {
+    "name": "스타필드 고양",
+    "rom": "북한산 뷰 루프탑풀까지 갖춘 초대형 복합몰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "☔ 실내·날씨 무관",
+     "♨ 아쿠아필드 스파"
+    ],
+    "desc": "쇼핑·식당·영화·서점이 한 건물에 다 모여 있어 날씨와 상관없이 하루를 보내기 좋다. 특히 4층 아쿠아필드는 북한산을 바라보는 루프탑 풀과 찜질 스파로 유명해, 물놀이와 사우나를 도심 한복판에서 즐길 수 있다. 아이 동반 가족이나 비 오는 날 여행지로 든든하다.",
+    "todo": [
+     "별마당 도서관·매장 구경",
+     "아쿠아필드 스파·루프탑풀(여름)",
+     "영화·식당가 이용"
+    ],
+    "tip": "주말 주차가 혼잡하니 대중교통(원흥역에서 셔틀버스나 도보)이 편하다. 아쿠아필드는 별도 유료이고 예약을 권한다.",
+    "eat": "몰 안에 대형 푸드코트와 다양한 맛집이 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/e/e6/Starfield_%28shopping_mall%29_Logotype.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-09-17_13.44.56_%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%EA%B3%A0%EC%96%91.jpg/500px-2025-09-17_13.44.56_%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%EA%B3%A0%EC%96%91.jpg"
+    ]
+   },
+   {
+    "name": "아쿠아플라넷 일산",
+    "rom": "수도권의 대형 실내 아쿠아리움",
+    "meta": [
+     "💴 성인 약 3만원(변동)",
+     "⏱ 2~3시간",
+     "☔ 실내·전천후",
+     "👨‍👩‍👧 가족 여행"
+    ],
+    "desc": "한류월드에 자리한 실내 아쿠아리움으로, 수도권을 대표하는 큰 규모를 자랑한다. 국내에서 보기 드문 바다코끼리를 볼 수 있고, 대형 수조 사이를 걷다 보면 상어와 열대어가 머리 위로 지나간다. 인어 공연과 먹이주기 체험까지 있어 아이들이 특히 좋아한다.",
+    "todo": [
+     "바다코끼리·상어 대형 수조 관람",
+     "인어·물범 공연 시간 맞추기",
+     "먹이주기·체험 프로그램 참여"
+    ],
+    "tip": "킨텍스·한류월드 인근이라 찾기 쉽다. 온라인 예매가 현장가보다 저렴하고, 공연 시간표는 미리 확인하는 게 좋다.",
+    "eat": "킨텍스 상권과 웨스턴돔 쪽 식당가가 가깝다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hanwha_logo.svg/500px-Hanwha_logo.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%95%84%EC%BF%A0%EC%95%84%ED%94%8C%EB%9D%BC%EB%84%B7.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg/500px-%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%87%BC_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gumi": {
+  "nm": "구미",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "경부고속도로 구미IC·남구미IC로 내린다. KTX 김천구미역이 서울에서 약 1시간 40분, 부산에서 약 50분~1시간. 무궁화호는 도심 한복판 구미역에 선다. 대구에서 차로 약 40분이라 대구 여행과 묶어 다니기도 좋다.",
+  "sep": "가을이 으뜸 — 금오산 계곡과 채미정 일대가 단풍으로 붉게 물든다. 여름이면 지산샛강 연꽃단지에 분홍 연꽃이 가득 피고, 봄엔 금오지 벚꽃길이 곱다.",
+  "mood": "공단의 도시로만 알기엔 아깝다. '남쪽의 금강산' 금오산이 도시를 굽어보고, 신라에 불교가 처음 닿은 절이 이 땅에 있다.",
+  "see": "케이블카로 오르는 금오산 대혜폭포, 야은 길재의 정자 채미정, 신라 최초 사찰 도리사, 여름 지산샛강 연꽃단지.",
+  "spots": [
+   {
+    "name": "금오산도립공원",
+    "rom": "'남쪽의 금강산', 케이블카로 오르는 구미의 진산",
+    "meta": [
+     "🚡 케이블카 왕복 약 1만원",
+     "⏱ 반나절~하루",
+     "🍂 가을 단풍"
+    ],
+    "desc": "해발 976m, 1970년 우리나라 도립공원 제1호로 지정된 구미의 진산이다. '남쪽의 금강산'이라 불릴 만큼 기암절벽이 빼어나고, 케이블카로 중턱까지 오른 뒤 걸어가면 벼랑에서 쏟아지는 대혜폭포와 절벽에 뚫린 도선굴, 벼랑 끝에 아슬하게 앉은 약사암이 차례로 나온다. 계곡을 낀 단풍이 특히 고와 가을이면 등산객으로 붐빈다.",
+    "todo": [
+     "케이블카 타고 대혜폭포까지 오르기",
+     "절벽 도선굴에서 구미 시내 내려다보기",
+     "벼랑 끝 약사암까지 올라 보기"
+    ],
+    "tip": "케이블카를 타도 대혜폭포·약사암까지는 걸어야 하니 편한 신발 필수. 케이블카 왕복 성인 약 1만원(변동 가능), 정상 현월봉까지는 본격 등산이다. 입구에 채미정이 있어 함께 둘러보기 좋다.",
+    "eat": "금오산 입구 산채비빔밥과 도토리묵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Geumomtcablecar.jpg/500px-Geumomtcablecar.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구미 채미정",
+    "rom": "두 왕조를 섬기지 않은 야은 길재의 정자",
+    "meta": [
+     "🎫 무료",
+     "⏱ 30분~1시간",
+     "🍁 가을 단풍"
+    ],
+    "desc": "금오산 들머리, 맑은 계류 곁에 단정하게 앉은 조선시대 정자다. 고려가 망하자 두 왕조를 섬기지 않겠다며 벼슬을 버리고 금오산 아래로 숨어든 야은 길재(1353~1419)의 충절을 기려 영조 때 세웠다. 정자 뒤로 금오산이 병풍처럼 서고 앞으로 계곡물이 흐르는 풍경이 고와, 2008년 명승으로 지정됐다.",
+    "todo": [
+     "계류에 놓인 돌다리 건너 정자에 올라 보기",
+     "금오산을 배경으로 사진 남기기"
+    ],
+    "tip": "금오산도립공원 입구 바로 옆이라 등산 전후로 들르기 좋다. 무료 개방이며, 가을 단풍철 풍경이 가장 곱다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg/500px-%EC%B1%84%EB%AF%B8%EC%A1%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "도리사",
+    "rom": "신라에 불교가 처음 닿은 자리",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1시간",
+     "⛰ 태조산 중턱"
+    ],
+    "desc": "해평면 태조산 중턱에 자리한 신라 최초의 절이다. 고구려 승려 아도화상이 신라에 불교를 전하며 세웠다 전하니, 천오백여 년 전 이 땅에 부처의 가르침이 처음 뿌리내린 자리인 셈이다. 조선 후기에 지은 극락전과 세존 진신사리를 모신 적멸보궁이 조용히 앉아 있고, 산 중턱이라 낙동강과 들판이 시원하게 내려다보인다.",
+    "todo": [
+     "극락전과 적멸보궁 참배하기",
+     "전망 좋은 마당에서 낙동강 들판 바라보기"
+    ],
+    "tip": "산길을 차로 올라야 닿는다. 조용한 산사이니 사색하듯 천천히 걷는 것이 어울린다. 무료.",
+    "eat": "해평·선산 지역의 정갈한 시골 백반"
+   },
+   {
+    "name": "박정희 대통령 생가",
+    "rom": "상모동 초가에서 시작된 근현대사",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1시간",
+     "🏡 근현대사"
+    ],
+    "desc": "상모동의 소박한 초가로, 박정희 전 대통령이 태어나 대구사범학교를 졸업하기까지 자란 집이다. 온돌방과 마당, 그가 공부하던 작은 방이 그대로 보존돼 있고, 곁에는 그의 생애를 다룬 기념관과 추모관이 함께 조성돼 있다. 대한민국 근현대사를 압축한 인물의 출발점을 눈으로 확인해 볼 수 있는 곳이다.",
+    "todo": [
+     "초가 생가와 공부방 둘러보기",
+     "박정희 대통령 기념관 관람하기"
+    ],
+    "tip": "무료 관람이며 주차장이 넓다. 인근 새마을운동테마공원과 묶어 보면 시대적 맥락이 이어진다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "지산샛강생태공원",
+    "rom": "여름이면 분홍 연꽃으로 뒤덮이는 강변 습지",
+    "meta": [
+     "🎫 무료",
+     "🌸 7~8월 연꽃",
+     "⏱ 1~2시간"
+    ],
+    "desc": "낙동강 곁 지산동에 조성된 너른 생태공원이다. 한여름이면 드넓은 연꽃단지에 분홍·흰 연꽃이 가득 피어 사진 찍는 이들로 붐비고, 가을엔 코스모스와 억새가 강바람에 흔들린다. 자전거를 빌려 강변 데크길을 달리거나 나무 그늘 벤치에서 쉬어가기 좋은, 구미 사람들의 산책터다.",
+    "todo": [
+     "7~8월 연꽃단지 사이 걷기",
+     "강변 자전거길 달리기",
+     "가을 코스모스·억새 감상하기"
+    ],
+    "tip": "연꽃은 아침 일찍 활짝 피니 오전 방문이 좋다. 무료이며 주차장과 자전거 대여 시설이 있다."
+   },
+   {
+    "name": "금오지 둘레길",
+    "rom": "금오산 그림자를 담은 저수지 산책로",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1~2시간",
+     "🌉 수변 데크·야경"
+    ],
+    "desc": "금오산 아래 자리한 금오지(금오산 저수지)를 한 바퀴 두르는 3km 남짓 산책로다. 잔잔한 수면에 금오산이 통째로 비치고, 물 위를 가로지르는 다리와 수변 데크를 따라 걸으면 발밑으로 저수지가 일렁인다. 해 질 무렵 조명이 들어오면 물빛이 은은해져 저녁 산책 나온 구미 사람들로 붐빈다.",
+    "todo": [
+     "수변 데크 따라 저수지 한 바퀴 돌기",
+     "수면에 비친 금오산 사진 담기",
+     "해질녘 야경 산책하기"
+    ],
+    "tip": "평지 데크길이라 남녀노소 걷기 편하다. 무료이며 금오산도립공원 입구와 이어져 함께 둘러보기 좋다."
+   },
+   {
+    "name": "새마을운동테마공원",
+    "rom": "'잘 살아보세', 그 시절을 담은 대형 테마공원",
+    "meta": [
+     "🎫 무료",
+     "⏱ 1~2시간",
+     "🏛 근현대 테마"
+    ],
+    "desc": "상모동에 조성된 너른 테마공원으로, 1970년대 온 나라를 바꾼 새마을운동의 역사를 전시와 조형물로 풀어냈다. 넓은 잔디마당과 상징탑, 그 시절 농촌 풍경을 재현한 공간이 이어져 산책하기 좋고, 아이들과 함께 근현대사를 눈으로 배우기에도 맞춤이다. 바로 옆 박정희 생가와 시대적 맥락이 자연스럽게 이어진다.",
+    "todo": [
+     "새마을운동 전시관 관람하기",
+     "넓은 잔디마당 산책하기",
+     "상징 조형물 앞에서 사진 남기기"
+    ],
+    "tip": "규모가 커 걷는 동선이 길다. 무료 개방이며 박정희 생가와 함께 묶어 보기 좋다."
+   }
+  ]
+ },
+ "gunpo": {
+  "nm": "군포",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 4호선 산본역 또는 1호선 군포역까지 약 40~50분. 사당·강남에서 승용차로도 40분 안팎이라 당일치기로 가볍게 다녀오기 좋다.",
+  "sep": "4월 말~5월 초가 절정. 시의 상징 꽃인 철쭉이 온 동산을 붉게 물들이고, 벚꽃과 신록이 겹치는 봄이 가장 아름답다. 가을이면 맨드라미정원이 붉게 물드는 초막골생태공원도 놓치기 아깝다.",
+  "mood": "수도권 한복판에 이렇게 조용한 산과 호수가 숨어 있다니. 수리산 능선과 반월호수 노을, 봄이면 온 산을 덮는 철쭉까지 — 가까워서 더 반가운 군포.",
+  "see": "수리산 도립공원, 초막골 습지, 반월호수 노을, 봄 철쭉동산.",
+  "spots": [
+   {
+    "name": "수리산 도립공원",
+    "rom": "군포를 병풍처럼 두른 경기도 도립공원",
+    "meta": [
+     "🥾 반나절~하루",
+     "🚠 도립공원",
+     "🍂 사계절"
+    ],
+    "desc": "태을봉 489m를 정점으로 군포 서쪽을 병풍처럼 두른 산. 평지에서 불쑥 솟은 능선이라 조금만 올라도 산본 신도시와 수도권이 발아래로 시원하게 펼쳐진다. 봄엔 산자락 철쭉, 가을엔 단풍이 능선을 물들이고, 초심자도 걷기 좋은 완만한 숲길이 많아 부담 없이 오를 수 있다.",
+    "todo": [
+     "태을봉 정상에서 산본 시가지 조망",
+     "수리사 방면 완만한 숲길 걷기"
+    ],
+    "tip": "산본역·대야미역에서 들머리로 접근할 수 있다. 정상부는 바람이 세니 겉옷을 챙길 것.",
+    "eat": "하산길 산본 먹자골목",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg/500px-2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00358.jpg/120px-2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00358.jpg"
+    ]
+   },
+   {
+    "name": "초막골생태공원",
+    "rom": "도심 속 습지와 가을 맨드라미정원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌺 가을 맨드라미"
+    ],
+    "desc": "수리산 자락 아래로 넓게 펼쳐진 생태문화공간. 데크길을 따라 습지원과 연못, 야생화 언덕이 이어져 도심 속에서 자연을 느끼며 걷기 좋다. 초여름 밤엔 반딧불이 관찰 프로그램이 열리고, 가을이면 맨드라미정원이 붉게 물들어 사진 명소가 된다.",
+    "todo": [
+     "습지원 데크길 산책",
+     "맨드라미정원에서 사진 남기기",
+     "초여름 밤 반딧불이 관찰(프로그램)"
+    ],
+    "tip": "입장은 무료. 주차장이 있지만 행사 기간과 주말엔 붐비니 대중교통도 고려할 것.",
+    "eat": ""
+   },
+   {
+    "name": "반월호수",
+    "rom": "노을이 내려앉는 수변 산책길",
+    "meta": [
+     "🚶 둘레길",
+     "☕ 호수 카페",
+     "🌇 노을 명소"
+    ],
+    "desc": "군포와 안산 경계에 걸친 잔잔한 저수지. 물가를 따라 데크 둘레길이 이어지고, 갈대와 물그림자 사이를 걷다 보면 마음이 절로 가라앉는다. 해질녘 물 위로 번지는 붉은 노을과 호숫가에 늘어선 카페들이 이곳을 조용한 데이트 명소로 만든다.",
+    "todo": [
+     "호수 둘레길 한 바퀴 걷기",
+     "호숫가 카페에서 노을 감상"
+    ],
+    "tip": "해질녘이 가장 예쁘다. 둘레길 일부 구간은 폭이 좁으니 자전거·보행자 모두 주의.",
+    "eat": "호숫가 브런치·디저트 카페"
+   },
+   {
+    "name": "군포 철쭉동산",
+    "rom": "온 산을 붉게 물들이는 봄의 절정",
+    "meta": [
+     "🌸 4월말 철쭉",
+     "💴 무료",
+     "🎪 철쭉축제"
+    ],
+    "desc": "시의 상징 꽃인 철쭉이 산본 수리산 자락을 온통 붉게 뒤덮는 명소. 4월 말이면 군포철쭉축제가 열려 언덕 가득 분홍·자주빛 물결이 인다. 군포 8경으로 꼽히는 이 계절 한정의 풍경을 보러 해마다 많은 사람이 찾아온다.",
+    "todo": [
+     "철쭉 만개한 동산 산책",
+     "철쭉축제 프로그램 즐기기(4월 말)"
+    ],
+    "tip": "절정은 4월 말~5월 초. 축제 기간엔 산본역 일대가 크게 혼잡하니 대중교통을 권한다.",
+    "eat": "산본로데오거리 먹거리"
+   },
+   {
+    "name": "덕고개 당숲",
+    "rom": "마을을 지켜온 오래된 신목의 숲",
+    "meta": [
+     "🌳 노거수 숲",
+     "🧭 군포 8경",
+     "🍃 사계절"
+    ],
+    "desc": "속달동 고갯마루에 자리한 오래된 당숲으로, 굴참나무 등 노거수들이 하늘을 가리며 우뚝 서 있다. 마을을 지켜온 신성한 숲답게 한낮에도 서늘하고 고요해, 짧지만 깊은 숲의 기운을 느끼며 걷기 좋은 숨은 명소다.",
+    "todo": [
+     "노거수 사이 숲길 천천히 걷기",
+     "고갯마루의 오래된 정취 감상"
+    ],
+    "tip": "규모가 크지 않으니 인근 반월호수·수리산과 묶어 함께 둘러보면 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "산본로데오거리",
+    "rom": "산본역 앞 먹고 즐기는 번화가",
+    "meta": [
+     "🍜 먹거리",
+     "🛍 쇼핑",
+     "🌃 밤 활기"
+    ],
+    "desc": "4호선 산본역과 곧장 이어진 군포의 대표 번화가. 로데오광장을 중심으로 맛집과 카페, 상점이 촘촘히 모여 낮부터 밤까지 활기가 돈다. 수리산이나 철쭉동산을 둘러본 뒤 끼니와 휴식을 채우기에 딱 좋은 도심 거점이다.",
+    "todo": [
+     "로데오광장 주변 맛집 탐방",
+     "카페에서 쉬어가기"
+    ],
+    "tip": "주말 저녁이 가장 붐빈다. 산본역에서 도보로 바로 닿는다.",
+    "eat": "분식·고깃집·카페 등 다양한 먹자골목"
+   }
+  ]
+ },
+ "gunsan": {
+  "nm": "군산",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 센트럴시티에서 고속버스 약 2시간 40분, 또는 용산역에서 장항선 무궁화호. 부산에서는 버스로 약 3시간 40분. 원도심은 걸어서, 선유도·고군산군도는 차로 다리 건너 이동이 편하다.",
+  "sep": "봄·가을이 가장 좋다. 근대역사거리를 오래 걷기에 선선하고 볕이 낮게 드는 계절이라 골목의 그림자가 예쁘다. 여름엔 선유도 명사십리 해수욕장, 가을엔 은파호수의 단풍과 억새가 더해진다.",
+  "mood": "시간이 조금 느리게 흐르는 항구도시. 일제강점기 근대의 흔적과 흑백영화 같은 골목이 그대로 남아, 걷다 보면 오래된 사진 속으로 걸어 들어간 기분이 든다.",
+  "see": "근대역사박물관과 신흥동 일본식 가옥, 동국사로 이어지는 근대문화거리, 철길 위 마을과 초원사진관, 그리고 다리로 이어진 선유도 바다.",
+  "spots": [
+   {
+    "name": "군산근대역사박물관",
+    "rom": "항구도시 군산의 근대사를 한자리에",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간",
+     "🏛 근대사",
+     "🌧 실내"
+    ],
+    "desc": "쌀과 물자가 드나들던 옛 군산항 바로 앞, 붉은 벽돌과 옛 상점이 재현된 1930년대 거리로 들어서면 시간이 멈춘 듯하다. 개항과 수탈, 그리고 그 안에서 살아간 사람들의 이야기가 층층이 쌓여 있어, 군산 여행의 첫 페이지로 삼기 좋다.",
+    "todo": [
+     "1930년대 재현 거리에서 옛 상점 구경하기",
+     "해양물류·근대생활관 둘러보기",
+     "박물관 앞 부잔교(뜬다리)와 옛 세관 함께 보기"
+    ],
+    "tip": "월요일 휴관. 근대건축관·옛 조선은행 등 주변 근대건축물이 걸어서 이어져 반나절 도보 코스로 묶기 좋다.",
+    "eat": "박물관 근처 원도심에 이성당 등 오래된 빵집과 짬뽕집이 몰려 있다."
+   },
+   {
+    "name": "초원사진관",
+    "rom": "영화 '8월의 크리스마스'가 머문 자리",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "🎬 영화 촬영지",
+     "📷 인생사진"
+    ],
+    "desc": "한석규와 심은하의 잔잔한 사랑이 흐르던 영화 '8월의 크리스마스'를 위해 만든 작은 사진관이, 촬영이 끝난 뒤에도 그 모습 그대로 남았다. 낡은 나무 간판과 빛바랜 유리창 앞에 서면, 영화의 느린 여름이 그대로 되살아난다.",
+    "todo": [
+     "옛 사진관 내부와 소품 구경하기",
+     "간판 앞에서 필름 감성 사진 남기기"
+    ],
+    "tip": "규모가 아담해 오래 머무는 곳은 아니다. 근대역사거리 도보 동선에 자연스럽게 끼워 넣으면 좋다.",
+    "eat": "근처 골목의 오래된 다방과 카페에서 쌍화차 한 잔."
+   },
+   {
+    "name": "경암동 철길마을",
+    "rom": "집과 집 사이를 지나던 좁은 기찻길",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🚂 옛 철길",
+     "📷 레트로"
+    ],
+    "desc": "손 뻗으면 처마가 닿을 만큼 좁은 골목 한가운데로 진짜 기찻길이 지난다. 실제로 기차가 다니던 시절의 흔적이 그대로 남아, 지금은 옛 교복과 불량식품, 추억의 간판이 늘어선 레트로 골목으로 되살아났다.",
+    "todo": [
+     "철길 위를 걸으며 옛 골목 풍경 담기",
+     "달고나·뽑기 같은 추억의 군것질 사보기",
+     "교복 대여점에서 옛날 교복 입고 사진 찍기"
+    ],
+    "tip": "주말과 성수기엔 사람이 많아 이른 오전이 여유롭다. 실제 주민이 사는 골목이니 사유지 출입과 소음에 주의.",
+    "eat": "골목 안 좌판의 옛날 과자와 달고나."
+   },
+   {
+    "name": "군산 동국사",
+    "rom": "국내 유일하게 남은 일본식 사찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 40분",
+     "🛕 일본식 사찰",
+     "🍁 가을"
+    ],
+    "desc": "1909년 일본 조동종 승려가 세운, 우리나라에 얼마 남지 않은 일본식 사찰이다. 급하게 경사진 지붕과 어두운 목조 건물이 한국의 절과는 사뭇 다른 인상을 주고, 마당 한쪽의 참회비와 소녀상이 이 공간의 무게를 조용히 전한다.",
+    "todo": [
+     "에도 시대 양식의 대웅전 건축 살펴보기",
+     "경내 참회의 종과 평화의 소녀상 둘러보기"
+    ],
+    "tip": "여전히 기능하는 사찰이니 예불 시간과 정숙을 지킨다. 봄엔 꽃, 가을엔 단풍이 목조 건물과 잘 어울린다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongguktemple.jpg/500px-Dongguktemple.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dongguksa_Miniature.jpg/330px-Dongguksa_Miniature.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "신흥동 일본식 가옥(히로쓰 가옥)",
+    "rom": "1930년대 일본인 부호의 2층 저택",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "🏯 근대가옥",
+     "🎬 영화 촬영지"
+    ],
+    "desc": "일제강점기 군산에서 부를 쌓은 일본인 히로쓰가 지은 2층 목조 저택으로, 다다미방과 정원, 도코노마까지 당시 지주층의 생활이 고스란히 남았다. '장군의 아들', '타짜' 등 여러 영화의 배경이 되어 낯익은 화면 속 그 집이기도 하다.",
+    "todo": [
+     "정갈한 일본식 정원과 2층 다다미방 구경하기",
+     "이어지는 근대건축 골목까지 함께 걷기"
+    ],
+    "tip": "내부는 보존을 위해 관람 범위가 제한될 수 있다. 동국사·근대역사거리와 가까워 묶어 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg/500px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Japanese-style_House_in_Sinheung-dong_02.jpg/330px-Japanese-style_House_in_Sinheung-dong_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg/330px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선유도(고군산군도)",
+    "rom": "다리로 이어진 섬, 고운 모래 해변",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절~하루",
+     "🏖 여름 바다",
+     "🌅 낙조"
+    ],
+    "desc": "새만금방조제와 연결다리를 건너 차로 닿을 수 있는 고군산군도의 중심 섬이다. 고운 모래가 길게 펼쳐진 명사십리 해변과 기암절벽, 그리고 붉게 지는 낙조가 선유팔경으로 이름났다. 원도심의 근대 골목과는 완전히 다른, 탁 트인 바다가 기다린다.",
+    "todo": [
+     "명사십리 백사장 걷기",
+     "짚라인·투명카약으로 바다 즐기기",
+     "장자도·무녀도까지 다리로 섬 건너보기"
+    ],
+    "tip": "원도심에서 차로 40분 이상 떨어져 있어 하루를 따로 잡는 편이 낫다. 여름 성수기 주차 혼잡에 대비.",
+    "eat": "섬 안 포구의 활어회와 바지락칼국수.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seonyu_island.JPG/500px-Seonyu_island.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg/500px-%EA%B5%B0%EC%82%B0%EC%8B%9C_%EC%84%A0%EC%9C%A0%EB%8F%84%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%84%A0%EC%9C%A0%EA%B5%901.jpg/500px-%EC%84%A0%EC%9C%A0%EA%B5%901.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "은파호수공원",
+    "rom": "물빛다리를 건너는 도심 속 호수길",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌊 호수산책",
+     "🌸 봄·가을"
+    ],
+    "desc": "본래 농업용 저수지였던 넓은 호수를 따라 수변 산책로가 이어지고, 밤이면 물빛다리 위로 조명이 물에 비쳐 걷는 맛이 난다. 봄엔 벚꽃, 여름엔 연꽃, 가을엔 억새와 단풍으로 계절마다 표정이 바뀌는 군산 시민의 쉼터다.",
+    "todo": [
+     "물빛다리 건너 호수 한 바퀴 돌기",
+     "저녁 음악분수와 야경 감상하기"
+    ],
+    "tip": "둘레길이 길어 무리하지 말고 물빛다리 구간만 걸어도 좋다. 봄 벚꽃철엔 붐빈다.",
+    "eat": "호숫가 산책로 주변 카페거리."
+   }
+  ]
+ },
+ "gunwi": {
+  "nm": "군위",
+  "region": "🏔️ 경상 · 대구광역시",
+  "route": "대구 북부, 중앙고속도로 군위IC로 내린다. 서울에서 약 3시간, 부산에서 약 2시간. 골짜기마다 명소가 흩어져 있어 자가용이 편하다. 2023년 대구광역시로 편입된 산골 고장.",
+  "sep": "가을이 가장 곱다 — 팔공산과 화산산성이 단풍으로 물들고 사유원 정원이 붉어지며 화본역 철길엔 코스모스가 흔들린다. 여름엔 일연공원 물놀이, 봄엔 벚꽃도 좋다.",
+  "mood": "삼국유사가 태어난 고장. 서두르지 않아도 되는, 가만히 있어도 좋은 산골.",
+  "see": "경주보다 100년 앞선 제2석굴암, 열차 멈춘 아름다운 간이역, 해발 800m 풍차 전망, 30만 평 사색의 정원.",
+  "spots": [
+   {
+    "name": "군위 아미타여래삼존 석굴 (제2석굴암)",
+    "rom": "경주 석굴암보다 100년 앞선 자연 석굴",
+    "meta": [
+     "🗿 국보 제109호",
+     "⏱ 1~2시간",
+     "🍂 가을 단풍"
+    ],
+    "desc": "팔공산 북쪽 기슭, 자연 절벽에 뚫린 석굴 안에 아미타여래삼존불이 모셔져 있다. 경주 석굴암보다 100년쯤 앞선 7세기 통일신라의 작품이라 '제2석굴암'으로 더 많이 불린다. 강 건너에서 절벽 중턱의 석굴을 올려다보면 천 년 넘은 돌부처가 신비롭게 다가온다.",
+    "todo": [
+     "절벽 아래에서 삼존불 올려다보기",
+     "삼존석굴사 경내 조용히 걷기"
+    ],
+    "tip": "국보이므로 석굴 내부는 거리를 두고 관람한다. 계곡을 낀 명소라 여름엔 시원하고 가을 단풍이 특히 곱다.",
+    "eat": "석굴 인근 마을의 오리·닭백숙 시골밥상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg/500px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg/120px-%EA%B5%B0%EC%9C%84%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%84%9D%EA%B5%B4_006.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화본역",
+    "rom": "열차는 멈췄지만 시간이 머무는 간이역",
+    "meta": [
+     "🚂 급수탑",
+     "⏱ 반나절",
+     "📷 사진 명소"
+    ],
+    "desc": "1938년 문을 연 중앙선의 작은 간이역으로, '전국에서 가장 아름다운 간이역'으로 꼽히던 곳이다. 증기기관차에 물을 대던 1930년대 급수탑이 그대로 서 있고, 초록 산 사이로 뻗은 텅 빈 철길과 옛 대합실이 시간을 붙잡고 있다. 2024년 말 여객 운행은 멈췄지만, 그 정적이 오히려 옛 정취를 짙게 한다.",
+    "todo": [
+     "급수탑 앞에서 사진 남기기",
+     "'엄마 아빠 어렸을 적에' 추억박물관 둘러보기",
+     "화본마을 벽화길 걷기"
+    ],
+    "tip": "폐역이라 열차로는 갈 수 없고 차로 찾아가는 관광지가 됐다. 박물관·부대시설 운영시간은 방문 전 확인.",
+    "eat": "화본역 앞 시골밥상, 정갈한 한상차림",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg/500px-Hwabon_Station%2C_Gunwi_on_March_17th%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/e/e7/KORAIL_Hwabon_Station_Outside.JPG/120px-KORAIL_Hwabon_Station_Outside.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/KORAIL_Hwabon_Sstation.JPG/120px-KORAIL_Hwabon_Sstation.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사유원",
+    "rom": "30만 평 산자락에 펼쳐진 사색의 정원",
+    "meta": [
+     "💴 입장 약 5만원~(주말 약 6.9만원)",
+     "📅 사전예약 필수",
+     "⏱ 3~4시간"
+    ],
+    "desc": "부계면 산자락 30만 평에 조성된, 건축과 조경의 손을 거친 사색의 정원이다. 오래된 모과나무 군락과 소나무 언덕, 곳곳의 정자와 물길이 느린 산책로로 이어진다. 입장료가 높고 사전예약제로 인원을 제한하는 만큼, 사람에 치이지 않고 온전히 고요 속을 걷는 경험이 이곳의 값이다.",
+    "todo": [
+     "모과나무 정원 '풍설기천년' 거닐기",
+     "언덕 위 정자에서 산 풍경 바라보기"
+    ],
+    "tip": "공식 홈페이지에서 사전예약 필수. 성인 평일 약 5만원, 주말·공휴일 약 6.9만원 안팎(변동 가능하니 방문 전 확인). 월요일 휴무, 오후 늦게는 입장이 제한되니 미리 확인. 전체 관람에 3~4시간, 편한 신발 권장."
+   },
+   {
+    "name": "화산산성 전망대 (풍차전망대)",
+    "rom": "해발 약 800m, 차로 오르는 풍차 능선",
+    "meta": [
+     "🎫 무료",
+     "🚗 정상까지 차로",
+     "🌄 일몰·운해 명소"
+    ],
+    "desc": "해발 800m 안팎 고랭지 마을 꼭대기에 자리한 전망대다. 조선 숙종 때 쌓다 만 화산산성 자리에 풍차전망대와 하늘전망대가 들어서, 차로 올라 새파란 군위댐과 첩첩 산줄기, 풍력발전기가 선 능선을 한눈에 담는다. 산행 없이 정상 풍경을 만나는 드라이브 명소로, 노을과 운해가 특히 아름답다.",
+    "todo": [
+     "풍차와 액자 포토존에서 인증샷",
+     "하늘전망대에서 사방 파노라마 감상",
+     "해질녘 노을 기다리기"
+    ],
+    "tip": "정상까지 좁은 산길을 차로 오르니 조심 운전. 무료 주차 공간은 10여 대 규모로 넉넉지 않고, 입장료는 없다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼국유사테마파크",
+    "rom": "일연의 고장에서 만나는 옛이야기",
+    "meta": [
+     "👨‍👩‍👧 가족 여행",
+     "🌊 여름 물놀이장",
+     "⏱ 반나절"
+    ],
+    "desc": "일연이 삼국유사를 써 내려간 고장답게, 삼국유사 속 신화와 인물 이야기를 미디어아트와 조형물로 풀어낸 복합문화공간이다. 전시관을 지나 야외로 나오면 해룡 슬라이드와 열차가 아이들을 반기고, 여름엔 물놀이장이 열려 가족 단위 방문객으로 붐빈다.",
+    "todo": [
+     "가온누리관 삼국유사 전시 관람",
+     "여름 해룡 물놀이장·해룡열차 즐기기"
+    ],
+    "tip": "입장료·물놀이장 운영은 시즌마다 다르니 방문 전 확인. 숙박시설도 갖춰 하룻밤 묵어가기 좋다."
+   },
+   {
+    "name": "인각사",
+    "rom": "삼국유사가 완성된 위천 강가 고찰",
+    "meta": [
+     "📖 삼국유사 저술지",
+     "🎫 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "위천 강가에 조용히 앉은 신라 고찰이다. 고려의 승려 일연이 1284년부터 다섯 해 동안 이 절에 머물며 삼국유사를 완성했으니, 우리 옛 신화와 설화가 이곳에서 책이 됐다. 앞을 흐르는 강과 건너편 절벽 학소대, 그리고 보각국사 일연의 사리탑이 세월을 머금은 채 남아 있다.",
+    "todo": [
+     "보각국사 일연 사리탑 둘러보기",
+     "강 건너 학소대 절벽 바라보기"
+    ],
+    "tip": "화려하지 않은 작은 절이니 조용히 사색하듯 걷는 것이 어울린다. 화산산성·삼국유사면 코스와 가깝다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GW-SY-Kav2-Haksodae.jpg/500px-GW-SY-Kav2-Haksodae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg/500px-%EA%B5%B0%EC%9C%84_%EC%9D%B8%EA%B0%81%EC%82%AC_%EB%B3%B4%EA%B0%81%EA%B5%AD%EC%82%AC%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "일연공원",
+    "rom": "군위댐 아래 강변, 여름 물놀이 쉼터",
+    "meta": [
+     "🌊 여름 물놀이",
+     "🏕 차박",
+     "🎫 무료"
+    ],
+    "desc": "군위댐 하류에 조성된 강변 공원이다. 여름이면 맑은 물에 발을 담그고 그늘에서 쉬어가는 가족들, 하룻밤 차박을 즐기는 이들로 붐빈다. 시원하게 쏟아지는 일연폭포가 더위를 씻어주는, 소박하지만 정겨운 물놀이 쉼터다.",
+    "todo": [
+     "일연폭포 앞에서 더위 식히기",
+     "강변 그늘에서 쉬어가기"
+    ],
+    "tip": "여름 성수기엔 이른 시간에 자리를 잡는 게 좋다. 취사·차박 규정은 현장 안내를 따른다."
+   }
+  ]
+ },
+ "guri": {
+  "nm": "구리",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 잠실·강변에서 지하철·버스로 30~40분(경의중앙선·8호선 별내선 구리역). 부산에선 KTX로 서울 온 뒤 환승.",
+  "sep": "봄(5월)과 가을(9~10월). 한강시민공원 유채꽃·코스모스가 절정이고, 동구릉 능숲도 신록·단풍으로 물든다.",
+  "mood": "서울 코앞인데, 조선 왕 아홉이 잠든 숲과 고구려의 흔적, 한강 꽃밭이 한 도시에 다 모여 있다.",
+  "see": "세계유산 왕릉숲 · 고구려 보루와 재현 마을 · 한강 꽃축제 · 100m 굴뚝 전망대",
+  "spots": [
+   {
+    "name": "구리 동구릉",
+    "rom": "조선 왕 아홉이 잠든 숲, 유네스코 세계유산",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 반나절",
+     "🌲 능숲 산책",
+     "🏛 세계유산"
+    ],
+    "desc": "태조 이성계의 건원릉에서 시작해 조선 500년에 걸쳐 아홉 개의 능이 한 숲에 모인 조선 최대의 왕릉군이다. 능침으로 이어지는 솔숲길을 걷다 보면 도시 소음이 사라지고, 홍살문과 정자각 너머로 봉분이 나지막이 떠오른다. 건원릉 봉분을 덮은 억새는 이성계가 그리워한 고향 함흥의 풀을 옮겨 심은 것이라는 이야기가 전한다.",
+    "todo": [
+     "건원릉 억새 봉분 앞에서 잠시 멈춰 서 보기",
+     "목릉·숭릉으로 이어지는 능숲 산책로 천천히 걷기",
+     "매표소 옆 역사문화관에서 왕릉 형식 훑어보기"
+    ],
+    "tip": "월요일 휴관. 넓어서 다 도는 데 2~3시간 걸린다. 봄 신록·가을 단풍 때가 가장 좋다.",
+    "eat": "가까운 구리전통시장 곱창골목",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%EB%8F%99%EA%B5%AC%EB%A6%891.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%891.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg/500px-2025%EB%85%84_%EB%8F%99%EA%B5%AC%EB%A6%89%EC%9D%98_%EC%9E%AC%EC%8B%A4_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AC%EB%A6%89_%EC%95%88%EB%82%B4%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고구려대장간마을",
+    "rom": "아차산 자락에 되살린 고구려 마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🏯 고구려 세트장",
+     "📸 드라마 촬영지"
+    ],
+    "desc": "아차산 보루에서 나온 고구려 유물을 토대로 성곽·대장간·귀틀집을 재현한 야외 마을이다. 목책과 망루가 늘어선 풍경이 사극 세트처럼 이국적이라 여러 드라마 촬영지로도 쓰였다. 남한에 흔치 않은 고구려의 결을, 무기를 벼리던 대장간과 살림집 사이를 걸으며 눈으로 만난다.",
+    "todo": [
+     "망루에 올라 아차산·한강 방향 내려다보기",
+     "대장간·귀틀집 내부 재현 살펴보기"
+    ],
+    "tip": "아차산 등산 들머리와 이어져 산행 전후로 함께 보기 좋다. 월요일 휴관.",
+    "eat": ""
+   },
+   {
+    "name": "아차산",
+    "rom": "고구려 보루와 한강 일출이 있는 낮은 산",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌄 한강 일출",
+     "🥾 초보 등산"
+    ],
+    "desc": "해발 340m 남짓, 서울과 구리 경계에 걸친 부드러운 흙산이다. 능선을 따라 고구려군이 쌓은 보루가 점점이 남아, 발밑에 1,500년 전 국경이 있었음을 실감하게 한다. 정상 부근에서 굽어보는 한강과 서울 시가지는 특히 새해 일출 명소로 사람들이 몰린다.",
+    "todo": [
+     "능선 보루 터에서 한강 조망 즐기기",
+     "고구려대장간마을 쪽으로 내려와 마무리하기"
+    ],
+    "tip": "왕복 2시간 안팎이라 편한 신발이면 충분하다. 겨울 일출 산행이 인기.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/500px-AchasanPost.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/AchasanRuins.jpg/500px-AchasanRuins.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구리한강시민공원",
+    "rom": "봄 유채꽃, 가을 코스모스로 물드는 한강변",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🌸 5월 유채꽃",
+     "🌺 9월 코스모스"
+    ],
+    "desc": "한강을 따라 12만㎡에 펼쳐진 꽃밭 공원이다. 5월이면 노란 유채가, 9월이면 분홍·흰 코스모스가 강바람에 물결쳐 수도권을 대표하는 꽃축제가 열린다. 꽃밭 사이 산책로를 걷다 자전거를 타고, 해질녘엔 강 건너 노을과 조명이 어우러진 풍경이 오래 남는다.",
+    "todo": [
+     "꽃밭 한가운데 산책로에서 사진 찍기",
+     "한강 자전거길 따라 라이딩",
+     "축제 기간 야간 조명·공연 즐기기"
+    ],
+    "tip": "축제 절정에는 매우 붐빈다. 주차가 혼잡하니 대중교통·자전거를 권한다. 개화 시기는 해마다 조금씩 다르니 확인 후 방문.",
+    "eat": ""
+   },
+   {
+    "name": "구리타워",
+    "rom": "소각장 굴뚝 위 100m 회전전망대",
+    "meta": [
+     "💴 전망대 무료",
+     "⏱ 1~2시간",
+     "🌆 회전 레스토랑",
+     "🏙 한강 조망"
+    ],
+    "desc": "자원회수시설(소각장)의 굴뚝을 100m 전망대로 바꾼 구리의 랜드마크다. 유리창으로 둘러싼 전망층에서 한강과 구리·하남·서울 강동이 한눈에 들어오고, 그 위층엔 천천히 한 바퀴 도는 회전 카페·레스토랑이 있다. 흉물이 될 뻔한 소각장 굴뚝이 시민 명소로 뒤집힌 반전이 재미있다.",
+    "todo": [
+     "전망층에서 망원경으로 한강 굽어보기",
+     "회전 카페에서 천천히 한 바퀴 돌아 보기"
+    ],
+    "tip": "전망대 관람은 무료이나 운영시간을 미리 확인하는 게 좋다. 소각장 견학과 연계할 수 있다.",
+    "eat": ""
+   },
+   {
+    "name": "장자호수공원",
+    "rom": "악취 나던 못을 되살린 도심 속 호수",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌹 장미원",
+     "🌃 호수 야경"
+    ],
+    "desc": "오염돼 악취가 나던 장자못을 정비해 만든 도심 호수공원이다. 물 위로 놓인 데크길을 따라 한 바퀴 돌면 갈대와 연꽃, 계절마다 피는 장미원이 이어지고, 저녁엔 물에 비친 불빛이 잔잔히 흔들린다. 유모차·반려견과 함께 부담 없이 걷기 좋은 동네 산책지다.",
+    "todo": [
+     "호수 데크 산책로 한 바퀴 돌기",
+     "장미원 개화기(5~6월)에 맞춰 방문",
+     "생태체험관에서 장자못 이야기 살펴보기"
+    ],
+    "tip": "밤 산책과 야경이 특히 좋다. 인창동·수택동 주거지와 붙어 있어 접근이 쉽다.",
+    "eat": ""
+   },
+   {
+    "name": "구리전통시장 (돌다리 곱창골목)",
+    "rom": "구리를 대표하는 곱창 먹자골목",
+    "meta": [
+     "💴 곱창 약 1만원대",
+     "⏱ 1~2시간",
+     "🍢 곱창골목",
+     "🛍 전통시장"
+    ],
+    "desc": "구리를 대표하는 재래시장이자, 구리·남양주에 이름난 곱창 먹자골목의 본거지다. 1998년 무렵 청소년들이 드나들던 곱창집에서 시작해 지금은 곱창·순대·분식집 수십 곳이 좁은 골목에 다닥다닥 붙어 불판 연기와 냄새로 가득하다. 저렴한 값에 배부르게 먹고 나오는, 정겨운 시장 골목이다.",
+    "todo": [
+     "곱창골목에서 야끼곱창·순대곱창 맛보기",
+     "시장 안 떡·전·주전부리 구경하기"
+    ],
+    "tip": "저녁 시간에 가장 붐빈다. 현금을 챙겨 가면 편하다.",
+    "eat": "돌다리 곱창골목의 야끼곱창·순대곱창",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg/500px-20250524_%EA%B5%AC%EB%A6%AC_%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5_%EC%9E%85%EA%B5%AC_Jjw.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gurye": {
+  "nm": "구례",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역→구례구역 KTX·무궁화 약 3시간, 역 앞에서 시내버스·택시로 시내·명소로 이동한다. 자가용은 서울 기준 순천완주고속도로로 약 4시간, 부산에선 남해고속도로로 약 2시간 30분.",
+  "sep": "봄(3~4월)이 최고. 3월 산동면 산수유 노란 꽃, 3월 말 화엄사 홍매화, 4월 초 섬진강 벚꽃이 차례로 터진다. 여름·가을엔 노고단 운해와 단풍이 이어진다.",
+  "mood": "지리산이 병풍처럼 두르고 섬진강이 들판을 감아 도는 골짜기. 천년 고찰과 노란 산수유, 절벽 위 암자가 한 품에 모여 있다.",
+  "see": "화엄사 국보와 홍매화, 절벽에 매달린 사성암, 노고단 운해, 산수유 꽃길과 섬진강 벚꽃.",
+  "spots": [
+   {
+    "name": "화엄사",
+    "rom": "지리산이 품은 국보 넷의 천년 고찰",
+    "meta": [
+     "💴 입장 무료(변동가능)",
+     "⏱ 반나절",
+     "🌸 봄 홍매화",
+     "🛕 국보 4점"
+    ],
+    "desc": "지리산 자락에 안긴 삼국시대 창건의 고찰. 국보만 넷을 품은 각황전 앞에 서면 목조 건물의 육중한 위엄이 그대로 전해진다. 이른 봄이면 각황전 옆 홍매화 '흑매'가 붉게 터져, 사진가들이 새벽부터 카메라를 걸고 모여든다.",
+    "todo": [
+     "각황전·석등·사사자 삼층석탑 국보 둘러보기",
+     "봄이면 흑매(홍매화) 앞에서 한 컷"
+    ],
+    "tip": "지리산국립공원 안이라 화엄사 주차장을 이용한다. 홍매화 개화(3월 중순~말)엔 새벽·평일이 한산하다.",
+    "eat": "사찰 아래 골목의 산채정식·더덕구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%ED%99%94%EC%97%84%EC%82%AC3.jpg/500px-%ED%99%94%EC%97%84%EC%82%AC3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hwaeomsa%28Temple%29.jpg/500px-Hwaeomsa%28Temple%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Korea-Mountain-Jirisan-Hwaeomsa-01.jpg/500px-Korea-Mountain-Jirisan-Hwaeomsa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사성암",
+    "rom": "오산 절벽에 제비집처럼 매달린 암자",
+    "meta": [
+     "💴 입장 무료",
+     "🚐 마을버스 이용",
+     "🏞 절벽 전망",
+     "📸 섬진강 조망"
+    ],
+    "desc": "오산 꼭대기 절벽에 붙어 지은 작은 암자. 좁은 바위틈을 지나 유리광전 앞에 서면 섬진강이 구례 들판을 휘감아 도는 풍경이 발밑으로 펼쳐진다. 네 고승이 수도했다는 이야기가 전해지는, 명승으로 지정된 조망 명소다.",
+    "todo": [
+     "유리광전에서 섬진강·구례 들판 내려다보기",
+     "도선굴·마애여래입상 둘러보기"
+    ],
+    "tip": "정상 주차장이 좁아 성수기엔 오산 아래에서 마을버스(셔틀)로 오른다. 오르는 길이 가파르니 운전에 주의.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Korea-Saseongam_11-08000_Main_Hall.JPG/500px-Korea-Saseongam_11-08000_Main_Hall.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "지리산 노고단",
+    "rom": "해발 1507m, 구례가 품은 하늘 아래 초원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 왕복 2~3시간",
+     "⛰ 해발 1507m",
+     "🌅 운해·일출"
+    ],
+    "desc": "지리산 종주의 첫 봉우리이자 넓은 초원이 펼쳐진 고원. 성삼재까지 차로 오른 뒤 완만한 길을 조금만 걸으면 발아래 운해가 깔린 능선이 끝없이 이어진다. 노고단 운해는 '지리십경'에 꼽힐 만큼 이름났다.",
+    "todo": [
+     "성삼재 주차 후 노고단 고개까지 걷기",
+     "여름·가을 새벽 운해와 일출 노리기"
+    ],
+    "tip": "노고단 정상(돌탑)은 자연휴식년제 예약탐방구간일 수 있어 국립공원공단 예약을 미리 확인한다. 여름에도 정상은 쌀쌀하니 겉옷은 필수.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nogodan_at_Jirisan%2C_Korea_03.JPG/500px-Nogodan_at_Jirisan%2C_Korea_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "산수유마을",
+    "rom": "이른 봄 온 마을을 물들이는 노란 꽃",
+    "meta": [
+     "💴 마을 무료",
+     "🌼 3월 산수유꽃",
+     "♨️ 지리산온천 인근",
+     "📷 돌담 꽃길"
+    ],
+    "desc": "지리산 온천 아래 산동면 일대. 이른 봄이면 잎보다 먼저 핀 노란 산수유꽃이 돌담과 계곡을 따라 안개처럼 번진다. 3월이면 산수유꽃축제로 사람들이 몰리고, 가을엔 빨간 열매가 같은 자리를 다시 물들인다.",
+    "todo": [
+     "상위마을 돌담길 따라 꽃길 걷기",
+     "3월 산수유꽃축제 일정 확인"
+    ],
+    "tip": "개화 절정은 3월 중순~말. 축제 기간엔 산동면 진입 차량이 몰리니 이른 오전 방문을 권한다.",
+    "eat": "산수유차·산수유막걸리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cornus_officinalis_7.jpg/500px-Cornus_officinalis_7.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cornus_officinalis_5.jpg/120px-Cornus_officinalis_5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cornus_officinalis6.jpg/120px-Cornus_officinalis6.jpg"
+    ]
+   },
+   {
+    "name": "섬진강",
+    "rom": "구례 들판을 가르는 맑은 어머니 강",
+    "meta": [
+     "💴 무료",
+     "🚴 자전거길",
+     "🌸 봄 벚꽃길",
+     "🍲 재첩국"
+    ],
+    "desc": "구례 들판을 가르며 흐르는 대한민국에서 손꼽히게 맑은 강. 봄이면 강변 벚꽃길이 하동까지 이어지고, 자전거길과 재첩국 식당이 강을 따라 늘어선다. 저물녘 은빛으로 반짝이는 물빛을 두고 사람들은 이 강을 '어머니 강'이라 부른다.",
+    "todo": [
+     "섬진강 벚꽃길 드라이브·자전거 라이딩",
+     "강변 식당에서 재첩국 한 그릇"
+    ],
+    "tip": "4월 초가 벚꽃 절정. 19번 국도(구례~하동) 벚꽃길이 특히 아름답다.",
+    "eat": "섬진강 재첩국·재첩회무침.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seomjingang_MS3672.JPG/500px-Seomjingang_MS3672.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Honamjeongmaek.jpg/500px-Honamjeongmaek.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "천은사",
+    "rom": "저수지에 통째로 비치는 지리산 고찰",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌲 소나무 산책길",
+     "🪞 저수지 반영"
+    ],
+    "desc": "지리산 서남쪽 광의면 방광리에 자리한 고요한 절. 일주문 앞 저수지에 절과 숲이 통째로 비치고, 오래 논란이던 문화재 관람료가 폐지되며 소나무길 산책이 한결 홀가분해졌다.",
+    "todo": [
+     "일주문·수홍루와 저수지 반영 감상",
+     "경내 극락보전 둘러보기"
+    ],
+    "tip": "화엄사·노고단과 같은 광의면·산동 방면이라 하루에 함께 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "운조루 고택",
+    "rom": "'타인능해' 쌀뒤주가 있는 조선 반가",
+    "meta": [
+     "💴 입장 약 2,000원(변동가능)",
+     "⏱ 1시간",
+     "🏯 조선 고택",
+     "🌾 타인능해 쌀뒤주"
+    ],
+    "desc": "1776년에 지은 55칸 양반가로, 호남에서 보기 드문 조선 반가의 원형을 간직한 집. 마당 한켠 쌀뒤주엔 '타인능해(他人能解)' 네 글자가 새겨져 있다. 누구든 열어 쌀을 가져가라는 뜻으로, 곳간을 나눈 나눔의 정신이 지금도 회자된다.",
+    "todo": [
+     "누마루와 안채·사랑채 구조 둘러보기",
+     "'타인능해' 쌀뒤주 이야기 새기기"
+    ],
+    "tip": "오미리 마을 안에 있어 조용하다. 인근 곡전재·운조루 유물전시관도 함께 둘러보면 좋다.",
+    "eat": "인근 토지면의 다슬기수제비.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg/500px-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EB%8C%80%EB%AC%B8%EC%B1%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gwacheon": {
+  "nm": "과천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 4호선 하나로 닿는다. 대공원역·경마공원역·정부과천청사역이 명소 앞까지 데려다준다. 사당·강남에서 20~30분, 부산에선 KTX로 서울·광명역까지 온 뒤 4호선으로 갈아탄다.",
+  "sep": "4월 벚꽃과 10~11월 단풍. 서울대공원 둘레길과 관악산이 이 두 시즌에 가장 화려하고, 미술관 옥상정원도 봄가을에 가장 예쁘다.",
+  "mood": "서울 바로 아래, 청계산과 관악산이 병풍처럼 둘러싼 작은 도시 하나에 미술관·과학관·동물원·경마공원·놀이공원이 전부 모여 있다.",
+  "see": "미술관·과학관·동물원·경마공원·놀이공원이 걸어서 이어지는 '박물관 종합 선물세트'.",
+  "spots": [
+   {
+    "name": "국립현대미술관 과천",
+    "rom": "청계산 자락에 안긴 한국 현대미술의 본관",
+    "meta": [
+     "💴 입장 약 2,000원(전시별 상이)",
+     "⏱ 반나절",
+     "🍂 가을 옥상정원"
+    ],
+    "desc": "청계산 능선을 등지고 나선형으로 올라가는 원형 건물 안에서 백남준의 비디오 탑 '다다익선'이 천장을 뚫고 솟아 있다. 전시를 다 보고 옥상정원에 올라서면 과천 토종 식물 사이로 산과 저수지가 한눈에 들어와, 미술관이 곧 전망대가 된다. 야외 조각장을 산책하듯 걷다 보면 작품과 숲의 경계가 흐릿해진다.",
+    "todo": [
+     "나선 경사로를 따라 '다다익선' 감상",
+     "옥상정원에서 청계산·과천 전경 보기",
+     "야외 조각장 한 바퀴 산책"
+    ],
+    "tip": "대공원역에서 무료 셔틀버스(코끼리열차)나 도보로 접근. 상설전은 저렴하고 기획전은 요금이 다르니 전시별 요금을 미리 확인하면 좋다. 월요일 휴관.",
+    "eat": "미술관 카페의 커피와 디저트, 대공원역 인근 식당가",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MMCA_Seoul.jpg/500px-MMCA_Seoul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG/500px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MMCA_Seoul_2016.jpg/500px-MMCA_Seoul_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서울대공원",
+    "rom": "동물원·저수지·둘레길을 품은 서울 근교 최대 휴식처",
+    "meta": [
+     "💴 동물원 약 5,000원",
+     "⏱ 하루",
+     "🌸 봄 벚꽃길"
+    ],
+    "desc": "청계산과 과천저수지를 끼고 여의도 몇 배 넓이로 펼쳐진 공원이라, 하루를 통째로 써도 다 못 돈다. 리프트를 타고 산 중턱으로 오르면 발밑으로 호수와 서울랜드가 내려다보이고, 봄이면 저수지를 두른 벚꽃길이 분홍 터널을 만든다. 그저 걷기만 해도 마음이 풀리는, 도시에서 가장 가까운 큰 숲이다.",
+    "todo": [
+     "스카이리프트로 산 중턱까지 올라 조망",
+     "과천저수지 둘레길 산책",
+     "서울동물원에서 로랜드고릴라 등 만나기"
+    ],
+    "tip": "동물원은 종일 걸어야 해서 편한 신발 필수. 정문에서 동물원 입구까지 코끼리열차나 리프트를 이용하면 다리를 아낄 수 있다.",
+    "eat": "공원 내 매점·푸드코트, 정문 앞 김밥·분식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg/500px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg/500px-%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EA%B0%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Seoul_grandpark_sangh.jpg/120px-Seoul_grandpark_sangh.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서울동물원",
+    "rom": "약 300종이 사는 국내 최대 동물원",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 반나절~하루",
+     "🦍 로랜드고릴라"
+    ],
+    "desc": "1984년 창경원에서 이곳으로 옮겨온, 우리나라에서 가장 큰 동물원이다. 로랜드고릴라와 호랑이, 기린까지 약 300종 안팎의 동물이 산자락을 따라 넓은 방사장에서 지낸다. 계절마다 새끼가 태어나 이름표가 늘어나는, 아이도 어른도 시간 가는 줄 모르는 곳이다.",
+    "todo": [
+     "맹수사·유인원관 관람",
+     "동물해설 시간표 맞춰 설명 듣기",
+     "테마가든에서 쉬어가기"
+    ],
+    "tip": "서울대공원 안에 있어 대공원 리프트·코끼리열차와 연계된다. 언덕이 많으니 유아 동반이면 유모차보다 아기띠가 편할 때도 있다.",
+    "eat": "동물원 내 카페테리아, 대공원 정문 식당가",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seoul_Grand_Park.jpg/120px-Seoul_Grand_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg/120px-2014%EB%85%84_8%EC%9B%94_31%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B3%BC%EC%B2%9C%EC%8B%9C_%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90_%EC%A0%80%EC%88%98%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg/120px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90185.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서울랜드",
+    "rom": "청계산 품에서 40년 가까이 달려온 국내 최초 테마파크",
+    "meta": [
+     "💴 자유이용권 약 40,000원대",
+     "⏱ 하루",
+     "🎆 야간 빛축제"
+    ],
+    "desc": "1988년 문을 연 우리나라 첫 테마파크로, 산 능선을 배경으로 롤러코스터와 대관람차가 돌아간다. 해가 지면 루나파크의 조명이 켜지며 온 파크가 빛으로 물들고, 시즌마다 벚꽃·핼러윈·크리스마스 축제로 얼굴을 바꾼다. 오래된 놀이공원 특유의 정겨움과 스릴이 함께 있는 곳.",
+    "todo": [
+     "대관람차에서 과천 전경 내려다보기",
+     "루나파크 야간 조명 즐기기",
+     "시즌 축제·퍼레이드 챙겨보기"
+    ],
+    "tip": "주말·성수기엔 인기 어트랙션 대기가 길다. 오전 개장 직후를 노리면 여유롭다. 서울대공원과 붙어 있어 하루에 함께 묶기 좋다.",
+    "eat": "파크 내 스낵코너, 대공원 정문 앞 식당",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg/500px-2015%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EC%A0%84%EA%B2%BD_DSC09925.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%A7%A4%ED%91%9C%EC%86%8C_%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg/120px-20241228_%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C_%EB%82%B4%EB%B6%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립과천과학관",
+    "rom": "천체투영관까지 갖춘 수도권 최대 과학관",
+    "meta": [
+     "💴 상설전시 약 4,000원",
+     "⏱ 반나절",
+     "🌌 천체투영관"
+    ],
+    "desc": "6개 상설전시관에 공룡 화석부터 우주선까지 만질 수 있는 전시가 가득해, 아이 손을 잡고 들어가면 반나절이 훌쩍 지난다. 돔 천장 가득 별이 쏟아지는 천체투영관에서 밤하늘을 누워서 올려다보고, 야외로 나오면 곤충생태관과 커다란 전시물이 이어진다. 비 오는 날에도 든든한 실내 나들이터.",
+    "todo": [
+     "천체투영관에서 별자리 상영 보기",
+     "곤충생태관·자연사관 둘러보기",
+     "야외 전시장에서 대형 전시물 체험"
+    ],
+    "tip": "정부과천청사역에서 도보로 닿는다. 천체투영관·특별관은 별도 예약·요금이 있을 수 있으니 홈페이지에서 상영 시간표를 미리 확인.",
+    "eat": "과학관 내 카페·식당, 과천청사 인근 식당가",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/K-EMU_and_DL2101.jpg/500px-K-EMU_and_DL2101.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "렛츠런파크 서울",
+    "rom": "경마장이자 넓은 시민 공원",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🐴 포니랜드·야생화정원"
+    ],
+    "desc": "관악산과 청계산을 병풍처럼 두른 넓은 부지에 경주로와 잔디밭, 야생화정원이 함께 펼쳐진다. 말이 물속에서 수영 훈련을 하고 편자를 새로 갈아 끼우는 뒷모습까지 들여다볼 수 있어, 경마를 몰라도 볼거리가 많다. 아이들은 포니랜드에서 조랑말을 만나고, 어른들은 잔디밭에 앉아 소풍하듯 쉬어간다.",
+    "todo": [
+     "포니랜드에서 조랑말 보기",
+     "야생화정원·잔디광장 산책",
+     "말 수영훈련·편자 제작 과정 구경"
+    ],
+    "tip": "경마공원역에서 바로 연결된다. 경주 없는 평일에도 공원·정원은 열려 있어 산책 코스로 좋다. 주말엔 가족 나들이객이 많다.",
+    "eat": "파크 내 매점·푸드존, 경마공원역 주변 식당",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seoul_Racecourse_November_Dawn.jpg/500px-Seoul_Racecourse_November_Dawn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seoul_Racecourse_Main_Stand_2.jpg/120px-Seoul_Racecourse_Main_Stand_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Seoul_racecourse_park_President_Cup_GI_race_day.jpg/120px-Seoul_racecourse_park_President_Cup_GI_race_day.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "관악산",
+    "rom": "갓 모양 바위산, 과천에서 오르는 서울의 명산",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절~하루",
+     "🍂 가을 단풍"
+    ],
+    "desc": "해발 629m, 멀리서 보면 선비의 갓처럼 뾰족한 바위 봉우리가 인상적인 산이다. 과천향교 쪽에서 오르는 길은 계곡물 소리를 들으며 걷다가 정상 연주대에 서면 서울과 과천이 발아래로 시원하게 트인다. 봄엔 진달래, 가을엔 단풍으로 능선이 붉게 물드는, 도심에서 가장 가까운 진짜 산.",
+    "todo": [
+     "과천향교 코스로 연주대까지 등반",
+     "정상에서 서울·과천 조망",
+     "계곡길 따라 쉬어가며 걷기"
+    ],
+    "tip": "바위가 많아 미끄럼 방지 등산화 권장. 정상부는 바람이 세니 겉옷을 챙긴다. 초보라면 과천향교~연주대 코스가 무난하다.",
+    "eat": "과천향교·등산로 초입 두부·파전 등 산채 음식점",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/500px-Gwanaksan_Seoul_KR.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg/500px-%EC%B2%AD%EA%B3%84%EC%82%B0%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "추사박물관",
+    "rom": "추사 김정희의 글씨와 일생을 담은 조용한 박물관",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간",
+     "🖋 추사체"
+    ],
+    "desc": "조선 최고의 서예가 추사 김정희가 만년을 보낸 과천 땅에, 그의 글씨와 그림·유물이 모여 있다. 붓끝의 힘이 살아 있는 추사체 앞에 서면 획 하나에도 마음이 담겼음을 느끼게 된다. 크지 않지만 밀도 있게 채워진 전시라, 산과 미술관 나들이 사이에 잠시 마음을 가라앉히기 좋다.",
+    "todo": [
+     "추사체 대표작과 세한도 이야기 살펴보기",
+     "김정희의 생애·유배 흔적 따라가기",
+     "과지초당(재현) 둘러보기"
+    ],
+    "tip": "규모가 크지 않아 1~2시간이면 충분하다. 월요일 휴관. 인근 과천향교·관악산과 묶으면 반나절 코스가 된다.",
+    "eat": "과천 시내 한식·카페, 주암동 인근 식당"
+   }
+  ]
+ },
+ "gwangju-gyeonggi": {
+  "nm": "광주(경기)",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 잠실에서 차로 40분, 남한산성 방면. 대중교통은 지하철 8호선 산성역·경강선 곤지암역에서 시내버스 환승",
+  "sep": "가을(10~11월)이 최고. 화담숲 단풍과 팔당호 물안개, 남한산성 성곽길 억새가 한꺼번에 절정에 오른다",
+  "mood": "서울 바로 옆인데 산성과 호수, 조선 왕실 가마가 다 모여 있는 곳",
+  "see": "유네스코 남한산성, 곤지암 화담숲, 팔당호 물안개, 왕실 도자기 고장",
+  "spots": [
+   {
+    "name": "남한산성",
+    "rom": "성곽길 위에서 서울을 내려다보는 유네스코 산성",
+    "meta": [
+     "🏯 유네스코 세계유산",
+     "⏱ 반나절",
+     "🍁 가을 단풍·억새"
+    ],
+    "desc": "총 길이 12km가 넘는 성곽이 능선을 따라 이어지고, 그 위를 걸으면 발아래로 서울 도심이 아득하게 펼쳐진다. 병자호란 당시 인조가 45일을 버틴 행궁과 수어장대가 그대로 남아, 걸을수록 역사가 발밑에서 올라오는 느낌이다. 성문마다 표정이 달라 어느 문으로 올라도 다른 풍경이 기다린다.",
+    "todo": [
+     "성곽 순환길 한 구간 걷기",
+     "수어장대에서 서울 방향 조망",
+     "행궁 둘러보기"
+    ],
+    "tip": "산성로터리 주변에 유료 주차장이 여럿 있지만 주말 오후엔 만차가 잦다. 오전 일찍 오르거나 산성역에서 버스로 접근하는 편이 편하다.",
+    "eat": "산성 안 마을의 백숙·닭도리탕·산채정식 골목이 등산 후 한 끼로 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화담숲",
+    "rom": "곤지암 산자락에 조성된 약 5만 평 수목원",
+    "meta": [
+     "💴 입장 약 11,000원",
+     "⏱ 반나절",
+     "🍁 가을 단풍 절정"
+    ],
+    "desc": "이끼원과 자작나무숲, 소나무원이 테마별로 이어지고 계곡물 소리를 들으며 완만한 데크길을 걷게 된다. 가을이면 단풍 물든 골짜기 사이로 모노레일이 미끄러지듯 지나가 한 폭의 그림이 된다. 오르막이 부담되면 모노레일을 타고 위에서부터 내려오며 걷는 코스가 인기다.",
+    "todo": [
+     "이끼원·자작나무숲 산책",
+     "모노레일로 상부까지 이동",
+     "단풍철 야간 개장 확인"
+    ],
+    "tip": "가을 단풍 성수기에는 사전 예약제로 운영될 때가 많으니 방문 전 홈페이지에서 날짜·인원 예약 여부를 꼭 확인한다. 곤지암리조트 안에 있어 주차는 리조트 주차장을 이용한다.",
+    "eat": "곤지암 하면 소머리국밥. 화담숲 인근에 노포 국밥집이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%ED%99%94%EB%8B%B4%EC%88%B2.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/500px-%ED%99%94%EB%8B%B4%EC%88%B2_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "곤지암리조트",
+    "rom": "겨울엔 스키, 사계절엔 휴양지가 되는 산속 리조트",
+    "meta": [
+     "⛷️ 겨울 스키",
+     "⏱ 하루",
+     "♨️ 스파·휴양"
+    ],
+    "desc": "완만한 슬로프와 잘 갖춰진 편의시설로 초보자와 가족 단위 스키어에게 특히 사랑받는 곳이다. 겨울이 아니어도 스파와 화담숲, 넓은 산책로가 있어 사계절 머물기 좋은 휴양지로 통한다. 서울에서 한 시간이면 닿는데도 깊은 산속에 들어온 듯한 고요함이 있다.",
+    "todo": [
+     "겨울 슬로프 이용",
+     "스파·수영장에서 휴식",
+     "화담숲과 묶어 하루 코스"
+    ],
+    "tip": "겨울 성수기 주말 리프트권과 장비 대여는 온라인 사전 예약이 훨씬 저렴하고 대기도 줄일 수 있다.",
+    "eat": "리조트 안 식당가 외에, 나가서 곤지암 소머리국밥으로 든든하게 마무리하는 사람이 많다."
+   },
+   {
+    "name": "경기도자박물관 · 곤지암도자공원",
+    "rom": "조선 왕실 도자기의 고장에 세운 도자 박물관",
+    "meta": [
+     "💴 입장 무료(기획전 별도)",
+     "⏱ 두세 시간",
+     "🏺 도자기·역사"
+    ],
+    "desc": "광주는 조선 500년간 왕실용 도자기를 굽던 관요의 고장이라, 청자와 백자의 흐름을 한자리에서 볼 수 있다. 넓은 도자공원 안을 걸으며 야외 조각과 가마터 분위기를 함께 즐길 수 있어 산책하듯 둘러보기 좋다. 흙과 불로 빚은 그릇들 앞에 서면 이 땅이 왜 도자기의 본향이라 불리는지 알게 된다.",
+    "todo": [
+     "상설전시실에서 백자·청자 감상",
+     "도자공원 야외 산책",
+     "도자 체험 프로그램 확인"
+    ],
+    "tip": "월요일은 휴관이다. 도자기 축제 기간에는 야외에 판매·체험 부스가 크게 열리니 일정을 맞춰 가면 더 풍성하다.",
+    "eat": "곤지암읍 국밥 골목이 가깝고, 도자공원 안팎에 카페와 식당이 있다."
+   },
+   {
+    "name": "팔당호",
+    "rom": "남한강·북한강이 만나 넓게 고인 수도권의 큰 호수",
+    "meta": [
+     "🚗 드라이브",
+     "⏱ 반나절",
+     "🌫 아침 물안개"
+    ],
+    "desc": "1973년 팔당댐이 생기며 강이 넓게 고여 만들어진 호수로, 광주·남양주·양평·하남이 물가를 나눠 가진다. 이른 아침 수면 위로 피어오르는 물안개는 드라이브하던 차를 멈춰 세울 만큼 고요하고 몽환적이다. 물가를 따라 이어지는 길은 자전거와 드라이브 코스로도 이름나 있다.",
+    "todo": [
+     "강변 드라이브",
+     "물안개 낀 아침 풍경 감상",
+     "호숫가 카페에서 쉬기"
+    ],
+    "tip": "상수원보호구역이라 일부 구간은 출입·취사가 제한된다. 물안개는 일교차 큰 가을·겨울 새벽에 가장 잘 핀다.",
+    "eat": "팔당호 주변은 뷰 좋은 카페와 민물 매운탕·장어 집이 많다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paldang_Dam_and_Lake_Paldang.jpg/500px-Paldang_Dam_and_Lake_Paldang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg/960px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg/1280px-%ED%8C%94%EB%8B%B9%ED%98%B8-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%881.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "팔당물안개공원",
+    "rom": "팔당호 물가에 펼쳐진 억새·코스모스 산책 공원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 두세 시간",
+     "🌸 가을 코스모스"
+    ],
+    "desc": "너른 잔디밭과 갈대·억새가 팔당호를 배경으로 바람에 흔들리고, 강 건너 산자락까지 시야가 탁 트인다. 가을이면 코스모스가 물결처럼 피어 사진 찍는 사람들로 붐비고, 자전거 길이 잘 닦여 있어 가볍게 페달을 밟기에도 좋다. 노을이 물 위로 번지는 저녁이면 하루의 피로가 스르르 풀린다.",
+    "todo": [
+     "갈대밭·코스모스 사이 산책",
+     "자전거로 강변길 달리기",
+     "노을 지는 호수 감상"
+    ],
+    "tip": "그늘이 적어 여름 한낮은 뜨겁다. 아침 물안개나 해질녘을 노리면 사진도 산책도 훨씬 좋다.",
+    "eat": "인근 팔당호 카페거리에서 강뷰 커피 한 잔으로 마무리하기 좋다."
+   }
+  ]
+ },
+ "gwangju-metro": {
+  "nm": "광주",
+  "region": "🌾 전라 · 광주광역시",
+  "route": "서울 용산역에서 KTX·SRT로 광주송정역까지 약 1시간 40분, 부산에서는 SRT 환승 또는 고속버스 약 3시간 30분. 광주송정역에서 도시철도 1호선으로 시내와 문화전당까지 바로 이어진다.",
+  "sep": "봄(4~5월)과 가을(10~11월)이 가장 좋다. 봄엔 무등산 자락과 양림동 골목이 연둣빛으로 살아나고, 가을엔 무등산 억새와 단풍이 능선을 물들인다. 여름은 습하고 무덥지만 미술관·문화전당 같은 실내 여행지가 촘촘해 대안이 넉넉하다.",
+  "mood": "예향(藝鄕)이라 불리는 도시. 민주화의 아픈 역사와 따뜻한 예술이 같은 골목에서 숨 쉬고, 오리탕 한 그릇에도 정이 뚝뚝 묻어나는 곳.",
+  "see": "무등산 능선과 국립아시아문화전당, 근대 선교사들이 남긴 양림동 골목과 5·18의 기억이 도시 곳곳에 겹쳐 있다.",
+  "spots": [
+   {
+    "name": "국립아시아문화전당",
+    "rom": "옛 전남도청 자리에 들어선 아시아 최대 복합문화공간",
+    "meta": [
+     "💴 전시 무료~약 12000원",
+     "⏱ 반나절",
+     "🏛 실내 위주",
+     "🌧 우천 OK"
+    ],
+    "desc": "5·18의 중심 무대였던 옛 전남도청 자리에 세운, 대부분이 땅 아래로 잠긴 거대한 문화공간이다. 지상을 걸으면 광장과 잔디 언덕뿐인데, 계단을 내려가면 전시실과 도서관, 공연장이 미로처럼 이어진다. 역사의 상처 위에 빛을 심겠다는 발상이 건물 자체에 담겨 있어, 걷는 내내 묘한 뭉클함이 따라온다.",
+    "todo": [
+     "지하 광장에서 하늘을 향해 뚫린 채광창 올려다보기",
+     "라이브러리파크에서 아시아 각국의 책 넘겨보기",
+     "저녁에 5·18 민주광장 분수대까지 이어 걷기"
+    ],
+    "tip": "전시별로 요금과 휴관일이 다르니 방문 전 홈페이지에서 당일 프로그램을 확인하는 게 좋다. 월요일 휴관 공간이 많다.",
+    "eat": "인근 충장로·예술의거리에서 광주식 상추튀김과 육전을 곁들여 낮술 한잔",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/ACC_%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg/500px-ACC_%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ACC_%EC%98%88%EC%88%A0%EA%B7%B9%EC%9E%A5.jpg/500px-ACC_%EC%98%88%EC%88%A0%EA%B7%B9%EC%9E%A5.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ACC_%ED%95%98%EB%8A%98%EB%A7%88%EB%8B%B9.jpg/500px-ACC_%ED%95%98%EB%8A%98%EB%A7%88%EB%8B%B9.jpg"
+    ]
+   },
+   {
+    "name": "무등산",
+    "rom": "광주를 품은 해발 1187m 국립공원, 정상의 주상절리 병풍",
+    "meta": [
+     "💴 무료",
+     "⏱ 하루",
+     "🍂 가을 억새·단풍",
+     "🥾 등산화 필수"
+    ],
+    "desc": "'등급을 매길 수 없다'는 이름처럼 광주 사람들에게는 그냥 뒷산 같은 큰 산이다. 증심사에서 오르면 서석대·입석대의 우뚝 선 돌기둥들이 병풍처럼 펼쳐지고, 능선에 올라서면 도시 전체가 발아래로 내려앉는다. 봄 진달래와 가을 억새가 특히 유명해, 계절마다 완전히 다른 산을 만난다.",
+    "todo": [
+     "증심사 코스로 서석대·입석대 주상절리 보기",
+     "중머리재에서 도시 전경 내려다보며 도시락",
+     "가을엔 백마능선 억새밭 걷기"
+    ],
+    "tip": "정상부(천왕봉 일대)는 군부대로 평소 통제되며 지정된 개방일에만 오를 수 있으니 일정 전 확인이 필요하다. 주말엔 증심사 주차장이 이른 오전에 찬다.",
+    "eat": "증심사 입구 식당가의 무등산 보리밥 정식과 산채 비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gwangju_Mudeungsan.jpg/500px-Gwangju_Mudeungsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "양림동 역사문화마을",
+    "rom": "근대 선교사와 예술가의 시간이 겹겹이 쌓인 골목",
+    "meta": [
+     "💴 무료(일부 유료)",
+     "⏱ 반나절",
+     "📷 골목 산책",
+     "🏫 근대건축"
+    ],
+    "desc": "100여 년 전 서양 선교사들이 들어와 학교와 병원을 세우며 '서양촌'이라 불리던 동네다. 이장우 가옥 같은 한옥과 우일선 선교사 사택 같은 붉은 벽돌집이 한 골목에 섞여 있고, 그 사이사이로 작은 갤러리와 카페가 스며들었다. 느리게 걸으며 시대가 포개진 담벼락을 하나씩 읽는 재미가 있다.",
+    "todo": [
+     "펭귄마을과 이어 걸으며 골목 벽화 구경",
+     "우일선 선교사 사택 앞 100년 넘은 호랑가시나무 보기",
+     "언덕 위 오래된 교회와 선교사 묘역까지 산책"
+    ],
+    "tip": "골목이 좁고 오르내림이 있어 편한 신발이 좋다. 주말 오후엔 카페가 붐비니 오전 산책을 추천한다.",
+    "eat": "양림동 골목 카페의 핸드드립 커피, 남광주시장 방향의 오리탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg/500px-%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%96%91%EB%A6%BC%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84_%EC%9E%85%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Namgu-gwangju-map.png/500px-Namgu-gwangju-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "광주 펭귄마을",
+    "rom": "버려진 물건들이 예술이 된 양림동 속 골목 박물관",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📷 사진 명소",
+     "🎨 빈티지"
+    ],
+    "desc": "화재로 비었던 폐가 골목을, 주민들이 오래된 시계·라디오·간판 같은 옛 물건으로 가득 채우며 되살린 곳이다. 뒤뚱거리며 걷던 어르신들 모습에서 '펭귄마을'이라는 이름이 붙었다. 낡은 벽 하나하나가 전시장이 되어, 발길 닿는 데마다 카메라를 들게 되는 정겹고 유쾌한 골목이다.",
+    "todo": [
+     "벽을 채운 옛 시계·간판 사이에서 인생샷 찍기",
+     "골목 안 손글씨 명언 담벼락 읽으며 걷기",
+     "양림동 근대건축 산책과 하나로 묶어 돌기"
+    ],
+    "tip": "양림동 역사문화마을 안에 있어 함께 둘러보기 좋다. 실제 주민이 사는 골목이니 조용히 배려하며 관람한다.",
+    "eat": "마을 어귀 노점의 간식거리, 근처 양동시장 통닭"
+   },
+   {
+    "name": "국립5·18민주묘지",
+    "rom": "1980년 5월의 기억을 품은 국립 추모 묘역",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🕊 추모 공간",
+     "🚗 외곽"
+    ],
+    "desc": "1980년 5월 광주 민주화운동에서 스러진 이들이 잠든 곳이다. 하늘을 향해 곧게 솟은 추모탑 아래로 묘역이 가지런히 펼쳐지고, 참배로를 따라 걸으면 그날의 이름들이 하나하나 새겨져 있다. 관광이라기보다 잠시 걸음을 멈추고 고개 숙이게 되는, 광주라는 도시를 이해하는 출발점 같은 장소다.",
+    "todo": [
+     "추모탑 참배 후 유영봉안소에서 희생자 사진 마주하기",
+     "역사의 문·민주의 문을 지나며 상징 읽기",
+     "옛 망월동 구묘역까지 이어 둘러보기"
+    ],
+    "tip": "시 외곽 운정동에 있어 대중교통보다 자가용·택시가 편하다. 조용한 참배 공간이니 복장과 태도를 갖추는 것이 좋다.",
+    "eat": "가는 길 담양 방향의 떡갈비 정식(광주 송정떡갈비도 유명)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png/500px-20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mangwol-dong-cemetery.JPG/500px-Mangwol-dong-cemetery.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_3rd_boundaries_of_a_grave.jpg/500px-The_3rd_boundaries_of_a_grave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립광주박물관",
+    "rom": "바닷속에서 건져 올린 신안 보물선의 고향",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🌧 우천 OK",
+     "🏛 실내"
+    ],
+    "desc": "호남 지역 문화재를 모아둔 박물관으로, 하이라이트는 신안 앞바다에서 인양된 700년 전 무역선의 유물들이다. 배 한 척에서 쏟아진 중국 도자기와 동전 수만 점이 전시된 방에 들어서면, 옛 바닷길이 눈앞에서 되살아나는 듯하다. 넓은 잔디마당과 숲에 둘러싸여 산책하듯 쉬어 가기에도 좋다.",
+    "todo": [
+     "신안 해저유물실에서 보물선 도자기 감상",
+     "구석기부터 조선까지 호남 유물 훑어보기",
+     "야외 정원과 석조유물 마당 산책"
+    ],
+    "tip": "상설전은 무료, 월요일 휴관이 일반적이다. 바로 옆 비엔날레 전시관과 묶어 하루 문화 코스로 짜기 좋다.",
+    "eat": "인근 운암동·첨단지구의 오리탕과 한정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gwangju_National_Museum.jpg/500px-Gwangju_National_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Building_of_Gwangju_National_Museum-2.JPG/500px-Building_of_Gwangju_National_Museum-2.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Shaman_tool_with_eight_bells.jpg/500px-Shaman_tool_with_eight_bells.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사직공원 전망타워",
+    "rom": "광주 도심을 한눈에 담는 야경 전망대",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌃 야경 명소",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "양림동에 인접한 언덕, 오래된 사직공원 위에 세워진 4층 규모의 작은 전망타워다. 아주 높진 않지만 광주 원도심이 발아래로 펼쳐지고, 날이 맑으면 멀리 무등산 능선도 눈에 담긴다. 해 질 무렵 올라 도시에 하나둘 불이 켜지는 순간을 보는 것이 백미다. 봄에는 공원 일대가 벚꽃으로 뒤덮여, 낮에는 꽃길 저녁에는 야경을 한자리에서 누릴 수 있다.",
+    "todo": [
+     "해 질 녘 전망대에 올라 무등산 실루엣과 도심 야경 보기",
+     "봄 벚꽃철 사직공원 꽃길 산책",
+     "바로 아래 양림동 골목까지 걸어 내려오기"
+    ],
+    "tip": "전망타워 전망대는 무료이며 저녁 운영시간이 정해져 있으니 미리 확인한다. 언덕길이라 도보 접근 시 조금 가파르다.",
+    "eat": "양림동·사동 방향 카페와 광주식 육전·상추튀김"
+   }
+  ]
+ },
+ "gwangmyeong": {
+  "nm": "광명",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "지하철 7호선(철산·광명사거리역)으로 서울 도심에서 30~40분. KTX 광명역이 있어 부산·대구에서 한 번에 닿고, 광명동굴은 광명역에서 순환버스로 20분 남짓.",
+  "sep": "봄이 으뜸. 안양천을 따라 벚꽃이 끝없이 이어져 도시 전체가 꽃길이 된다. 한여름엔 사철 12도 안팎으로 서늘한 광명동굴이 최고의 피서지가 되니, 더위를 피하려면 8월도 좋다.",
+  "mood": "폐금광이 빛의 테마파크가 되고, 도심 뒷산엔 출렁다리가 걸린 도시 — 서울 바로 옆, 반나절이면 닿는 반전의 나들이.",
+  "see": "폐광을 개조한 광명동굴, 도덕산 Y자 출렁다리, 청백리 이원익의 종가 충현박물관, 그리고 봄이면 벚꽃 터널이 되는 안양천.",
+  "spots": [
+   {
+    "name": "광명동굴",
+    "rom": "폐금광이 빛의 테마파크로 되살아난 곳",
+    "meta": [
+     "💴 입장 약 6,000원(성인·변동)",
+     "🌡 사철 약 12도",
+     "⏱ 1~1.5시간"
+    ],
+    "desc": "일제강점기에 금과 은을 캐던 폐광이, 빛과 예술로 가득 찬 지하 테마파크로 되살아났다. 좁은 갱도로 들어서면 사철 12도 안팎의 서늘한 공기가 훅 끼치고, 형형색색 조명에 물든 빛의 공간과 지하 호수, 와인동굴이 차례로 이어진다. 한여름에도 겉옷이 필요할 만큼 시원해, 더위를 피해 온 가족이 몰려드는 광명의 대표 명소다.",
+    "todo": [
+     "빛의 공간·지하 호수에서 인증샷 남기기",
+     "와인동굴에서 국산 와인 한 잔 시음",
+     "여름엔 겉옷 챙겨 시원하게 피서"
+    ],
+    "tip": "월요일 휴관, 입장 마감은 오후 5시. 성수기·주말은 온라인 예매가 편하고 요금은 변동될 수 있으니 방문 전 공식 홈페이지를 확인. 광명역에서 순환버스로 접근 가능.",
+    "eat": "동굴 근처보다 광명전통시장의 순대·손칼국수·떡볶이 같은 시장 먹거리가 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/500px-Gwangmyeong_Cave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4%EC%A7%80%ED%95%98.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg/120px-20220805_%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4_%EC%A7%80%ED%95%98_%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94%EA%B8%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "도덕산 출렁다리",
+    "rom": "도심 뒷산에 걸린 Y자형 구름다리",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "📷 포토스팟"
+    ],
+    "desc": "광명 도심 한복판, 나지막한 도덕산에 세 방향으로 갈라지는 Y자형 출렁다리가 걸려 있다. 국내에 몇 곳 없는 3방향 출렁다리로, 광명 9경의 제3경으로 꼽힌다. 중앙 광장에서 완만한 산책로를 잠깐 오르면 닿는데, 슬리퍼로도 건널 만큼 길이 순하다. 다리 한가운데 서면 인공폭포를 배경으로 광명 시가지가 시원하게 펼쳐져, 큰 산에 오르지 않고도 전망과 스릴을 한꺼번에 챙길 수 있다.",
+    "todo": [
+     "다리 중앙에서 인공폭포 배경 사진 찍기",
+     "정상에 올라 시가지 조망",
+     "인공폭포 가동 시간에 맞춰 방문"
+    ],
+    "tip": "입장 무료·상시 개방. 인공폭포 가동 시간은 계절·요일에 따라 다르니 방문 전 확인하면 좋다. 주차장이 있어 차로 접근하기 편하다."
+   },
+   {
+    "name": "광명업사이클아트센터",
+    "rom": "버려진 것이 예술이 되는 업사이클 문화공간",
+    "meta": [
+     "💴 전시 무료",
+     "♻️ 업사이클",
+     "👨‍👩‍👧 체험"
+    ],
+    "desc": "버려질 뻔한 것들이 예술과 제품으로 다시 태어나는, 업사이클을 주제로 한 복합문화공간이다. 폐산업시설을 문화공간으로 되살린 곳으로, 업사이클 전시와 손으로 만드는 체험 프로그램이 열려 아이와 함께 환경을 이야기하며 놀기 좋다. 광명동굴 인근에 있어 나들이 코스로 자연스레 이어진다.",
+    "todo": [
+     "업사이클 전시 관람하기",
+     "가족 체험 프로그램 참여하기"
+    ],
+    "tip": "광명동굴 인근에 있어 함께 둘러보기 좋다. 체험은 사전 예약제인 경우가 많으니 홈페이지에서 일정·휴관일을 미리 확인하는 게 좋다."
+   },
+   {
+    "name": "충현박물관",
+    "rom": "청백리 오리 이원익의 종가가 그대로 박물관으로",
+    "meta": [
+     "💴 입장료 있음",
+     "🏛 종가 박물관",
+     "⏱ 1시간"
+    ],
+    "desc": "조선의 대표적 청백리 재상 오리 이원익과 후손들이 400년 넘게 지켜 온 종가가, 그대로 박물관이 되었다. 구름산 서쪽 자락에 이원익 영정을 모신 사당 오리영우, 인조가 하사한 집 관감당, 오래된 종택과 은행나무가 고요히 자리한다. 도심 한복판에서 조선 사대부 집안의 시간을 천천히 걸어 볼 수 있는, 광명 9경의 하나다.",
+    "todo": [
+     "관감당·오리영우 등 옛 건물 둘러보기",
+     "충현관 전시에서 이원익의 유물 살펴보기"
+    ],
+    "tip": "일·월요일 휴관, 관람은 10시~17시(입장 마감 16시). 광명시민은 입장료 할인이 있고, 요금은 변동될 수 있으니 방문 전 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg/500px-230813_%EC%B6%A9%ED%98%84%EB%B0%95%EB%AC%BC%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무의공 이순신 묘",
+    "rom": "노량의 또 다른 이순신이 잠든 곳",
+    "meta": [
+     "💴 무료",
+     "🏯 향토문화유산",
+     "⏱ 30분"
+    ],
+    "desc": "우리가 아는 충무공(李舜臣)과는 다른, 같은 이름의 무장 무의공 이순신(李純信)이 잠든 곳이다. 임진왜란 때 충무공 휘하에서 여러 해전에 참전했고, 노량해전에서도 충무공과 함께 싸운 인물로 전한다. 방형의 봉분과 오래된 문인석·망주석이 조용히 지키는 묘역을 걷다 보면, 잊혔던 또 하나의 이순신을 만나게 된다.",
+    "todo": [
+     "네모난 방형분과 옛 석물 살펴보기",
+     "안내판으로 무의공의 노량해전 이야기 읽기"
+    ],
+    "tip": "광명시 일직동, 광명역 인근에 있다. 상시 개방·무료. 조용한 답사지라 오래 머물기보다 가볍게 들르기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg/500px-230813_%EB%AC%B4%EC%9D%98%EA%B3%B5_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EB%AC%98.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안양천 벚꽃길",
+    "rom": "봄이면 끝없이 이어지는 벚꽃 터널",
+    "meta": [
+     "💴 무료",
+     "🌸 봄 벚꽃",
+     "🚲 자전거"
+    ],
+    "desc": "광명과 서울의 경계를 따라 흐르는 안양천은, 봄이 오면 강변 가득 벚꽃이 터널처럼 이어지는 광명 9경의 하나다. 물길이 워낙 길어 사람이 많아도 한적하게 느껴지고, 어디를 걸어도 꽃나무가 끊이지 않는다. 자전거를 빌려 물길을 따라 달리거나, 벚꽃 아래 돗자리를 펴고 봄 소풍을 즐기기 딱 좋다.",
+    "todo": [
+     "벚꽃 터널 산책하거나 자전거로 달리기",
+     "벚꽃이 만개하는 4월 초에 맞춰 방문",
+     "밤에는 조명 켜진 천변에서 밤벚꽃 야경 감상"
+    ],
+    "tip": "벚꽃 절정은 대체로 4월 초. 천변 곳곳에 자전거 대여소가 있어 신분증만 있으면 저렴하게 빌릴 수 있다.",
+    "eat": "산책 뒤엔 광명전통시장이나 소하동·철산동 먹자골목에서 든든하게 한 끼.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG/120px-Anyangcheon_Far_Upper_Reaches_by_Uiwang_IC_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Upstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG/120px-Downstream_along_the_Anyangcheon_in_Uiwang_-_2009-04-18.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gwangyang": {
+  "nm": "광양",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울에서 KTX·SRT로 순천역까지 약 2시간 30분, 이후 차로 30분이면 광양. 부산에서는 남해고속도로로 약 2시간.",
+  "sep": "3월 초~중순. 청매실농원 매화가 섬진강변을 하얗게 뒤덮는 매화축제 시즌이 광양의 절정이다. 4월 벚꽃, 가을 백운산 단풍도 좋다.",
+  "mood": "3월이면 온 산비탈이 눈처럼 하얗게 피어나는 매화의 고장, 그리고 섬진강이 바다로 흘러드는 남도의 끝자락.",
+  "see": "섬진강변을 뒤덮는 매화와 붉은 동백숲, 바다 위를 가르는 이순신대교, 구봉산에서 내려다보는 광양만 야경.",
+  "spots": [
+   {
+    "name": "광양 매화마을 (청매실농원)",
+    "rom": "섬진강변을 하얗게 물들이는 봄의 첫 소식",
+    "meta": [
+     "🌸 3월 매화",
+     "💴 입장 무료(축제 주차료 별도)",
+     "⏱ 반나절"
+    ],
+    "desc": "섬진강이 굽이도는 언덕에 수천 그루 매화나무가 자리한 곳. 3월 초·중순이면 온 산비탈이 눈이 내린 듯 하얗게 피어나고, 꽃향기 사이로 강물이 반짝인다. 수백 개 장독대와 매화가 어우러진 풍경은 매년 봄 전국에서 사람을 불러 모은다.",
+    "todo": [
+     "매화나무 터널 사이 언덕길 산책",
+     "장독대와 매화가 겹치는 포토존에서 사진",
+     "직접 담근 매실청·매실 장아찌 맛보기"
+    ],
+    "tip": "3월 매화축제 성수기에는 진입로 정체가 극심하다. 이른 아침에 도착하거나 셔틀·외곽 주차를 이용하는 편이 낫다.",
+    "eat": "매실로 담근 장아찌와 매실청, 그리고 광양의 대표 먹거리 광양불고기"
+   },
+   {
+    "name": "이순신대교",
+    "rom": "바다 위 80m, 국내 최고 높이의 현수교",
+    "meta": [
+     "🌉 현수교 2.26km",
+     "🌙 야경 명소",
+     "⏱ 1~2시간"
+    ],
+    "desc": "광양과 여수를 잇는 길이 2.26km의 현수교로, 바다 위 상판 높이가 80m에 이른다. 주탑 사이 거리 1,545m는 이순신 장군이 태어난 해를 딴 것. 밤이 되면 케이블을 따라 불빛이 흐르고, 광양만 공단의 야경과 어우러져 비현실적인 장면을 만든다.",
+    "tip": "다리 자체는 걷기 어렵고, 야경은 광양 쪽 구봉산 전망대에서 내려다볼 때 가장 아름답다.",
+    "eat": "광양불고기 — 얇게 저민 한우를 숯불에 구워 바로 먹는 이 지역 명물"
+   },
+   {
+    "name": "광양 백운산",
+    "rom": "1222m, 전남에서 두 번째로 높은 봄·가을 명산",
+    "meta": [
+     "⛰ 해발 1222m",
+     "🍁 가을 단풍",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "높이 1,222m로 전남에서 지리산 다음으로 높은 산. 정상과 억불봉 능선에서 섬진강과 광양만이 한눈에 내려다보이고, 봄이면 진달래, 가을이면 단풍이 능선을 물들인다. 골짜기 물이 맑아 여름 피서지로도 사랑받는다.",
+    "tip": "정상까지 여러 코스가 있으니 체력에 맞춰 고른다. 겨울 능선은 바람이 매서우니 방한 준비 필수.",
+    "eat": "산행 뒤 먹는 산채비빔밥과 백운산 자락의 고로쇠 물",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "광양 옥룡사지 동백나무숲",
+    "rom": "도선국사가 심었다는 7천 그루 붉은 동백숲",
+    "meta": [
+     "🌺 3월 동백",
+     "🌲 7천 그루 동백숲",
+     "⏱ 1~2시간"
+    ],
+    "desc": "통일신라의 도선국사가 머물렀던 옛 절터로, 그가 땅의 기운을 북돋우려 심었다는 동백나무 7천여 그루가 숲을 이룬다. 3월이면 붉은 동백이 바닥까지 떨어져 융단처럼 깔리고, 이끼 낀 절터와 어우러져 시간이 멈춘 듯한 고요가 흐른다.",
+    "todo": [
+     "동백숲 오솔길 천천히 걷기",
+     "바닥에 떨어진 동백꽃 융단 감상"
+    ],
+    "tip": "동백은 보통 3월이 절정이다. 숲길이 좁고 조용하니 정숙하게 둘러보는 것이 좋다.",
+    "eat": "매화마을과 가까워 함께 묶기 좋고, 인근에서 재첩국 한 그릇",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg/500px-%EA%B4%91%EC%96%91_%EC%98%A5%EB%A3%A1%EC%82%AC%EC%A7%80_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구봉산 전망대",
+    "rom": "광양만 야경과 이순신대교가 한눈에",
+    "meta": [
+     "🌙 야경 명소",
+     "🔥 봉수대 조형물",
+     "⏱ 1시간"
+    ],
+    "desc": "광양 시내 뒤편 봉우리에 자리한 전망대. 봉수대를 형상화한 붉은 조형물 너머로 광양만과 이순신대교, 여수·광양 공단의 불빛이 파노라마처럼 펼쳐진다. 해 질 녘부터 밤까지, 시간대마다 다른 표정을 보여주는 대표 야경 명소다.",
+    "tip": "정상 부근까지 차로 오를 수 있다. 해가 지기 30분쯤 전에 도착하면 노을과 야경을 모두 담을 수 있다.",
+    "eat": "야경을 보고 내려와 즐기는 광양불고기 한 상"
+   },
+   {
+    "name": "배알도 수변공원",
+    "rom": "섬진강이 바다와 만나는 작은 섬, 두 개의 다리",
+    "meta": [
+     "🌉 해맞이다리·별헤는다리",
+     "🌅 일출",
+     "⏱ 반나절"
+    ],
+    "desc": "섬진강이 바다와 몸을 섞는 자리에 떠 있는 작은 섬. 해맞이다리와 별헤는다리 두 개의 보행교가 섬과 뭍, 그리고 망덕포구를 잇는다. 다리를 건너며 강과 바다의 경계를 밟는 기분이 특별하고, 이른 아침이면 물안개 위로 붉은 해가 떠오른다.",
+    "todo": [
+     "두 개의 보행교 건너며 섬 한 바퀴 돌기",
+     "망덕포구까지 이어 걸으며 포구 풍경 감상"
+    ],
+    "eat": "섬진강 재첩국과 망덕포구의 벚굴·전어 같은 제철 해산물"
+   },
+   {
+    "name": "광양 와인동굴",
+    "rom": "폐터널을 개조한 사계절 서늘한 와인 테마 동굴",
+    "meta": [
+     "💴 입장 약 6,000원(변동 가능)",
+     "🍷 와인 시음",
+     "⏱ 1~2시간"
+    ],
+    "desc": "쓰이지 않던 옛 터널을 개조해 만든 와인 테마 동굴. 한여름에도 서늘한 통로를 따라 조명과 조형물, 와인 저장고가 이어지고, 광양과 전남 지역 와인을 시음하는 코너도 있다. 무더위를 피해 아이와 함께 걷기 좋은 실내 명소다.",
+    "tip": "동굴 안은 여름에도 서늘하니 얇은 겉옷을 챙기면 좋다. 시음은 운전자를 제외하고 즐긴다.",
+    "eat": "관람 후 인근에서 맛보는 광양불고기와 재첩 요리"
+   }
+  ]
+ },
+ "gyeongju": {
+  "nm": "경주",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 KTX·SRT로 신경주역까지 약 2시간, 역에서 시내·불국사행 버스로 갈아탄다. 부산에서는 시외버스·무궁화호로 1시간 남짓.",
+  "sep": "봄 — 대릉원 돌담과 보문호 일대가 벚꽃으로 뒤덮이고, 능선 같은 봉분 사이로 흩날리는 꽃잎이 천 년 유적의 무게를 부드럽게 만든다. 붉게 물드는 가을 단풍철도 그에 못지않다.",
+  "mood": "천 년 전 서라벌이 통째로 남았다 — 도시 전체가 지붕 없는 박물관인 곳.",
+  "see": "신라 천 년의 왕릉과 석탑, 물 위에 뜬 별궁, 그리고 밤이면 조명 켜진 첨성대와 월지.",
+  "spots": [
+   {
+    "name": "불국사",
+    "rom": "신라 불교예술의 정점, 유네스코 세계유산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏛 세계유산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "청운교·백운교 돌계단을 오르면 다보탑과 석가탑이 마당 양쪽에 마주 선다. 화강암을 깎아 만든 두 탑의 대비 — 화려함과 절제 — 앞에 서면 천삼백 년 전 장인의 손끝이 그대로 만져지는 듯하다. 대웅전 뒤로 비로전과 극락전을 잇는 담과 계단마다 이야기가 스며 있다.",
+    "todo": [
+     "다보탑·석가탑 앞에서 두 탑의 대비 감상하기",
+     "청운교·백운교 돌계단 천천히 오르기",
+     "석굴암과 묶어 토함산 코스로 돌기"
+    ],
+    "tip": "석굴암과 같은 토함산 자락이라 셔틀버스(유료)로 이어 볼 수 있다. 주말·단풍철엔 주차장이 오전에 일찍 찬다.",
+    "eat": "불국사 아랫마을과 보문단지 일대에서 한정식·쌈밥 한 상.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/500px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png/500px-%EB%B6%88%EA%B5%AD%EC%82%AC_%EB%B0%B0%EC%B9%98%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "석굴암",
+    "rom": "화강암 석굴 속 본존불, 동해를 바라보다",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🏛 세계유산",
+     "🌅 해돋이"
+    ],
+    "desc": "토함산 정상 가까이, 사람 손으로 쌓아 올린 석굴 안에 본존불이 결가부좌로 앉아 동해를 향한다. 유리 너머로만 뵐 수 있지만, 은은한 미소와 완벽하게 균형 잡힌 자태 앞에 서면 주변 소리가 사라진 듯 고요해진다. 새벽 해돋이 명소로도 이름났다.",
+    "todo": [
+     "본존불의 표정과 비례를 천천히 눈에 담기",
+     "토함산 능선에서 동해 조망 즐기기"
+    ],
+    "tip": "본존불은 유리벽 너머 관람만 가능하고 실내 촬영은 제한된다. 불국사에서 셔틀 또는 차로 토함산을 올라야 닿는다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/500px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seokguram_sukwangjeon.jpg/500px-Seokguram_sukwangjeon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg/120px-%EC%84%9D%EA%B5%B4%EC%95%94_%EB%B3%B8%EC%A1%B4%EB%B6%882.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "첨성대",
+    "rom": "선덕여왕 시대의 동양에서 가장 오래된 천문대",
+    "meta": [
+     "💴 외부 관람 무료",
+     "⏱ 30분",
+     "🌃 야경",
+     "🌸 봄 꽃밭"
+    ],
+    "desc": "벌판 한가운데 우물 정(井) 자로 돌을 쌓아 올린 탑. 1400년 전 별을 읽던 자리가 지금도 한 치 흐트러짐 없이 서 있다. 봄이면 주변 꽃밭이, 밤이면 조명이 켜져 낮과는 전혀 다른 얼굴을 보여준다. 대릉원·동궁과 월지와 걸어서 이어지는 도심 유적 산책의 한가운데다.",
+    "todo": [
+     "해질 무렵 조명 켜진 첨성대 야경 보기",
+     "봄·가을 계절 꽃밭과 함께 산책",
+     "대릉원까지 도보로 이동하기"
+    ],
+    "eat": "근처 황리단길에서 십원빵·경주빵으로 가볍게 요기.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/500px-Cheomseongdae-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c7/Cheomseongno_Cheomseongdae_2.jpg/500px-Cheomseongno_Cheomseongdae_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg/500px-%EC%9A%B0%EC%A4%91%EC%B2%A8%EC%84%B1%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대릉원 (천마총)",
+    "rom": "능선처럼 겹친 신라 왕들의 무덤, 천마총이 여기",
+    "meta": [
+     "💴 대릉원 무료·천마총 내부 약 3,000원",
+     "⏱ 1~2시간",
+     "🌸 봄 목련·벚꽃",
+     "📷 포토존"
+    ],
+    "desc": "스물세 기의 거대한 봉분이 초록 능선처럼 물결친다. 그중 천마총은 내부가 공개돼, 금관과 천마도가 쏟아져 나온 무덤 속으로 직접 걸어 들어갈 수 있다. 봉분 사이로 난 목련나무와 돌담길은 경주에서 사진이 가장 많이 찍히는 자리다.",
+    "todo": [
+     "천마총 내부 전시와 금관 복제품 보기",
+     "봉분 사이 목련·돌담 포토존에서 사진 찍기",
+     "담장 하나 건너 황리단길로 이어 걷기"
+    ],
+    "eat": "바로 옆 황리단길 — 경주빵·황남빵, 십원빵, 개조 한옥 카페거리가 이어진다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/500px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg/250px-Korea-Gyeongju-Tumuli_in_Nodong-ri-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "동궁과 월지 (안압지)",
+    "rom": "물 위에 뜬 신라 별궁, 밤이 진짜다",
+    "meta": [
+     "💴 입장 약 3,000원 (변동 가능)",
+     "⏱ 1~2시간",
+     "🌃 야경 명소",
+     "🌙 밤 개장"
+    ],
+    "desc": "옛 이름은 안압지. 낮에도 좋지만 진가는 해가 진 뒤다. 복원된 누각에 불이 켜지면 연못 수면에 통째로 반사돼, 물과 하늘 어디까지가 건물인지 헷갈릴 만큼 대칭이 완벽하다. 신라 왕실이 연회를 열던 별궁의 밤을 그대로 걷는 기분이 든다.",
+    "todo": [
+     "해 진 뒤 야간 조명과 수면 반영 감상하기",
+     "연못을 한 바퀴 도는 산책 동선 따라 걷기"
+    ],
+    "tip": "낮보다 밤 방문을 권한다 — 조명이 켜지는 일몰 직후가 절정이고 사람도 가장 몰린다. 계절별 야간 마감시간을 미리 확인하자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg/500px-%EC%9D%BC%EC%A0%9C%EA%B0%95%EC%A0%90%EA%B8%B0_%EC%95%88%EC%95%95%EC%A7%80_%EC%A1%B0%EC%82%AC_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png/500px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80_A%EA%B1%B4%EB%AC%BC%EC%A7%80.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "경주 양동마을",
+    "rom": "500년을 이어온 양반 씨족마을, 유네스코 세계유산",
+    "meta": [
+     "💴 입장 약 4,000원 (변동 가능)",
+     "⏱ 반나절",
+     "🏘 한옥마을",
+     "🍂 가을"
+    ],
+    "desc": "설창산 자락에 기와집과 초가가 언덕을 따라 층층이 앉았다. 안동 하회마을과 함께 세계유산에 오른, 지금도 사람이 살고 있는 살아있는 마을이다. 흙돌담을 따라 오르면 종택 대청마루에서 마을 전체가 한눈에 내려다보인다.",
+    "todo": [
+     "언덕 위 종택에서 마을 전경 내려다보기",
+     "흙돌담길 따라 기와집·초가 둘러보기"
+    ],
+    "tip": "시내에서 차로 30~40분 떨어져 있다. 실제 주민이 사는 거주지이니 정숙하게, 사유 공간은 존중하며 둘러본다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yangdong_Village_20240113_047.jpg/500px-Yangdong_Village_20240113_047.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Yangdong_8492.jpg/330px-Yangdong_8492.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yangdong_8494.jpg/330px-Yangdong_8494.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "문무대왕릉",
+    "rom": "죽어서도 나라를 지킨 왕, 바다 위 수중릉",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🌅 해돋이",
+     "🌊 동해 바다"
+    ],
+    "desc": "시내에서 동해로 나가면, 파도 사이 바위섬 하나가 바다에 뜬 왕의 무덤이다. 신라 문무왕이 '죽어 용이 되어 왜적을 막겠다'며 바다에 묻히길 청했다는 곳. 새벽이면 대왕암 뒤로 해가 떠올라, 정성을 올리는 촛불과 어우러진 독특한 풍경이 펼쳐진다.",
+    "todo": [
+     "대왕암 너머로 떠오르는 해돋이 보기",
+     "봉길해변 백사장 따라 산책하기"
+    ],
+    "eat": "감포·봉길 일대 횟집에서 물회와 문어, 제철 회 한 접시.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Underwater_Tomb_of_King_Munmu.jpeg/500px-Underwater_Tomb_of_King_Munmu.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%95%84%EC%B9%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg/330px-%EB%AC%B8%EB%AC%B4%EB%8C%80%EC%99%95%EB%A6%89%EC%9D%98_%EC%B2%9C%EB%85%84%EC%9D%98_%EB%B9%9B.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gyeongsan": {
+  "nm": "경산",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 → 동대구 KTX 약 1시간 40분, 대구도시철도 2호선 종점이 곧 경산(영남대역)이라 대구에서 지하철로 바로 닿는다. 부산에선 무궁화·ITX로 약 1시간 20분. 대구 바로 옆이라 대구 여행에 하루 붙이기 좋다.",
+  "sep": "봄 4월 — 반곡지 왕버들에 연둣빛 새잎이 돋고 못가에 복사꽃이 겹쳐 물그림자가 가장 곱다. 바람 없는 새벽 물안개까지 더하면 그야말로 그림.",
+  "mood": "대구 바로 옆, 반나절이면 닿는데 이백 년 왕버들 비친 못과 소원 들어준다는 갓바위가 있는 곳",
+  "see": "물에 통째로 비치는 왕버들(반곡지), 팔공산 꼭대기 소원 부처 갓바위, 압독국 왕의 고분과 도심 호수 야경",
+  "spots": [
+   {
+    "name": "반곡지",
+    "rom": "300년 왕버들이 물에 통째로 비치는 사진 명소",
+    "meta": [
+     "💰 무료",
+     "⏱ 1~2시간",
+     "🌸 봄 복사꽃·왕버들"
+    ],
+    "desc": "이백 년 넘은 왕버들 스무 그루가 못 가장자리를 따라 늘어서서, 잔잔한 수면에 뒤집힌 제 모습을 통째로 비춘다. 봄이면 못 위쪽 복사꽃밭이 분홍으로 번지고 새벽 물안개가 낮게 깔려, 사진가들이 어둑할 때부터 삼각대를 편다. 작지만 광고·영화에 여러 번 담긴, 그림 같은 저수지다.",
+    "todo": [
+     "못을 한 바퀴 도는 나무데크 산책",
+     "수면에 비친 왕버들 반영 사진 담기",
+     "위쪽 복사꽃밭까지 올라가 보기"
+    ],
+    "tip": "물안개와 반영은 바람 없는 이른 아침이 가장 곱다. 주차는 못 아래 무료, 봄 주말엔 붐비니 일찍 가는 게 좋다.",
+    "eat": "남산면 시골이라 경산 시내로 나와 대추를 넣은 디저트나 한정식으로",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bangokji%2C_Gyeongsan.jpg/500px-Bangokji%2C_Gyeongsan.jpg"
+    ]
+   },
+   {
+    "name": "팔공산 갓바위",
+    "rom": "정성껏 빌면 한 가지는 들어준다는 소원 부처",
+    "meta": [
+     "💰 무료",
+     "⏱ 반나절(등산)",
+     "🙏 소원 기도",
+     "⛰️ 관봉 정상"
+    ],
+    "desc": "팔공산 남쪽 관봉 꼭대기, 머리에 넓은 갓 같은 판석을 인 석조여래좌상이 사방을 굽어본다. '정성으로 빌면 한 가지 소원은 꼭 들어준다'는 이야기 때문에, 수능철이면 새벽부터 계단을 오르는 기도객의 촛불이 산정을 밝힌다. 보물로 지정된 통일신라 불상 앞에서 발아래로 겹겹이 펼쳐지는 능선을 마주하게 된다.",
+    "todo": [
+     "경산 선본사 쪽 완만한 길로 오르기",
+     "산정에서 소원 하나 빌어 보기",
+     "맑은 날 겹능선 조망 담기"
+    ],
+    "tip": "대구 방면은 1365 돌계단으로 가파르고, 경산 선본사 코스가 더 완만하다. 편한 등산화 필수. 수능·정초엔 인파가 크게 몰린다.",
+    "eat": "와촌면 갓바위 초입 식당가의 산채비빔밥·손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg/500px-%EA%B0%93%EB%B0%94%EC%9C%84_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81_2022-11-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EC%95%88%EB%82%B4%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg/500px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B0%93%EB%B0%94%EC%9C%84_%EA%B3%84%EB%8B%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼성현역사문화공원",
+    "rom": "원효·설총·일연, 경산이 낳은 세 성현의 뜰",
+    "meta": [
+     "💰 공원 무료(전시관 별도)",
+     "⏱ 2~3시간",
+     "👨‍👩‍👧 가족 나들이"
+    ],
+    "desc": "원효대사, 그의 아들 설총, 삼국유사를 쓴 일연 — 모두 경산 땅과 인연이 깊은 세 성현을 기리는 너른 공원이다. 넓은 잔디마당과 연못, 전통 누각과 역사관이 어우러져 아이와 걷기 좋고, 봄가을엔 축제와 야외무대가 열린다. 배우는 일과 쉬는 일을 한자리에서 하는, 경산의 대표 문화공간이다.",
+    "todo": [
+     "삼성현역사문화관에서 세 성현 이야기 보기",
+     "잔디마당·연못 따라 산책",
+     "계절 축제·야외 행사 일정 확인"
+    ],
+    "tip": "주차가 넓고 무료다. 전시관은 월요일 휴관인 경우가 많으니 방문 전 운영일을 확인하는 게 좋다.",
+    "eat": "인근 남산면 딸기, 경산 대추를 쓴 간식류"
+   },
+   {
+    "name": "남매지",
+    "rom": "도심 한복판, 밤이면 음악분수가 켜지는 호수",
+    "meta": [
+     "💰 무료",
+     "⏱ 1~2시간",
+     "🌃 야경·분수",
+     "🚶 둘레 산책"
+    ],
+    "desc": "아파트와 대학가에 둘러싸인 도심 저수지가 통째로 시민 공원이 됐다. 물 위로 놓인 데크길을 따라 한 바퀴 돌면 갈대와 물새가 스치고, 해가 지면 음악에 맞춰 분수가 물기둥을 쏘아 올린다. 큰맘 먹지 않아도 저녁 산책 삼아 훌쩍 다녀오기 좋은, 경산 사람들의 앞마당이다.",
+    "todo": [
+     "수변 데크길 한 바퀴 걷기",
+     "저녁 음악분수 시간 맞춰 가기",
+     "자전거로 둘레 한 바퀴"
+    ],
+    "tip": "음악분수는 대개 여름철 저녁에만 가동하니 운영 여부·시간을 미리 확인하자. 밤 산책로 조명이 예쁘다.",
+    "eat": "가까운 영남대·경산 시내 대학가의 가성비 맛집"
+   },
+   {
+    "name": "경산 임당동 고분군",
+    "rom": "신라에 앞서 이 땅을 다스린 소국 '압독국'의 무덤들",
+    "meta": [
+     "💰 무료",
+     "⏱ 1시간",
+     "🏺 삼국시대 고분"
+    ],
+    "desc": "도심에서 가까운 구릉 위로 봉긋한 흙무덤들이 줄지어 솟아 있다. 이곳은 신라에 병합되기 전 이 땅을 다스리던 소국 '압독국' 지배층의 무덤으로, 금·은 장신구와 고리자루칼 같은 유물이 쏟아져 나온 자리다. 잔디 덮인 능선을 오르며, 아주 오래전 이 자리에 소국의 왕이 있었다는 사실을 발밑으로 실감하게 된다.",
+    "todo": [
+     "봉분 사이 능선 천천히 걷기",
+     "해질녘 무덤 실루엣 담기",
+     "출토 유물은 인근 박물관에서 이어 보기"
+    ],
+    "tip": "그늘이 적은 개활지라 여름 한낮은 덥다. 유물 실물은 영남대박물관·국립대구박물관에서 볼 수 있다.",
+    "eat": "고분군 인근은 식당이 적어 경산 시내로 나와 식사하는 편이 낫다",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg/500px-%EA%B2%BD%EC%82%B0_%EC%9E%84%EB%8B%B9%EB%8F%99%EA%B3%BC_%EC%A1%B0%EC%98%81%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "gyeryong": {
+  "nm": "계룡",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 용산에서 기차로 계룡역까지 약 2시간(호남선), 자가용은 대전을 지나 40분 남짓. 대전 유성과 맞닿아 있어 대전 여행에 하루 곁들이기 좋다. 부산에서는 대전 경유 약 3시간.",
+  "sep": "가을. 계룡산 자락이 단풍으로 물들고, 향적산 능선에서 맞는 아침 공기가 가장 맑다. 봄 신록과 사계고택 연못가도 좋다.",
+  "mood": "'닭 볏을 쓴 용'을 닮은 계룡산이 남쪽에서 굽어보는 도시. 삼군 본부가 자리한 반듯한 계획도시 안에, 예학자의 고택과 외국인 수행자의 선원이 조용히 숨어 있다.",
+  "see": "계룡산 남쪽 자락의 등산과 일출, 예학자 김장생의 고택, 그리고 국제 선원의 고요.",
+  "spots": [
+   {
+    "name": "계룡산",
+    "rom": "닭 볏 쓴 용을 닮은 이름의 산, 그 남쪽 자락",
+    "meta": [
+     "🏞️ 국립공원",
+     "⛰️ 845m",
+     "🍁 가을 단풍"
+    ],
+    "desc": "'닭의 볏을 쓴 용'을 닮았다 하여 붙은 산 이름이 그대로 도시 이름이 되었다. 공주·대전과 어깨를 맞댄 이 산의 남쪽 자락이 계룡시 쪽인데, 능선을 걷다 보면 화강암 봉우리와 활엽수림이 번갈아 나타난다. 천왕봉 일출과 연천봉 낙조가 예부터 신령하다 여겨진, 계룡8경을 품은 산이다.",
+    "todo": [
+     "능선에서 봉우리 실루엣과 도시 전경 함께 눈에 담기",
+     "계절별 얼굴(봄 신록·가을 단풍·겨울 설경) 골라 오르기"
+    ],
+    "tip": "국립공원이라 코스가 길다. 물과 행동식을 챙기고 하산 시간을 여유 있게 잡는다. 계룡시 쪽에서는 향적산 방면으로 오르는 길이 가깝다.",
+    "eat": "산을 내려와 먹는 도토리묵·산채비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mount_Gyeryong_from_Jang-gun_peak.jpg/500px-Mount_Gyeryong_from_Jang-gun_peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nammaetap_at_Gyeryongsan.jpg/500px-Nammaetap_at_Gyeryongsan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "향적산 국사봉",
+    "rom": "계룡시 사람들의 아침 산, 도시가 한눈에",
+    "meta": [
+     "🌄 일출 명소",
+     "🥾 능선 조망",
+     "⏱ 반나절"
+    ],
+    "desc": "엄사면 향한리에서 오르는, 계룡시 사람들이 아침 산으로 삼는 봉우리다. 정상 국사봉에 서면 반듯하게 정돈된 계획도시와 논산 들판, 멀리 계룡산 주능선까지 한눈에 담긴다. 조선을 세운 태조가 신도안을 도읍으로 정하려 이 자리에 올라 나랏일을 논했다 하여 국사봉이라 전한다 — 향적산과 국사봉, 두 이름이 겹치는 조용한 산이다.",
+    "todo": [
+     "국사봉 정상에서 계룡시 계획도시 전경 내려다보기",
+     "이른 아침 올라 능선 위로 뜨는 해 맞기"
+    ],
+    "tip": "무상사 방면과 향한리 방면 등산로가 있다. 잘 닦인 대로가 아니니 등산화를 신는 편이 낫다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "계룡 사계고택",
+    "rom": "예학의 대가 사계 김장생이 말년을 보낸 고택",
+    "meta": [
+     "🏛️ 충남 기념물",
+     "💴 관람 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "조선 예학을 집대성한 사계 김장생(1548~1631)이 말년을 보낸 집이다. 안채와 사랑채 은농재, 별당이 나지막이 이어지고, 별당 앞에는 연못과 회화나무가 어우러진다. 조상을 모신 가묘도 한켠에 있다. 1602년에 지어진 뒤로도 옛 형태를 비교적 잘 지키고 있어, 툇마루에 앉으면 시간이 느리게 간다.",
+    "todo": [
+     "사랑채 은농재 툇마루에 앉아 옛집의 결 느끼기",
+     "연못가 회화나무 그늘을 따라 천천히 걷기"
+    ],
+    "tip": "무료로 열려 있으나 관리·행사에 따라 관람 시간이 달라질 수 있어, 방문 전 계룡시 문화관광 안내를 확인하면 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg/500px-Sagye_House%2C_Gyeryong%2C_South_Chungcheong_%28Chungnam%29%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무상사 국제선원",
+    "rom": "외국인 수행자들이 모여드는 계룡의 국제 선원",
+    "meta": [
+     "🧘 국제선원",
+     "🌏 외국인 수행",
+     "🤫 묵언 안거"
+    ],
+    "desc": "향적산 자락에 2000년 문을 연, 관음선종 계통의 국제 선원이다. 숭산 선사의 가르침을 따라 세계 각국에서 온 스님과 재가자가 함께 머물며, 여름·겨울 석 달 묵언 안거를 난다. 한국의 산사에서 낯선 언어들이 같은 참선을 하는 풍경이 이곳만의 고요를 만든다.",
+    "todo": [
+     "법당과 선방을 둘러보며 국제 산사의 분위기 느끼기",
+     "수행·템플스테이 프로그램 일정 미리 알아보기"
+    ],
+    "tip": "수행 도량이라 정숙이 우선이다. 방문·수행 참여는 반드시 사전 문의 후, 안거(결제) 기간에는 일반 방문이 제한될 수 있다."
+   },
+   {
+    "name": "괴목정",
+    "rom": "신도안 자락, 오래된 나무가 정자가 된 자리",
+    "meta": [
+     "🌳 노거수",
+     "🕰️ 옛 신도안",
+     "🚶 잠깐 들르기"
+    ],
+    "desc": "신도안면 용동리에 있는, 오래된 괴목이 정자처럼 그늘을 드리운 유서 깊은 자리다. 조선 초 새 도읍 '신도안'으로 꼽혔던 계룡산 남쪽 자락의 옛 이야기가 서린 곳으로, 큰 나무 아래 서면 이 땅이 품었던 시간이 느껴진다. 화려하지 않지만 계룡의 오래된 결을 더듬기엔 알맞다.",
+    "tip": "신도안면 일대는 계룡대 군 시설과 가까워 일부 구역이 통제된다. 이동 전 접근 가능 여부를 확인하고 나서면 좋다."
+   }
+  ]
+ },
+ "hadong": {
+  "nm": "하동",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널에서 시외버스로 약 3시간 40분, 부산 서부터미널에서 약 2시간. 자가용은 남해고속도로 하동IC. 섬진강을 따라 화개·악양·하동읍이 남북으로 길게 이어진다",
+  "sep": "3월 말~4월 초. 화개천을 따라 십리벚꽃이 터널을 이루는 이 짧은 한 주가 하동의 얼굴이다. 가을이면 평사리 황금 들녘과 섬진강 은빛 백사장이 대신 자리를 채운다",
+  "mood": "지리산과 섬진강이 만나는 자리, 벚꽃 터널과 소설 『토지』의 들판이 나란히 흐르는 느린 강마을",
+  "see": "십리벚꽃길·쌍계사·최참판댁·하동송림·화개장터·금오산 케이블카",
+  "spots": [
+   {
+    "name": "화개장터 & 십리벚꽃길",
+    "rom": "봄이면 십리를 벚꽃으로 걷는 강마을 장터",
+    "meta": [
+     "💴 입장 무료",
+     "🌸 봄 벚꽃",
+     "🍜 재첩·참게"
+    ],
+    "desc": "경상도와 전라도 사람이 섬진강을 사이에 두고 만나 물건을 나누던 화개장터는, 지금도 지리산 산나물과 약재, 섬진강 재첩이 늘어선 정겨운 오일장의 표정을 간직하고 있다. 장터에서 쌍계사로 이어지는 약 4km의 화개천 길이 봄이면 벚꽃 터널로 뒤덮여, 두 손을 잡고 걸으면 백년해로한다는 '혼례길'로 불린다.",
+    "todo": [
+     "벚꽃 터널 아래 화개천 길 천천히 걷기",
+     "장터 국밥·파전에 막걸리 한 잔"
+    ],
+    "tip": "벚꽃 절정은 대개 3월 말~4월 초 딱 한 주. 이 기간 화개천 길은 극심하게 막히니 이른 아침에 들거나 하동읍 쪽에 주차하고 걷는 편이 낫다.",
+    "eat": "섬진강 재첩국, 참게가리장, 은어",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Korea-Hadong-Hwagae.jangteo-Market-01.jpg/250px-Korea-Hadong-Hwagae.jangteo-Market-01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hwagae_Cherry_Blossoms_Festival_046.JPG/250px-Hwagae_Cherry_Blossoms_Festival_046.JPG",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hwagae_Cherry_Blossoms_Festival_007.JPG/250px-Hwagae_Cherry_Blossoms_Festival_007.JPG"
+    ]
+   },
+   {
+    "name": "쌍계사",
+    "rom": "지리산 골짜기에 722년부터 앉은 천년고찰",
+    "meta": [
+     "💴 관람료 면제(2023~)",
+     "⏱ 반나절",
+     "🍵 차 시배지"
+    ],
+    "desc": "지리산 자락 화개골 깊숙한 곳에 722년 세워진 쌍계사는, 계곡 두 물줄기가 절 앞에서 만난다 하여 붙은 이름이다. 최치원이 비문을 쓴 국보 진감선사탑비를 비롯해 대웅전, 팔상전 등 오래된 전각이 울창한 숲에 안겨 있어, 벚꽃길 끝에서 마주하면 소란한 봄이 문득 고요해진다.",
+    "todo": [
+     "국보 진감선사탑비 앞에서 최치원의 글씨 읽어보기",
+     "일주문에서 대웅전까지 이어지는 숲길 걷기"
+    ],
+    "tip": "화개장터에서 벚꽃길을 따라 올라오면 쌍계사에 닿는다. 부속 암자 국사암·불일암까지 오르면 지리산 산길의 맛이 제대로 난다.",
+    "eat": "화개 산채정식, 녹차",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ssanggyesa_032.JPG/500px-Ssanggyesa_032.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ssanggyesa_011.JPG/250px-Ssanggyesa_011.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ssanggyesa_016.JPG/250px-Ssanggyesa_016.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "최참판댁 (평사리)",
+    "rom": "소설 『토지』가 그대로 서 있는 악양 들판의 고택",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🍁 가을 황금들녘"
+    ],
+    "desc": "박경리의 대하소설 『토지』의 무대 평사리에, 소설 속 최씨 집안의 기와집을 한옥 열네 채로 지어 올린 곳이다. 사랑채 마루에 앉으면 발아래로 악양 들판과 섬진강이 한눈에 펼쳐지고, 가을이면 그 넓은 들이 온통 황금빛으로 물들어 소설의 한 장면 속으로 걸어 들어온 듯하다.",
+    "todo": [
+     "사랑채 대청에서 평사리 들판 내려다보기",
+     "들판 한가운데 부부송(소나무 두 그루) 찾아가기"
+    ],
+    "tip": "매년 10월 둘째 주 토지문학제가 열린다. 최참판댁과 들판, 동정호를 함께 도는 데 반나절은 잡는 게 좋다.",
+    "eat": "악양 대봉감(가을), 매실",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hadong-map.png/500px-Hadong-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%95%9E_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg/250px-%EC%B5%9C%EC%B0%B8%ED%8C%90%EB%8C%81_%EC%82%AC%EB%9E%91%EC%B1%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "하동송림",
+    "rom": "섬진강 백사장을 지키는 280여 년 노송 숲",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌲 천연기념물"
+    ],
+    "desc": "조선 영조 때인 1745년, 강바람과 모래바람을 막으려 심은 소나무가 자라 900여 그루의 노송 숲이 되었다. 껍질이 거북 등처럼 갈라진 늙은 소나무들 사이로 섬진강 은빛 백사장이 내다보여, 예부터 '백사청송'이라 불렸다. 그늘 아래 벤치에 앉아 강을 바라보기 좋은, 하동읍의 오래된 쉼터다.",
+    "todo": [
+     "솔숲 사이로 난 산책로 걷기",
+     "강변 백사장까지 나가 섬진강 바라보기"
+    ],
+    "tip": "하동읍 도심 바로 옆이라 접근이 쉽다. 여름 한낮에도 솔숲 그늘이 서늘하다.",
+    "eat": "하동읍내 재첩국 백반",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Korean_red_pine_forest_in_Hadong.JPG/500px-Korean_red_pine_forest_in_Hadong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "하동 금오산",
+    "rom": "케이블카로 오르는 남해 조망의 849m 봉우리",
+    "meta": [
+     "💴 케이블카 왕복 약 15,000원",
+     "⏱ 반나절",
+     "🌅 일출·조망"
+    ],
+    "desc": "하동 남쪽 끝에 솟은 849m 금오산은 정상에 서면 한려해상의 다도해와 남해대교가 발아래로 펼쳐진다. 케이블카를 타고 능선까지 올라 확 트인 바다를 마주할 수 있고, 담이 큰 사람은 산 위에서 바다를 향해 내달리는 짚와이어로 내려오기도 한다. 일출 명소로도 이름났다.",
+    "todo": [
+     "케이블카 타고 정상 전망대에서 다도해 바라보기",
+     "짚와이어로 능선에서 바다 방향 활강(선택)"
+    ],
+    "tip": "짚와이어는 별도 요금이며 체중·기상 제한이 있으니 미리 확인. 바람이 강한 날은 케이블카·짚와이어 운행이 중단될 수 있다.",
+    "eat": "진교·금남 쪽 해산물, 재첩"
+   },
+   {
+    "name": "삼성궁 (청학동)",
+    "rom": "지리산 골짜기에 쌓아 올린 1500기의 돌탑",
+    "meta": [
+     "💴 입장 약 7,000원",
+     "⏱ 2~3시간",
+     "⛰ 청학동"
+    ],
+    "desc": "전통 한복과 초가를 지키는 마을 청학동, 그 위쪽 지리산 삼신봉 자락에 자리한 삼성궁은 손으로 하나하나 쌓아 올린 돌탑 1500여 기가 골짜기를 가득 메운 신비로운 수도처다. 연못과 돌담, 솟대 사이를 걷다 보면 세속과 뚝 떨어진 다른 시간 속에 들어선 기분이 든다.",
+    "todo": [
+     "돌탑과 연못이 이어지는 산길 한 바퀴 돌기",
+     "청학동 서당·초가 마을 함께 둘러보기"
+    ],
+    "tip": "입구에서 징을 쳐 방문을 알리는 독특한 입장 방식이 있다. 산 중턱이라 오르내림이 있으니 편한 신발 필수.",
+    "eat": "청학동 산채비빔밥, 더덕구이"
+   },
+   {
+    "name": "화개 녹차밭",
+    "rom": "우리나라 차 시배지, 계단식 초록 언덕",
+    "meta": [
+     "💴 대부분 무료",
+     "🍵 녹차 체험",
+     "🌿 봄~초여름"
+    ],
+    "desc": "쌍계사 부근은 신라 때 차나무를 처음 심었다는 우리나라 차 시배지로, 화개골 산비탈마다 계단식 녹차밭이 초록 물결을 이룬다. 지리산 안개와 섬진강 습기가 키운 하동 야생차는 향이 맑기로 이름났고, 다원에 앉아 갓 우린 차 한 잔에 산 냄새를 함께 마실 수 있다.",
+    "todo": [
+     "산비탈 계단식 차밭 사이 오솔길 걷기",
+     "전통 다원에서 하동 녹차 시음"
+    ],
+    "tip": "찻잎이 가장 푸른 4~6월이 보기 좋다. 도심다원 등 산 높은 곳 차밭은 전망이 좋지만 길이 좁으니 운전에 주의.",
+    "eat": "녹차, 녹차 아이스크림, 화개 산채정식"
+   }
+  ]
+ },
+ "haenam": {
+  "nm": "해남",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 센트럴시티→해남 고속버스 약 4시간 30분(하루 여러 편). KTX는 나주·광주송정역까지 온 뒤 시외버스 환승. 부산에선 남해고속도로로 약 4시간, 자가용이 가장 편하다.",
+  "sep": "가을(10~11월) — 두륜산·달마산 단풍과 고천암 갈대가 절정이고 땅끝 낙조가 가장 붉다. 봄엔 대흥사 벚꽃길과 동백이 좋다.",
+  "mood": "한반도가 육지로 마지막 발을 딛는 자리. 땅끝에서 해가 바다로 떨어지고, 두륜산 산사에는 안개가 걸린다.",
+  "see": "땅끝전망대·모노레일, 유네스코 산사 대흥사, 달마산 미황사, 명량대첩의 울돌목, 고산 윤선도의 녹우당.",
+  "spots": [
+   {
+    "name": "땅끝마을",
+    "rom": "한반도 육지가 바다로 사라지는 최남단",
+    "meta": [
+     "🌅 일출·일몰",
+     "🚡 땅끝모노레일",
+     "⏱ 반나절"
+    ],
+    "desc": "갈두산 사자봉 위 땅끝전망대에 서면 다도해가 발밑으로 흩어지고, 맑은 날엔 멀리 보길도와 노화도가 수평선 위로 떠오른다. 가파른 숲을 타고 오르는 모노레일 끝에서 해가 바다 끝으로 떨어질 때, '여기서 더는 갈 곳이 없다'는 말이 이상하게 마음을 가라앉힌다.",
+    "todo": [
+     "땅끝전망대에서 다도해 조망",
+     "땅끝탑까지 해안 데크 산책",
+     "모노레일 타고 사자봉 오르기"
+    ],
+    "tip": "일몰 시간을 미리 확인하고 늦은 오후에 오르면 좋다. 보길도·노화도行 배는 인근 땅끝항(갈두항)에서 출발한다.",
+    "eat": "해남 갯벌 세발낙지와 전복. 마을 식당의 낙지연포탕이 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Korea-Ttangkkeut-01.jpg/500px-Korea-Ttangkkeut-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "두륜산 케이블카",
+    "rom": "케이블카로 단숨에 오르는 서남해 파노라마",
+    "meta": [
+     "🚡 왕복 약 14,000원(변동)",
+     "⛰ 703m 가련봉",
+     "🍁 가을 단풍"
+    ],
+    "desc": "국내 최장급 두륜산 케이블카가 고계봉 전망대까지 순식간에 사람을 밀어 올린다. 정상 데크에 서면 다도해와 완도, 강진만이 한눈에 펼쳐지고 맑은 날엔 제주 한라산까지 수평선 위로 떠오른다. 가을이면 발밑 능선이 온통 붉게 물든다.",
+    "todo": [
+     "고계봉 전망대에서 다도해·한라산 조망",
+     "가련봉·두륜봉 능선 바라보기",
+     "단풍철 케이블카 야외 데크"
+    ],
+    "tip": "가격은 약이며 변동될 수 있다. 성수기·주말은 대기가 길고, 조망은 날 맑은 날이 압도적이다. 하부 승강장은 대흥사 초입과 가깝다.",
+    "eat": "산 아래 식당의 산채정식과 두륜산 표고버섯 요리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대흥사",
+    "rom": "두륜산 품에 안긴 유네스코 세계유산 산사",
+    "meta": [
+     "🛕 유네스코 세계유산",
+     "🍵 초의선사 일지암",
+     "⏱ 반나절"
+    ],
+    "desc": "두륜산 골짜기를 따라 들어가면 계곡과 숲 사이로 대흥사 가람이 넓게 펼쳐진다. 임진왜란 뒤 서산대사의 의발이 전해진 큰 절이자 우리 차 문화의 성지 일지암이 위쪽 산자락에 조용히 앉아 있다. 2018년 '산사, 한국의 산지승원'으로 세계유산에 올랐다.",
+    "todo": [
+     "초의선사가 머문 일지암 차실",
+     "대웅보전과 이광사·김정희의 현판",
+     "부도전과 매표소 숲길 걷기"
+    ],
+    "tip": "매표소에서 절까지 약 2km 숲길이 걷기 좋다. 초입의 유선관은 오래된 여관으로 벚꽃·단풍철 풍경이 곱다.",
+    "eat": "절 앞 산채정식, 더덕구이와 표고버섯전.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daeheungsa_11-03896.JPG/500px-Daeheungsa_11-03896.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Daeheungsa_11-03856.JPG/960px-Daeheungsa_11-03856.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Daeheungsa_11-03863.JPG/960px-Daeheungsa_11-03863.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "미황사",
+    "rom": "달마산 바위 병풍 아래 남도의 땅끝 절",
+    "meta": [
+     "🛕 보물 대웅보전",
+     "🥾 달마고도 둘레길",
+     "🌅 서해 낙조"
+    ],
+    "desc": "달마산의 들쭉날쭉한 바위 능선이 병풍처럼 절을 감싸고, 단청이 다 벗겨진 대웅보전이 오히려 세월의 결로 담담하게 아름답다. 주춧돌에는 게와 물고기가 새겨져 있고, 뒤로 이어지는 달마고도와 도솔암 능선에서는 서해로 지는 해가 온 바다를 붉게 물들인다.",
+    "todo": [
+     "대웅보전 주춧돌의 게·물고기 문양 찾기",
+     "부도밭 산책",
+     "능선 위 도솔암에서 낙조 보기"
+    ],
+    "tip": "도솔암은 주차 후 도보로 오르며 남도 제일의 낙조 명소로 꼽힌다. 달마고도는 오르내림이 적은 명상 둘레길이다.",
+    "eat": "송지·땅끝권의 전복과 석화(굴).",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mihwangsa_11-03714.JPG/500px-Mihwangsa_11-03714.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg/120px-%EB%AF%B8%ED%99%A9%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "우수영관광지 · 울돌목",
+    "rom": "13척으로 흐름을 뒤집은 명량의 바다",
+    "meta": [
+     "⚔ 명량대첩지",
+     "🌊 급조류 울돌목",
+     "🌉 진도대교"
+    ],
+    "desc": "해남과 진도 사이 폭이 300m 남짓한 좁은 물목 울돌목은 조류가 초속 5m로 소용돌이치며 바다가 우는 듯한 소리를 낸다. 1597년 이순신은 이 물길에서 배 13척으로 왜선 130여 척을 막아섰다. 우수영관광지의 전시관과 진도대교 위에서 그 격류를 내려다볼 수 있다.",
+    "todo": [
+     "명량대첩 기념전시관 관람",
+     "울돌목 물살 위 체험시설",
+     "진도대교와 야경 감상"
+    ],
+    "tip": "물살은 물때에 따라 극적으로 달라지니 만조·간조 시각을 확인하면 좋다. 매년 가을 명량대첩축제가 열린다.",
+    "eat": "우수영 젓갈과 세발낙지, 낙지비빔밥.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg/500px-%EC%9A%B8%EB%8F%8C%EB%AA%A9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "해남 윤선도 유적지 녹우당",
+    "rom": "고산 윤선도의 500년 종택과 비자나무 숲",
+    "meta": [
+     "🏯 사적 · 해남 윤씨 종가",
+     "🖼 윤두서 자화상(국보)",
+     "🌳 천연기념물 비자숲"
+    ],
+    "desc": "덕음산 자락에 앉은 녹우당은 고산 윤선도의 해남 윤씨 종택으로, ㅁ자 안채와 사랑채가 조선 상류 주택의 격을 그대로 간직한다. 뒷산 비자나무 숲에 바람이 불면 잎이 비처럼 스친다 하여 '녹우(綠雨)'라 불렀다. 곁의 유물전시관에는 공재 윤두서의 자화상 같은 국보·보물이 모여 있다.",
+    "todo": [
+     "고산유물전시관에서 윤두서 자화상 보기",
+     "천연기념물 비자나무 숲길 걷기",
+     "종택 앞 노거수와 마당 둘러보기"
+    ],
+    "tip": "종택 내부는 관람 동선에 제한이 있으니 안내를 따른다. 해남읍과 가까워 읍내 식사와 묶기 좋다.",
+    "eat": "해남읍 남도 한정식과 떡갈비, 해남 배추로 담근 김치.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "해남공룡박물관",
+    "rom": "8천만 년 전 발자국이 찍힌 우항리 화석 벌판",
+    "meta": [
+     "🦕 공룡·익룡 화석",
+     "👨‍👩‍👧 가족 여행",
+     "🎫 입장 약 3,000원(변동)"
+    ],
+    "desc": "황산면 우항리 바닷가는 공룡과 익룡, 물갈퀴 새의 발자국이 한자리에 찍힌 세계적으로도 드문 화석지다. 발자국 보존관 안으로 들어가면 8천만 년 전 갯벌이 굳은 지층을 코앞에서 볼 수 있고, 박물관 전시를 따라 아이와 함께 시간을 거슬러 오른다.",
+    "todo": [
+     "발자국 화석 보존관 관람",
+     "공룡 골격·전시실 둘러보기",
+     "야외 공룡 조형물과 사진"
+    ],
+    "tip": "실내 중심이라 날씨와 무관하고 아이 동반에 좋다. 입장료는 약이며 변동될 수 있다.",
+    "eat": "황산·해남읍권의 백반과 갈치조림."
+   },
+   {
+    "name": "고천암호 갈대밭",
+    "rom": "겨울이면 수십만 철새가 내려앉는 갈대의 바다",
+    "meta": [
+     "🦆 겨울 철새",
+     "🌾 갈대·억새",
+     "📷 노을 사진"
+    ],
+    "desc": "해남 서쪽 간척호 고천암호는 갈대밭이 지평선까지 이어지고, 겨울이면 가창오리 수십만 마리가 해질녘 하늘을 한 덩어리로 뒤덮으며 군무를 그린다. 붉게 타는 노을과 바람에 눕는 갈대가 카메라를 좀처럼 놓지 못하게 한다.",
+    "todo": [
+     "해질녘 가창오리 군무 보기",
+     "갈대밭 둑길 산책",
+     "노을과 갈대 사진 담기"
+    ],
+    "tip": "군무는 대개 11~2월 해질 무렵에 볼 수 있고, 새를 놀라게 하지 않도록 거리를 둔다. 차로 접근하는 편이 편하다.",
+    "eat": "겨울 해남 배추와 고구마, 진한 매생이국."
+   }
+  ]
+ },
+ "haman": {
+  "nm": "함안",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 경전선 기차로 함안역까지 약 4시간(무궁화·ITX), 또는 KTX 마산역에서 시내버스 환승. 부산·창원에서는 차로 1시간 내. 자가용은 남해고속도로 함안IC.",
+  "sep": "봄(4월)이 절정 — 겹벚꽃이 강변을 물들이고, 사월초파일 무렵 무진정 연못 위로 낙화놀이 불꽃이 쏟아진다. 여름엔 강주 해바라기, 가을엔 악양 코스모스·핑크뮬리가 각각의 얼굴로 이어진다.",
+  "mood": "가야 왕들이 잠든 능선 위로 노을이 내리고, 봄밤이면 연못 위로 불꽃이 떨어진다 — 아라가야 1500년의 조용한 함안.",
+  "see": "유네스코 말이산 고분군, 무진정 낙화놀이, 악양뚝방 꽃길, 여름의 강주 해바라기.",
+  "spots": [
+   {
+    "name": "함안 말이산 고분군",
+    "rom": "아라가야 왕들이 잠든 능선",
+    "meta": [
+     "🏺 아라가야",
+     "🌍 유네스코 세계유산",
+     "⏱ 반나절"
+    ],
+    "desc": "완만한 능선을 따라 크고 작은 봉분 수십 기가 파도처럼 이어진다. 1500년 전 아라가야 왕과 귀족들이 묻힌 이곳은 2023년 유네스코 세계유산 '가야고분군'으로 등재되었다. 능선길을 천천히 오르다 보면 발밑으로 가야읍 들판이 펼쳐지고, 해질 무렵엔 봉분들의 실루엣이 붉게 물든다.",
+    "todo": [
+     "능선 산책로를 따라 봉분 사이를 걷기",
+     "해질녘 노을과 봉분 실루엣 감상",
+     "출토 유물이 궁금하면 아래 함안박물관으로"
+    ],
+    "tip": "언덕 아래 함안박물관과 붙어 있어 함께 보기 좋다. 그늘이 적으니 여름 한낮보다 아침·저녁이 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg/500px-Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "함안 무진정",
+    "rom": "연못 위로 불꽃이 쏟아지는 봄밤",
+    "meta": [
+     "💴 무료",
+     "🌙 낙화놀이",
+     "📷 물그림자"
+    ],
+    "desc": "네모난 연못 한가운데 작은 섬과 정자가 앉아 있고, 무지개 다리가 물 위에 그림자를 드리운다. 조선 선비 조삼이 지은 이 소박한 정자는 평소엔 더없이 고요하지만, 사월초파일 전야가 되면 못 위에 매단 낙화봉에서 붉은 불꽃이 밤새 물 위로 떨어지는 '함안 낙화놀이'로 완전히 다른 얼굴이 된다.",
+    "todo": [
+     "연못을 한 바퀴 돌며 정자와 물그림자 담기",
+     "봄밤 낙화놀이 불꽃 구경(연 1회)"
+    ],
+    "tip": "낙화놀이는 대개 사월초파일 전날 저녁에 열려 인파가 몰린다. 날짜는 매년 함안군 공지를 확인하고 해 지기 전 일찍 자리를 잡는 게 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg/500px-%ED%95%A8%EC%95%88_%EB%AC%B4%EC%A7%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "악양생태공원",
+    "rom": "강변 둑길에 계절마다 피는 꽃밭",
+    "meta": [
+     "🌸 봄 겹벚꽃",
+     "🌾 가을 코스모스·핑크뮬리",
+     "💴 무료"
+    ],
+    "desc": "남강 가의 너른 둑방 아래로 계절마다 색이 바뀌는 꽃밭이 펼쳐진다. 봄엔 겹벚꽃과 청보리, 가을엔 코스모스와 핑크뮬리가 강바람에 흔들린다. 옛 가요 '처녀뱃사공'의 배경이 된 곳이라 노래비가 서 있고, 절벽 위 악양루에 오르면 굽이도는 강줄기가 한눈에 들어온다.",
+    "todo": [
+     "악양뚝방길을 따라 꽃밭 산책",
+     "악양루에 올라 남강 굽이 조망",
+     "처녀뱃사공 노래비 찾아보기"
+    ],
+    "tip": "꽃 종류가 계절마다 완전히 달라지니 방문 전 어떤 꽃이 피는 시기인지 확인하면 좋다.",
+    "eat": "가까운 함안 한우로 든든하게"
+   },
+   {
+    "name": "입곡군립공원",
+    "rom": "협곡 저수지를 가로지르는 출렁다리",
+    "meta": [
+     "🌉 출렁다리",
+     "🌸 봄 벚꽃",
+     "⏱ 2~3시간"
+    ],
+    "desc": "좁고 긴 협곡을 채운 저수지를 따라 산책로가 이어지고, 물 위를 가로지르는 출렁다리가 걸음마다 살짝살짝 흔들린다. 봄이면 물가를 따라 벚꽃이 줄지어 피고, 잔잔한 수면에 산 그림자가 그대로 비친다. 도심에서 멀지 않으면서도 깊은 산속에 든 듯한 고요함이 있다.",
+    "todo": [
+     "출렁다리 건너며 저수지 조망",
+     "물가 둘레길 한 바퀴 산책"
+    ],
+    "tip": "주차장이 마련돼 있고 둘레 산책로는 가볍게 한 바퀴 돌기 좋다. 봄 벚꽃철이 가장 붐빈다.",
+    "eat": ""
+   },
+   {
+    "name": "강주해바라기마을",
+    "rom": "마을 전체가 노란 해바라기 밭",
+    "meta": [
+     "🌻 여름 해바라기",
+     "💴 입장료 소액(변동가능)",
+     "📷 포토존"
+    ],
+    "desc": "법수면의 작은 강주마을이 여름이면 온통 노랗게 물든다. 골목과 논밭 가득 키 큰 해바라기가 고개를 들고, 그 사이로 난 길을 걷다 보면 사방이 노란 물결이다. 해바라기 축제 기간엔 곳곳에 포토존이 마련돼 가족·연인 나들이객으로 붐빈다.",
+    "todo": [
+     "해바라기 밭 사이 길 걷기",
+     "포토존에서 인생샷 남기기"
+    ],
+    "tip": "개화 절정은 대체로 7월 말~8월. 해마다 축제 기간과 개화 상태가 다르니 방문 전 확인이 필수다. 그늘이 적어 모자·물을 챙기면 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "함안박물관",
+    "rom": "불꽃무늬 토기로 만나는 아라가야",
+    "meta": [
+     "💴 무료",
+     "🏺 아라가야 토기",
+     "⏱ 1~2시간"
+    ],
+    "desc": "말이산 고분군 바로 아래 자리한 박물관으로, 고분에서 나온 아라가야의 유물이 가지런히 놓여 있다. 함안을 상징하는 불꽃무늬 굽다리접시, 배·집 모양의 상형토기, 말갑옷 같은 유물들이 1500년 전 이 땅의 왕국을 조용히 증언한다. 무료라 부담 없이 고분 답사 전후로 들르기 좋다.",
+    "todo": [
+     "불꽃무늬 토기와 상형토기 관람",
+     "고분군 답사 전 배경지식 채우기"
+    ],
+    "tip": "매주 월요일과 명절 연휴는 휴관. 위쪽 말이산 고분군과 세트로 묶어 반나절 코스로.",
+    "eat": ""
+   },
+   {
+    "name": "함안 무기연당",
+    "rom": "고택 안에 숨은 조선 연못 정원",
+    "meta": [
+     "💴 무료",
+     "🏯 조선 정원",
+     "🍃 고즈넉"
+    ],
+    "desc": "칠원의 옛 마을 담장 안, 네모난 연못 한가운데 돌을 쌓아 만든 작은 섬(석가산)이 떠 있고 그 곁에 하환정·풍욕루 정자가 앉아 있다. 조선 후기 선비 주재성이 '국담'이라 이름 붙인 이 정원은 화려하지 않아도 물과 돌과 정자의 균형이 단정하다. 사람이 적어 조용히 옛 정원의 여백을 음미하기 좋다.",
+    "todo": [
+     "연못과 석가산, 정자의 배치 감상",
+     "담장 안 고택의 고요함 느끼기"
+    ],
+    "tip": "개인 종택과 이어진 문화유산이라 조용히 둘러보는 배려가 필요하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "hampyeong": {
+  "nm": "함평",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 함평역까지 호남선 열차로 약 2시간 안팎. 광주송정역까지 KTX로 간 뒤 무궁화호나 차로 20~30분이면 닿는 작은 군으로, 함평역과 고속도로 나들목에서 시내가 가깝다.",
+  "sep": "봄(4월 말~5월 초) — 함평천 들판이 나비·유채·꽃양귀비로 뒤덮이는 나비대축제철이 절정. 가을엔 용천사 꽃무릇(9월)과 국화(국향대전, 대체로 10~11월)가 이어져 봄·가을 둘 다 좋다.",
+  "mood": "나비가 날아오르는 봄, 붉은 꽃무릇이 절 마당을 덮는 가을 — 함평은 계절마다 꽃으로 사람을 부르는 작은 군이다.",
+  "see": "봄 나비대축제와 곤충생태관, 난초·수생식물이 어우러진 함평자연생태공원, 서해 갯벌과 노을의 돌머리해수욕장, 붉은 꽃무릇의 용천사. 가을엔 함평엑스포공원의 국화 국향대전이 이어진다.",
+  "spots": [
+   {
+    "name": "함평엑스포공원",
+    "rom": "나비가 날아오르는 봄, 함평의 대표 무대",
+    "meta": [
+     "🦋 봄 나비축제",
+     "👨‍👩‍👧 가족",
+     "⏱ 반나절"
+    ],
+    "desc": "봄이 오면 함평천 고수부지가 노란 유채와 붉은 꽃양귀비, 그리고 날아다니는 나비로 뒤덮인다. 축제철이 아니어도 나비곤충생태관에서는 살아 있는 나비를 가까이서 볼 수 있고, 순금 162kg으로 만든 황금박쥐상이 공원 전시관 한켠에서 반짝인다. 함평이라는 이름을 처음 알게 되는 곳이 대개 여기다.",
+    "todo": [
+     "나비곤충생태관에서 진짜 나비 만나기",
+     "황금박쥐상 앞에서 사진 찍기",
+     "유채·꽃양귀비 들판 산책"
+    ],
+    "tip": "함평나비대축제는 대체로 매년 4월 말~5월 초 열린다. 이 기간엔 주차와 인파가 몰리니 오전 일찍 가는 편이 낫고, 축제 외 시기엔 상설 생태관 위주로 한적하게 즐길 수 있다. 같은 함평엑스포공원에서 가을(대체로 10~11월)엔 대한민국 국향대전이 열려 국화로 뒤덮인다.",
+    "eat": "함평천지한우 — 함평의 대표 특산으로, 축제장 인근과 읍내에 한우 식당이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hampyeong_butterfly_festival_033.JPG/500px-Hampyeong_butterfly_festival_033.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "함평자연생태공원",
+    "rom": "난초와 수생식물, 나비가 어우러진 생태 체험장",
+    "meta": [
+     "🦋 곤충·나비",
+     "🌿 생태 체험",
+     "⏱ 2~3시간"
+    ],
+    "desc": "함평군 대동면에 있는 생태 체험장으로, 멸종위기에 놓인 동·식물을 보존하고 전시한다. 한국춘란(난초)의 이름난 자생지이자 나비·잠자리, 수생식물과 물고기까지 하늘·땅·물의 생태를 한자리에서 볼 수 있다. 곤충·식물·난 전시관과 산책로를 천천히 도는 가족 나들이 코스.",
+    "todo": [
+     "곤충·난 전시관 둘러보기",
+     "수생식물원과 산책로 걷기",
+     "나비·잠자리 관찰하기"
+    ],
+    "tip": "나비대축제가 열리는 함평엑스포공원과는 다른 곳(대동면)이니 동선을 미리 확인하자. 전시관 운영시간·입장 안내는 방문 전 함평군에 확인하는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "돌머리해수욕장",
+    "rom": "썰물의 드넓은 갯벌과 서해 노을",
+    "meta": [
+     "🌅 노을",
+     "🏖 갯벌 체험",
+     "🆓 무료"
+    ],
+    "desc": "썰물이 되면 눈앞으로 갯벌이 넓게 펼쳐지고, 밀물 때는 바닷물을 가둔 인공 해수풀장에서 물놀이를 한다. 해가 질 무렵 서해 바다로 떨어지는 낙조가 특히 좋아, 소나무 산책로를 따라 걷다 노을을 기다리는 사람이 많다.",
+    "todo": [
+     "썰물 때 갯벌에서 조개·게 찾기",
+     "해질 무렵 낙조 감상",
+     "여름엔 인공 해수풀장 물놀이"
+    ],
+    "tip": "갯벌 체험은 물때(간조 시각)를 미리 확인해야 제대로 즐길 수 있다. 여름 성수기 주말은 붐빈다.",
+    "eat": "세발낙지·조개류 — 함평만 갯벌에서 나는 먹거리."
+   },
+   {
+    "name": "용천사",
+    "rom": "9월, 붉은 꽃무릇이 절 마당을 뒤덮는다",
+    "meta": [
+     "🌺 가을 꽃무릇",
+     "⛰ 산사",
+     "⏱ 반나절"
+    ],
+    "desc": "함평군 해보면 산자락에 앉은 오래된 절로, 9월 중순이면 절 주변 숲 바닥이 온통 붉은 꽃무릇으로 물든다. 잎과 꽃이 끝내 만나지 못한다는 꽃무릇의 붉은 물결이 산사의 고요와 겹쳐 잊히지 않는 장면을 만든다. 인접한 영광 불갑사와 함께 남도의 대표 꽃무릇 명소로 꼽힌다.",
+    "todo": [
+     "꽃무릇 군락 사이 오솔길 걷기",
+     "산사 마당에서 잠시 쉬기"
+    ],
+    "tip": "꽃무릇 절정은 대체로 9월 중순~하순으로 기간이 짧다. 시기를 맞춰 가야 하고, 가까운 영광 불갑사와 묶어 도는 사람이 많다.",
+    "eat": ""
+   }
+  ]
+ },
+ "hamyang": {
+  "nm": "함양",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널에서 시외버스로 약 3시간 30분, 자가용은 대전통영고속도로 함양IC로 빠진다. 부산에서는 약 2시간 거리. 지리산과 덕유산 사이 산골이라 대중교통보다 차가 편하다.",
+  "sep": "9월 말이면 천년 숲 상림 바닥에 붉은 꽃무릇이 깔리고, 10월엔 숲 전체가 단풍으로 물든다. 한여름엔 지리산·안의 계곡의 물이 시원해 피서지로도 좋아, 봄가을과 한여름이 모두 좋은 때다.",
+  "mood": "천 년 전 최치원이 심은 숲이 아직 살아 있고, 옛 선비들이 계곡 정자에 앉아 달을 벗 삼던 땅. 함양은 서두르지 않고 걷는 사람에게 가장 깊어진다.",
+  "see": "천년의 숲 상림, 계곡 바위마다 앉은 옛 정자들, 유네스코에 오른 서원, 그리고 지리산 품속의 계곡.",
+  "spots": [
+   {
+    "name": "상림공원 (함양 상림)",
+    "rom": "최치원이 심은 천 년의 숲",
+    "meta": [
+     "🌳 천연기념물 154호",
+     "⏱ 반나절",
+     "🌺 9월 꽃무릇"
+    ],
+    "desc": "신라의 문장가 최치원이 자주 넘치던 위천의 물길을 돌리고 둑을 쌓아 나무를 심은 것이 1100년을 살아남았다. 약 2만 그루, 400여 종이 우거진 우리나라에서 가장 오래된 인공림이다. 9월 말이면 숲 바닥이 붉은 꽃무릇으로 뒤덮이고, 가을엔 단풍이 물길 위로 소리 없이 떨어진다.",
+    "todo": [
+     "연꽃단지·물레방아까지 이어 천천히 걷기",
+     "9월 말~10월 초 꽃무릇 개화 시기 맞춰 가기"
+    ],
+    "tip": "주차는 무료지만 주말·꽃무릇 철엔 이른 아침이 여유롭다. 산책로가 평탄해 유모차나 어르신과 걷기에도 무난하다.",
+    "eat": "함양 산채정식과 오곡밥, 병곡면 일대의 오미자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamyang_Sangrim.JPG/500px-Hamyang_Sangrim.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Haksaru_in_Hamyang.JPG/500px-Haksaru_in_Hamyang.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화림동계곡 선비문화탐방로 (거연정)",
+    "rom": "바위마다 정자가 앉은 팔담팔정의 물길",
+    "meta": [
+     "🏞 계곡 트레킹",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "남덕유산에서 흘러온 물이 너럭바위를 깎으며 흐르는 화림동계곡. 옛 선비들은 여덟 개의 못마다 정자를 지어 '팔담팔정'이라 불렀다. 그중 거연정은 물 한가운데 바위섬 위에 올라앉아, 무지개다리를 건너야 닿는다. 거연정·군자정·동호정을 잇는 탐방로를 걸으면 물소리가 내내 따라온다.",
+    "todo": [
+     "거연정 무지개다리 건너 정자 마루에 앉아보기",
+     "동호정 앞 너럭바위(차일암)에서 쉬어가기"
+    ],
+    "tip": "거연정에서 농월정까지 이어지는 구간이 가장 아름답다. 거연정·농월정에 각각 주차장이 있다. 여름엔 물놀이객이 많다.",
+    "eat": "인근 안의면의 갈비탕·갈비찜, 계곡 마을 어탕국수.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "함양 남계서원",
+    "rom": "유네스코가 품은 조선 두 번째 서원",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "💴 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "조선에서 소수서원 다음으로 세워진 서원으로, 일두 정여창의 학덕을 기린다. 2019년 '한국의 서원' 아홉 곳 중 하나로 유네스코 세계유산에 올랐다. 앞으로 트인 마당과 연못, 뒤로 물러앉은 사당이 만드는 단정한 위계가 조선 서원 건축의 교과서처럼 읽힌다.",
+    "todo": [
+     "강당 마루에 앉아 앞뜰 배롱나무 바라보기",
+     "7~8월 붉은 배롱나무꽃 필 때 맞춰 가기"
+    ],
+    "tip": "입장 무료. 정여창 고택이 있는 개평한옥마을과 묶어 보면 하루가 넉넉하다.",
+    "eat": "개평마을 전통주 솔송주, 함양 흑돼지.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg/500px-%ED%95%A8%EC%96%91_%EB%82%A8%EA%B3%84%EC%84%9C%EC%9B%902.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "지리산 칠선계곡",
+    "rom": "천왕봉으로 파고든 한국 3대 계곡",
+    "meta": [
+     "⛰ 국립공원",
+     "🥾 예약탐방제",
+     "🌊 여름 계곡"
+    ],
+    "desc": "지리산 천왕봉 북쪽 자락을 깊게 파고든 칠선계곡은 설악산 천불동, 한라산 탐라계곡과 함께 우리나라 3대 계곡으로 꼽힌다. 일곱 폭포와 서른세 개의 소가 이어지며 원시림 그대로의 물길이 흐른다. 자연을 지키기 위해 상류 구간은 가이드가 동반하는 예약제로만 열린다.",
+    "todo": [
+     "추성리~비선담 구간을 가볍게 걷기",
+     "상류 종주는 국립공원 예약탐방 신청 후 가기"
+    ],
+    "tip": "비선담 위로는 통제 구간이라 예약 없이는 오를 수 없다. 여름 물놀이와 가을 단풍이 절정이며, 등산 채비가 필요하다.",
+    "eat": "마천면의 지리산 흑돼지와 산채정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오도재 지리산 조망공원",
+    "rom": "지리산 능선이 한눈에 펼쳐지는 고갯마루",
+    "meta": [
+     "🚗 드라이브",
+     "📷 전망 명소",
+     "💴 무료"
+    ],
+    "desc": "함양 읍내에서 마천으로 넘어가는 구불구불한 고갯길 꼭대기. '지리산제일문'을 지나면 천왕봉에서 노고단까지 지리산 주능선이 병풍처럼 펼쳐진다. 옛사람들이 지리산을 넘나들던 관문이자, 지금은 그 조망 하나를 보러 일부러 찾아오는 곳이다.",
+    "todo": [
+     "지리산제일문 앞에서 주능선 파노라마 담기",
+     "오도재~지안재로 이어지는 굽잇길 드라이브"
+    ],
+    "tip": "아래쪽 지안재의 S자 굽잇길이 사진 명소로 유명하다. 안개 낀 새벽이나 해질 녘 빛이 좋다. 급커브 구간이라 서행 운전.",
+    "eat": "함양읍의 어탕국수."
+   },
+   {
+    "name": "용추폭포 (안의 용추계곡)",
+    "rom": "짙은 숲 아래 우렁차게 떨어지는 물기둥",
+    "meta": [
+     "🌊 여름 피서",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "안의면 용추계곡 깊숙한 곳, 기백산 자락에서 쏟아지는 용추폭포는 물소리부터 다르다. 짙은 숲에 둘러싸여 한여름에도 서늘하고, 폭포 아래 옥빛 소가 깊게 고여 있다. 가까운 용추사와 심원정까지 이어 걸으면 반나절 피서로 넉넉하다.",
+    "todo": [
+     "폭포 앞 데크에서 물보라 맞으며 쉬기",
+     "용추사·심원정 계곡길 산책"
+    ],
+    "tip": "여름 성수기엔 주차가 혼잡하다. 폭포까지 길이 평탄해 접근이 쉬운 편이다.",
+    "eat": "안의면 원조 거리의 안의갈비찜·갈비탕."
+   }
+  ]
+ },
+ "hanam": {
+  "nm": "하남",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 강동에서 차로 20~30분. 지하철 5호선(하남선) 미사·하남시청·하남검단산역으로 바로 닿는다. 부산에서는 KTX로 서울역까지 온 뒤 5호선으로 환승.",
+  "sep": "봄·가을. 검단산 능선에서 굽어보는 한강과 팔당호가 가장 맑고, 가을이면 산 전체가 붉게 물들어 근교 단풍 산행지로 붐빈다.",
+  "mood": "서울 바로 옆인데, 한강과 산과 삼국의 산성, 거대한 몰까지 한 도시에 다 들어 있다.",
+  "see": "한강을 낀 산과 물길, 삼국시대 돌성, 그리고 하루가 모자란 초대형 복합몰.",
+  "spots": [
+   {
+    "name": "스타필드 하남",
+    "rom": "하루가 모자란 초대형 복합몰",
+    "meta": [
+     "🛍 실내 종일",
+     "🏊 아쿠아필드",
+     "🚇 5호선 인근"
+    ],
+    "desc": "신세계가 2016년 문을 연 국내 최대급 복합쇼핑몰이다. 쇼핑을 넘어 실내 워터파크 겸 찜질스파 '아쿠아필드', 스포츠·문화·먹거리까지 하루로는 다 못 볼 만큼 채워져 있다. 비 오거나 추운 날, 아이와 어른이 각자 즐길 거리를 찾기에 이만한 곳이 드물다.",
+    "todo": [
+     "아쿠아필드 스파·워터파크에서 반나절",
+     "라운지·서점에서 커피 한 잔 하며 쉬어가기",
+     "지하 식품관에서 저녁거리 구경"
+    ],
+    "tip": "주말·연휴는 주차장 진입에만 시간이 걸린다. 5호선 하남시청·미사역에서 셔틀·도보로 접근하면 편하다.",
+    "eat": "층마다 이어지는 식당가와 푸드코트 — 굳이 밖으로 나가지 않아도 한 끼가 해결된다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/e/e6/Starfield_%28shopping_mall%29_Logotype.png",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-09-17_13.44.56_%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%EA%B3%A0%EC%96%91.jpg/500px-2025-09-17_13.44.56_%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%EA%B3%A0%EC%96%91.jpg"
+    ]
+   },
+   {
+    "name": "검단산",
+    "rom": "한강을 굽어보는 하남의 진산",
+    "meta": [
+     "🥾 반나절",
+     "⛰ 해발 657m",
+     "🍁 가을 단풍"
+    ],
+    "desc": "하남 동쪽에 우뚝 선 해발 657m의 산으로, 정상에 서면 남한강·북한강과 팔당호가 발아래로 시원하게 펼쳐진다. 서울 근교 산 중에서도 조망이 좋기로 이름나, 주말이면 이른 아침부터 능선을 오르는 사람들로 붐빈다. 가을이면 산 전체가 붉게 물들어 단풍 산행지로 인기다.",
+    "todo": [
+     "정상 전망 지점에서 한강·팔당호 내려다보기",
+     "능선 코스로 천천히 오르며 도심 뒤편 숲 걷기"
+    ],
+    "tip": "들머리는 하남 산곡초등학교 방면이 가장 무난하다. 정상까지 왕복 3~4시간, 물과 간식은 챙겨 오르는 게 좋다."
+   },
+   {
+    "name": "미사경정공원",
+    "rom": "88올림픽이 남긴 물 위의 공원",
+    "meta": [
+     "🚴 자전거",
+     "☕ 카페거리",
+     "🌅 노을"
+    ],
+    "desc": "1988년 서울올림픽 조정·카누 경기가 열렸던 인공 수로를 낀 넓은 강변 공원이다. 곧게 뻗은 물길을 따라 자전거를 타거나 잔디밭에 앉아 노을을 보기 좋고, 물길 옆으로는 미사리 카페거리가 길게 이어진다. 라이브 카페의 낭만이 아직 남아 있는, 하남의 대표 산책지다.",
+    "todo": [
+     "수로를 따라 자전거·인라인 라이딩",
+     "미사리 카페거리에서 라이브 음악과 커피",
+     "해질녘 잔디밭에서 노을 감상"
+    ],
+    "eat": "미사리 카페거리의 통유리 카페와 브런치집 — 강물을 보며 커피 한 잔 하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg/500px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC_%EB%B3%B8_%EC%A1%B0%EC%A0%95%EA%B2%BD%EA%B8%B0%EC%9E%A5_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "하남 이성산성",
+    "rom": "한강을 지킨 삼국의 돌성",
+    "meta": [
+     "🏯 삼국시대 사적",
+     "🥾 두어 시간",
+     "🎟 무료"
+    ],
+    "desc": "이성산 능선을 따라 둘레 약 1,925m로 쌓은 삼국시대 산성으로, 신라가 6세기 한강 유역을 차지한 뒤 축조한 것으로 본다. 발굴에서 나온 목간 등 유물로 학술 가치가 높아 국가 사적으로 지정됐다. 성벽을 따라 걷다 보면 옛사람들이 왜 이 자리에서 한강을 지켰는지 눈으로 이해된다.",
+    "todo": [
+     "성곽 둘레를 한 바퀴 걷기",
+     "능선 위에서 하남 들녘과 한강 방향 조망"
+    ],
+    "tip": "입구에 주차한 뒤 성곽을 한 바퀴 도는 데 두어 시간. 그늘이 적으니 여름엔 아침·저녁 시간대가 낫다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "하남 동사지",
+    "rom": "검단산 자락에 남은 옛 절터",
+    "meta": [
+     "🗿 보물 석탑 2기",
+     "🏯 사적 제352호",
+     "🎟 무료"
+    ],
+    "desc": "'동사(桐寺)'라는 옛 절이 있던 터다. 발굴에서 '桐寺'가 새겨진 기와가 나와 절 이름이 밝혀졌고, 국가 사적으로 지정됐다. 너른 절터에는 보물로 지정된 오층석탑과 삼층석탑 두 기가 검단산을 배경으로 나란히 서 있어, 옛 절의 규모를 어림해 볼 수 있다.",
+    "todo": [
+     "보물 오층석탑·삼층석탑 둘러보기",
+     "검단산을 배경으로 옛 절터 거닐기"
+    ],
+    "tip": "춘궁동 들녘에 있어 한적하다. 가까운 이성산성과 묶어 함께 둘러보기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%ED%95%98%EB%82%A8_%EB%8F%99%EC%82%AC%EC%A7%8001.jpg/500px-%ED%95%98%EB%82%A8_%EB%8F%99%EC%82%AC%EC%A7%8001.jpg"
+    ]
+   },
+   {
+    "name": "하남유니온타워·유니온파크",
+    "rom": "환경시설 위에 세운 전망 공원",
+    "meta": [
+     "🗼 전망 타워",
+     "🌳 시설 위 공원",
+     "🚇 5호선 하남시청역"
+    ],
+    "desc": "생활폐기물 처리시설 같은 환경기초시설을 땅속에 넣고 그 위를 공원으로 덮은 하남의 명물이다(2015년 개장). 전망대와 처리시설을 지상·지하로 나눠 지은 국내 첫 사례로, 유니온타워 전망대에 오르면 미사 신도시와 한강 일대가 한눈에 들어온다. '혐오시설'을 도시 공원으로 반전시킨 사례로 견학도 많이 온다.",
+    "todo": [
+     "유니온타워 전망대에서 미사·한강 조망",
+     "시설 위 잔디마당·공원 산책"
+    ],
+    "tip": "전망대는 운영 시간이 정해져 있으니 방문 전 확인. 5호선 하남시청역에서 가깝다."
+   }
+  ]
+ },
+ "hapcheon": {
+  "nm": "합천",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널에서 시외버스로 약 3시간 40분~4시간, 자가용도 비슷. 부산에서는 약 2시간. 해인사만 목적이면 대구서부정류장에서 가야산행 직행버스가 편하다.",
+  "sep": "늦봄(4월 말~5월 초)이 정점 — 황매산 능선이 철쭉으로 붉게 물들고, 합천호 백리벚꽃길이 동시에 터진다. 가을(10월)도 못지않다. 황매산 억새 평원이 은빛으로 눕고 해인사 진입로 단풍이 절정에 든다.",
+  "mood": "천 년을 견딘 팔만대장경과, 봄이면 산 하나가 통째로 붉어지는 철쭉 능선. 합천은 조용하지만 한 장면 한 장면이 묵직하게 남는 곳이다.",
+  "see": "해인사 팔만대장경, 황매산 철쭉·억새, 근현대 통째로 재현한 영상테마파크, 합천호 백리벚꽃길.",
+  "spots": [
+   {
+    "name": "해인사",
+    "rom": "가야산 품에 안긴 법보사찰, 팔만대장경의 집",
+    "meta": [
+     "💴 관람료 변동 가능",
+     "⏱ 반나절",
+     "🏛 유네스코 세계유산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "가야산 중턱, 홍류동 계곡을 따라 한참 올라야 나오는 802년 창건의 고찰이다. 가장 높고 조용한 곳에 자리한 장경판전 안에는 8만 장이 넘는 팔만대장경 목판이 750년 넘도록 썩지도 뒤틀리지도 않은 채 잠들어 있다. 바람과 습기를 계산해 지은 판전의 살창 사이로 스며드는 빛을 보고 있으면, 이 고요가 얼마나 정교하게 지켜져 온 것인지 실감난다.",
+    "todo": [
+     "장경판전 살창 구조 눈여겨보기",
+     "일주문에서 절까지 홍류동 계곡길 천천히 걷기",
+     "성보박물관에서 대장경 인쇄 과정 보기"
+    ],
+    "tip": "장경판전 내부는 문화재 보호로 창밖에서만 관람한다. 주차장에서 절까지 완만한 오르막을 20~30분 걸으니 편한 신발 권장. 단풍철 주말은 진입로가 크게 붐빈다.",
+    "eat": "해인사 입구 상가촌의 산채비빔밥과 더덕구이, 손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg/500px-%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg/500px-%EC%9D%BC%EC%A3%BC%EB%AC%B8_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "황매산",
+    "rom": "봄엔 철쭉으로 붉고 가을엔 억새로 은빛인 하늘 능선",
+    "meta": [
+     "💴 입장 무료(주차 별도)",
+     "⏱ 반나절",
+     "🌸 봄 철쭉",
+     "🌾 가을 억새"
+    ],
+    "desc": "합천과 산청에 걸친 해발 1,113m의 산이다. 해발 900m 안팎 고지까지 차로 오를 수 있어 부담 없이 능선에 설 수 있는데, 5월이면 그 능선 전체가 철쭉으로 붉게 타오르고 가을엔 억새 평원이 바람에 통째로 눕는다. 사방이 트인 초원 능선이라 일출과 별 사진 명소로도 이름났다.",
+    "todo": [
+     "철쭉제 시기(5월 초) 능선 산책",
+     "억새 평원에서 해질녘 실루엣 사진",
+     "오토캠핑장에서 하룻밤 별 보기"
+    ],
+    "tip": "정상 주차장까지 차로 오를 수 있지만 철쭉·억새 성수기 주말엔 아래에서 셔틀·통제 운영이 잦다. 고지대라 여름에도 저녁엔 쌀쌀하니 겉옷 챙기기.",
+    "eat": "산 아래 가회면 일대의 흑돼지·촌닭백숙",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hwangmaesan_Mountain_in_autumn.jpg/500px-Hwangmaesan_Mountain_in_autumn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hwangmaesanseong_in_autumn.jpg/330px-Hwangmaesanseong_in_autumn.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "합천영상테마파크",
+    "rom": "1920~80년대 거리를 통째로 세운 근현대 오픈세트",
+    "meta": [
+     "💴 입장 약 5000원",
+     "⏱ 두세 시간",
+     "🎬 영화 촬영지",
+     "📷 레트로 사진"
+    ],
+    "desc": "일제강점기 경성 거리부터 6·70년대 서울 골목까지, 사라진 시대를 통째로 복원해 놓은 국내 최대급 근현대 세트장이다. 전차와 옛 극장 간판, 낡은 이발소와 다방이 실제 크기로 늘어서 있어 골목을 걷는 것만으로 시간여행이 된다. '태극기 휘날리며', '암살' 등 수많은 영화·드라마가 여기서 찍혔고, 레트로 의상을 빌려 입고 사진 찍는 사람들이 많다.",
+    "todo": [
+     "옛 경성 거리에서 흑백사진 느낌으로 촬영",
+     "빈티지 의상 대여해 입어보기",
+     "야간 조명 켜지는 시간대 방문 고려"
+    ],
+    "tip": "그늘이 적고 걷는 코스라 여름 한낮은 덥다. 오전이나 늦은 오후가 사진 빛이 좋다. 촬영 일정에 따라 일부 구역이 통제될 수 있다.",
+    "eat": "합천읍내 황강변 식당의 붕어찜·메기매운탕"
+   },
+   {
+    "name": "합천호 백리벚꽃길",
+    "rom": "댐이 만든 호수를 둘러 도는 벚꽃 드라이브 길",
+    "meta": [
+     "💴 무료",
+     "⏱ 드라이브 반나절",
+     "🌸 봄 벚꽃",
+     "🚗 드라이브"
+    ],
+    "desc": "합천댐이 만든 넓은 호수를 따라 벚나무가 백 리(약 40km) 남짓 이어져, 봄이면 물빛과 꽃길이 나란히 달리는 드라이브 코스가 된다. 창을 열고 천천히 달리면 한쪽엔 잔잔한 호수, 다른 쪽엔 벚꽃 터널이 번갈아 스친다. 물안개 낀 이른 아침이나 노을 지는 저녁의 호수는 계절과 상관없이 고요하고 넓다.",
+    "todo": [
+     "벚꽃 만개 시기(4월 초) 호반도로 드라이브",
+     "합천댐 물문화관·전망 포인트 들르기",
+     "이른 아침 물안개 풍경 담기"
+    ],
+    "tip": "벚꽃 절정은 대개 4월 초 열흘 남짓으로 짧다. 좁은 호반도로라 성수기엔 정체가 있으니 서두르는 편이 낫다.",
+    "eat": "호반 인근 드라이브인 카페와 민물매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/HapcheonDam.jpg/500px-HapcheonDam.jpg"
+    ]
+   },
+   {
+    "name": "합천 함벽루",
+    "rom": "황강 물 위로 처마 빗물이 떨어지는 700년 누각",
+    "meta": [
+     "💴 무료",
+     "⏱ 한 시간",
+     "🏛 고려 누각",
+     "🌊 강 전망"
+    ],
+    "desc": "1321년 고려 충숙왕 때 세워진 누각으로, 대야성 기슭에 기대어 황강을 정면으로 마주 본다. 누각 처마 끝의 빗물이 곧장 강으로 떨어지도록 지어진 독특한 구조로 유명한데, 예부터 시인 묵객들이 강물을 벗 삼아 풍류를 나누던 자리다. 옆으로는 절벽에 붙은 작은 절 연호사가 있어, 강과 벼랑과 누각이 한 화면에 담긴다.",
+    "todo": [
+     "누각에 앉아 황강 물소리 듣기",
+     "처마 끝 낙수 구조 살펴보기",
+     "옆 연호사와 함께 둘러보기"
+    ],
+    "tip": "합천읍에서 가까워 가볍게 들르기 좋다. 비 오는 날 처마에서 강으로 떨어지는 물줄기가 이 누각의 진짜 볼거리다.",
+    "eat": "황강변 합천읍내의 어탕국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg/500px-%ED%95%A8%EB%B2%BD%EB%A3%A82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "hoengseong": {
+  "nm": "횡성",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 영동고속도로 새말·둔내IC까지 차로 1시간 20분, KTX(강릉선) 둔내역도 정차한다. 부산에서는 약 4시간.",
+  "sep": "가을(10~11월) — 청태산 낙엽송이 황금빛으로 타오르고 횡성호수길 억새가 은빛으로 흔들리며, 이름난 한우축제가 열린다.",
+  "mood": "구불구불 호숫길과 곧게 뻗은 낙엽송 숲, 그리고 소문난 한우 한 점. 강원도 산골의 조용한 미식 여행.",
+  "see": "횡성호수길·청태산 단풍·백년 성당·안흥찐빵, 그리고 횡성한우.",
+  "spots": [
+   {
+    "name": "횡성호수길",
+    "rom": "물빛 따라 걷는 여섯 갈래 둘레길",
+    "meta": [
+     "⏱ 코스별 1~3시간",
+     "🍂 가을 억새",
+     "🚶 무료 산책"
+    ],
+    "desc": "횡성댐이 만든 잔잔한 호수를 따라 여섯 갈래 둘레길이 이어진다. 물안개 피는 아침에 데크길을 걷다 보면 물속에 잠긴 옛 마을 자리를 지나고, 가을이면 억새가 은빛으로 흔들린다. 데크가 잘 놓인 순한 코스는 남녀노소에게 인기다.",
+    "todo": [
+     "망향의 동산에서 수몰마을 이야기 읽어보기",
+     "데크길 따라 호수 한 바퀴",
+     "계절마다 달라지는 물빛 사진에 담기"
+    ],
+    "tip": "코스별로 개방일이 다르니 방문 전 횡성군청이나 안내소에서 열린 코스를 확인하자. 주차장은 각 코스 초입에 있다.",
+    "eat": "횡성한우, 더덕구이"
+   },
+   {
+    "name": "청태산자연휴양림",
+    "rom": "하늘을 찌르는 낙엽송 단풍 숲",
+    "meta": [
+     "💴 입장 약 1,000원(변동)",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "곧게 뻗은 낙엽송이 빽빽한 숲으로, 가을이면 온 산이 황금빛으로 물든다. 완만한 데크길과 무장애 나눔길이 잘 놓여 있어 유모차나 휠체어로도 숲 깊은 곳까지 들어갈 수 있다. 숲향 가득한 공기 속을 걷는 것만으로 마음이 트인다.",
+    "todo": [
+     "무장애 데크길 따라 낙엽송 숲 산책",
+     "숲속의집·야영장에서 하룻밤",
+     "가을 단풍 절정에 맞춰 방문"
+    ],
+    "tip": "단풍철 주말은 붐빈다. 숙박과 야영은 예약제로 운영된다. 해발이 높아 여름에도 서늘하니 겉옷을 챙기자.",
+    "eat": ""
+   },
+   {
+    "name": "풍수원성당",
+    "rom": "한국인 신부가 지은 강원도 첫 성당",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⛪ 1907년 준공"
+    ],
+    "desc": "박해를 피해 숨어든 신자들이 세운 한국 최초의 신앙촌에, 1907년 한국인 신부가 벽돌 한 장씩 쌓아 올린 고딕식 성당이다. 언덕 위 붉은 벽돌 건물과 아름드리 느티나무가 백 년 넘게 자리를 지켜, 계절마다 순례객과 사진가의 발길이 이어진다.",
+    "todo": [
+     "언덕 위 벽돌 성당 안팎 둘러보기",
+     "야외 십자가의 길 걸으며 산책",
+     "느티나무 아래에서 잠시 쉬어가기"
+    ],
+    "tip": "미사와 행사 시간에는 관람이 제한될 수 있다. 성지이니 조용히 둘러보자. 야외 십자가의 길이 잘 조성돼 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg/500px-2020-04-22_14.01.12_%ED%92%8D%EC%88%98%EC%9B%90%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안흥찐빵마을",
+    "rom": "김 오르는 팥 찐빵의 원조 마을",
+    "meta": [
+     "💴 한 봉지 약 8,000원~",
+     "⏱ 30분~1시간",
+     "🍡 원조 찐빵"
+    ],
+    "desc": "안흥면 좁은 거리에 찐빵집이 줄지어 선, 국내 찐빵의 대명사 같은 동네다. 가게마다 큰 솥에서 김이 오르고, 갓 쪄낸 찐빵을 손에 쥐면 뜨끈한 팥소가 가득 차 있다. 겨울 산골 여행길에 손을 데워가며 먹는 맛이 각별하다.",
+    "todo": [
+     "갓 쪄낸 찐빵 따끈할 때 맛보기",
+     "가게마다 다른 팥·쑥·호박 찐빵 비교",
+     "선물용 냉동 찐빵 사가기"
+    ],
+    "tip": "원조 논쟁이 있을 만큼 노포가 많으니 취향껏 골라보자. 주말과 명절엔 대기 줄이 길다.",
+    "eat": "안흥찐빵, 팥칼국수"
+   },
+   {
+    "name": "웰리힐리파크",
+    "rom": "사계절 즐기는 둔내 고원 리조트",
+    "meta": [
+     "⛷ 겨울 스키",
+     "⏱ 반나절~1박",
+     "🏔 표고차 323m"
+    ],
+    "desc": "둔내 고원에 자리한 스키·리조트로, 겨울이면 스무 갈래 슬로프가 열려 초보부터 상급자까지 붐빈다. 눈 없는 계절엔 초록 능선을 오르는 곤돌라가 사계절 손님을 맞는다. 2024 강원 동계청소년올림픽 스노보드 경기가 열린 곳이기도 하다.",
+    "todo": [
+     "겨울 슬로프에서 스키·보드 타기",
+     "곤돌라 타고 정상에 올라 고원 전망 즐기기",
+     "가을 단풍철 리조트 주변 산책"
+    ],
+    "tip": "시즌권과 리프트권은 온라인 예매가 저렴하다. 밤 기온이 크게 떨어지니 방한 준비를 단단히 하자.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG/500px-Wellihillipark_Snow_Park%2C_Hoengseong_County_06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9B%B0%EB%A6%AC%ED%9E%90%EB%A6%AC%ED%8C%8C%ED%81%AC_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "hongcheon": {
+  "nm": "홍천",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 서울양양고속도로 타고 홍천IC까지 약 1시간~1시간 20분. 부산에서는 4시간 안팎이라 하루 잡고 넘어오는 편.",
+  "sep": "10월 중하순. 은행나무숲이 통째로 노랗게 물드는 딱 한 철이고, 공작산·팔봉산 단풍까지 겹쳐 산과 강이 가장 예쁠 때다. 여름엔 홍천강 물놀이가 별개의 절정.",
+  "mood": "전국에서 가장 넓은 군(郡). 산과 강 사이 어디에 서도 사람보다 나무가 많은 곳.",
+  "see": "10월 한 달만 열리는 은행나무숲, 홍천강이 세 면을 감아 도는 팔봉산, 신라 고찰 수타사.",
+  "spots": [
+   {
+    "name": "홍천 은행나무숲",
+    "rom": "한 사람의 30년이 만든 노란 숲",
+    "meta": [
+     "💛 10월 한정 개방",
+     "💴 입장 무료",
+     "⏱ 반나절"
+    ],
+    "desc": "한 부부가 아내의 병을 낫게 해달라고 30여 년간 심어 온 은행나무 2천여 그루가 자란 사유림이다. 평소엔 닫혀 있다가 잎이 절정으로 물드는 10월 한 달만 무료로 문을 연다. 줄지어 선 나무 사이로 들어서면 하늘도 바닥도 발밑도 온통 노랑 하나로 채워진다.",
+    "todo": [
+     "나무 사이 오솔길 천천히 걷기",
+     "노랗게 깔린 은행잎 위에서 사진 남기기"
+    ],
+    "tip": "개방 시기는 매년 잎 상태에 따라 홍천군이 공지하니 방문 전 확인 필수. 개방철엔 주차·진입이 크게 밀리므로 이른 오전이 낫다.",
+    "eat": "인근 내면·서석 일대 산나물 정식과 곤드레밥"
+   },
+   {
+    "name": "비발디파크·오션월드",
+    "rom": "겨울엔 슬로프, 여름엔 물속으로",
+    "meta": [
+     "🎿 겨울 스키",
+     "🌊 오션월드 워터파크",
+     "💴 성수기 변동"
+    ],
+    "desc": "홍천 서면 산자락을 통째로 쓴 대형 리조트다. 겨울엔 초급부터 상급까지 슬로프가 열리고, 여름엔 워터파크 오션월드로 물살이 몰린다. 계절마다 성격이 완전히 달라져, 같은 자리를 두 번 와도 전혀 다른 하루가 된다.",
+    "todo": [
+     "겨울 시즌 스키·스노보드",
+     "여름 오션월드 파도풀·슬라이드"
+    ],
+    "tip": "요금·운영기간이 시즌마다 크게 바뀌니 공식 예약처에서 확인. 성수기 주말은 입장·주차가 매우 혼잡하다.",
+    "eat": "리조트 내 식당가, 나오는 길엔 홍천 화로구이"
+   },
+   {
+    "name": "홍천 수타사",
+    "rom": "공작산 품에 안긴 신라 고찰",
+    "meta": [
+     "🛕 신라 고찰",
+     "🚶 산소길 숲길",
+     "💴 입장 무료"
+    ],
+    "desc": "원효대사 창건에서 이어지는 오래된 절로, 공작산 계곡 안쪽에 조용히 들어앉아 있다. 임진왜란에 불탔다 다시 세워진 대적광전과 보물로 지정된 동종·월인석보를 품고 있다. 절 옆으로는 계곡을 끼고 도는 '수타사 산소길' 숲길이 이어져, 참배 대신 산책만 하러 와도 좋다.",
+    "todo": [
+     "대적광전과 전각 둘러보기",
+     "수타사 산소길 계곡 숲길 걷기"
+    ],
+    "tip": "산소길은 평탄해 가벼운 신발로도 걷기 좋다. 가을 단풍철 물소리와 함께 걷는 구간이 백미.",
+    "eat": "홍천 시내 방향으로 나와 홍천 한우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg/500px-%EC%88%98%ED%83%80%EC%82%AC_%EC%9B%90%ED%86%B5%EB%B3%B4%EC%A0%84_%EC%A0%95%EB%A9%B4_%282025%29_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg/330px-%EC%88%98%ED%83%80%EC%82%AC_%EB%8C%80%EC%A0%81%EA%B4%91%EC%A0%84_%EC%A0%95%EC%B8%A1%EB%A9%B4_%282025%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "팔봉산",
+    "rom": "강이 세 면을 감아 도는 여덟 봉우리",
+    "meta": [
+     "⛰️ 100대 명산",
+     "🧗 암릉 산행",
+     "🌊 홍천강 조망"
+    ],
+    "desc": "높이는 327m로 낮지만, 여덟 개의 바위 봉우리가 줄지어 서고 홍천강이 산의 세 면을 휘감아 돌아 산림청 100대 명산에 든다. 밧줄을 잡고 오르내리는 암릉 구간마다 발밑으로 굽이치는 강물이 펼쳐진다. 짧지만 손맛·눈맛이 확실한 산이다.",
+    "todo": [
+     "1봉·2봉 암릉 코스 오르기",
+     "정상 능선에서 홍천강 굽이 내려다보기"
+    ],
+    "tip": "일부 구간이 가파른 바위길이라 미끄럼 방지 신발 권장. 비 온 뒤엔 바위가 미끄러워 주의.",
+    "eat": "팔봉산 아래 강가 매운탕·닭갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "공작산",
+    "rom": "공작이 날개 편 듯한 능선",
+    "meta": [
+     "⛰️ 887m",
+     "🍁 가을 단풍",
+     "🥾 종일 산행"
+    ],
+    "desc": "공작이 날개를 편 모습을 닮았다 하여 이름 붙었다고 전해지는 화강암 산이다. 홍천을 대표하는 산답게 능선이 길고 조망이 트여 종일 걷는 맛이 있다. 산기슭엔 수타사가 안겨 있어, 절과 산을 하나로 엮어 다녀올 수 있다.",
+    "todo": [
+     "수타사에서 시작하는 능선 산행",
+     "정상 능선에서 홍천 일대 조망"
+    ],
+    "tip": "능선이 길어 물·간식 넉넉히 챙길 것. 단풍철 주말은 이른 산행을 권한다.",
+    "eat": "하산 후 홍천 시내 곤드레밥"
+   },
+   {
+    "name": "홍천강",
+    "rom": "래프팅과 물멍, 강 따라 이어지는 캠핑장",
+    "meta": [
+     "🚣 래프팅",
+     "🏕 캠핑",
+     "☀️ 여름 성수기"
+    ],
+    "desc": "홍천 서석에서 발원해 143km를 굽이쳐 흐르는 맑은 강으로, 여름이면 홍천의 진짜 주인공이 된다. 물살 잔잔한 구간엔 래프팅 보트와 튜브가 떠다니고, 강가 자갈밭엔 캠핑장과 물놀이객이 늘어선다. 발만 담그고 흐르는 물을 바라봐도 하루가 채워진다.",
+    "todo": [
+     "잔잔한 구간에서 래프팅·튜브 물놀이",
+     "강가 캠핑장에서 하룻밤"
+    ],
+    "tip": "여름 성수기엔 강변 명당이 일찍 찬다. 비 예보가 있으면 계곡·강 수위가 빠르게 오르니 반드시 확인.",
+    "eat": "강변 평상에서 즐기는 홍천 닭갈비·매운탕"
+   },
+   {
+    "name": "알파카월드",
+    "rom": "숲을 걷는 알파카에게 먹이 주기",
+    "meta": [
+     "🦙 알파카 먹이주기",
+     "👨‍👩‍👧 가족·아이",
+     "💴 입장 약 1.5만원(변동)"
+    ],
+    "desc": "넓은 숲 목장을 알파카·양·라마가 자유롭게 오가는 체험형 동물농장이다. 먹이를 든 손을 알파카가 순하게 따라오고, 숲길을 함께 산책하는 프로그램도 있다. 아이와 함께라면 홍천에서 가장 확실하게 웃는 하루가 된다.",
+    "todo": [
+     "알파카 먹이 주고 함께 숲길 산책",
+     "양·라마 등 다른 동물 만나기"
+    ],
+    "tip": "언덕 숲을 오르내리므로 편한 신발이 좋다. 입장료·운영시간은 변동되니 방문 전 공식 채널 확인.",
+    "eat": "인근 홍천 화촌·두촌 방면 손두부·산채"
+   }
+  ]
+ },
+ "hongseong": {
+  "nm": "홍성",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 용산역에서 장항선 열차로 홍성역까지 약 2시간, 자가용은 서해안고속도로 홍성·광천IC. 충남도청 내포신도시를 곁에 두어 예산·보령과 묶어 돌기 좋다.",
+  "sep": "가을(9~10월) — 오서산 은빛 억새가 서해로 물결치고, 남당항엔 대하와 새조개가 올라 온 포구가 고소해지는 계절.",
+  "mood": "최영·성삼문·한용운·김좌진·이응노를 낳은 충절의 고장. 나지막한 화강암 봉우리와 천수만 갯내가 육백 년 옛 읍성 곁에 나란히 놓인 곳.",
+  "see": "옛 읍성과 조양문, 기암의 용봉산과 억새의 오서산, 대하 익는 남당항과 천수만의 섬 죽도까지.",
+  "spots": [
+   {
+    "name": "홍주읍성",
+    "rom": "육백 년 세월을 지켜온 옛 고을의 성벽과 조양문",
+    "meta": [
+     "💴 무료",
+     "⏱ 한나절",
+     "🏯 사적 제231호"
+    ],
+    "desc": "조선 문종 때 고쳐 쌓은 성으로, 지금은 약 800m의 돌성벽과 동문 조양문, 동헌 안회당, 연못 위 정자 여하정이 읍내 한복판에 남아 있다. 오가는 자동차 소리 사이로 나지막한 성벽을 따라 걸으면, 홍주라 불리던 옛 고을의 시간이 발밑에 깔린다.",
+    "todo": [
+     "조양문 지나 성벽 따라 한 바퀴 걷기",
+     "안회당과 여하정 연못에서 잠시 앉아 쉬기",
+     "홍주성역사관에서 고을의 내력 훑기"
+    ],
+    "tip": "읍내 중심이라 주차와 도보 접근이 쉽다. 봄이면 성벽 둘레로 벚꽃이 핀다.",
+    "eat": "홍성은 이름난 한우 고장 — 근처 한우타운에서 등심·갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg/500px-Korea_Hongjuseong_Fortres_02_%2814039503167%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "용봉산",
+    "rom": "381m 낮은 산인데 능선마다 기암괴석, 내포의 작은 금강산",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "⛰ 기암괴석"
+    ],
+    "desc": "용의 몸에 봉황의 머리를 얹은 형상이라 붙은 이름처럼, 높이는 낮아도 능선을 따라 바위봉우리가 잇달아 솟는다. 악귀봉·노적봉을 지나며 발아래로 내포신도시와 예산 들녘이 툭 트여, 짧은 산행 한 번으로 큰 산을 다녀온 기분이 든다.",
+    "todo": [
+     "악귀봉·노적봉 바위 능선 종주",
+     "용봉사와 마애불 들르기",
+     "정상 전망에서 내포신도시 내려다보기"
+    ],
+    "tip": "왕복 두세 시간이면 넉넉해 초보자도 부담 없다. 능선 바위 구간은 미끄럼 주의.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yongbongsan_2005.JPG/500px-Yongbongsan_2005.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오서산",
+    "rom": "억새가 서해를 향해 흐르는 790m 능선, 가을 억새의 명산",
+    "meta": [
+     "💴 무료",
+     "⏱ 하루",
+     "🌾 가을 억새",
+     "🌅 서해 조망"
+    ],
+    "desc": "홍성·보령·청양이 어깨를 맞댄 능선으로, 정상부에 은빛 억새밭이 넓게 펼쳐진다. 가을이면 바람에 눕는 억새 너머로 천수만과 서해가 통째로 드러나고, 해 질 무렵엔 억새 물결이 붉게 물든다.",
+    "todo": [
+     "정상 억새 능선 천천히 걷기",
+     "능선에서 서해 낙조 기다리기",
+     "오서산자연휴양림에서 하룻밤"
+    ],
+    "tip": "억새 절정은 10월. 정상까지 다소 가파르니 물과 든든한 신발을 챙긴다.",
+    "eat": "산 아래 광천읍의 토굴새우젓과 광천김"
+   },
+   {
+    "name": "남당항",
+    "rom": "천수만 붉은 노을과 대하·새조개가 익는 국가어항",
+    "meta": [
+     "💴 시가",
+     "⏱ 반나절",
+     "🦐 가을 대하",
+     "🌅 서해 낙조"
+    ],
+    "desc": "천수만을 품에 안은 국가어항으로, 가을이면 대하축제로 온 포구에 새우 굽는 냄새가 자욱하고 이른 봄엔 새조개가 올라온다. 방파제 끝에 서면 잔잔한 갯벌 위로 해가 붉게 떨어지며, 바다와 상차림이 함께 데워지는 계절의 맛이 여기 있다.",
+    "todo": [
+     "대하 소금구이와 새조개 샤부샤부 맛보기",
+     "방파제에서 서해 낙조 보기",
+     "해안 산책로와 스카이워크 걷기"
+    ],
+    "tip": "대하는 9~10월, 새조개는 2~3월이 제철. 축제 주말은 붐비니 주차 여유를 두고 이른 시간에.",
+    "eat": "대하 소금구이, 새조개 샤부샤부"
+   },
+   {
+    "name": "죽도",
+    "rom": "천수만 한가운데, 조롱박 터널과 둘레길이 있는 작은 섬",
+    "meta": [
+     "💴 배편 별도(시가)",
+     "⏱ 반나절",
+     "⛴ 섬 트레킹"
+    ],
+    "desc": "천수만에 떠 있는 홍성의 유일한 유인도로, 남당항에서 배를 타고 들어간다. 섬을 두르는 둘레길과 전망대, 여름이면 주렁주렁 열리는 조롱박 터널이 있어 한 바퀴 도는 데 반나절이면 족하다. 사방이 잔잔한 바다라, 뭍의 소음이 뚝 끊긴 고요가 반갑다.",
+    "todo": [
+     "조롱박 터널과 둘레길 산책",
+     "전망대에서 천수만 조망",
+     "섬에서 바다낚시"
+    ],
+    "tip": "물때와 날씨에 따라 배편이 달라지니 남당항에서 출항 시간을 미리 확인한다.",
+    "eat": "섬 식당의 우럭·바지락 요리"
+   },
+   {
+    "name": "고암 이응노 생가기념관",
+    "rom": "연꽃 못과 초가 한 채, 세계적 화가가 태어난 자리",
+    "meta": [
+     "💴 무료",
+     "⏱ 두어 시간",
+     "🎨 미술·건축"
+    ],
+    "desc": "문자추상으로 세계를 사로잡은 고암 이응노가 태어난 홍북의 자리에, 옛 초가 생가와 낮게 앉은 현대건축 기념관이 나란히 서 있다. 여름이면 앞마당 연못이 연꽃으로 가득 차, 화가의 붓끝을 닮은 담백한 풍경이 물 위에 번진다.",
+    "todo": [
+     "생가 초가와 마당 둘러보기",
+     "기념관 전시에서 이응노의 작품 만나기",
+     "여름 연지 산책"
+    ],
+    "tip": "용봉산·내포신도시와 가까워 함께 묶기 좋다. 연꽃은 한여름 아침이 가장 곱다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a5/Ungno_lee_1972.jpg/500px-Ungno_lee_1972.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/6/68/Crowd_by_Ungno_Lee.tiff/lossless-page1-500px-Crowd_by_Ungno_Lee.tiff.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김좌진 장군 생가지",
+    "rom": "청산리의 영웅 백야가 나고 자란 갈산의 옛집",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🇰🇷 충절의 고장"
+    ],
+    "desc": "청산리대첩을 이끈 백야 김좌진이 태어난 갈산면 행산리에, 복원된 안채와 사랑채, 사당과 백야기념관이 조용히 자리한다. 홍성이 왜 충절의 고장으로 불리는지, 이 시골 마당에 서면 굳이 설명이 필요 없어진다.",
+    "todo": [
+     "생가와 사당 둘러보기",
+     "백야기념관에서 독립운동의 발자취 보기",
+     "인근 한용운 생가지까지 이어 걷기"
+    ],
+    "tip": "결성면의 만해 한용운 생가지와 묶어 '충절 순례'로 돌면 좋다. 한적한 시골길이라 마음이 가라앉는다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E9%87%91%E4%BD%90%E9%95%87.JPG/500px-%E9%87%91%E4%BD%90%E9%95%87.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3e/%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg/330px-%EC%B2%AD%EC%82%B0%EB%A6%AC_%EC%A0%84%ED%88%AC%EC%A7%81%ED%9B%84_%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "hwacheon": {
+  "nm": "화천",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 차로 약 2시간(경춘·서울양양 경유 → 춘천 → 화천). 대중교통은 춘천 시외버스터미널에서 화천행 시외버스로 환승.",
+  "sep": "겨울(1월). 화천천이 통째로 얼어붙어 거대한 얼음낚시터가 되는 산천어축제가 이 도시의 절정이다. 청정 계곡을 찾는다면 한여름, 호수 위 물안개는 늦가을이 곱다.",
+  "mood": "온 강이 얼어붙으면 도시 전체가 하나의 겨울 놀이터가 되는 곳.",
+  "see": "강을 통째로 얼린 산천어 얼음낚시, 차가 닿지 않는 오지 비수구미의 물길, 냉전이 남긴 601m 평화의 댐.",
+  "spots": [
+   {
+    "name": "화천 산천어축제",
+    "rom": "강을 통째로 얼린 겨울 얼음낚시 축제",
+    "meta": [
+     "❄️ 1월 개최",
+     "🎣 얼음낚시·맨손잡기",
+     "👨‍👩‍👧 가족 여행"
+    ],
+    "desc": "매년 1월, 화천천이 통째로 얼어붙으면 수십만 명이 얼음 구멍 앞에 쪼그려 앉아 산천어를 기다린다. 낚싯대를 든 아이들 웃음소리와 얼음 위 눈썰매, 맨손으로 물속에 뛰어드는 사람들까지. 2003년 시작해 겨울이면 백만 명 안팎이 찾는 국내 대표 겨울 축제다.",
+    "todo": [
+     "얼음낚시로 산천어 직접 잡아 즉석 회·구이로 맛보기",
+     "맨손잡기 체험존에서 얼음물에 뛰어들기",
+     "눈썰매·봅슬레이 등 눈밭 놀이 즐기기"
+    ],
+    "tip": "주말·성수기엔 입장권과 낚시터가 빠르게 마감되니 사전 예매를 권한다. 방한화·아이젠·여벌 양말은 필수(얼음 위가 매우 춥고 미끄럽다).",
+    "eat": "직접 잡은 산천어 회·소금구이"
+   },
+   {
+    "name": "파로호",
+    "rom": "산과 산 사이를 감아 도는 거대한 인공 호수",
+    "meta": [
+     "🚤 호반 드라이브",
+     "🎣 붕어·쏘가리 낚시",
+     "🍂 가을 물안개"
+    ],
+    "desc": "1944년 화천댐이 북한강 협곡을 막으며 생긴 거대한 호수. 산과 산 사이를 구불구불 파고든 물길이 끝없이 이어져, 이른 아침이면 수면 위로 물안개가 자욱하게 피어오른다. 천연기념물 황쏘가리가 사는 맑은 물 위에 낚싯배가 떠 있고, 호숫가 안보전시관에서는 이 물이 지나온 역사를 만난다.",
+    "todo": [
+     "파로호 안보전시관에서 호수의 내력 둘러보기",
+     "호반도로를 따라 붕어섬까지 드라이브"
+    ],
+    "tip": "호반도로가 길고 굽이가 많으니 시간을 넉넉히 잡는다. 낚시는 현지 좌대·낚싯배를 이용하는 편이 편하다.",
+    "eat": "파로호 민물매운탕·붕어찜",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "평화의 댐",
+    "rom": "냉전이 세운 601m의 거대한 댐",
+    "meta": [
+     "🕊️ 비목공원·평화의종",
+     "🏞 협곡 전망",
+     "🚗 산길 드라이브 종점"
+    ],
+    "desc": "북한강 최상류, 산과 산 사이 깊은 협곡을 길이 601m·높이 125m로 가로막은 거대한 댐. 물을 담기 위해서가 아니라 남북 대치 속에서 세워진 특별한 사연을 지녔다. 댐 옆 비목공원과 세계평화의종공원을 걸으며, 분단의 시간과 마주 선 웅장한 산세를 함께 바라보게 된다.",
+    "todo": [
+     "비목공원을 산책하며 전쟁의 흔적 돌아보기",
+     "세계평화의종공원에서 거대한 종 앞에 서 보기"
+    ],
+    "tip": "화천 시내에서 산길을 꽤 깊이 들어가야 나온다. 주변에 편의시설이 드무니 물·간식을 미리 챙겨 가는 편이 좋다.",
+    "eat": "읍내에서 식사를 마치고 이동하길 권한다(주변 식당이 드물다)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Peace_Dam.jpg/500px-Peace_Dam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "비수구미",
+    "rom": "차가 닿지 않는 오지 속 물길 마을",
+    "meta": [
+     "🥾 트레킹 약 6km",
+     "🌿 청정 계곡",
+     "🏡 오지 민박"
+    ],
+    "desc": "파로호 상류, 도로 대신 산길과 물길로만 닿는 강원의 손꼽히는 오지. 울창한 숲을 따라 6km 남짓 걷다 보면 에메랄드빛 계곡과 몇 채 안 되는 산마을이 조용히 나타난다. 봄이면 돌단풍, 여름이면 발이 시린 맑은 물, 사람 손을 덜 탄 강원의 원형이 그대로 남아 있다.",
+    "todo": [
+     "동촌리에서 비수구미까지 계곡 트레킹",
+     "여름철 맑은 계곡물에 발 담그기"
+    ],
+    "tip": "길이 길고 편의시설이 없다. 물·간식·등산화는 필수이고, 배편이나 민박은 현지에 미리 문의한다. 우기·겨울에는 접근에 주의한다.",
+    "eat": "산채비빔밥·토종닭 백숙(현지 민박)"
+   },
+   {
+    "name": "용화산",
+    "rom": "화강암 봉우리가 솟은 100대 명산",
+    "meta": [
+     "🥾 등산 반나절",
+     "🪨 기암괴석",
+     "🏆 산림청 100대 명산"
+    ],
+    "desc": "화천과 춘천 경계에 솟은 878m 산. 정상 만장봉과 새남바위 등 하얀 화강암 바위가 능선 곳곳에 드러나 있어, 오르는 내내 시원한 암릉 풍경이 펼쳐진다. 산림청 100대 명산에 이름을 올린, 부담 없이 다녀오기 좋은 강원의 숨은 봉우리다.",
+    "todo": [
+     "새남바위·만장봉 암릉 코스 오르기",
+     "정상에서 파로호와 화천 일대 조망하기"
+    ],
+    "tip": "암릉 구간이 있어 미끄럼에 주의한다. 용화산 자연휴양림을 들머리로 삼으면 접근이 수월하다."
+   },
+   {
+    "name": "딴산유원지",
+    "rom": "강가에 홀로 솟은 바위산과 겨울 빙벽",
+    "meta": [
+     "🏔 외딴 바위산",
+     "❄️ 겨울 인공 빙벽",
+     "🏕 여름 물놀이"
+    ],
+    "desc": "화천천 강가에 뜬금없이 하나 솟은 작은 바위산. 이름 그대로 '딴 데 떨어져 있는 산'이라 딴산이다. 여름이면 강물에서 물놀이를, 겨울이면 산자락에 인공 빙벽이 오르고 산천어축제와 어우러진다. 화천 시내에서 가까워 잠깐 들르기 좋다.",
+    "todo": [
+     "겨울 인공 빙벽 구경하기",
+     "여름 화천천에서 물놀이·야영 즐기기"
+    ],
+    "tip": "산천어축제 기간에는 축제장과 연계해 함께 둘러보기 좋다."
+   }
+  ]
+ },
+ "hwaseong": {
+  "nm": "화성",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 승용차로 1~1.5시간(서해안고속도로). 대중교통은 수원역·사당에서 화성 방면 버스로 환승. 부산에서는 KTX로 수원까지 온 뒤 시내버스.",
+  "sep": "가을·초겨울에 서해 하늘이 맑아 노을이 가장 붉다. 봄엔 융건릉 능숲, 가을엔 우음도 갈대. 제부도 바닷길은 물때만 맞으면 사계절.",
+  "mood": "하루 두 번 바다가 열리고, 서해로 해가 붉게 지는 도시. 그 사이에 정조의 능과 오래된 절이 조용히 서 있다.",
+  "see": "바닷길 갈라지는 제부도, 해송 너머 지는 궁평항 노을, 정조가 잠든 융건릉과 용주사, 요트가 뜬 전곡항.",
+  "spots": [
+   {
+    "name": "융건릉",
+    "rom": "사도세자와 정조가 나란히 잠든 소나무 능",
+    "meta": [
+     "💴 입장 약 1,000원(변동가능)",
+     "⏱ 반나절",
+     "🌲 능숲 산책",
+     "🏛 유네스코 세계유산"
+    ],
+    "desc": "아버지 사도세자의 융릉과 아들 정조의 건릉이 한 숲 안에 나란히 있다. 울창한 소나무 능길을 걷다 보면 도시 소음이 사라지고, 아버지를 그리며 이 길을 자주 넘었다는 정조의 마음이 능선 위로 겹쳐진다. 조선왕릉으로 유네스코 세계유산에 올라 있다.",
+    "todo": [
+     "능침 앞 소나무 숲길 천천히 한 바퀴",
+     "융릉과 건릉을 잇는 숲 산책로 완주하기",
+     "해설사 안내로 정조·사도세자 이야기 듣기"
+    ],
+    "tip": "능침 위까지는 오르지 못하고 아래에서 관람한다. 입장은 저녁 무렵 마감하니 오후엔 일찍 들어가는 게 좋다. 용주사와 차로 10분 거리라 함께 묶기 좋다.",
+    "eat": "병점·태안 일대 한정식과 손칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EC%9C%B5%EB%A6%89%EA%B3%BC_%EC%86%8C%EB%82%98%EB%AC%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg/120px-%EC%9C%B5%EB%A6%89_%ED%99%8D%EC%82%B4%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9C%B5%EB%A6%89.jpg/120px-%EC%9C%B5%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "용주사",
+    "rom": "정조가 아버지를 위해 다시 세운 능침사찰",
+    "meta": [
+     "💴 입장 무료(변동가능)",
+     "⏱ 1~2시간",
+     "🛕 템플스테이",
+     "🔔 국보 범종"
+    ],
+    "desc": "정조가 아버지 사도세자의 넋을 기리려 폐사된 절터에 다시 세운 사찰이다. 효심으로 지은 절답게 경내가 단정하고 고요하다. 오래전에 주조된 국보 동종이 걸려 있어, 오래된 쇠의 울림 앞에 서면 시간이 한 겹 물러나는 듯하다.",
+    "todo": [
+     "국보 동종 앞에서 잠시 머물기",
+     "효행박물관에서 정조 관련 유물 보기"
+    ],
+    "tip": "융건릉과 세트로 도는 코스다. 템플스테이도 운영하니 하루 쉼표가 필요하면 참고.",
+    "eat": "사찰 인근 두부요리·사찰음식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Temple_Yongju.jpg/500px-Temple_Yongju.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg/330px-%EC%9A%A9%EC%A3%BC%EC%82%AC4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "제부도",
+    "rom": "하루 두 번 바다가 갈라지는 섬",
+    "meta": [
+     "💴 입장 무료(물때 확인)",
+     "⏱ 반나절",
+     "🌊 바닷길",
+     "🌅 서해 낙조"
+    ],
+    "desc": "하루 두 번, 2km 남짓의 바닷길이 물속에서 솟아오르며 육지와 섬을 잇는다. 물이 빠지는 시간에 맞춰 갯벌 사이 도로를 달려 들어가면, 섬 서쪽 해변엔 노을이 붉게 번진다. 물때를 놓치면 몇 시간을 기다려야 하니 시간표가 여행의 절반이다.",
+    "todo": [
+     "바닷길 열리는 시간에 맞춰 진입하기",
+     "섬 서쪽 해수욕장에서 낙조 보기",
+     "해안 산책로와 전망 조형물 둘러보기"
+    ],
+    "tip": "출발 전 반드시 '제부도 물때표'를 확인한다. 들어갔다가 물이 차면 다시 나올 수 없다. 주말엔 진입 도로가 정체된다.",
+    "eat": "바지락칼국수·조개구이·꽃게",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jebudo.png/500px-Jebudo.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jebu_island.jpg/120px-Jebu_island.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "궁평항",
+    "rom": "해송 숲 너머로 지는 서해 노을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🌅 낙조 명소",
+     "🌲 해솔길 산책"
+    ],
+    "desc": "수백 그루 해송이 늘어선 방파제 끝에서 서해로 해가 떨어진다. 화성에서 가장 이름난 낙조 출사지라, 해질녘이면 삼각대를 든 사람들이 조용히 모여든다. 긴 나무 데크를 밟고 바다 한가운데로 걸어 나가는 기분이 좋다.",
+    "todo": [
+     "해질 무렵 방파제 전망 데크 걷기",
+     "해송 숲 해솔길 산책하기",
+     "수산물직판장에서 제철 회·조개 사기"
+    ],
+    "tip": "노을 시각은 계절마다 다르니 그날 일몰 시간을 미리 확인한다. 주차장은 넓지만 주말 일몰 무렵엔 붐빈다.",
+    "eat": "직판장 회·조개구이, 바지락",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gungpyeong_Port.jpg/500px-Gungpyeong_Port.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg/500px-Lighthouse_at_Gungpyeong_Port_%289524294506%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg/500px-%EA%B6%81%ED%8F%89%ED%95%AD_%ED%95%B4%EC%86%94%EA%B8%B8_%28AMJ%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "전곡항",
+    "rom": "요트가 뜨는 서해의 마리나 항구",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "⛵ 요트·마리나",
+     "🦀 제철 해산물"
+    ],
+    "desc": "밀물과 썰물에 상관없이 24시간 배가 드나드는 다기능 항구다. 하얀 요트가 줄지어 묶인 마리나는 서해답지 않게 이국적이고, 국제보트쇼가 열릴 만큼 바다 레저의 거점이다. 제부도와 차로 가까워 함께 묶기 좋다.",
+    "todo": [
+     "마리나에 정박한 요트 구경하기",
+     "방파제를 따라 바다 산책하기",
+     "제철 꽃게·주꾸미 맛보기"
+    ],
+    "tip": "보트쇼 등 행사 기간엔 사람이 몰린다. 제부도·궁평항과 이어 해안 드라이브 코스로 묶으면 알차다.",
+    "eat": "꽃게·낙지·주꾸미"
+   },
+   {
+    "name": "우음도",
+    "rom": "섬이었다가 뭍이 된 시화호의 갈대밭",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🌾 가을 갈대",
+     "📷 사진 명소"
+    ],
+    "desc": "한때 서해의 외딴 섬이었지만 시화방조제가 놓이며 육지가 된 곳이다. 지금은 드넓은 갈대밭과 낮은 언덕, 오래된 지층이 어우러져 사진 찍는 이들의 조용한 성지가 됐다. 바람이 세게 불면 소 울음 같은 소리가 났다는 이름의 사연도 발밑에 남아 있다.",
+    "todo": [
+     "갈대밭 사이 흙길 걷기",
+     "언덕에 올라 시화호 바라보기",
+     "지질 탐방로를 따라 오래된 지층 살펴보기"
+    ],
+    "tip": "가을 갈대철이 절정이다. 그늘과 편의시설이 적으니 물과 모자를 챙긴다. 주변이 개발 중이라 방문 전 접근로를 확인하는 게 좋다.",
+    "eat": "인근 송산·사강시장 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg/500px-Jhk_%281%29%EC%9A%B0%EC%9D%8C%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "제암리 3·1운동 순국기념관",
+    "rom": "1919년 그날을 기억하는 조용한 언덕",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🕯 역사·추모",
+     "🏛 사적지"
+    ],
+    "desc": "1919년 봄, 만세운동에 나선 마을 사람들이 교회에 갇힌 채 희생된 자리다. 지금은 순국기념관과 추모비가 언덕을 지키고 있어, 발걸음이 절로 느려진다. 화성이 왜 아픔과 기억의 도시로 불리는지 이곳에서 조용히 이해하게 된다.",
+    "todo": [
+     "순국기념관 전시 관람하기",
+     "순국선열 추모비 앞에서 묵념하기"
+    ],
+    "tip": "엄숙한 추모 공간이니 조용히 둘러본다. 향남읍에 있어 발안·향남 시가지와 가깝다.",
+    "eat": "향남 시가지 백반·손칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg/500px-%EC%A0%9C%EC%95%94%EB%A6%AC_%EA%B5%90%ED%9A%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "hwasun": {
+  "nm": "화순",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 무궁화호로 화순역까지 바로(경전선), 또는 KTX로 광주송정역에 내려 30분 거리. 부산에서는 남해고속도로로 3시간대. 명소가 흩어져 있어 자가용이 가장 편하다.",
+  "sep": "4월 초가 백미다. 세량지 벚꽃이 새벽 물안개와 겹치는 단 며칠, 그리고 운주사·백아산 능선이 붉게 물드는 10월 말도 좋다.",
+  "mood": "광주 바로 옆인데 아직 붐비지 않는, 천 개의 돌부처와 붉은 절벽이 조용히 숨어 있는 땅.",
+  "see": "천불천탑의 운주사, 동복호 위 붉은 화순적벽, 세계유산 고인돌, 새벽 물안개 세량지.",
+  "spots": [
+   {
+    "name": "운주사",
+    "rom": "천불천탑과 누운 부처의 절",
+    "meta": [
+     "💴 입장료 변동 가능",
+     "⏱ 반나절",
+     "🍂 가을 단풍",
+     "🗿 돌부처"
+    ],
+    "desc": "골짜기를 걷다 보면 크고 작은 돌부처와 돌탑이 밭두렁처럼 여기저기 서 있다. 천 개의 불상과 천 개의 탑을 하룻밤에 세우려다 닭 우는 소리에 멈췄다는 전설, 그래서 산등성이엔 끝내 일어나지 못한 거대한 와불 두 분이 나란히 누워 하늘을 본다. 반듯하지 않고 조금씩 못생긴 부처들이 오히려 오래 마음에 남는다.",
+    "todo": [
+     "산등성이 와불(누운 부처)까지 올라가 보기",
+     "구층석탑·석조불감 등 보물 문화재 찾아보기"
+    ],
+    "tip": "입장료는 소액이거나 무료일 수 있으니 방문 전 확인(변동 가능). 경내가 넓게 흩어져 있으니 편한 신발 필수. 가을 단풍 무렵과 새벽 안개가 가장 운주사답다.",
+    "eat": "절 아래 식당가의 산채비빔밥과 더덕구이 정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG/500px-Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG/500px-Korea-Unjusa_4480-07_Stone_Statue_of_the_Buddha_Lying_Down.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Korea-Unjusa_4452-07_Gate.JPG/120px-Korea-Unjusa_4452-07_Gate.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화순적벽",
+    "rom": "동복호 위로 솟은 붉은 절벽, 명승 112호",
+    "meta": [
+     "💴 탐방버스 예약제",
+     "⏱ 반나절",
+     "🚌 사전예약",
+     "⛰ 명승"
+    ],
+    "desc": "댐이 들어서며 오래 감춰졌던 붉은 절벽이 동복호 물 위로 40미터 높이로 솟아 있다. 조선의 선비들이 중국의 적벽에 견주며 시를 읊던 절경으로, 물에 비친 붉은 바위가 두 겹으로 겹쳐 보인다. 상수원 보호구역이라 아무 때나 들어갈 수 없어, 오히려 더 귀하게 느껴지는 풍경이다.",
+    "todo": [
+     "물염정에 앉아 물염적벽 바라보기",
+     "탐방버스로 노루목적벽 전망대까지 가보기"
+    ],
+    "tip": "노루목적벽은 상수원 구역이라 화순군이 운영하는 사전 예약 탐방버스로만 들어갈 수 있다. 홈페이지에서 날짜 확인·예약 필수(운영일 한정).",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "화순 고인돌 유적",
+    "rom": "세계유산으로 남은 청동기의 들판",
+    "meta": [
+     "💴 무료",
+     "⏱ 두세 시간",
+     "🌍 유네스코 세계유산",
+     "🪨 고인돌"
+    ],
+    "desc": "효산리와 대신리 사이 낮은 능선을 따라 수백 기의 고인돌이 들풀 속에 흩어져 있다. 수십 톤짜리 덮개돌을 어떻게 옮기다 만 것인지, 채석장 흔적까지 그대로 남아 청동기 사람들의 하루가 눈앞에 그려진다. 고창·강화와 함께 세계유산에 오른, 세계에서 가장 밀집한 고인돌 밭이다.",
+    "todo": [
+     "채석장에서 덮개돌 떼어낸 흔적 살펴보기",
+     "능선 산책로 따라 무리 지은 고인돌 걷기"
+    ],
+    "tip": "무료 개방이며 야외라 그늘이 적다. 봄가을에 걷기 가장 좋고, 고인돌선사체험장·박물관을 함께 묶으면 이해가 깊어진다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg/500px-%ED%99%94%EC%88%9C_%EA%B4%80%EC%B2%AD%EB%B0%94%EC%9C%84%EA%B3%A0%EC%9D%B8%EB%8F%8C%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세량지",
+    "rom": "새벽 물안개에 벚꽃이 뒤집히는 저수지",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🌸 봄 벚꽃",
+     "📷 사진 명소"
+    ],
+    "desc": "작은 농업용 저수지일 뿐인데, 4월 초 산벚꽃이 필 무렵 새벽이면 물 위로 안개가 피어오르고 분홍빛 산이 그대로 물에 뒤집혀 담긴다. 미국 CNN이 '한국에서 꼭 봐야 할 곳'으로 꼽은 뒤 전국의 사진가가 삼각대를 들고 모여드는 자리다. 딱 며칠, 딱 한두 시간만 열리는 풍경이라 더 애틋하다.",
+    "todo": [
+     "해 뜨기 전 도착해 물안개 반영 담기",
+     "저수지 한 바퀴 데크길 걷기"
+    ],
+    "tip": "절정은 4월 초순 며칠뿐이고 그것도 이른 새벽 바람 없는 날이라야 물안개가 곱다. 주차 공간이 좁아 성수기 주말 새벽엔 일찍 가는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "쌍봉사",
+    "rom": "국보 부도와 3층 목탑을 품은 산사",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🏯 국보 철감선사탑",
+     "🌲 숲길"
+    ],
+    "desc": "이름처럼 두 봉우리 사이에 안긴 아담한 절인데, 뒤뜰로 돌아가면 신라 말의 부도 걸작 철감선사탑이 서 있다. 8각 몸돌마다 새겨진 사자와 구름, 악기를 연주하는 조각이 천년 전 것이라고 믿기 어려울 만큼 섬세하다. 법주사 팔상전과 더불어 드문 3층 목탑 형식의 대웅전도 이 조용한 절의 자랑이다.",
+    "todo": [
+     "철감선사탑(국보)의 8각 조각 자세히 보기",
+     "3층 목탑 대웅전 처마 올려다보기"
+    ],
+    "tip": "관람은 무료. 규모가 크지 않아 운주사·고인돌과 하루에 묶기 좋다. 대웅전은 1984년 화재 후 복원된 것.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ssangbongsa_11-05276.JPG/500px-Ssangbongsa_11-05276.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ssangbongsa_Iljumun_11-05143.JPG/120px-Ssangbongsa_Iljumun_11-05143.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ssangbongsa_11-05146.JPG/120px-Ssangbongsa_11-05146.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "백아산",
+    "rom": "흰 거위 떼 같은 바위 능선과 하늘다리",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🥾 등산",
+     "🏞 하늘다리"
+    ],
+    "desc": "흰 바위 봉우리들이 줄지어 솟은 모습이 마치 거위 떼가 앉은 듯해 백아산이라 불린다. 능선의 마당바위에 서면 무등산부터 멀리 지리산 천왕봉까지 이어지는 산줄기가 한눈에 펼쳐지고, 봉우리 사이를 잇는 하늘다리에선 발밑이 아득하다. 한국전쟁의 격전지였던 무게가 능선 곳곳에 조용히 배어 있다.",
+    "todo": [
+     "능선 하늘다리(출렁다리) 건너보기",
+     "마당바위에서 무등산·지리산 조망 감상"
+    ],
+    "tip": "정상까지 왕복 서너 시간 등산 코스. 봄 철쭉과 가을 억새·단풍이 특히 곱다. 인근 화순온천에서 산행 뒤 몸 풀기 좋다.",
+    "eat": "화순 대표 먹거리인 다슬기수제비·다슬기탕으로 산행 뒤 속 풀기."
+   }
+  ]
+ },
+ "icheon": {
+  "nm": "이천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 강남에서 차로 약 1시간(중부고속도로 서이천·이천IC). 대중교통은 경강선(판교~여주) 이천역이 편하다. 부산에서는 직통 열차가 없어 KTX로 서울까지 온 뒤 경강선·시외버스로 갈아타거나, 승용차로 약 3시간 30분 걸린다.",
+  "sep": "봄이 최고. 3월 말~4월 초 백사 산수유마을이 온통 노란 꽃으로 물들고, 4~5월엔 설봉공원에서 이천도자기축제가 열려 도시 전체가 흙과 불의 냄새로 붐빈다. 가을 쌀밥과 겨울 온천도 좋아 사실 사철 실패가 없다.",
+  "mood": "흙을 빚어 불에 구운 도시. 도자기 가마의 온기, 노란 산수유, 김이 오르는 노천 온천과 갓 지은 이천쌀밥까지 — 손끝과 혀끝이 먼저 기억하는 여행지.",
+  "see": "도예 공방이 모인 도자마을, 호수를 낀 설봉공원, 감성 가득한 시몬스 테라스, 그리고 김 오르는 노천 온천.",
+  "spots": [
+   {
+    "name": "이천 도자예술마을 예스파크",
+    "rom": "도예 공방이 모여 이룬 마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏺 도자 공방",
+     "🎨 원데이클래스"
+    ],
+    "desc": "야트막한 언덕을 따라 도예 공방과 갤러리, 카페가 골목골목 이어진다. 작가가 직접 물레를 돌리는 창을 들여다보고, 마음에 드는 찻잔 하나를 만나면 그 자리에서 데려올 수 있다. 예술가의 작업실을 그대로 동네로 만든 듯한 곳이라 걷는 것만으로 눈이 즐겁다.",
+    "todo": [
+     "마음에 드는 공방에 들어가 직접 만든 그릇 고르기",
+     "물레·핸드빌딩 원데이클래스 체험",
+     "골목 카페에서 도자 잔에 나오는 커피 마시기"
+    ],
+    "tip": "공방마다 쉬는 날이 달라 헛걸음할 수 있으니, 목적 공방이 있으면 전화로 영업 여부를 먼저 확인하는 게 좋다. 주말엔 주차가 붐빈다.",
+    "eat": "마을 안 도자 카페에서 직접 구운 잔에 내주는 디저트"
+   },
+   {
+    "name": "설봉공원과 설봉호",
+    "rom": "호수와 조각이 어우러진 도심 속 쉼터",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🌊 호수 산책",
+     "🗿 조각공원"
+    ],
+    "desc": "설봉산 자락에 안긴 호수를 한 바퀴 도는 산책로가 넉넉하다. 세계 여러 나라 작가의 조각이 잔디밭 곳곳에 서 있고, 물가엔 벚꽃과 신록이 계절마다 색을 바꾼다. 봄이면 이 일대에서 이천도자기축제가 열려 공원 전체가 커다란 도자 장터로 변한다.",
+    "todo": [
+     "설봉호 둘레길 한 바퀴 걷기",
+     "이천세계도자센터에서 전시 보기",
+     "봄 도자기축제 기간에 가마 시연 구경하기"
+    ],
+    "tip": "공원 자체는 24시간 개방이지만, 안쪽 도자센터·전시관은 개관 시간이 있으니 낮에 맞춰 가야 다 본다.",
+    "eat": "공원 근처 이천쌀밥집에서 돌솥밥 한 상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%281%29.jpg/500px-%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%ED%98%B8%EC%88%98_%281%29.jpg/330px-%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%ED%98%B8%EC%88%98_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%ED%98%B8%EC%88%98_%282%29.jpg/330px-%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%ED%98%B8%EC%88%98_%282%29.jpg"
+    ]
+   },
+   {
+    "name": "시몬스 테라스",
+    "rom": "침대 브랜드가 만든 복합문화공간",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "📷 감성 명소",
+     "🛒 파머스마켓"
+    ],
+    "desc": "매트리스 브랜드가 세운 넓은 복합문화공간으로, 붉은 벽돌 건물과 잔디 정원이 유럽의 작은 마을처럼 펼쳐진다. 침대의 역사를 보여주는 전시관, 로컬 먹거리를 파는 그로서리 스토어, 주말 파머스마켓까지 있어 아이 어른 모두 오래 머문다. 사진 찍기 좋은 코너가 곳곳에 숨어 있다.",
+    "todo": [
+     "매트리스 랩 전시관 둘러보기",
+     "그로서리 스토어에서 로컬 굿즈 사기",
+     "정원 잔디밭에서 여유롭게 쉬기"
+    ],
+    "tip": "무료 입장이지만 주말·연휴엔 주차장이 빨리 찬다. 파머스마켓은 특정 요일에만 열리니 방문 전 일정 확인.",
+    "eat": "테라스 내 카페의 시그니처 음료와 베이커리"
+   },
+   {
+    "name": "이천 테르메덴",
+    "rom": "숲속 독일풍 노천 온천",
+    "meta": [
+     "💴 입장 약 20,000원~(변동)",
+     "⏱ 반나절",
+     "♨️ 노천탕",
+     "🌲 숲속 스파"
+    ],
+    "desc": "숲으로 둘러싸인 부지에 독일식 스파를 옮겨 놓은 온천 리조트다. 바깥 공기를 맞으며 몸을 담그는 노천탕과 물줄기가 쏟아지는 바데풀이 대표. 겨울엔 김이 자욱하게 피어오르는 야외탕에서 눈을 맞으며 온천을 즐기는 호사를 누릴 수 있다.",
+    "tip": "요금·운영시간은 시즌마다 바뀌고 성수기엔 붐비니 방문 전 홈페이지 확인 권장. 수건·수영복 등 준비물도 미리 챙기면 좋다.",
+    "eat": "온천 후 이천 시내 쌀밥거리에서 따뜻한 한상"
+   },
+   {
+    "name": "백사 산수유마을",
+    "rom": "3월 말 온 마을을 노랗게 물들이는 산수유",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌼 봄 산수유",
+     "📷 꽃길 산책"
+    ],
+    "desc": "이른 봄, 아직 잎도 나기 전에 노란 산수유꽃이 마을 전체를 뒤덮는다. 오래된 돌담과 기와집 사이로 난 꽃길을 걸으면 봄이 왔음을 눈으로 실감하게 된다. 매년 3월 말이면 산수유꽃축제가 열려 노란 물결 속에서 사진 찍는 사람들로 붐빈다.",
+    "todo": [
+     "돌담길 따라 산수유 꽃길 걷기",
+     "꽃축제 기간 마을 장터 구경하기"
+    ],
+    "tip": "개화가 딱 2주 남짓이라 3월 말 개화 시기를 맞춰 가는 게 관건. 해마다 날씨에 따라 며칠씩 앞뒤로 움직이니 개화 소식을 확인하고 출발.",
+    "eat": "가을에 오면 산수유 열매로 담근 차·정과도 별미"
+   },
+   {
+    "name": "사기막골 도예촌",
+    "rom": "가마와 상설 판매장이 모인 도자 거리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🏺 도자 쇼핑",
+     "🔥 전통 가마"
+    ],
+    "desc": "예로부터 도자기를 굽던 가마가 이어져 온 마을로, 생활 그릇부터 예술 작품까지 상설 판매장이 줄지어 있다. 백자·청자·분청을 실용 가격에 만날 수 있어 그릇 좋아하는 사람에겐 보물창고 같은 곳. 흙 냄새 나는 공방 사이를 천천히 걸으며 마음에 드는 그릇을 고르는 재미가 있다.",
+    "todo": [
+     "상설 판매장에서 생활 도자기 득템하기",
+     "전통 가마와 작업 과정 구경하기"
+    ],
+    "tip": "매장마다 가격·품목이 다르니 여러 곳을 둘러보고 비교하면 좋다. 깨지기 쉬운 도자기는 포장을 꼼꼼히 부탁할 것.",
+    "eat": "도예촌 인근 이천쌀밥집"
+   },
+   {
+    "name": "지산포레스트리조트",
+    "rom": "봄엔 벚꽃, 겨울엔 스키가 있는 숲속 리조트",
+    "meta": [
+     "💴 시즌별 상이(변동)",
+     "⏱ 반나절~1일",
+     "🌸 봄 벚꽃",
+     "⛷ 겨울 스키"
+    ],
+    "desc": "산자락을 따라 슬로프와 숲길이 이어지는 사계절 리조트다. 겨울엔 눈밭 위로 스키어들이 미끄러지고, 봄이면 리조트로 오르는 길과 골프장 주변이 벚꽃으로 뒤덮여 드라이브 코스로도 이름났다. 여름이면 초록으로 우거진 숲과 골프장이 산책·라운딩 배경이 된다.",
+    "tip": "겨울 스키, 봄 벚꽃, 여름 축제로 방문 목적에 따라 시즌이 완전히 갈린다. 성수기엔 예약·주차가 필수이니 미리 준비.",
+    "eat": "리조트 내 식당 또는 이천 시내 쌀밥거리로 이동"
+   }
+  ]
+ },
+ "iksan": {
+  "nm": "익산",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 용산역에서 KTX로 익산역까지 약 1시간 10분. 익산은 호남선·전라선이 갈라지는 KTX 요충지라 기차로 가장 편하고, 유적들은 시내에서 차로 10~20분 흩어져 있어 렌터카가 편하다.",
+  "sep": "봄·가을. 미륵사지와 왕궁리의 드넓은 백제 유적 벌판은 그늘이 적어 선선할 때가 좋다. 봄엔 미륵산 자락 신록과 유채, 가을엔 함라 돌담길 단풍이 가장 곱다.",
+  "mood": "천 년 전 백제가 도읍을 옮기려던 벌판, 그 왕궁과 절터가 통째로 남은 도시.",
+  "see": "유네스코 백제 유적 두 곳(미륵사지·왕궁리)에 한옥성당·보석박물관·옛 부촌 돌담까지.",
+  "spots": [
+   {
+    "name": "익산 미륵사지",
+    "rom": "백제 무왕이 세운 동아시아 최대 사찰의 터",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "🗿 국보 석탑",
+     "⏱ 반나절"
+    ],
+    "desc": "백제 무왕이 세운 동아시아 최대 규모 사찰의 터다. 넓은 벌판 한가운데 국내에서 가장 크고 오래된 석탑이 20여 년의 해체·보수를 거쳐 다시 서 있고, 그 앞에 서면 사라진 목탑과 금당의 자리가 초석으로만 남아 옛 절의 규모를 상상하게 한다. 바로 옆 국립익산박물관에서 탑 속에서 나온 사리장엄구를 볼 수 있다.",
+    "todo": [
+     "복원된 서탑 앞에서 국내 최대 석탑 규모 체감하기",
+     "국립익산박물관에서 출토 사리장엄구 보기"
+    ],
+    "tip": "미륵사지 관람·국립익산박물관 모두 무료(월요일 휴관). 그늘이 적은 벌판이라 여름엔 모자와 물이 필수다.",
+    "eat": "익산의 향토 별미 황등비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg/500px-%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mireuksaji_Stone_Pagoda_20190506002.jpg/500px-Mireuksaji_Stone_Pagoda_20190506002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mireuksa-writing.jpg/330px-Mireuksa-writing.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "익산 왕궁리 유적",
+    "rom": "백제가 도읍을 옮기려던 왕궁 터와 오층석탑",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "🗿 국보 오층석탑",
+     "🌅 노을"
+    ],
+    "desc": "백제가 도읍을 익산으로 옮기려 했다는 이야기를 품은 왕궁 터다. 낮은 언덕 위 오층석탑 하나가 넓은 잔디밭을 지키고 있고, 왕궁리유적전시관을 따라가면 이곳이 왕궁이었다가 훗날 절로 바뀐 흔적을 읽을 수 있다. 해 질 무렵 석탑 실루엣이 특히 곱다.",
+    "todo": [
+     "오층석탑 주변 잔디밭 천천히 걷기",
+     "왕궁리유적전시관에서 왕궁→사찰 변천 보기"
+    ],
+    "tip": "전시관 무료·월요일 휴관. 미륵사지와 차로 10분 거리라 백제 유적 두 곳을 하루에 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg/500px-%EC%99%95%EA%B6%81%EB%A6%AC%EC%9C%A0%EC%A0%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wanggungri_Archeological_Site_20190506003.jpg/120px-Wanggungri_Archeological_Site_20190506003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wanggungri_Archeological_Site_20190506001.jpg/120px-Wanggungri_Archeological_Site_20190506001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "익산 나바위성당",
+    "rom": "한옥과 서양식이 한 채에 섞인 성당",
+    "meta": [
+     "⛪ 사적",
+     "🏯 한·양 절충 건축",
+     "⏱ 1~2시간"
+    ],
+    "desc": "기와지붕을 얹은 한옥 몸에 서양식 창을 낸, 한국과 서양이 한 채에 섞인 독특한 성당이다. 1845년 김대건 신부가 사제서품을 받고 이 앞 황산나루로 상륙한 것을 기념해 지어졌고, 신발을 벗고 마룻바닥에 앉던 초기 한국 천주교의 흔적이 안에 그대로 남아 있다.",
+    "tip": "미사·기도 중에는 조용히. 뒤편 화산 언덕에 오르면 금강과 옛 나루터가 한눈에 내려다보인다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/6/6c/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/b/b8/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/a/a7/%EC%9D%B5%EC%82%B0_%EB%82%98%EB%B0%94%EC%9C%84%EC%84%B1%EB%8B%B9_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+    ]
+   },
+   {
+    "name": "익산보석박물관",
+    "rom": "보석의 도시 익산의 세계 보석·원석 전시관",
+    "meta": [
+     "💎 보석·원석·화석",
+     "👨‍👩‍👧 아이 동반",
+     "💴 입장 약 3,000원"
+    ],
+    "desc": "익산은 오래전부터 보석 가공으로 이름난 '보석의 도시'다. 왕궁면 넓은 공원 안 성처럼 생긴 건물에 세계의 보석과 원석이 가득해 아이와 함께 눈이 휘둥그레지기 좋고, 야외로 이어지는 화석·공룡 전시까지 함께 둘러볼 수 있다.",
+    "tip": "입장료 약 3,000원(변동 가능)·월요일 휴관. 넓은 야외 공원이라 아이를 데리고 반나절 놀기 좋다."
+   },
+   {
+    "name": "함라한옥마을",
+    "rom": "만석꾼 삼부잣집이 모여 살던 옛 부촌",
+    "meta": [
+     "🏯 옛 부촌 고택",
+     "🚶 돌담길 산책",
+     "🍂 가을"
+    ],
+    "desc": "만석꾼 삼부잣집이 모여 살던 옛 부촌의 흔적이다. 사람 키를 넘는 흙돌담이 골목을 따라 길게 이어지고, 담 안으로 고택과 산책로가 조용히 펼쳐져 번잡한 관광지와는 다른 느린 시간이 흐른다.",
+    "tip": "이어진 담장길이 하이라이트. 마을 안 한옥 일부는 사람이 사는 집이니 정숙히 걷는다.",
+    "eat": "인근 웅포 금강변의 민물장어와 재첩"
+   },
+   {
+    "name": "익산교도소세트장",
+    "rom": "국내 드문 촬영용 감옥 세트",
+    "meta": [
+     "🎬 영화·드라마 촬영지",
+     "📷 이색 체험",
+     "⏱ 1시간"
+    ],
+    "desc": "실제 교도소를 본떠 지은, 국내에 흔치 않은 촬영용 감옥 세트다. 회색 담장과 철창·복도가 실감 나게 남아 있어 수많은 영화·드라마의 배경이 됐고, 철문 안 감방에 들어가 사진을 찍는 색다른 체험을 할 수 있다.",
+    "tip": "촬영 일정에 따라 관람이 제한될 수 있으니 방문 전 개방 여부를 확인하고 가는 게 좋다."
+   },
+   {
+    "name": "익산 쌍릉",
+    "rom": "백제 무왕과 왕비의 능으로 전해지는 두 봉분",
+    "meta": [
+     "👑 백제 무왕릉 추정",
+     "🌲 솔숲 산책",
+     "⏱ 30분"
+    ],
+    "desc": "소나무 숲 사이에 나란히 누운 두 개의 큰 봉분이다. 큰 무덤은 미륵사와 왕궁을 세운 백제 무왕, 작은 무덤은 그 왕비의 능으로 전해지는데, 무왕이 곧 '서동요'의 서동이라는 이야기와 겹쳐 선화공주의 무덤일지 모른다는 낭만이 함께 떠돈다.",
+    "tip": "조용한 숲길이라 가볍게 산책하기 좋다. 미륵사지·왕궁리와 함께 무왕 테마로 묶어 도는 걸 추천.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Amlou2518_%EC%8C%8D%EB%A6%89.jpg/500px-Amlou2518_%EC%8C%8D%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg/500px-%EC%9D%B5%EC%82%B0_%EC%8C%8D%EB%A6%89_%ED%95%AD%EA%B3%B5%EC%B4%AC%EC%98%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "imsil": {
+  "nm": "임실",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 용산역서 전주까지 KTX 약 1시간 40분, 전주 시외버스터미널서 임실·오수행 40분. 옥정호·치즈파크까지 두루 돌려면 전주에서 렌터카가 편하다. 부산은 순천 경유가 빠르다.",
+  "sep": "가을이 임실의 계절이다. 10월이면 온 마을이 임실N치즈페스티벌로 들썩이고, 늦가을 새벽 국사봉엔 옥정호 물안개가 붕어섬을 통째로 삼킨다. 봄 사선대 벚꽃길도 곱다.",
+  "mood": "한국 치즈가 태어난 산골, 새벽 물안개가 붕어섬을 삼키는 호수의 고장.",
+  "see": "물안개 피는 옥정호, 고소한 치즈 언덕, 주인 구한 충견의 전설과 유네스코 농악까지.",
+  "spots": [
+   {
+    "name": "옥정호 (붕어섬·국사봉전망대)",
+    "rom": "새벽 물안개가 붕어섬을 감싸는 호수",
+    "meta": [
+     "⏱ 반나절",
+     "🌫 새벽 물안개",
+     "🌉 붕어섬 출렁다리"
+    ],
+    "desc": "섬진강 상류를 막아 만든 옥정호는, 해 뜨기 전 새벽이면 물 위로 하얀 안개가 피어올라 한가운데 뜬 붕어섬을 통째로 삼킨다. 국사봉 전망대에 오르면 그 장면이 발아래로 펼쳐지고, 사진가들은 이 한 컷을 위해 어둠 속을 오른다. 붕어섬 출렁다리를 건너면 섬 안까지 걸어 들어갈 수 있다.",
+    "todo": [
+     "국사봉 전망대서 새벽 물안개 보기",
+     "붕어섬 출렁다리 건너 섬 한 바퀴",
+     "호반 드라이브길 달리기"
+    ],
+    "tip": "물안개는 늦가을~겨울 새벽, 일교차 큰 맑은 날에 가장 짙다. 국사봉 전망대는 주차 후 20~30분 오르막 등산. 붕어섬 출렁다리는 유료(약 3,000원, 변동 가능).",
+    "eat": "호숫가 붕어찜·매운탕"
+   },
+   {
+    "name": "임실치즈테마파크",
+    "rom": "한국 치즈가 태어난 고소한 언덕",
+    "meta": [
+     "💴 입장 무료(체험 별도)",
+     "⏱ 반나절",
+     "🧀 치즈 체험"
+    ],
+    "desc": "1960년대 벨기에 신부 지정환이 산골 임실에서 산양 두 마리로 시작한 것이 한국 치즈의 출발이었다. 유럽의 성처럼 꾸민 언덕 위 테마파크에선 모차렐라를 직접 늘려 피자를 굽고, 초지에선 아이들이 송아지에게 우유를 먹인다. 10월이면 온 마을이 치즈 냄새로 들썩이는 임실N치즈페스티벌이 열린다.",
+    "todo": [
+     "치즈·피자 만들기 체험",
+     "유럽풍 성 앞에서 사진",
+     "임실N치즈 매장서 치즈 사가기"
+    ],
+    "tip": "치즈·피자 만들기는 인기라 주말엔 예약을 권한다. 체험은 유료(약 1만원대, 변동 가능). 바로 옆 임실치즈마을과 함께 묶기 좋다.",
+    "eat": "갓 구운 임실치즈 피자·치즈스틱",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/500px-Imsilgun_County_04_%2816597675160%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사선대",
+    "rom": "네 신선이 놀다 갔다는 오원천 물가",
+    "meta": [
+     "⏱ 1~2시간",
+     "🌸 봄 벚꽃",
+     "🏞 강변 산책"
+    ],
+    "desc": "맑은 오원천이 휘돌아 나가는 물가에, 네 신선과 네 선녀가 내려와 풍류를 즐겼다는 전설이 어린 곳이다. 사선정 정자에 올라 강을 내려다보거나 다리 건너 조각공원을 거닐면 한나절이 순하게 흐른다. 봄이면 강변 벚꽃이 터널을 이뤄 임실 사람들의 대표 봄나들이 명소가 된다.",
+    "todo": [
+     "사선정 정자서 오원천 바라보기",
+     "다리 건너 조각공원 산책",
+     "봄 벚꽃길 걷기"
+    ],
+    "tip": "봄 벚꽃철과 사선문화제 기간에 가장 붐빈다. 관촌역·관촌 시내에서 가까워 기차 여행과 묶기 좋다.",
+    "eat": "관촌 시내 백반·다슬기탕"
+   },
+   {
+    "name": "오수 의견공원",
+    "rom": "불길에서 주인을 구한 충견의 고장",
+    "meta": [
+     "⏱ 1시간",
+     "🐕 충견 전설",
+     "🚉 오수역 도보"
+    ],
+    "desc": "술에 취해 들판에 잠든 주인에게 들불이 번지자, 개는 개천에 몸을 적셔 뒹굴기를 거듭해 불을 끄고 제 목숨을 던져 주인을 살렸다. 고려 때부터 전해온 이 이야기가 오수(獒樹)라는 지명이 되었고, 공원엔 그 충견의 동상과 이야기가 오롯이 남아 있다. 매년 의견문화제로 개의 넋을 기린다.",
+    "todo": [
+     "의견 동상과 비석 보기",
+     "의견문화제 시기 맞춰 방문",
+     "오수역서 걸어 들르기"
+    ],
+    "tip": "오수역에서 도보 거리라 기차 여행자에게 특히 좋다. 규모가 크지 않아 지나는 길에 가볍게 들르기 알맞다.",
+    "eat": "오수 시내 순대국밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg/500px-%EC%98%A4%EC%88%98%EC%9D%98%EA%B2%AC_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "임실필봉농악 (필봉문화촌)",
+    "rom": "유네스코가 인정한 산골 마을 풍물",
+    "meta": [
+     "⏱ 반나절",
+     "🥁 유네스코 유산",
+     "🏘 마을 체험"
+    ],
+    "desc": "강진면 필봉리, 산으로 둘러싸인 작은 마을에 100년 넘게 이어져 온 풍물굿이 있다. 마당밟기와 판굿으로 이름난 임실필봉농악은 국가무형유산이자 유네스코 인류무형문화유산이다. 필봉문화촌에선 상쇠의 꽹과리 장단에 맞춰 직접 북과 장구를 두드려보고 마을에서 하룻밤 묵을 수도 있다.",
+    "todo": [
+     "풍물·사물놀이 체험",
+     "상설 공연·판굿 관람",
+     "필봉굿 전수관 둘러보기"
+    ],
+    "tip": "상설 공연과 체험은 프로그램 일정에 따라 운영되니 미리 확인하는 게 좋다. 단체·숙박 체험은 예약제로 진행된다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg/500px-Sogang_pungyon_%EC%9E%84%EC%8B%A4_%ED%95%84%EB%B4%89_%EB%86%8D%EC%95%85.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "성수산 자연휴양림",
+    "rom": "왕건이 기도했다는 숲과 절",
+    "meta": [
+     "⏱ 반나절",
+     "🌲 숲 트레킹",
+     "⛩ 상이암"
+    ],
+    "desc": "성수면 깊은 산자락, 아름드리 숲길을 오르면 고려를 연 왕건이 기도해 응답을 받았다는 상이암이 나온다. 골짜기를 따라 흐르는 물소리와 울창한 나무 그늘이 한여름에도 서늘하고, 휴양림 숲속의 집에서 하룻밤 묵으며 새소리에 깨는 아침이 이곳의 선물이다.",
+    "todo": [
+     "상이암까지 숲길 트레킹",
+     "휴양림 숲속의 집 하룻밤",
+     "계곡물에 발 담그기"
+    ],
+    "tip": "여름 피서철 숲속의 집은 예약 경쟁이 치열하다. 상이암까지는 완만한 오르막 산책 수준이라 가볍게 다녀올 수 있다."
+   }
+  ]
+ },
+ "incheon": {
+  "nm": "인천",
+  "region": "🏙️ 수도권 · 인천광역시",
+  "route": "서울역에서 지하철 1호선을 타면 종점 인천역까지 한 번에, 차이나타운이 바로 앞이다. 서울 도심에서 차로 약 1시간. 강화도·을왕리·무의도는 버스나 자가용이 편하고, 부산에서는 KTX로 서울까지 온 뒤 1호선으로 갈아탄다.",
+  "sep": "봄·가을이 가장 좋다. 개항장 골목과 강화도 산책이 선선하고 걷기 좋으며, 서해 낙조는 사철 붉지만 공기가 맑아지는 초가을 저녁 바다가 특히 곱다. 해수욕은 한여름.",
+  "mood": "짜장면이 태어난 항구 도시. 붉은 등불의 차이나타운을 지나면 100년 전 개항장 골목이 나오고, 조금만 나가면 서해 낙조가 바다를 통째로 물들인다.",
+  "see": "차이나타운·동화마을 같은 골목 여행부터 월미도 바다, 을왕리 낙조, 강화도 고찰까지 하루 안에 도시와 섬을 오간다.",
+  "spots": [
+   {
+    "name": "인천 차이나타운",
+    "rom": "짜장면이 처음 태어난 붉은 등불의 골목",
+    "meta": [
+     "💴 짜장면박물관 약 1,000원(변동가능)",
+     "🍜 짜장면·공갈빵",
+     "⏱ 반나절"
+    ],
+    "desc": "1883년 개항과 함께 청나라 사람들이 모여 살며 생겨난, 한국에서 가장 크고 오래된 차이나타운. 붉은 패루와 등불이 늘어선 언덕길을 오르면 1905년 이곳에서 처음 만들어졌다는 짜장면 냄새가 골목마다 배어 있다. 계단 벽화 '삼국지 거리'를 따라 걸으며 사진을 찍고, 갓 튀긴 공갈빵을 손에 들면 딱 여기다운 하루가 된다.",
+    "todo": [
+     "패루 아래에서 언덕 사진 찍기",
+     "짜장면 박물관에서 짜장면의 역사 보기",
+     "삼국지 벽화 거리 따라 걷기"
+    ],
+    "tip": "주말 점심때는 유명 중식당마다 대기가 길다. 인천역 바로 앞이라 지하철로 오는 편이 주차 스트레스가 없다.",
+    "eat": "짜장면·짬뽕, 화덕에서 구운 공갈빵, 옌볜식 양꼬치",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/500px-Chinatown%2C_incheon_20230430_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jinsen_map_circa_1930.PNG/500px-Jinsen_map_circa_1930.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Incheon_Chinatown_Samgukji-Geori.jpg/500px-Incheon_Chinatown_Samgukji-Geori.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "송월동 동화마을",
+    "rom": "낡은 달동네가 동화 속으로 바뀐 골목",
+    "meta": [
+     "💴 무료",
+     "📸 포토스팟",
+     "⏱ 1~2시간"
+    ],
+    "desc": "차이나타운 바로 옆, 오래된 달동네 담벼락에 세계의 동화를 그려 넣어 되살린 마을. 빨간 모자와 늑대, 오즈의 마법사, 인어공주가 골목 모퉁이마다 튀어나온다. 아이 손을 잡고 걸어도, 어른들끼리 사진만 찍으러 와도 즐거운, 알록달록한 사진 산책길이다.",
+    "todo": [
+     "동화 캐릭터 벽화 앞에서 인증샷",
+     "무지개 계단·트릭아트 골목 찾기"
+    ],
+    "tip": "차이나타운과 담 하나 사이라 함께 묶어 걷기 좋다. 실제 주민이 사는 마을이니 이른 아침·늦은 밤 소음은 조심.",
+    "eat": "마을 초입 카페의 딸기라떼, 근처 차이나타운 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Songwol-dong_Fairy_Tale_Village.jpg/500px-Songwol-dong_Fairy_Tale_Village.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "월미도",
+    "rom": "바다 냄새와 놀이기구가 함께 도는 인천의 앞바다",
+    "meta": [
+     "🎡 놀이공원·유람선",
+     "🌅 바다 야경",
+     "⏱ 반나절"
+    ],
+    "desc": "인천 사람들의 오랜 놀이터. 바다를 낀 문화의 거리를 따라 걸으면 회센터의 활기와 '디스코팡팡'의 웃음소리가 섞여 든다. 갈매기가 따라오는 낙조 유람선을 타거나, 해질녘 벤치에 앉아 붉게 물드는 바다를 바라보는 것만으로 충분한 곳이다.",
+    "todo": [
+     "낙조 유람선 타고 갈매기 새우깡 주기",
+     "디스코팡팡에서 실컷 웃기",
+     "월미테마파크 대관람차 타기"
+    ],
+    "tip": "차이나타운에서 가깝다. 주말 저녁엔 문화의 거리가 붐비니 낙조 시간을 노려 조금 일찍 자리 잡는 게 좋다.",
+    "eat": "월미도 회센터의 활어회, 조개구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg/500px-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%A4%91%EA%B5%AC_%EC%9B%94%EB%AF%B8%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg/500px-%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/b/bc/Incheon_wolmido_busstop.JPG/500px-Incheon_wolmido_busstop.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "을왕리해수욕장",
+    "rom": "인천공항 옆, 서해 낙조가 가장 아름다운 백사장",
+    "meta": [
+     "🏖 서해 해수욕장",
+     "🌇 일몰 명소",
+     "☀️ 여름·초가을"
+    ],
+    "desc": "영종도 서쪽 끝, 인천공항에서 차로 십여 분이면 닿는 고운 모래 해변. 파도가 순하고 물이 얕아 여름이면 가족 단위 피서객으로 붐빈다. 무엇보다 이곳의 진짜 얼굴은 해질녘 — 바다와 하늘이 온통 주황빛으로 타들어가는 낙조는 수도권 최고로 꼽힌다.",
+    "todo": [
+     "해질녘 백사장에서 낙조 감상",
+     "조개구이집에서 노을 보며 저녁"
+    ],
+    "tip": "여름 성수기 주말은 주차·숙소가 금세 찬다. 낙조가 목적이라면 일몰 한 시간 전에 도착해 자리를 잡아두자.",
+    "eat": "바닷가 조개구이·칼국수, 을왕리 활어회"
+   },
+   {
+    "name": "전등사",
+    "rom": "성곽 안에 안긴 강화도의 오래된 산사",
+    "meta": [
+     "💴 입장 약 4,000원(변동가능)",
+     "🏯 정족산성 안 고찰",
+     "⏱ 반나절"
+    ],
+    "desc": "강화도 정족산성 성벽 안에 자리한, 현존하는 가장 오래된 사찰 중 하나. 울창한 숲길을 지나 성문을 넘으면 보물로 지정된 대웅전이 고요히 앉아 있다. 처마 네 귀퉁이를 떠받친 벌거벗은 여인상(나부상) 전설을 찾아보는 재미가 있고, 사계절 어느 때 와도 숲과 절집이 어우러진 풍경이 깊다.",
+    "todo": [
+     "대웅전 처마 밑 나부상 찾아보기",
+     "정족산성 성벽길 따라 산책",
+     "숲길 지나 삼랑성 남문으로 오르기"
+    ],
+    "tip": "강화도 안에 있어 서울에서 차로 1시간 남짓. 봄 벚꽃·가을 단풍철 주말은 절 아래 주차장이 빨리 찬다.",
+    "eat": "강화도 밴댕이회무침, 순무김치, 강화 인삼",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg/500px-Daewungbojeon%2C_the_Mahavira_hall%2C_at_Jeondeungsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg/500px-The_Gongpo%2C_roofing_shores_of_Korean_traditional_wooden_house%2C_under_the_roof_of_Daewungbojeon_of_Jeondeungsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소래포구",
+    "rom": "수도권에서 가장 정겨운 재래 어시장",
+    "meta": [
+     "🦐 수산시장",
+     "🍤 새우·꽃게·젓갈",
+     "🌊 봄·가을"
+    ],
+    "desc": "인천 남동쪽 끝, 좁은 물길을 사이에 두고 시흥과 마주한 어항. 좌판마다 갓 들어온 새우·꽃게·주꾸미가 펄떡이고, 상인들의 흥정 소리가 시장 전체를 데운다. 즉석에서 회를 떠 먹거나 젓갈을 사 들고, 옛 협궤열차가 다니던 소래철교를 건너며 바다 냄새를 실컷 맡는 곳이다.",
+    "todo": [
+     "즉석 회·대하구이 맛보기",
+     "옛 협궤열차길 소래철교 걷기",
+     "젓갈·건어물 사 오기"
+    ],
+    "tip": "가을 대하·꽃게철이 가장 붐빈다. 즉석 회는 자리값·양념값이 따로 붙기도 하니 미리 물어보고 앉는 게 마음 편하다.",
+    "eat": "대하소금구이, 꽃게찜, 새우젓·각종 젓갈",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sorae_History_Museum_191124005.jpg/500px-Sorae_History_Museum_191124005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무의도",
+    "rom": "다리로 이어진, 섬 같지 않게 가까운 섬",
+    "meta": [
+     "🏝 갯벌·둘레길",
+     "🌉 무의대교로 연결",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "인천공항 남서쪽에 떠 있는 아담한 섬. 2019년 무의대교가 놓이며 차로 훌쩍 건널 수 있게 됐다. 드라마 촬영지로 유명한 하나개해수욕장에서 넓은 갯벌을 걷고, 호룡곡산 둘레길을 오르면 서해 섬들이 겹겹이 펼쳐진다. 조용히 바다와 숲을 함께 누리고 싶을 때 딱이다.",
+    "todo": [
+     "하나개해수욕장 갯벌 산책",
+     "호룡곡산·국사봉 둘레길 트레킹",
+     "소무의도 인도교 건너 바다 한 바퀴"
+    ],
+    "tip": "물때에 따라 갯벌 풍경이 달라지니 물때표를 미리 확인하면 좋다. 주말엔 무의대교 진입로가 정체되기도 한다.",
+    "eat": "섬 안 조개칼국수, 바지락죽, 백합구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cabana_at_Hanagae_Beach%2C_Muuido.jpg/500px-Cabana_at_Hanagae_Beach%2C_Muuido.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Muido-location.png/500px-Muido-location.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Daedongyeojido_%28Gyujanggak%29_13-05.jpg/500px-Daedongyeojido_%28Gyujanggak%29_13-05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "inje": {
+  "nm": "인제",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 서울양양고속도로 → 동홍천IC·인제 방향 약 2시간. 동서울터미널에서 인제행 시외버스도 하루 여러 편. 부산에선 원주 경유 약 4시간 30분.",
+  "sep": "가을(10월)과 겨울. 10월 설악·방태산 단풍이 골짜기를 물들이고, 겨울엔 원대리 자작나무 설경과 소양호 빙어축제가 인제만의 계절. 곰배령 야생화는 초여름~초가을이 절정.",
+  "mood": "산 깊고 물 맑아 강원에서도 가장 오지에 가까운 청정 고을 — 하얀 자작나무 숲과 천상의 화원, 급류 가르는 여름 강이 모두 여기 있다.",
+  "see": "속삭이는 자작나무 숲, 내설악 백담사와 대승폭포, 천상의 화원 곰배령, 여름 내린천 래프팅.",
+  "spots": [
+   {
+    "name": "원대리 자작나무 숲",
+    "rom": "하얀 숲이 속삭이는 곳",
+    "meta": [
+     "🌲 무료 입장",
+     "⏱ 반나절",
+     "🚶 임도 편도 3.2km",
+     "❄️ 겨울 설경"
+    ],
+    "desc": "원대리 산자락 임도를 한 시간쯤 걸어 오르면 새하얀 자작나무 수십만 그루가 곧게 선 숲이 펼쳐진다. 바람이 지날 때마다 얇은 껍질이 서걱이며 '속삭이는 자작나무 숲'이라는 이름 그대로다. 눈 내린 겨울엔 하양 위에 하양이 겹쳐 비현실적인 풍경이 된다.",
+    "todo": [
+     "인디언집(자작나무 오두막) 앞에서 사진",
+     "눈 오는 날 설경 속 걷기",
+     "임도 대신 탐방로로 내려오기"
+    ],
+    "tip": "주차장에서 숲까지 편도 약 3.2km 오르막 도보 1시간. 운동화·물 필수. 봄가을 산불조심기간(대략 2~5월·11월)엔 입산이 통제될 수 있어 방문 전 확인.",
+    "eat": "인제 황태구이"
+   },
+   {
+    "name": "백담사",
+    "rom": "내설악으로 드는 첫 문",
+    "meta": [
+     "🚌 마을버스 셔틀",
+     "🙏 템플스테이",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "계곡을 따라 굽이굽이 들어가면 물 위에 쌓인 돌탑 수백 개가 손님을 맞는 절이다. 만해 한용운이 머물며 저술한 곳이자, 봉정암·오세암으로 오르는 내설악 순례의 시작점이기도 하다. 수심교 아래 맑은 물소리가 오래 귓가에 남는다.",
+    "todo": [
+     "계곡 돌탑 쌓기",
+     "수심교 건너 계곡 감상",
+     "템플스테이로 하룻밤"
+    ],
+    "tip": "성수기엔 용대리 주차장에서 절까지 좁은 계곡길이라 자가용 진입이 통제되고 마을버스(셔틀)를 이용한다. 배차 시간 미리 확인.",
+    "eat": "용대리 황태국·황태구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Manhae_Museum.jpg/500px-Manhae_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EB%B0%B1%EB%8B%B4%EC%82%AC5_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "곰배령",
+    "rom": "천상의 화원, 야생화 능선",
+    "meta": [
+     "🌼 사전 예약 탐방제",
+     "⏱ 4~5시간",
+     "🥾 왕복 약 10km",
+     "🌿 점봉산 보호구역"
+    ],
+    "desc": "점봉산 자락 해발 1,164m 고갯마루에 수천 평 초원이 펼쳐지고, 철마다 다른 들꽃이 융단처럼 깔린다. '천상의 화원'이라 불리는 이유를 능선에 올라서면 단번에 안다. 산림유전자원보호구역이라 사람 손을 덜 탄 원시림이 그대로 남아 있다.",
+    "todo": [
+     "설피밭·귀둔 코스 중 선택",
+     "정상 초원에서 야생화 관찰",
+     "숲해설사 동행 탐방"
+    ],
+    "tip": "산림청 '숲나들e'에서 사전 예약 필수(하루 인원·요일 제한, 보통 월·화 휴식). 신분증 지참, 우천·동절기엔 통제되므로 확인 후 방문.",
+    "eat": "진동리 산채비빔밥"
+   },
+   {
+    "name": "내린천 래프팅",
+    "rom": "급류를 가르는 여름의 강",
+    "meta": [
+     "🛶 래프팅 약 3~4만원",
+     "⏱ 2~3시간",
+     "☀️ 여름 성수기",
+     "💦 계곡 물놀이"
+    ],
+    "desc": "인제를 관통하는 맑은 물살은 여름이면 국내에서 손꼽히는 래프팅 명소가 된다. 노를 맞춰 급류 구간을 넘을 때 튀는 물보라와 함성, 잔잔한 구간에선 협곡과 소를 낀 물빛이 그대로 눈에 담긴다. 더위가 단숨에 씻겨 내려가는 여름의 명장면이다.",
+    "todo": [
+     "래프팅 업체 예약 후 급류 타기",
+     "잔잔한 구간에서 물놀이",
+     "협곡 풍경 사진 담기"
+    ],
+    "tip": "6~8월 성수기 주말은 예약 필수, 구명조끼·아쿠아슈즈 착용. 수량이 많은 날은 초심자 코스 안내에 따르는 게 안전하다.",
+    "eat": "인제 송어회·송어구이"
+   },
+   {
+    "name": "대승폭포",
+    "rom": "설악에 걸린 약 80m 물기둥",
+    "meta": [
+     "🥾 왕복 약 1시간",
+     "💧 명승 제97호",
+     "🍁 가을 단풍",
+     "🏔 내설악"
+    ],
+    "desc": "장수대에서 가파른 돌계단을 20여 분 오르면 80여 m 높이에서 곧게 쏟아지는 물기둥과 마주친다. 개성 박연폭포·금강산 구룡폭포와 함께 우리나라 3대 폭포로 꼽히며, 비 온 뒤엔 물소리가 골짜기를 가득 채운다. 맞은편 반석에 새겨진 '구천은하' 네 글자가 폭포의 기세를 대신 말해준다.",
+    "todo": [
+     "전망대에서 낙수 감상",
+     "가을 단풍철 방문",
+     "비 온 다음날 수량 많을 때 찾기"
+    ],
+    "tip": "설악산 장수대분소에서 출발하며 초반 급경사 계단 구간이 있다. 갈수기엔 수량이 적을 수 있고, 겨울 결빙 시 탐방로가 통제된다.",
+    "eat": "한계령 인근 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "인제스피디움",
+    "rom": "산을 감고 도는 국제 서킷",
+    "meta": [
+     "🏎 체험 주행",
+     "⏱ 반나절",
+     "🏨 리조트 숙박",
+     "🎫 예약제"
+    ],
+    "desc": "백두대간 능선을 배경으로 3.9km 서킷이 굽이쳐 흐른다. FIA 그레이드2 국제 규격 트랙에서 카트부터 슈퍼카 동승·직접 주행까지 골라 즐길 수 있다. 모터스포츠에 관심이 없어도, 산줄기를 감고 도는 트랙 풍경 자체가 인상적이다.",
+    "todo": [
+     "카트·택시랩 체험",
+     "슈퍼카 동승주행",
+     "서킷뷰 리조트에서 1박"
+    ],
+    "tip": "프로그램별로 사전 예약·연령/면허 조건이 다르니 미리 확인. 경기·행사가 열리는 날엔 체험 프로그램이 제한될 수 있다.",
+    "eat": "기린면 막국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Inje_Speedium_layout.png/500px-Inje_Speedium_layout.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg/500px-%EC%9D%B8%EC%A0%9C%EC%8A%A4%ED%94%BC%EB%94%94%EC%9B%80_%EC%A0%84%EA%B2%BD%28%EC%95%BC%EA%B2%BD%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "방태산 자연휴양림",
+    "rom": "깊은 계곡과 이단폭포의 숲",
+    "meta": [
+     "🌲 입장 약 1,000원",
+     "⏱ 반나절",
+     "🏕 숲속의집",
+     "💦 여름 계곡"
+    ],
+    "desc": "방태산 골짜기를 따라 원시림 같은 숲과 맑은 계곡이 끝없이 이어진다. 휴양림 안쪽 적가리골 이단폭포는 두 단으로 떨어지는 물줄기가 여름 더위를 단숨에 씻어준다. 오지 트레킹으로 이름난 아침가리(조경동) 계곡도 이 산자락 품에 있다.",
+    "todo": [
+     "이단폭포까지 계곡 산책",
+     "숲속의집·야영장에서 1박",
+     "여름 계곡에 발 담그기"
+    ],
+    "tip": "성수기 숙박은 '숲나들e' 사전 예약 필수. 아침가리 계곡 트레킹은 물길을 따라 걷는 코스라 아쿠아슈즈·여벌옷을 챙기는 게 좋다.",
+    "eat": "방동약수 인근 산채정식·더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jangheung": {
+  "nm": "장흥",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 센트럴시티에서 고속버스로 약 4시간 30분 — '서울 정남쪽' 땅이라 곧게 남으로 내려간다. 빠르게 가려면 광주송정역까지 KTX 뒤 버스로 갈아타 1시간 남짓. 부산에선 남해고속도로로 약 3시간.",
+  "sep": "가을(10~11월) — 천관산 능선을 은빛으로 덮는 억새 물결이 절정이고, 여름 열기가 가신 편백숲도 걷기 좋다. 봄 진달래, 한여름 편백 피서도 저마다 매력이 있다.",
+  "mood": "'정남진', 서울에서 곧게 남으로 내려온 바다의 땅. 억새 능선과 편백 숲, 그리고 삼합 한 접시가 서두르지 않고 기다린다.",
+  "see": "천관산 억새 능선, 정남진 일출 전망대, 천년 고찰 보림사, 편백숲 우드랜드, 토요시장 삼합.",
+  "spots": [
+   {
+    "name": "천관산",
+    "rom": "하늘을 이고 선 바위 왕관, 호남 5대 명산",
+    "meta": [
+     "⛰ 723m",
+     "🍂 가을 억새",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "정상 부근 5만 평 억새밭이 가을이면 은빛으로 일렁이고, 뾰족뾰족 솟은 바위 봉우리들이 그 사이로 왕관처럼 늘어선다. 연대봉에 오르면 다도해 섬들이 발아래 흩어지고, 맑은 날엔 멀리 바다 건너 능선까지 눈에 담긴다. 봄엔 진달래, 가을엔 억새 — 계절마다 능선의 표정이 다르다.",
+    "todo": [
+     "연대봉·구정봉 능선 억새길 걷기",
+     "장천재에서 출발하는 등산로 오르기",
+     "천관산문학공원 둘러보기"
+    ],
+    "tip": "억새 절정은 10월 중순~11월 초. 정상까지 왕복 3~4시간, 능선엔 그늘이 적으니 모자와 물·간식을 꼭 챙긴다.",
+    "eat": "하산길엔 장흥 표고버섯 요리나 산채정식으로 든든하게.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정남진 전망대",
+    "rom": "서울 광화문에서 정남쪽, 바다를 보는 붉은 탑",
+    "meta": [
+     "💴 입장 약 2,000원(변동 가능)",
+     "🌅 일출 명소",
+     "⏱ 1~2시간"
+    ],
+    "desc": "서울 광화문에서 자오선을 따라 곧게 남으로 내려온 지점이라 '정남진'이라 부른다. 바다를 향해 우뚝 선 붉은 벽돌 전망대에 오르면 남녘 바다 물결과 점점이 흩어진 섬들이 한눈에 트이고, 아침엔 수평선을 붉게 가르는 일출이 장관이다. 전망대 아래 정남진 표지석 앞은 오래된 인증샷 명소다.",
+    "todo": [
+     "전망대 꼭대기 층에서 탁 트인 남녘 바다 조망",
+     "일출 시간 맞춰 도착하기",
+     "정남진 표지석에서 사진 남기기"
+    ],
+    "tip": "일출 시간은 계절마다 다르니 미리 확인. 겨울 아침 바닷바람이 매서우니 방한을 단단히.",
+    "eat": "근처 회진·대덕 포구의 갯장어(하모)와 바지락 요리."
+   },
+   {
+    "name": "보림사",
+    "rom": "한국 선종이 처음 뿌리내린 천년 고찰",
+    "meta": [
+     "🛕 국보 2점",
+     "🌲 비자나무 숲",
+     "⏱ 1~2시간"
+    ],
+    "desc": "가지산 계곡에 안긴 보림사는 신라 때 우리나라에 선종(참선 불교)이 가장 먼저 자리 잡은 구산선문의 첫 절로 꼽힌다. 국보로 지정된 철조비로자나불좌상과, 마당에 나란히 선 남·북 삼층석탑·석등이 천년 세월을 그대로 품고 있다. 절을 감싼 비자나무와 차밭 숲길이 고요해, 걷는 것만으로 마음이 가라앉는다.",
+    "todo": [
+     "철조비로자나불좌상 참배",
+     "남·북 삼층석탑과 석등 살펴보기",
+     "경내 비자나무 숲길 산책"
+    ],
+    "tip": "유치면 산속이라 대중교통이 드물어 자가용이 편하다. 법당 참배 시 정숙을 지킨다.",
+    "eat": "절 아래 장흥읍에서 산채비빔밥, 봄이면 이 고장 야생차 한 잔.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%9E%A5%ED%9D%A5_%EB%B3%B4%EB%A6%BC%EC%82%AC_%EB%82%A8%C2%B7%EB%B6%81_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EB%B0%8F_%EC%84%9D%EB%93%B1_%EB%8F%99%EC%AA%BD%EC%A0%84%EA%B2%BD_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정남진 편백숲 우드랜드",
+    "rom": "억불산 자락, 피톤치드 가득한 편백 치유 숲",
+    "meta": [
+     "💴 입장 약 3,000원(변동 가능)",
+     "🌲 편백 삼림욕",
+     "♿ 무장애 데크길"
+    ],
+    "desc": "억불산 기슭을 통째로 덮은 편백나무 숲에 들어서면, 곧게 뻗은 나무들 사이로 서늘하고 진한 나무 향이 밀려온다. 산 아래에서 정상 가까이까지 완만하게 이어지는 '말레길' 데크는 유모차·휠체어도 오를 수 있어 누구나 숲을 걷는다. 편백 톱밥 찜질과 히노키탕까지 갖춰, 걷다 지치면 몸을 데우고 갈 수 있다.",
+    "todo": [
+     "말레길 데크 따라 편백숲 삼림욕",
+     "편백 톱밥 찜질 체험",
+     "목재문화체험관 둘러보기"
+    ],
+    "tip": "여름 피서지로 인기라 성수기 주말엔 붐빈다. 숲 그늘이 짙어 한여름에도 서늘하니 얇은 긴팔 한 장 있으면 좋다.",
+    "eat": "매표소 인근 편백 도시락이나 장흥읍내 한우삼합."
+   },
+   {
+    "name": "정남진 장흥토요시장",
+    "rom": "매주 토요일, 삼합 한 접시가 부르는 장터",
+    "meta": [
+     "🍜 장흥삼합",
+     "📅 매주 토요일 활기",
+     "⏱ 반나절"
+    ],
+    "desc": "상설시장이지만 토요일마다 사람과 먹거리가 몰려 진짜 장이 선다. 이곳의 간판은 장흥삼합 — 한우 등심에 키조개 관자와 표고버섯을 함께 불판에 구워 한 점에 올려 먹는다. 정육점에서 직접 고른 한우를 시장 식당에서 상차림 값만 내고 구워 먹는 재미가 남다르다.",
+    "todo": [
+     "장흥삼합(한우·키조개·표고) 맛보기",
+     "정육점에서 한우 골라 식당에서 구워먹기",
+     "시장 돌며 제철 먹거리 사기"
+    ],
+    "tip": "토요일에 가장 활기차다. 삼합 식당은 점심때 대기가 길 수 있으니 이른 시간에.",
+    "eat": "장흥삼합, 한우 국밥, 키조개 관자 요리."
+   },
+   {
+    "name": "소등섬",
+    "rom": "하루 두 번 바닷길이 열리는 작은 일출 섬",
+    "meta": [
+     "🌅 일출 명소",
+     "🌊 바닷길 열림",
+     "⏱ 1~2시간"
+    ],
+    "desc": "안양면 여닫이해변 앞바다에 떠 있는 자그마한 섬으로, 물이 빠지면 갯벌 사이로 걸어 들어갈 수 있는 바닷길이 열린다. 섬 위 소나무 몇 그루 뒤로 붉은 해가 떠오르는 일출은 사진가들의 오랜 성지다. 영화 '축제'의 배경이 된 조용한 갯마을 정취가 지금도 남아 있다.",
+    "todo": [
+     "물때 맞춰 바닷길 건너 섬 앞까지 걷기",
+     "해 뜰 무렵 소나무 실루엣 담기",
+     "여닫이해변 갯벌 산책"
+    ],
+    "tip": "바닷길은 물때(간조)에 따라 열리니 사전에 조위·물때를 확인한다. 일출 시간과 간조가 겹치는 날이 최고.",
+    "eat": "안양·수문 포구의 바지락회무침과 겨울 매생이."
+   }
+  ]
+ },
+ "jangseong": {
+  "nm": "장성",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 호남선 KTX·SRT로 약 1시간 50분이면 장성역에 닿고, 광주에서는 차로 30~40분이면 넉넉하다. 다만 백양사·축령산 편백숲 같은 산자락은 역이나 터미널에서 다시 차로 한참 들어가야 해서, 여러 곳을 엮으려면 렌터카가 훨씬 편하다.",
+  "sep": "가을(10월 말~11월 초). 백양사 계곡의 자잘한 애기단풍이 가장 곱게 물드는 때이고, 같은 시기 황룡강 둔치는 노란 꽃으로 뒤덮인다. 붉은 단풍과 노란 꽃밭을 한 번에 볼 수 있는 장성의 절정기다. 한여름이라면 사철 서늘한 편백숲으로 피서를 오기 좋다.",
+  "mood": "온통 노란 강가 꽃밭에서 시작해, 붉게 물든 애기단풍 터널을 지나, 사철 푸른 편백숲 그늘까지. 장성은 계절의 '색'으로 기억에 남는 고장이다.",
+  "see": "쌍계루 연못에 거꾸로 비친 백학봉, 하늘을 가린 편백나무 숲길, 유네스코 서원의 고요한 마당, 그리고 강을 통째로 물들인 노란 꽃.",
+  "spots": [
+   {
+    "name": "백양사",
+    "rom": "하얀 바위봉 아래, 애기단풍이 가장 곱게 물드는 절",
+    "meta": [
+     "🍁 가을 애기단풍",
+     "⏱ 반나절",
+     "🏞 내장산국립공원"
+    ],
+    "desc": "내장산국립공원 백암산 자락에 안긴 천년 고찰로, 뒤로는 새하얀 바위 능선인 백학봉이 병풍처럼 둘러 있다. 가을이면 잎이 유난히 작고 붉은 '애기단풍'이 계곡을 물들이는데, 연못가 쌍계루와 백학봉이 물에 거꾸로 비치는 풍경은 장성에서 가장 많이 카메라에 담기는 장면이다. 매표소에서 절까지 이어지는 비자나무·갈참나무 숲길은 봄엔 연둣빛, 가을엔 단풍 터널이 된다.",
+    "todo": [
+     "쌍계루 앞 연못에서 백학봉 반영 사진 찍기",
+     "일주문부터 절까지 단풍 숲길 천천히 걷기",
+     "봄에는 계곡을 따라 핀 왕벚꽃 즐기기"
+    ],
+    "tip": "단풍 절정기(11월 초)에는 인파와 차가 몰려 주차장이 일찍 찬다. 아침 일찍 도착하거나 아랫마을에 세우고 걸어 올라가는 편이 마음이 편하다.",
+    "eat": "절 아래 식당가의 산채정식과 더덕구이, 도토리묵이 산행 뒤 속을 든든하게 채워준다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Baekyangsa.JPG/500px-Baekyangsa.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Baekyangsa_3.JPG/120px-Baekyangsa_3.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baekyangsa_4.JPG/120px-Baekyangsa_4.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "축령산 편백숲",
+    "rom": "한 사람이 평생 심어 만든, 우리나라 최대 편백 치유의 숲",
+    "meta": [
+     "🌲 사철 피톤치드",
+     "🚶 맨발 걷기",
+     "🆓 입장 무료"
+    ],
+    "desc": "한 사람이 1950년대부터 평생에 걸쳐 심은 편백·삼나무가 이제는 하늘을 가리는 거대한 숲이 되었다. 곧게 뻗은 나무들 사이로 걸으면 한여름에도 서늘하고, 짙은 나무 향이 온몸을 감싼다. 산림청이 지정한 '치유의 숲'답게 사람들은 이곳에서 맨발로 흙길을 밟고, 평상에 누워 나무 사이로 새어드는 빛을 오래 바라본다.",
+    "todo": [
+     "숲속 데크와 흙길을 맨발로 걸어보기",
+     "평상이나 벤치에 누워 나무 사이 하늘 보기",
+     "천천히 심호흡하며 편백 향 들이마시기"
+    ],
+    "tip": "정상 부근 주차장까지 임도가 가파르고 좁으니 운전에 주의한다. 성수기 주말엔 아래쪽 주차장에 세우고 걸어 오르는 사람이 많다. 물과 돗자리를 챙기면 반나절이 여유롭다.",
+    "eat": "숲 아래 서삼면 일대에서 편백나무 그늘에 앉아 먹는 백숙과 파전이 대표 별미다."
+   },
+   {
+    "name": "장성 필암서원",
+    "rom": "유네스코 세계유산에 오른, 호남의 대표 서원",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "📖 조선 서원",
+     "🆓 관람 무료"
+    ],
+    "desc": "조선의 대학자 하서 김인후를 기리기 위해 세운 서원으로, 2019년 '한국의 서원' 아홉 곳 중 하나로 유네스코 세계유산에 등재됐다. 화려하지 않은 나무 기둥과 흙 마당, 낮은 담장이 만드는 단정한 비례가 이곳의 매력이다. 누각 확연루에 올라 앉으면 옛 선비들이 글을 읽던 고요한 시간이 그대로 흐르는 듯하다.",
+    "todo": [
+     "누각 확연루 마루에 앉아 마당 건너다보기",
+     "정조가 내린 현판이 걸린 경장각 살펴보기",
+     "담장과 기와가 만드는 선을 사진에 담기"
+    ],
+    "tip": "관람은 무료이고 규모가 아담해 30~40분이면 충분히 둘러본다. 홍길동 테마파크가 차로 가까워 함께 묶어 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg/500px-Piramseowon_Confucian_Academy%2C_Hwakyeonru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장성호 수변길",
+    "rom": "댐이 만든 호수 위를 걷는 출렁다리와 물 위 데크길",
+    "meta": [
+     "🌉 출렁다리",
+     "🚶 물 위 데크길",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "장성댐이 가둔 넓은 호수를 따라 물 위로 데크길이 길게 이어지고, 그 한가운데 노란 출렁다리가 걸려 있다. 다리 위에 서면 발밑으로 잔물결이 흔들리고, 맞은편 산과 하늘이 호수에 통째로 담긴다. 봄이면 물가를 따라 벚꽃이 줄지어 피어 걷는 내내 꽃길이 된다.",
+    "todo": [
+     "출렁다리 건너며 호수 위를 걷는 느낌 즐기기",
+     "물 위 데크 수변길 산책하기",
+     "봄철 호숫가 벚꽃길 걷기"
+    ],
+    "tip": "그늘이 적은 편이라 한여름 한낮보다 아침이나 해질 무렵이 걷기 좋다. 벚꽃철에는 주변 도로가 붐빈다.",
+    "eat": ""
+   },
+   {
+    "name": "황룡강 노란꽃정원",
+    "rom": "강 둔치를 통째로 물들이는 '옐로우시티'의 노란 꽃밭",
+    "meta": [
+     "🌼 노란꽃 축제",
+     "🚶 강변 산책",
+     "🆓 입장 무료"
+    ],
+    "desc": "장성읍을 지나는 황룡강 둔치가 계절마다 꽃밭으로 바뀐다. 봄엔 유채와 양귀비가, 가을엔 노란 코스모스와 해바라기가 강변을 뒤덮어 '옐로우시티 장성'이라는 별명이 실감난다. 강물과 다리, 끝없이 이어지는 꽃길이 어우러져 사진 어디를 찍어도 그림이 된다.",
+    "todo": [
+     "꽃밭 사이 산책로를 따라 강변 걷기",
+     "가을 노란꽃 축제 기간에 맞춰 방문하기",
+     "강 위 다리에서 꽃밭 전경 내려다보기"
+    ],
+    "tip": "가을 노란꽃 축제 기간이 가장 화려하지만 그만큼 붐빈다. 축제가 아니어도 봄가을 꽃이 이어져 평일 낮에 한적하게 걷기 좋다.",
+    "eat": "강변에서 장성읍 시내가 가까워 백반집과 카페에서 바로 요기하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hwangnyong_river_and_SRT_20190522_134644.jpg/500px-Hwangnyong_river_and_SRT_20190522_134644.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "홍길동 테마파크",
+    "rom": "'홍길동의 고장'을 내세운 무료 체험 공원",
+    "meta": [
+     "🏹 국궁 체험",
+     "👨‍👩‍👧 아이 동반",
+     "🆓 입장 무료"
+    ],
+    "desc": "장성은 소설 속 홍길동을 실존 인물로 보고 그 연고지를 자처해온 고장으로, 그 이야기를 테마로 꾸민 공원이다. 활을 쏘아보는 국궁 체험장과 넓은 잔디밭, 아이들이 뛰놀 만한 시설이 모여 있어 가족 단위로 쉬어가기 좋다. 필암서원과 가까워 조용한 서원과 활기찬 공원을 나란히 묶기 좋은 코스다.",
+    "todo": [
+     "국궁 체험장에서 활 쏘아보기",
+     "넓은 잔디밭에서 아이와 쉬어가기",
+     "가까운 필암서원과 함께 둘러보기"
+    ],
+    "tip": "무료로 개방되며 아이 동반 나들이에 특히 잘 맞는다. 일부 체험 시설은 운영 시간과 요금이 따로 있을 수 있으니 방문 전 확인해두면 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "방장산",
+    "rom": "고창과 장성에 걸친 호남의 삼신산, 억새와 활공의 능선",
+    "meta": [
+     "⛰ 해발 743m",
+     "🍂 가을 억새",
+     "🪂 패러글라이딩"
+    ],
+    "desc": "지리산·무등산과 더불어 '호남의 삼신산'으로 불려온 산으로, 고창과 장성에 걸쳐 넉넉한 능선을 펼친다. 정상에 오르면 사방으로 들판과 산줄기가 시원하게 열리고, 가을이면 능선을 따라 억새가 은빛으로 물결친다. 활공장이 있어 하늘로 날아오르는 패러글라이더를 올려다보는 재미도 있다.",
+    "todo": [
+     "능선을 따라 걸으며 사방 조망 즐기기",
+     "가을 억새 물결 사이 걷기",
+     "자연휴양림에서 하룻밤 쉬어가기"
+    ],
+    "tip": "산자락에 방장산 자연휴양림이 있어 숲속 숙박과 가벼운 산책을 함께 할 수 있다. 정상까지는 제대로 된 등산 채비가 필요하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jangsu": {
+  "nm": "장수",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 남부터미널에서 장수행 시외버스 약 3시간 30분, 자가용은 대전통영고속도로 장수IC로 약 3시간. 부산에서는 함양 경유 약 2시간 30분.",
+  "sep": "10~11월. 장안산 능선을 은빛으로 덮는 억새와 백두대간 단풍이 절정이라 가을이 으뜸. 무더운 여름엔 방화동 계곡이 시원하다.",
+  "mood": "전북에서 가장 높은 곳에 앉은 산골 고을. 천 리 금강이 첫 물방울을 떨구는 샘과, 논개가 태어난 땅이 이 깊은 산속에 있다.",
+  "see": "억새 능선 장안산, 금강 발원지 뜬봉샘, 논개의 사당과 생가, 임진왜란도 비켜간 옛 향교.",
+  "spots": [
+   {
+    "name": "의암사 (논개사당)",
+    "rom": "논개를 기리는 남산 언덕의 사당",
+    "meta": [
+     "🏛 지방기념물",
+     "🆓 무료",
+     "⏱ 한 시간"
+    ],
+    "desc": "임진왜란 진주성이 무너지던 날, 촉석루 아래 남강에서 왜장을 끌어안고 몸을 던진 스무 살 논개. 그의 고향 장수읍 남산 자락에 군민들이 성금을 모아 세운 사당이 의암사다. 영정 앞에 서면 400여 년 전 한 여인의 결기가 조용한 산바람처럼 전해진다.",
+    "todo": [
+     "영정각에서 논개 영정 마주하기",
+     "남산 언덕 산책로 오르기",
+     "봄 벚꽃철에 다시 찾기"
+    ],
+    "tip": "장계면 논개생가지와 묶으면 태어난 곳과 기려진 곳이 하나의 이야기로 이어진다. 입장 무료.",
+    "eat": "장수한우 구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nongae_poem_monument_by_byunyoungro.jpg/120px-Nongae_poem_monument_by_byunyoungro.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/120px-Choksuk_pavillion_in_Jinju_Castel.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_Jinju_rock_of_loyalty.jpg/120px-The_Jinju_rock_of_loyalty.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장수향교",
+    "rom": "임진왜란도 비켜간, 현존 최고(最古)의 향교",
+    "meta": [
+     "🏛 보물 제272호",
+     "🆓 무료",
+     "⏱ 30분"
+    ],
+    "desc": "대성전은 보물 제272호로, 임진왜란의 병화를 피해 살아남은 우리나라에서 가장 오래된 향교 건물로 꼽힌다. 향교지기 정경손이 목숨을 걸고 지켜냈다는 이야기가 지금도 전해 내려온다. 손때 묻은 나무 결과 단정하게 내려앉은 처마가 흘러간 세월을 말없이 증언한다.",
+    "todo": [
+     "대성전 앞뜰에서 오래된 목조 결 살펴보기",
+     "정경손 이야기 안내판 읽기"
+    ],
+    "tip": "규모는 아담해 30분이면 충분하다. 조용한 아침 방문을 권한다.",
+    "eat": "장수 사과",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg/500px-%EC%9E%A5%EC%88%98%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장안산 군립공원",
+    "rom": "백두대간이 품은 억새 능선 1,237m",
+    "meta": [
+     "⛰ 1,237m",
+     "🍁 가을 억새·단풍",
+     "⏱ 반나절"
+    ],
+    "desc": "무룡고개에서 능선을 따라 오르면 가을엔 은빛 억새가 바람에 파도치고, 정상에 서면 덕유산과 지리산까지 첩첩이 겹친 능선이 아득히 펼쳐진다. 백두대간의 팔대 종산으로 꼽히는 크고 넉넉한 산이라, 걷는 내내 시야가 시원하게 트인다.",
+    "todo": [
+     "무룡고개~억새능선 트레킹",
+     "정상에서 첩첩 능선 조망하기",
+     "10월 억새철에 맞춰 오르기"
+    ],
+    "tip": "무룡고개까지 차로 올라 능선만 걸으면 초보자도 왕복이 어렵지 않다. 가을 주말은 사람이 몰리니 이른 출발이 좋다.",
+    "eat": "산나물 비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%EC%9E%A5%EC%95%88%EC%82%B0.jpg/500px-%EC%9E%A5%EC%95%88%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "뜬봉샘 (금강 발원지)",
+    "rom": "천 리 금강이 처음 솟는 옹달샘",
+    "meta": [
+     "💧 금강 발원지",
+     "🌲 숲길 산책",
+     "⏱ 반나절"
+    ],
+    "desc": "신무산 자락 해발 830m, 손바닥만 한 옹달샘 하나에서 천 리를 흘러 서해로 드는 금강이 시작된다. 생태공원 데크길을 따라 숲을 오르면 이끼 낀 돌 틈으로 맑은 물이 스며 나오는 발원지에 닿는다. 거대한 강의 첫 물방울 앞에 서는 일은 뜻밖에 마음을 뭉클하게 한다.",
+    "todo": [
+     "뜬봉샘 생태공원 데크길 걷기",
+     "발원지 옹달샘까지 오르기"
+    ],
+    "tip": "주차장에서 발원지까지 왕복 1시간 남짓. 흙길과 계단이 있으니 운동화가 편하다.",
+    "eat": "장수 오미자차"
+   },
+   {
+    "name": "방화동 자연휴양림",
+    "rom": "지지계곡 물소리로 여름을 나는 골짜기",
+    "meta": [
+     "💦 여름 물놀이",
+     "🏕 휴양·야영",
+     "⏱ 반나절"
+    ],
+    "desc": "장안산에서 흘러내린 지지계곡이 맑고 차게 흐르는 깊은 골짜기. 울창한 숲 그늘 아래 데크와 야영장, 물놀이터가 이어져 한여름에도 서늘한 기운이 감돈다. 도시의 열기를 완전히 잊고 발만 담가도 하루가 개운하게 씻긴다.",
+    "todo": [
+     "지지계곡에서 물놀이",
+     "자연휴양림·가족휴가촌에서 하룻밤",
+     "숲 그늘 아래 쉬어가기"
+    ],
+    "tip": "여름 성수기 숙박은 예약이 필수다. 산속 계곡이라 수온이 낮으니 아이 물놀이는 시간을 짧게.",
+    "eat": "닭백숙"
+   },
+   {
+    "name": "논개생가지",
+    "rom": "논개가 태어난 장계면 주촌마을",
+    "meta": [
+     "🏡 복원 생가",
+     "🆓 무료",
+     "⏱ 한 시간"
+    ],
+    "desc": "논개가 태어난 장계면 대곡리 주촌마을에 초가와 기념관이 정갈하게 복원돼 있다. 낮은 담과 마당, 소박한 방 한 칸을 둘러보면 역사 속 인물이 실제로 살았던 사람이었음이 새삼 가깝게 다가온다. 뒤편 저수지를 낀 풍경이 조용하고 넉넉하다.",
+    "todo": [
+     "복원된 초가와 기념관 둘러보기",
+     "주촌마을 저수지 풍경 감상"
+    ],
+    "tip": "장수읍 의암사와 함께 보면 태어난 곳과 기려진 곳이 이어진다. 두 곳은 차로 약 20분 거리.",
+    "eat": "장수한우 육회"
+   }
+  ]
+ },
+ "jecheon": {
+  "nm": "제천",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울 청량리역에서 KTX-이음·무궁화호로 제천역까지 약 1시간 20분~1시간 40분. 자동차는 중부내륙·영동고속도로로 약 2시간. 청풍호 일대 명소는 흩어져 있어 렌터카나 시티투어 버스가 편하다.",
+  "sep": "가을(10~11월)이 절정. 청풍호를 감싼 단풍이 케이블카·유람선에서 물빛과 함께 겹쳐 보인다. 봄에는 의림지와 청풍호반을 따라 벚꽃길이 이어져 또 다른 계절 매력이 있다.",
+  "mood": "옥빛 청풍호를 케이블카로 건너고, 천오백 년 된 저수지 둑을 소나무 그늘 따라 걷는다 — 물과 산이 겹치는 충북의 호반 도시.",
+  "see": "산자락을 휘감는 청풍호와 케이블카, 삼한시대 의림지, 죽순처럼 솟은 옥순봉과 월악산 단풍이 한자리에.",
+  "spots": [
+   {
+    "name": "청풍호반 케이블카",
+    "rom": "호수 위를 미끄러져 비봉산 정상으로",
+    "meta": [
+     "💴 왕복 약 15,000원",
+     "⏱ 반나절",
+     "🚡 케이블카",
+     "🍁 가을 단풍"
+    ],
+    "desc": "청풍호 물 위를 가로질러 비봉산(531m) 꼭대기까지 올라가는 케이블카. 정상 전망대에 서면 산자락을 휘감아 도는 옥빛 호수가 발아래로 360도 펼쳐지고, 가을이면 물빛과 단풍이 한 폭 그림처럼 겹쳐진다. 바닥이 투명한 크리스탈 캐빈을 타면 발밑까지 호수가 비쳐 아찔하다.",
+    "todo": [
+     "비봉산 정상 전망대에서 청풍호 360도 조망",
+     "크리스탈(투명 바닥) 캐빈 타보기",
+     "해 질 녘 노을 시간대 탑승"
+    ],
+    "tip": "주말·단풍철엔 대기가 길다. 온라인 예약이나 이른 오전 탑승을 추천. 정상은 바람이 세니 겉옷을 챙기자.",
+    "eat": "청풍호 민물매운탕, 붕어찜"
+   },
+   {
+    "name": "청풍문화재단지",
+    "rom": "충주댐에 잠긴 마을을 언덕 위로 옮겨온 곳",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 2~3시간",
+     "🏛 옛 건축",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "1985년 충주댐 완공으로 물에 잠기게 된 청풍 지역의 옛 관아·향교·민가를 언덕 위로 통째로 옮겨 복원한 야외 문화단지. 보물로 지정된 누각 한벽루와 옛 성문 팔영루가 호수를 내려다보고, 돌담과 기와지붕 사이로 청풍호가 반짝인다. 봄이면 벚꽃, 가을이면 억새가 옛 건물을 감싼다.",
+    "todo": [
+     "보물 한벽루에서 호수 조망하기",
+     "망월산성 전망대 오르기",
+     "옛 민가·석물 사이 천천히 걷기"
+    ],
+    "tip": "청풍호반 케이블카 승강장과 가까워 함께 묶어 다니기 좋다. 넓으니 걷기 편한 신발 권장.",
+    "eat": "청풍호 매운탕, 산채비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Eungcheong-gak_3310-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG/500px-Korea-Jecheon-Cheongpung_Cultural_Properties_Center_Hanbyeong-nu_3309-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의림지",
+    "rom": "삼한시대부터 물을 대온 천오백 년 저수지",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌲 소나무 숲",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "김제 벽골제와 함께 삼한시대 3대 수리시설로 꼽히는, 지금도 논에 물을 대는 유일한 고대 저수지. 제방을 따라 수백 년 된 소나무와 버드나무 숲(제림)이 그늘을 드리우고, 물가엔 정자와 폭포가 있어 한 바퀴 걷기 좋다. 겨울이면 이 물에서 나는 공어(빙어)가 별미다.",
+    "todo": [
+     "제방 소나무 숲길 한 바퀴 산책",
+     "용추폭포·경호루 정자 구경하기",
+     "겨울 빙어(공어) 맛보기"
+    ],
+    "tip": "야간 조명이 예뻐 저녁 산책도 좋다. 주차·입장 무료.",
+    "eat": "의림지 빙어(공어), 약초 비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EC%9E%84%EC%A7%80_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95_%EC%A0%9C%EC%96%B8_%EC%8B%9C%EC%B6%95_%EA%B8%B0%EB%85%90%EC%9A%B0%ED%91%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg/500px-%EC%B2%AD%ED%92%8D_%EC%84%B1%EC%97%B4%ED%98%84%EC%9D%B8_%EC%95%85%EC%84%B1_%EC%9A%B0%EB%A5%B5_552%EB%85%84_%EB%B6%80%EC%97%BD%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C_%EC%9D%98%EB%A6%BC%EC%A7%80_%EB%8C%80%EC%8B%9C%EC%B6%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg/500px-%EC%A7%84%EC%84%AD%EC%82%B0_%EC%95%88%EB%82%B4%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥순봉",
+    "rom": "죽순처럼 솟은 청풍호 절벽, 단양팔경의 하나",
+    "meta": [
+     "💴 유람선 약 15,000원",
+     "⏱ 반나절",
+     "⛰ 기암 절벽",
+     "🚢 유람선"
+    ],
+    "desc": "죽순이 돋듯 하늘로 솟은 회백색 바위 봉우리가 청풍호 물 위에 그림자를 드리운다. 예부터 소금강이라 불릴 만큼 빼어나 단양팔경에 든 절경으로, 청풍나루에서 유람선을 타면 옥순봉과 구담봉을 물길에서 올려다볼 수 있다. 옥순봉 출렁다리를 건너 절벽 위에서 내려다보는 맛도 색다르다.",
+    "todo": [
+     "청풍호 유람선에서 옥순봉·구담봉 조망",
+     "옥순봉 출렁다리 건너기",
+     "호반 전망 포인트에서 사진 찍기"
+    ],
+    "tip": "유람선은 계절·수위에 따라 운항 시간이 바뀌니 사전 확인이 필요하다.",
+    "eat": "청풍호 매운탕, 도토리묵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG/500px-Korea-Danyang-Dodamsambong_3087-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG/500px-Korea-Danyang-Dodamsambong_Seokmun_3114-07-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sainam_Cliff%2C_near_Danyang.jpg/500px-Sainam_Cliff%2C_near_Danyang.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "배론성지",
+    "rom": "골짜기가 배 밑바닥 같다 하여 '배론'",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⛪ 천주교 성지",
+     "🍁 가을 단풍"
+    ],
+    "desc": "깊은 계곡이 배 밑바닥처럼 생겼다 하여 이름 붙은, 조선 천주교 박해의 역사가 서린 성지. 황사영이 백서를 쓴 토굴과 한국 최초의 신학교 터, 최양업 신부의 묘가 나무 그늘 아래 고요히 자리한다. 종교와 무관하게도 물소리와 단풍이 어우러진 산책길이 마음을 가라앉힌다.",
+    "todo": [
+     "황사영 토굴·성 요셉 신학교 터 둘러보기",
+     "연못과 십자가의 길 산책하기",
+     "가을 단풍 아래 사색하기"
+    ],
+    "tip": "묵상하는 이들이 많은 조용한 공간이니 정숙을 지키자. 입장·주차 무료.",
+    "eat": "봉양 시내 손두부, 청국장",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg/500px-%EB%B0%B0%EB%A1%A0%EC%84%B1%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "월악산 (송계계곡·덕주사)",
+    "rom": "정상 영봉에 달이 걸린다는 국립공원",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절~하루",
+     "⛰ 국립공원",
+     "🍁 가을 단풍"
+    ],
+    "desc": "정상 영봉에 보름달이 걸린다 하여 이름 붙은 월악산. 험준한 화강암 봉우리와 7km에 이르는 송계계곡이 기암괴석 사이로 맑은 물을 흘려보낸다. 덕주공주의 전설이 남은 덕주사와 마애불, 옛 성벽 덕주산성을 끼고 걷다 보면 산과 물과 역사가 한자리에 모인다.",
+    "todo": [
+     "송계계곡 물길 따라 걷기",
+     "덕주사 마애여래입상 보기",
+     "여유 있으면 자연휴양림·영봉 산행"
+    ],
+    "tip": "영봉 정상은 왕복 오래 걸리는 본격 산행이다. 가볍게는 송계계곡·덕주사 코스를 추천.",
+    "eat": "산채정식, 더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mount_Worak_Korea_242.jpg/500px-Mount_Worak_Korea_242.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "금월봉",
+    "rom": "채석장이 남긴 우연한 기암 절경",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "⛰ 기암괴석",
+     "📷 드라이브 코스"
+    ],
+    "desc": "원래 시멘트 원료를 캐던 채석장이었는데, 흙을 걷어내자 뾰족뾰족한 바위 봉우리가 드러나 '금강산 일만이천봉의 축소판'이라 불리게 된 곳. 규모는 아담하지만 회백색 바위가 병풍처럼 도열한 모습이 사진에 담기 좋아, 청풍호 드라이브 길에 잠깐 들르기 딱 좋다.",
+    "todo": [
+     "기암 병풍 앞에서 사진 찍기",
+     "청풍호 오가는 길에 짧게 들르기"
+    ],
+    "tip": "둘러보는 데 오래 걸리지 않아 다른 청풍호 명소와 묶기 좋다. 여러 드라마·영화 촬영지로도 쓰였다.",
+    "eat": "청풍호 인근 매운탕"
+   }
+  ]
+ },
+ "jeju": {
+  "nm": "제주",
+  "region": "🍊 제주 · 제주특별자치도",
+  "route": "김포·김해·청주 등에서 비행기로 1시간~1시간 10분, 국내선 노선이 가장 많은 하늘길. 공항에서 렌터카를 빌려 해안도로를 도는 것이 정석이고, 성산·서귀포·한림은 시외버스와 관광지 순환버스로도 닿는다.",
+  "sep": "봄(4~5월)과 가을(9~10월)이 가장 좋다. 유채와 벚꽃이 겹치는 4월, 습기가 빠지고 하늘이 높아지는 10월이 걷기에 최적. 여름은 물놀이엔 좋지만 태풍과 인파를, 겨울은 한라산 설경 대신 강한 바람을 각오해야 한다.",
+  "mood": "화산이 만든 섬 하나가 통째로 여행지다 — 검은 현무암 해안, 에메랄드빛 바다, 오름과 숲과 폭포가 한 시간 거리 안에 다 있다.",
+  "see": "바다에서 솟은 일출봉과 남한 최고봉 한라산, 지하의 용암동굴, 소가 누운 섬 우도, 아열대 숲속 폭포까지 — 지질과 자연이 밀도 높게 모였다.",
+  "spots": [
+   {
+    "name": "성산일출봉",
+    "rom": "바다에서 솟구친 5천 년 전 화산, 유네스코 세계자연유산",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 반나절",
+     "🌅 새벽 일출",
+     "🚶 정상까지 30분"
+    ],
+    "desc": "얕은 바다 위로 거대한 성곽처럼 솟은 분화구가 아침 햇살을 정면으로 받는다. 계단을 따라 올라 정상에 서면 99개의 바위 봉우리가 왕관처럼 분화구를 둘러싸고, 발밑으로는 성산 마을과 우도가 한눈에 펼쳐진다. 이름 그대로 이곳의 일출은 제주에서 가장 이르고 가장 넓게 트여 있다.",
+    "todo": [
+     "새벽에 올라 분화구 능선 위로 뜨는 해 맞기",
+     "정상 전망대에서 우도와 성산항 내려다보기",
+     "아래 광치기해변에서 물 빠진 현무암 이끼밭 걷기"
+    ],
+    "tip": "정상까지 왕복 약 1시간, 계단이 가파르니 편한 신발 필수. 일출을 노린다면 개장 시간(계절별 상이)을 미리 확인하고 도착해야 한다. 성수기 주말 오전은 계단이 정체된다.",
+    "eat": "성산항 인근에서 갓 잡은 갈치조림과 성게미역국, 해녀가 파는 뿔소라",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/500px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/33/TIE_2392.jpg/330px-TIE_2392.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg/330px-%EB%B0%94%EB%8B%A4_%EB%A9%80%EB%A6%AC_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한라산",
+    "rom": "남한 최고봉 1,947m, 섬 전체를 굽어보는 봉우리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 하루",
+     "🥾 본격 등산",
+     "❄ 겨울 설경"
+    ],
+    "desc": "섬 한가운데 우뚝한 이 산은 제주 어디서든 고개를 들면 보인다. 정상 백록담은 화구호를 품은 분화구로, 성판악이나 관음사 코스를 온종일 걸어야 닿을 수 있다. 아래는 아열대, 위로 오르면 온대와 한대 식물이 층층이 바뀌고, 겨울이면 눈 덮인 침엽수림이 이 남쪽 섬을 설국으로 만든다.",
+    "todo": [
+     "백록담까지 오르는 성판악·관음사 코스 도전",
+     "짧게는 영실·어리목에서 윗세오름까지 걷기",
+     "봄철 산철쭉과 겨울 상고대 담기"
+    ],
+    "tip": "백록담 정상 코스는 하산 시간 제한이 있어 당일 예약(탐방예약제)이 필요하다. 새벽에 시작해야 하고 날씨가 급변하니 방풍의와 물·간식을 넉넉히. 겨울엔 아이젠 필수.",
+    "eat": "등산 후 제주식 고사리육개장, 몸국, 따끈한 보말칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg/500px-KOCIS_Halla_Mountain_in_Jeju-do_%286387785543%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%ED%95%9C%EB%9D%BC%EC%82%B01.jpg/500px-%ED%95%9C%EB%9D%BC%EC%82%B01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "만장굴",
+    "rom": "세계적 규모의 용암동굴, 지하로 뚫린 검은 통로",
+    "meta": [
+     "💴 입장 약 4,000원",
+     "⏱ 1시간",
+     "🌋 용암동굴",
+     "🌡 연중 서늘"
+    ],
+    "desc": "지표 아래로 용암이 흘러가며 뚫어놓은 거대한 터널을 걸어 들어간다. 천장이 높고 폭이 넓어 지하라는 사실을 잊을 만큼 웅장하고, 벽에는 용암이 흐른 자국이 그대로 새겨져 있다. 통로 끝에 서 있는 약 7.6m 높이의 용암석주는 세계에서 가장 큰 축에 든다. 한여름에도 서늘한 공기가 감돈다.",
+    "todo": [
+     "공개 구간 끝의 거대한 용암석주 마주하기",
+     "천장의 용암 종유와 바닥의 용암발가락 찾아보기"
+    ],
+    "tip": "바닥이 젖어 미끄럽고 어두우니 운동화가 안전하다. 내부가 서늘해 여름에도 겉옷 한 장 챙기면 좋다. 거문오름 용암동굴계의 일부로 유네스코 세계자연유산.",
+    "eat": "가까운 김녕·세화 쪽 해안에서 성게칼국수와 딱새우회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/500px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg/250px-Manjanggul_Cave_on_Jeju_%EB%A7%8C%EC%9E%A5%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg/250px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2812%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "우도",
+    "rom": "소가 누운 모양의 섬 속의 섬",
+    "meta": [
+     "💴 배편 왕복 약 1만 원(변동가능)",
+     "⏱ 반나절",
+     "⛴ 성산항 배 15분",
+     "🚲 자전거 일주"
+    ],
+    "desc": "성산항에서 배로 15분, 소가 머리를 내밀고 누운 형상이라 이름 붙은 작은 섬이다. 하고수동의 하얀 모래와 산호가 부서져 만든 서빈백사의 옥빛 바다, 검은 돌담 사이 땅콩밭이 섬을 채운다. 전기차나 자전거로 해안을 한 바퀴 돌면 어느 방향에서든 성산일출봉이 바다 건너 배경처럼 따라온다.",
+    "todo": [
+     "서빈백사 산호 해변에서 물빛 감상하기",
+     "우도봉에 올라 섬과 바다 조망",
+     "전기바이크·자전거로 해안 일주"
+    ],
+    "tip": "성산항에서 배가 수시로 뜨지만 막배 시간을 반드시 확인. 섬 안은 렌터카 반입이 제한되니 전기차·자전거·순환버스를 이용한다. 성수기엔 오전 일찍 들어가야 한적하다.",
+    "eat": "우도 땅콩아이스크림, 땅콩막걸리, 해물짬뽕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Udo_%28satellite_image%29.jpg/500px-Udo_%28satellite_image%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Udo%2C_Jeju_Province%2C_South_Korea_15.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Udo%2C_Jeju_Province%2C_South_Korea_14.jpg/500px-Udo%2C_Jeju_Province%2C_South_Korea_14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "협재해수욕장",
+    "rom": "비양도를 품은 에메랄드빛 백사장",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏖 얕은 바다",
+     "🌅 노을 명소"
+    ],
+    "desc": "고운 은빛 모래와 산호가 섞인 바닥 덕에 물빛이 유난히 맑고 푸르다. 수심이 완만해 멀리까지 걸어 들어가도 발이 닿고, 정면에는 종을 엎어놓은 듯한 비양도가 떠 있어 어느 사진을 찍어도 그림이 된다. 해가 질 무렵 바다와 비양도가 붉게 물드는 노을이 특히 유명하다.",
+    "todo": [
+     "얕은 물에서 물놀이하며 비양도 바라보기",
+     "해질녘 노을과 비양도 실루엣 담기",
+     "옆 금능해수욕장까지 이어 걷기"
+    ],
+    "tip": "여름 성수기 주차난이 심하니 오전 도착 권장. 바로 옆 금능해수욕장이 더 한적한 편이라 함께 묶으면 좋다. 야영·샤워 시설이 갖춰져 있다.",
+    "eat": "한림항 근처 성게보말죽, 갈치국, 흑돼지구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hyeopjae.jpg/500px-Hyeopjae.jpg"
+    ]
+   },
+   {
+    "name": "천지연폭포",
+    "rom": "서귀포 도심 옆 아열대 숲이 감싼 폭포",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1시간",
+     "🌴 아열대 숲",
+     "🌙 야간 개장"
+    ],
+    "desc": "서귀포 시내에서 얼마 걷지 않아 울창한 상록수림 사이로 물줄기가 22m 절벽을 타고 검은 소로 떨어진다. 계곡을 따라 난 산책로는 그늘지고 서늘해 한여름에도 걷기 좋고, 밤이면 조명이 켜져 폭포가 또 다른 얼굴을 보인다. 주변 숲은 천연기념물 담팔수와 무태장어가 사는 아열대 생태계다.",
+    "todo": [
+     "숲길 따라 폭포 앞 전망대까지 걷기",
+     "야간 조명이 켜진 저녁 시간대 방문",
+     "인근 새연교·새섬 산책 이어가기"
+    ],
+    "tip": "입구에서 폭포까지 평탄한 길로 왕복 30분 남짓이라 부담 없다. 낮보다 해 질 무렵~밤이 시원하고 조명이 예쁘다. 서귀포 시내와 가까워 다른 일정과 묶기 쉽다.",
+    "eat": "서귀포 매일올레시장의 흑돼지꼬치·회국수, 갈치조림",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "산방산",
+    "rom": "종처럼 솟은 용암돔과 절벽 속 산방굴사",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 반나절",
+     "⛰ 용암돔",
+     "🌊 바다 조망"
+    ],
+    "desc": "서남쪽 해안에 홀로 우뚝 솟은 이 산은 화산이 만든 거대한 용암돔으로, 산 중턱 절벽에 뚫린 천연 동굴에는 바다를 향해 불상을 모신 산방굴사가 있다. 굴 안에서 내다보면 눈앞에 용머리해안과 형제섬, 푸른 바다가 파노라마로 펼쳐진다. 봄이면 산 아래 유채밭이 노랗게 물들어 사진 명소가 된다.",
+    "todo": [
+     "산방굴사에 올라 굴 속에서 바다 조망하기",
+     "산 아래 용머리해안 지질 트레킹",
+     "봄철 유채밭에서 산방산 배경으로 사진"
+    ],
+    "tip": "굴사까지 계단 오르막이 있어 편한 신발이 좋다. 용머리해안은 만조·기상에 따라 출입이 통제되니 현장 안내를 확인. 근처 사계해변에서 형제섬을 함께 볼 수 있다.",
+    "eat": "사계·화순 쪽 자리물회, 고등어회, 보리빵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sanbangsan_%285983281424%29.jpg/500px-Sanbangsan_%285983281424%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%82%B0%EB%B0%A9%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "비자림",
+    "rom": "수백 년 비자나무가 이룬 붉은 흙길 숲",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 1~2시간",
+     "🌲 원시림",
+     "🍂 사철 걷기 좋음"
+    ],
+    "desc": "500~800년 된 비자나무 수천 그루가 빽빽이 들어선 숲으로, 바닥에는 화산 송이를 깐 붉은 흙길이 부드럽게 이어진다. 하늘을 가린 짙은 초록 아래를 천천히 걷다 보면 나무가 뿜는 서늘하고 깊은 향이 감싼다. 숲 한가운데에는 800살이 넘은 새천년비자나무가 이 숲의 어른처럼 서 있다.",
+    "todo": [
+     "송이 흙길 따라 숲 한 바퀴 천천히 걷기",
+     "800년 새천년비자나무 앞에 서보기",
+     "연리목·기이한 노거수 찾아보기"
+    ],
+    "tip": "평탄한 흙길이라 남녀노소 걷기 편하고 유모차·휠체어 구간도 있다. 비 온 뒤 숲 향이 가장 짙다. 성산·만장굴과 가까워 동부 일정에 묶기 좋다.",
+    "eat": "가까운 세화·평대 해안의 딱새우회, 성게비빔밥, 당근주스",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bijarim_Forest.jpg/500px-Bijarim_Forest.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jeongeup": {
+  "nm": "정읍",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울→정읍역 KTX 약 1시간 40분, 자가용 호남고속도로 약 3시간 / 부산에서 약 3시간 반. 정읍역·터미널에서 내장산행 시내버스 연결",
+  "sep": "11월 초·중순 — 내장산 단풍이 전국에서 가장 붉게 타오르는 절정. 봄 벚꽃, 10월 옥정호 구절초 철도 좋다",
+  "mood": "붉게 타는 내장산 단풍부터 동학농민혁명이 처음 불붙은 황토현까지, 정읍은 계절과 역사가 함께 물드는 도시다.",
+  "see": "단풍 명산 · 유네스코 서원 · 동학 유적 · 호수 물안개 · 조선 고택",
+  "spots": [
+   {
+    "name": "내장산·내장사",
+    "rom": "호남 5대 명산, 단풍 하나로 전국을 부르는 산",
+    "meta": [
+     "🍁 11월 단풍 절정",
+     "🚠 케이블카",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "가을이면 일주문에서 내장사까지 이어지는 단풍터널이 온통 붉게 타오른다. 500년 전부터 단풍 명소로 이름났고, 서래봉 능선과 우화정 연못에 붉은 잎이 비칠 때가 가장 아름답다. 단풍이 지고 나면 조용한 산사와 능선만 남아 계절마다 다른 얼굴을 보여준다.",
+    "todo": [
+     "단풍터널 천천히 걸어 내장사까지",
+     "케이블카 타고 전망대에서 능선 조망",
+     "내장사 경내 한 바퀴"
+    ],
+    "tip": "11월 첫·둘째 주말은 극심한 정체와 주차난이 생긴다. 이른 아침에 도착하거나 시내에 주차하고 셔틀·시내버스를 이용하는 편이 편하다.",
+    "eat": "산채정식, 산채비빔밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg/500px-%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정읍 무성서원",
+    "rom": "유네스코가 인정한 조선 성리학의 서원",
+    "meta": [
+     "🏛 유네스코 세계유산",
+     "🎓 최치원 배향",
+     "🆓 무료"
+    ],
+    "desc": "신라 학자 최치원과 조선의 신잠을 모신 서원으로, 흥선대원군의 서원철폐령에도 헐리지 않고 살아남은 47곳 중 하나다. 재실이 담 밖에 놓인 독특한 구조가 남아 있고, 칠보면 시골 마을 안에 조용히 자리해 관광지의 소란 없이 옛 배움터의 공기를 그대로 느낄 수 있다.",
+    "todo": [
+     "강당과 사당, 담 밖 재실 구조 살펴보기",
+     "서원 앞 마을길 산책"
+    ],
+    "tip": "2019년 '한국의 서원'으로 세계유산에 등재됐다. 사람이 적어 이른 오전이나 늦은 오후 빛이 특히 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg/500px-%EB%AC%B4%EC%84%B1%EC%84%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "황토현 동학농민혁명기념관",
+    "rom": "동학농민군이 관군을 처음 이긴 그 언덕",
+    "meta": [
+     "✊ 동학 첫 전승지",
+     "🏛 기념관·전적지",
+     "🆓 무료 관람"
+    ],
+    "desc": "1894년 동학농민군이 관군을 상대로 첫 승리를 거둔 황토현 전적지 안에 세워진 기념관이다. 죽창과 화승총 같은 무기, 흥선대원군 효유문과 동경대전 같은 자료가 전시돼 있고, 언덕에 오르면 그날 농민들이 바라봤을 들판이 그대로 펼쳐진다. 교과서 속 한 줄이 발밑의 땅으로 바뀌는 곳이다.",
+    "todo": [
+     "기념관 상설전시 관람",
+     "전봉준 동상과 언덕 조형물 둘러보기"
+    ],
+    "tip": "정읍 고부는 동학농민혁명이 처음 불붙은 발상지다. 이곳과 이평면 전봉준 유적을 함께 묶으면 이야기가 이어진다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Donghak_Peasant_Revolution_Foundation.jpg/500px-Donghak_Peasant_Revolution_Foundation.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥정호",
+    "rom": "새벽 물안개와 붕어섬, 가을엔 하얀 구절초",
+    "meta": [
+     "🌅 물안개 일출",
+     "🌼 10월 구절초",
+     "🚶 붕어섬 산책로"
+    ],
+    "desc": "임실과 정읍에 걸친 넓은 인공호수로, 물 위에 떠 있는 붕어 모양의 붕어섬이 상징이다. 일교차가 큰 새벽이면 호수 전체에 물안개가 자욱하게 피어올라 국사봉 전망대가 사진가들로 붐빈다. 10월이면 호숫가 언덕이 하얀 구절초로 뒤덮여 또 다른 계절의 얼굴을 보여준다.",
+    "todo": [
+     "새벽 물안개 일출 감상",
+     "붕어섬 건너 산책",
+     "10월 구절초 꽃밭 걷기"
+    ],
+    "tip": "물안개는 밤낮 기온차가 큰 늦가을·초겨울 새벽에 가장 잘 낀다. 해 뜨기 전에 국사봉 전망대에 올라야 한다."
+   },
+   {
+    "name": "정읍 김명관 고택",
+    "rom": "300년을 이어온 조선 양반가의 큰 살림집",
+    "meta": [
+     "🏯 국가민속문화재",
+     "🆓 무료",
+     "⏱ 약 1시간"
+    ],
+    "desc": "산외면 오공리, 뒤로 산을 두고 앞으로 물이 흐르는 배산임수 명당에 앉은 조선시대 가옥이다. 행랑채·사랑채·안채·별당이 널찍이 배치돼 있고, 좌우 대칭을 이룬 안채가 특히 눈에 띈다. 옛 부잣집의 규모와 살림살이가 고스란히 남아 사극 한 장면 속으로 걸어 들어온 듯하다.",
+    "todo": [
+     "사랑채·안채·별당 배치 둘러보기",
+     "담장 밖 배산임수 지형 살펴보기"
+    ],
+    "tip": "'구 김동수 가옥'으로도 불린다. 마당이 넓어 천천히 걸으며 볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정읍 전봉준 유적",
+    "rom": "녹두장군 전봉준이 살던 작은 초가",
+    "meta": [
+     "🌾 전봉준 고택",
+     "🏛 사적",
+     "🆓 무료"
+    ],
+    "desc": "동학농민운동을 이끈 녹두장군 전봉준이 살던 집을 복원한 곳이다. 앞면 네 칸의 소박한 초가로, 부엌부터 방들이 일(一)자로 이어진 남향집이다. 화려하지 않은 시골 초가 한 채가 한 시대를 뒤흔든 인물의 자리였다는 사실이 오래 마음에 남는다.",
+    "todo": [
+     "초가 내부와 마당 둘러보기",
+     "황토현 기념관과 이어서 방문"
+    ],
+    "tip": "이평면 조소마을 안에 있다. 규모가 작아 황토현 전적지와 묶어 반나절 동학 답사로 돌아보기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Birthplace_of_Jeon_Bong-jun_%281%29.jpg/500px-Birthplace_of_Jeon_Bong-jun_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jeongseon": {
+  "nm": "정선",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 청량리역에서 정선아리랑열차(A-train)로 약 3시간 반, 정선·아우라지역 하차. 자가용은 중앙·영동고속도로를 거쳐 약 3시간이며, 부산에서는 4시간 이상. 명소가 골짜기마다 흩어져 있어 렌터카가 편하다.",
+  "sep": "여름 끝에서 가을(8~10월)이 가장 곱다. 만항재 야생화가 절정을 이루고 산과 강이 짙어지며, 단풍이 화암동굴·정암사 골짜기를 물들인다. 정선 오일장은 끝자리 2·7일에만 크게 서니 날짜를 맞춰 가면 좋다.",
+  "mood": "산이 첩첩이 접힌 강원 오지, 아리랑 가락이 강물처럼 흐르는 땅.",
+  "see": "동강이 휘도는 벼랑 위 스카이워크, 도깨비가 산다는 금광 동굴, 닷새마다 서는 아리랑 장터까지 한자리에.",
+  "spots": [
+   {
+    "name": "병방치 스카이워크",
+    "rom": "동강 한반도 지형을 발밑에 두는 벼랑 끝 유리 전망대",
+    "meta": [
+     "💴 입장 약 3,000원(변동)",
+     "⏱ 반나절",
+     "🏞 동강 조망",
+     "😱 해발 583m 벼랑"
+    ],
+    "desc": "정선읍 병방산 벼랑 끝, 해발 583m 허공으로 반원형 유리 바닥 전망대가 쑥 내밀려 있다. 발아래로는 동강이 크게 휘돌아 만든 물굽이가 펼쳐지는데, 그 모습이 영락없는 한반도 지형이다. 유리 위에 서면 아찔한 발끝 너머로 강과 밤섬, 첩첩한 산줄기가 통째로 담긴다.",
+    "todo": [
+     "유리 바닥에 서서 발밑 동강 굽이 내려다보기",
+     "짚와이어로 벼랑 아래 강가까지 날아 내려가기"
+    ],
+    "tip": "병방산 정상까지 급경사라 매표소에서 모노레일을 타고 오르면 편하다. 유리 위에서는 덧신을 신고, 바람 강한 날은 겉옷을 챙기자.",
+    "eat": "곤드레나물밥, 콧등치기국수"
+   },
+   {
+    "name": "정선 화암동굴",
+    "rom": "금을 캐던 광산이 석회동굴과 이어진 도깨비 굴",
+    "meta": [
+     "💴 입장 약 7,000원(변동)",
+     "⏱ 반나절",
+     "🔦 금광+석회동굴",
+     "🌡 연중 서늘"
+    ],
+    "desc": "일제강점기 금을 캐던 광산 갱도가 천연 석회동굴과 맞닿은 독특한 동굴이다. 좁고 어두운 갱도를 지나면 천장까지 솟은 종유석과 거대한 석순의 광장이 나타나고, 곳곳에 도깨비 전설을 입힌 조명이 켜져 신비로운 분위기를 낸다. 한여름에도 굴 안엔 서늘한 공기가 흐른다.",
+    "todo": [
+     "금맥이 흐르던 옛 갱도 따라 걷기",
+     "천장까지 솟은 대형 석순 앞에 서 보기"
+    ],
+    "tip": "동굴까지 오르막이 있어 모노레일을 이용하면 편하다. 계단이 많으니 편한 신발과, 서늘하니 겉옷 하나를 챙기자.",
+    "eat": "화암약수터 곤드레밥, 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg/500px-%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jeongseon_Arirang_Train_12_%2816102078790%29.jpg/500px-Jeongseon_Arirang_Train_12_%2816102078790%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hwaamgul001.jpg/500px-Hwaamgul001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아우라지",
+    "rom": "두 물줄기가 어우러지는 정선아리랑의 발상지",
+    "meta": [
+     "💴 무료",
+     "⏱ 두어 시간",
+     "🎶 정선아리랑",
+     "🚲 레일바이크"
+    ],
+    "desc": "골지천과 송천, 두 물줄기가 어우러져 조양강을 이루는 잔잔한 나루터다. 강 건너 님을 그리다 폭우로 만나지 못한 처녀의 사연이 정선아리랑 가락으로 남아, 지금도 물가엔 아우라지 처녀상이 강을 바라보고 서 있다. 옛 뗏목이 떠나던 이 강에서 구절리까지 레일바이크가 이어진다.",
+    "todo": [
+     "줄배(나룻배) 타고 강 건너보기",
+     "아우라지 처녀상 앞에서 아리랑 가락 떠올리기",
+     "구절리행 레일바이크 타기"
+    ],
+    "tip": "구절리역~아우라지 레일바이크는 성수기·주말에 예약이 몰리니 미리 잡아두자.",
+    "eat": "곤드레나물밥, 메밀전병",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg/500px-A-Train_%28Korail%29_-_3%2C_Jeongseon_Arirang_Train%2C_2015.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정선아리랑시장",
+    "rom": "닷새마다 산골을 들썩이게 하는 아리랑 오일장",
+    "meta": [
+     "💴 무료 입장",
+     "⏱ 반나절",
+     "📅 끝자리 2·7일 장",
+     "🍲 곤드레밥·콧등치기국수"
+    ],
+    "desc": "끝자리 2·7일이 되면 조용하던 산골 읍내가 장으로 들썩인다. 곤드레나물밥과 콧등치기국수, 즉석에서 부치는 메밀전병과 수리취떡이 김을 올리고, 장터 무대에선 정선아리랑 한 가락이 구성지게 울린다. 장이 서지 않는 날에도 상설시장은 문을 열어 산나물과 약초를 판다.",
+    "todo": [
+     "곤드레밥·콧등치기국수 한 상 맛보기",
+     "즉석에서 부치는 메밀전병·수수부꾸미 사 먹기",
+     "장터 무대 아리랑 공연 구경하기"
+    ],
+    "tip": "오일장은 매달 끝자리 2·7일(2·7·12·17·22·27일)에 크게 선다. 이 날짜에 맞춰 가야 규모가 훨씬 크고, 정선아리랑열차도 장날에 맞춰 운행된다.",
+    "eat": "곤드레밥, 콧등치기국수, 메밀전병, 수리취떡"
+   },
+   {
+    "name": "하이원리조트",
+    "rom": "곤돌라로 오르는 백운산 능선의 하늘길",
+    "meta": [
+     "💴 곤돌라 약 22,000원(변동)",
+     "⏱ 반나절~하루",
+     "⛷ 겨울 스키",
+     "🚡 하늘길 곤돌라"
+    ],
+    "desc": "해발 1,300m가 넘는 백운산 자락에 걸친 대형 산악 리조트다. 겨울이면 길게 뻗은 슬로프가 스키어로 붐비고, 사철 곤돌라를 타고 정상에 오르면 능선을 따라 이어지는 하늘길과 옛 탄광길 운탄고도, 발아래 첩첩이 겹친 산줄기가 시원하게 펼쳐진다.",
+    "todo": [
+     "곤돌라로 정상부까지 올라 능선 조망하기",
+     "운탄고도 하늘길 산책하기"
+    ],
+    "tip": "곤돌라·하늘길은 스키 시즌 외에도 운행하지만 요일·날씨에 따라 달라지니 방문 전 운행 여부를 확인하자.",
+    "eat": "고한·사북 곤드레밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/From_the_top_of_the_hike.jpg/500px-From_the_top_of_the_hike.jpg"
+    ]
+   },
+   {
+    "name": "만항재",
+    "rom": "차로 넘는 우리나라에서 가장 높은 고갯길",
+    "meta": [
+     "💴 무료",
+     "⏱ 두어 시간",
+     "🚗 해발 1,330m",
+     "🌼 여름 야생화"
+    ],
+    "desc": "해발 1,330m, 차로 넘을 수 있는 우리나라에서 가장 높은 고개다. 함백산 자락에 걸린 자리라 여름이면 온 비탈이 야생화 천지가 되고, 도시 불빛이 닿지 않아 밤이면 별이 쏟아진다. 정선과 태백이 백두대간 마루에서 만나는 셈이다.",
+    "todo": [
+     "여름 야생화 군락길 산책하기",
+     "함백산 정상 방향으로 잠깐 올라 능선 보기",
+     "인적 드문 밤하늘 별 바라보기"
+    ],
+    "tip": "고지대라 한여름에도 서늘하고 안개가 잦다. 야생화는 7~8월이 절정이니 이때 맞춰 가면 좋다.",
+    "eat": "고한 곤드레밥, 감자옹심이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Manhangjae.jpg/500px-Manhangjae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정암사",
+    "rom": "자장율사가 진신사리를 모신 국보 수마노탑의 절",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🛕 자장율사 창건",
+     "🗿 국보 수마노탑"
+    ],
+    "desc": "태백산 자락 고한, 자장율사가 부처의 진신사리를 모시려 세운 고요한 절이다. 대웅전 뒤 가파른 언덕을 오르면 벽돌처럼 다듬은 돌을 층층이 쌓아 올린 수마노탑이 홀로 서 있다. 사리를 탑에 모셨기에 이곳 적멸보궁 법당 안엔 불상이 없다.",
+    "todo": [
+     "언덕 위 국보 수마노탑까지 오르기",
+     "불상 없는 적멸보궁의 고요 느끼기"
+    ],
+    "tip": "수마노탑까지 계단이 가파르니 편한 신발이 좋고, 겨울엔 빙판을 조심하자.",
+    "eat": "고한·사북 곤드레밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg/500px-%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jeonju": {
+  "nm": "전주",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 용산역에서 KTX로 전주역까지 약 1시간 40분~2시간, 센트럴시티터미널 고속버스는 약 2시간 40분. 부산 사상터미널에서는 시외버스로 약 3시간 30분. 한옥마을은 전주역·터미널에서 버스로 20~30분.",
+  "sep": "가을(10~11월)이 가장 좋다. 향교 은행나무가 노랗게 물들고, 기와지붕 위로 선선한 바람이 지나며 한옥의 정취가 절정에 이른다. 봄이면 경기전 매화와 벚꽃, 여름이면 덕진공원 연꽃이 볼만하다.",
+  "mood": "회색 기와지붕이 물결처럼 이어지고, 골목마다 한지 냄새와 비빔밥 향이 배어 있는 도시. 조선 왕조가 시작된 자리에서 하룻밤 한옥에 묵어보고 싶어진다.",
+  "see": "735채 한옥이 모인 한옥마을, 태조 어진을 모신 경기전, 로마네스크 벽돌 성당 전동성당, 언덕 위 오목대에서 내려다보는 기와 물결.",
+  "spots": [
+   {
+    "name": "전주 한옥마을",
+    "rom": "735채 기와지붕이 물결치는 조선의 골목",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절~하루",
+     "🍚 전주비빔밥",
+     "🏯 한옥 스테이"
+    ],
+    "desc": "완산구 풍남동과 교동 일대에 700채가 넘는 한옥이 빼곡히 모여 있다. 을사조약 이후 일본인 거주지에 맞서 한국인들이 지켜낸 마을이라는 내력이 골목마다 깔려 있다. 처마 밑을 걷다 보면 한지 공방, 전통찻집, 한복 대여점이 이어지고, 밤이면 등불 아래 기와지붕이 은은하게 빛난다.",
+    "todo": [
+     "한복을 빌려 입고 골목 산책하기",
+     "한옥 게스트하우스에서 하룻밤 묵기",
+     "골목 공방에서 한지 소품 만들기"
+    ],
+    "tip": "주말과 성수기엔 사람이 매우 많으니 이른 아침이나 해 질 무렵이 여유롭다. 마을 안은 대부분 걸어서 이동하고, 주차장은 외곽에 두는 게 편하다.",
+    "eat": "전주비빔밥, 콩나물국밥, 한옥마을 골목의 문어꼬치·바게트버거",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG/500px-%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/500px-Jeondong_Catholic_Cathedral_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Omokdae_20230408_009.jpg/500px-Omokdae_20230408_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "경기전",
+    "rom": "조선 태조 이성계의 어진을 모신 성역",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 1~2시간",
+     "🌸 봄 매화",
+     "👑 태조 어진"
+    ],
+    "desc": "조선을 세운 태조 이성계의 초상화(어진)를 모시기 위해 세운 곳이다. 울창한 대나무 숲과 오래된 나무들 사이로 정전과 어진박물관이 자리해, 한옥마을 한복판인데도 문을 들어서면 시간이 느려지는 느낌이 든다. 봄이면 매화가, 여름이면 짙은 녹음이 돌담을 감싼다.",
+    "todo": [
+     "정전에 걸린 태조 어진 마주하기",
+     "어진박물관에서 조선 왕들의 초상 살펴보기",
+     "대나무 숲길에서 사진 남기기"
+    ],
+    "tip": "입장료는 변동될 수 있으니 매표소에서 확인. 전동성당이 바로 길 건너라 함께 묶어 보기 좋다.",
+    "eat": "인근 골목의 전주 한정식, 수제 초코파이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg/500px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG/500px-%EA%B2%BD%EA%B8%B0%EC%A0%84.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Royal_Portrait_Museum_20220701_001.jpg/500px-Royal_Portrait_Museum_20220701_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "전동성당",
+    "rom": "순교의 땅에 세운 붉은 벽돌 로마네스크 성당",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분~1시간",
+     "⛪ 사적",
+     "📷 포토스팟"
+    ],
+    "desc": "천주교 순교자들이 처형당한 자리 위에 회색과 붉은 벽돌을 쌓아 올린 성당이다. 둥근 로마네스크 아치와 비잔틴풍 돔이 어우러져, 경기전 돌담과 마주 보고 선 모습이 전주에서 가장 사랑받는 풍경 중 하나다. 안으로 들어서면 스테인드글라스를 통과한 빛이 조용히 내려앉는다.",
+    "tip": "미사 시간에는 내부 관람이 제한되니 입구 안내를 확인. 경기전 정문과 마주 보고 있어 함께 사진에 담기 좋다.",
+    "eat": "성당 앞 길 건너 풍남문 방향 남부시장 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG/500px-%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9_%EC%95%BC%EA%B2%BD.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg/120px-KOCIS_Jeonju_-_Jeondong_catholic_church_%285724347615%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_inside_of_Jeondong_cathedral.jpg/120px-The_inside_of_Jeondong_cathedral.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오목대",
+    "rom": "한옥마을을 한눈에 굽어보는 언덕 위 누각",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분~1시간",
+     "🌇 전망",
+     "🥾 언덕길"
+    ],
+    "desc": "1380년 이성계가 왜군을 물리치고 돌아가던 길에 승전을 자축했다는 언덕이다. 나무 계단을 올라 누각에 서면, 발아래로 한옥마을의 기와지붕이 회색 물결처럼 끝없이 펼쳐진다. 해 질 무렵 노을이 지붕들을 물들이는 순간이 특히 아름답다.",
+    "todo": [
+     "누각에서 한옥마을 전경 내려다보기",
+     "노을 시간에 맞춰 오르기",
+     "이목대까지 이어지는 오솔길 걷기"
+    ],
+    "tip": "오르막 계단이 조금 있으니 편한 신발이 좋다. 조명이 적어 완전히 어두워지기 전에 내려오는 편이 안전하다.",
+    "eat": "언덕 아래 한옥마을 골목 간식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Omokdae_20230408_001.jpg/330px-Omokdae_20230408_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Omokdae_20230408_003.jpg/330px-Omokdae_20230408_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Omokdae_20230408_005.jpg/330px-Omokdae_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "전주향교",
+    "rom": "은행나무가 노랗게 물드는 조선의 학교",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분~1시간",
+     "🍂 가을 은행나무",
+     "📚 사적"
+    ],
+    "desc": "조선시대 유생들이 공부하던 교육기관으로, 한옥마을 한쪽 조용한 자리에 있다. 마당에는 수백 년 묵은 은행나무 여러 그루가 서 있어, 가을이면 온 경내가 노란 잎으로 뒤덮인다. 사극 촬영지로도 자주 쓰일 만큼 옛 정취가 고스란히 남아 있다.",
+    "todo": [
+     "가을 은행나무 아래에서 사진 찍기",
+     "명륜당과 대성전 돌아보기",
+     "조용한 마당 벤치에서 쉬어가기"
+    ],
+    "tip": "은행잎 절정은 대개 11월 초중순. 이 시기 주말엔 인파가 몰리니 평일 오전이 한적하다.",
+    "eat": "향교 인근 한옥 카페의 전통차",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Daeseongjeon_of_Jeonju_Hyanggyo.jpg/500px-Daeseongjeon_of_Jeonju_Hyanggyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84_20240727.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg/120px-%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90_%EB%AA%85%EB%A5%9C%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "자만벽화마을",
+    "rom": "언덕배기 골목을 물들인 알록달록 벽화",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🎨 벽화",
+     "🐾 골목 산책"
+    ],
+    "desc": "오목대 건너편 산비탈에 자리한 작은 달동네로, 낡은 담벼락마다 만화 캐릭터와 그림이 가득 그려져 있다. 좁고 가파른 골목을 따라 오르내리며 벽화를 하나씩 찾는 재미가 있고, 골목 사이사이 아기자기한 카페와 소품 가게가 숨어 있다.",
+    "tip": "주민들이 실제로 사는 마을이니 조용히 다니고 사생활을 존중하자. 경사가 있어 편한 신발 권장.",
+    "eat": "골목 안 작은 카페의 커피와 디저트",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg/500px-%EC%9E%90%EB%A7%8C_%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%842.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jamandong_Prohibition.jpg/500px-Jamandong_Prohibition.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "전주 남부시장·야시장",
+    "rom": "한옥마을 옆, 밤이면 불 밝히는 먹자골목",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌙 금·토 야시장",
+     "🍢 길거리 먹거리"
+    ],
+    "desc": "풍남문 곁에 자리한 오래된 재래시장으로, 낮에는 콩나물국밥과 순대 같은 토박이 먹거리가, 금·토 저녁에는 야시장 매대가 골목 가득 늘어선다. 각국 요리를 파는 청년몰과 갓 부친 부침개 냄새 사이를 사람들 어깨에 부딪히며 걷는 활기가 이 시장의 매력이다.",
+    "todo": [
+     "야시장에서 여러 매대 간식 맛보기",
+     "청년몰 2층 골목 구경하기",
+     "아침 콩나물국밥 한 그릇"
+    ],
+    "tip": "야시장은 보통 금·토 저녁에 열리니 요일을 확인하고 가자. 저녁엔 몹시 붐빈다.",
+    "eat": "콩나물국밥, 피순대, 야시장 문어꼬치·만두"
+   },
+   {
+    "name": "덕진공원",
+    "rom": "여름이면 연꽃이 호수를 덮는 도심 속 쉼터",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🪷 여름 연꽃",
+     "🚶 호수 산책"
+    ],
+    "desc": "커다란 연못을 품은 시민 공원으로, 여름이면 수면 가득 연꽃이 피어 전주 대표 연꽃 명소로 꼽힌다. 연못 위로 놓인 연화교를 건너고, 물가를 따라 천천히 걸으면 한옥마을의 북적임에서 벗어나 한 박자 쉬어갈 수 있다.",
+    "todo": [
+     "연꽃 만개한 여름 아침 산책",
+     "연못 위 연화교 건너기",
+     "보트 타고 물 위에서 바라보기"
+    ],
+    "tip": "연꽃 절정은 7~8월. 한옥마을과는 조금 떨어져 있어 버스나 택시로 이동하는 게 편하다.",
+    "eat": "전북대 인근 상권의 분식·카페",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deokjin_park.jpg/500px-Deokjin_park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg/500px-%EC%A0%84%EC%A3%BC%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90_%EC%97%B0%ED%99%94%EC%A0%95%EB%8F%84%EC%84%9C%EA%B4%80_%ED%98%84%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jeungpyeong": {
+  "nm": "증평",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울남부터미널에서 시외버스로 약 1시간 40분, 자가용은 중부고속도로 증평IC가 바로 앞. 청주에서 20~30분 거리라 청주·괴산과 묶어 다니기 좋다.",
+  "sep": "늦봄~초여름과 가을. 삼기저수지 데크길과 좌구산 숲이 가장 푸른 계절이고, 공기 맑은 가을밤엔 좌구산천문대에서 별이 쏟아진다.",
+  "mood": "충북 한가운데, 전국에서 손꼽히게 작은 군. 붐비지 않는 저수지 데크길과 별 보는 산이 있어, 느리게 걷다 오기 좋은 조용한 동네다.",
+  "see": "출렁다리와 천문대를 품은 좌구산, 노을 지는 삼기저수지, 목장과 루지가 있는 벨포레.",
+  "spots": [
+   {
+    "name": "좌구산자연휴양림",
+    "rom": "출렁다리와 천문대를 품은 증평의 숲",
+    "meta": [
+     "🌲 반나절",
+     "🌉 명상구름다리",
+     "🔭 좌구산천문대"
+    ],
+    "desc": "증평에서 가장 높은 좌구산(약 657m) 자락에 안긴 휴양림. 계곡 위로 놓인 명상구름다리(출렁다리)를 건너면 발밑이 아찔하고, 밤이 되면 좌구산천문대에서 별자리를 올려다본다. 숲속 데크길과 거북이 조형이 곳곳에 숨어 있어 아이와 걷기에도 좋다.",
+    "todo": [
+     "명상구름다리(출렁다리) 건너 계곡 내려다보기",
+     "좌구산천문대에서 야간 별 관측하기",
+     "숲속 데크 산책로 따라 천천히 걷기"
+    ],
+    "tip": "천문대 별 관측은 예약제로 운영되는 날이 많으니, 방문 전 증평군 홈페이지나 전화로 운영 여부를 확인하는 게 좋다.",
+    "eat": "증평 특산 홍삼포크(홍삼 먹여 키운 돼지고기)와 인삼 요리, 장뜰쌀밥이 근처 식당에서 유명하다."
+   },
+   {
+    "name": "에듀팜특구 벨포레",
+    "rom": "목장과 루지, 별 보는 언덕까지 하루 종일",
+    "meta": [
+     "💴 입장 약 12,000원(변동)",
+     "🐑 동물농장",
+     "🛷 루지·모노레일"
+    ],
+    "desc": "증평 도안면 넓은 부지에 들어선 복합 휴양단지. 양과 알파카에게 먹이를 주는 목장, 언덕을 타고 내려오는 루지, 숲을 도는 모노레일이 한자리에 모여 있다. 해가 지면 언덕에 조명이 켜져 하늘과 함께 야경을 즐긴다.",
+    "todo": [
+     "목장에서 양·알파카에게 먹이 주기",
+     "루지 타고 언덕 신나게 내려오기",
+     "저녁 언덕에서 야경 보기"
+    ],
+    "tip": "시설별로 이용권이 나뉘고 요금·운영시간이 자주 바뀌니, 공식 홈페이지에서 최신 요금과 예약 정보를 확인한 뒤 방문하자.",
+    "eat": ""
+   },
+   {
+    "name": "삼기저수지",
+    "rom": "물 위를 걷는 데크길과 붉은 노을",
+    "meta": [
+     "🚶 수변 데크산책",
+     "🌅 노을 명소",
+     "🐦 백로 서식"
+    ],
+    "desc": "좌구산 아래 잔잔하게 고인 삼기저수지. 물 위로 놓인 데크길을 따라 한 바퀴 돌면 수면에 산 그림자가 그대로 비친다. 해 질 무렵 물빛이 붉게 물들고 백로가 내려앉는 저녁 풍경이, 특히 조용하고 오래 마음에 남는다.",
+    "todo": [
+     "수변 데크길 한 바퀴 걷기",
+     "노을 시간에 맞춰 물빛 감상하기",
+     "좌구산자연휴양림과 묶어 함께 둘러보기"
+    ],
+    "tip": "데크길엔 그늘이 적은 구간이 있어, 한여름 한낮보다 해가 기우는 늦은 오후에서 저녁이 걷기 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "독서왕 김득신 문학관",
+    "rom": "만 번을 읽어 늦게 꽃핀 조선 시인의 집",
+    "meta": [
+     "📖 실내 관람",
+     "⏱ 약 1시간",
+     "📚 독서 테마"
+    ],
+    "desc": "한 편의 글을 만 번 넘게 읽었다는 조선 시인 백곡 김득신을 기린 문학관. 어릴 적 병으로 더뎠지만 우직한 노력으로 늦게 꽃핀 그의 이야기가 전시로 펼쳐진다. 증평 읍내 문화시설이 모인 자리에 있어 증평군립도서관 등과 함께 들르기 좋다.",
+    "todo": [
+     "김득신의 억만 번 독서 일화 살펴보기",
+     "전시로 김득신의 생애와 노력 되짚어보기"
+    ],
+    "tip": "월요일 등 휴관일이 있으니 방문 전 운영일을 확인하자.",
+    "eat": ""
+   },
+   {
+    "name": "증평민속체험박물관",
+    "rom": "장뜰 두레농요가 살아 있는 마을 박물관",
+    "meta": [
+     "💴 무료(변동)",
+     "🌾 농경 민속",
+     "👨‍👩‍👧 아이 체험"
+    ],
+    "desc": "증평 들녘에서 이어져 온 '장뜰두레놀이'와 옛 농경 생활을 담은 박물관. 물레와 베틀 같은 옛 살림살이, 두레로 일하던 풍경을 보고 계절별 민속 체험에도 참여할 수 있다. 규모는 아담하지만 증평의 뿌리를 차분히 들여다보게 한다.",
+    "todo": [
+     "장뜰두레놀이 전시 관람하기",
+     "계절 민속 체험 프로그램 참여하기"
+    ],
+    "tip": "체험 프로그램은 요일과 계절마다 달라지니, 운영 일정을 미리 확인하면 훨씬 알차게 즐길 수 있다.",
+    "eat": ""
+   },
+   {
+    "name": "보강천 미루나무숲",
+    "rom": "증평 도심을 흐르는 물가 초록 쉼터",
+    "meta": [
+     "🌳 미루나무 숲",
+     "🚲 산책·자전거",
+     "🏕 캠핑·물놀이"
+    ],
+    "desc": "증평 읍내를 가로지르는 보강천을 따라 키 큰 미루나무가 줄지어 선 생태공원. 여름엔 물놀이장과 캠핑장이 열리고, 사철 산책하고 자전거 타기 좋은 동네 사람들의 쉼터다. 도심 한가운데서 넉넉한 초록 그늘을 만나는 자리.",
+    "todo": [
+     "미루나무 숲길 따라 산책하기",
+     "여름철 물놀이장·캠핑장 이용하기"
+    ],
+    "tip": "여름 물놀이장은 운영 기간이 정해져 있으니 개장 일정을 확인하자. 도심과 가까워 접근이 쉽다.",
+    "eat": ""
+   },
+   {
+    "name": "증평 남하리사지 마애불상군",
+    "rom": "바위에 새겨진 오래된 불심",
+    "meta": [
+     "🪨 마애불",
+     "⏱ 짧게 둘러보기",
+     "🛕 옛 절터"
+    ],
+    "desc": "남하리 옛 절터에 남은 마애불상군. 큰 바위에 삼존불과 여래입상 등이 새겨져, 오랜 세월 비바람에 마모됐지만 은은한 미소와 손 모양이 남아 있다. 조용한 산자락에서 오래전 사람들의 기도를 마주하는 듯하다.",
+    "todo": [
+     "바위에 새겨진 삼존불 형태 찬찬히 살펴보기",
+     "주변 옛 절터 흔적 둘러보기"
+    ],
+    "tip": "안내판 외 편의시설이 거의 없는 문화재 유적이니 조용히 둘러보자. 자가용으로 접근하는 편이 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg/500px-%EC%A6%9D%ED%8F%89_%EB%82%A8%ED%95%98%EB%A6%AC%EC%82%AC%EC%A7%80_%EB%A7%88%EC%95%A0%EB%B6%88%EC%83%81%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jinan": {
+  "nm": "진안",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울에서 차로 약 3시간(익산장수고속도로 진안IC), 부산에서도 약 3시간. 대중교통은 전주 시외버스터미널에서 진안까지 약 40분이면 닿는다.",
+  "sep": "4월 중순 마이산 남부 벚꽃길이 절정이라 이때가 최고. 여름엔 운일암반일암 계곡 물놀이, 가을엔 계곡과 능선 단풍이 좋아 봄·가을 어느 쪽이든 후회 없다.",
+  "mood": "말의 귀를 닮은 두 봉우리가 고원 위로 불쑥 솟은 곳 — 산도, 물도, 돌탑도 진안에서는 조금 특별하다.",
+  "see": "마이산 두 봉우리와 골짜기의 돌탑 무리, 반나절만 햇빛 드는 운일암반일암 계곡, 68개 마을을 품은 용담호, 섬진강이 시작되는 데미샘.",
+  "spots": [
+   {
+    "name": "마이산",
+    "rom": "말의 귀처럼 나란히 솟은 진안의 두 봉우리",
+    "meta": [
+     "🌸 4월 벚꽃길",
+     "🗿 명승 제12호",
+     "⏱ 반나절"
+    ],
+    "desc": "1억 년 전 자갈이 쌓여 굳은 역암 봉우리 두 개가 고원 위로 불쑥 솟아 있다. 남쪽에서 보면 정말 말의 두 귀처럼 보이고, 봉우리 중턱엔 폭격 맞은 듯 움푹 팬 구멍들이 무수히 나 있어 자연이 만든 조각 같다. 대한민국 명승 제12호로, 진안에 왔다면 결국 이 산으로 향하게 된다.",
+    "todo": [
+     "남부주차장에서 탑사까지 벚꽃길 걸어 올라가기",
+     "암마이봉 정상 계단 오르기",
+     "전망대에서 두 봉우리 한 프레임에 담기"
+    ],
+    "tip": "벚꽃 절정(4월 중순)엔 주차가 전쟁이라 이른 아침이나 평일이 낫다. 암마이봉 등반로는 겨울철 통제 기간이 있으니 미리 확인.",
+    "eat": "진안 별미인 애저찜(어린 돼지 요리)과 표고버섯 구이가 산자락 식당에서 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Maisan.jpg/500px-Maisan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/K-E20-Maisan.jpg/500px-K-E20-Maisan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "마이산 탑사",
+    "rom": "한 사람이 평생 쌓아 올린 80여 기의 돌탑",
+    "meta": [
+     "🗿 돌탑 무리",
+     "📷 포토스팟",
+     "⏱ 1~2시간"
+    ],
+    "desc": "이갑룡 처사가 평생에 걸쳐 맨손으로 쌓았다는 크고 작은 돌탑 80여 기가 두 봉우리 사이 골짜기에 빼곡히 서 있다. 거센 바람에도 무너지지 않는다는 신비로 유명하다. 사람이 쌓은 돌무더기가 이렇게 오래 버틴다는 사실 앞에서 괜히 마음이 숙연해진다.",
+    "tip": "마이산 남부·북부 어느 쪽으로 올라도 탑사에 닿는다. 겨울엔 은수사 정한수가 위로 솟아 어는 '역고드름'도 볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JM-Natl-Geopark.jpg/960px-JM-Natl-Geopark.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JM-tb1.jpg/960px-JM-tb1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/JN-Maisan-tb1.jpg/500px-JN-Maisan-tb1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "운일암반일암",
+    "rom": "구름만 오가고 햇빛은 반나절뿐인 계곡",
+    "meta": [
+     "🏊 여름 피서",
+     "🍁 가을 단풍",
+     "⏱ 반나절"
+    ],
+    "desc": "'구름이 오가고 햇빛 드는 시간이 반나절밖에 안 된다'는 이름 그대로, 기암괴석과 깊고 맑은 소가 3km에 걸쳐 이어지는 청정 계곡이다. 화산이 남긴 주상절리 절벽 사이로 물이 시리게 흐르고, 여름 물놀이와 가을 단풍 명소로 진안에서 첫손에 꼽힌다.",
+    "todo": [
+     "흔들다리와 데크길 따라 계곡 트레킹",
+     "여름엔 맑은 소에 발 담그기"
+    ],
+    "tip": "여름 성수기엔 주차와 자리가 붐빈다. 계곡을 따라 걷는 길이 잘 정비돼 있어 등산 부담 없이 가볍게 걸을 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/JJ-UB-Kav1.jpg/500px-JJ-UB-Kav1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JJ-UB-Natl-Geopark.jpg/500px-JJ-UB-Natl-Geopark.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JJ-UB-Kav2.jpg/500px-JJ-UB-Kav2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "데미샘",
+    "rom": "섬진강 500리가 시작되는 첫 옹달샘",
+    "meta": [
+     "💧 섬진강 발원지",
+     "🥾 숲길 산책",
+     "⏱ 반나절"
+    ],
+    "desc": "팔공산 자락, 손바닥만 한 옹달샘 하나에서 섬진강 200여 km의 물길이 처음 솟는다. '데미'는 봉우리를 뜻하는 사투리로, 발원지까지 오르는 숲길이 이끼와 나무 향으로 촉촉하다. 큰 강의 첫 물방울을 두 눈으로 본다는 것만으로 걸음이 조금 특별해지는 곳이다.",
+    "todo": [
+     "데미샘 자연휴양림에서 발원지까지 숲길 걷기",
+     "샘물 한 모금 떠 마셔보기"
+    ],
+    "tip": "자연휴양림 주차장에서 발원지까지 왕복 1시간 남짓. 편한 신발과 물 한 병이면 충분하다."
+   },
+   {
+    "name": "용담호",
+    "rom": "68개 마을을 품은 국내 다섯 손가락의 인공호수",
+    "meta": [
+     "🚗 호반 드라이브",
+     "🌅 물안개",
+     "⏱ 반나절"
+    ],
+    "desc": "금강 상류를 막아 만든 거대한 호수로, 저수량 기준 국내 다섯 손가락 안에 드는 크기다. 물에 잠긴 68개 마을의 사연을 품은 만큼 수면이 유난히 잔잔하고 깊은데, 이른 아침 호수 위로 피어오르는 물안개와 굽이굽이 이어지는 호반도로가 드라이브 코스로 그만이다.",
+    "tip": "댐 전망대와 물문화관에서 호수를 조망할 수 있다. 호반을 도는 길이 길어 시간을 넉넉히 잡고 차로 여유 있게 도는 편이 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg/500px-%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구봉산 구름다리",
+    "rom": "아홉 봉우리를 잇는 아찔한 산악 현수교",
+    "meta": [
+     "🌉 100m 구름다리",
+     "🥾 등산",
+     "😱 스릴"
+    ],
+    "desc": "아홉 개의 봉우리가 이어진 구봉산, 그중 봉우리와 봉우리 사이를 잇는 길이 100m의 산악 현수교가 허공에 걸려 있다. 발밑이 훤히 비치는 다리 위에 서서 사방으로 트인 진안 고원의 능선을 내려다보면, 여기까지 오른 만큼의 보상이 확실하게 돌아온다.",
+    "tip": "구름다리까지도 제법 오르막이라 등산화가 낫다. 정상까지는 왕복 3~4시간. 안개 낀 날은 능선이 특히 몽환적으로 보인다."
+   },
+   {
+    "name": "진안 홍삼스파",
+    "rom": "청정 고원이 키운 인삼으로 몸을 데우는 곳",
+    "meta": [
+     "♨️ 홍삼 스파",
+     "🛍 특산품",
+     "⏱ 반나절"
+    ],
+    "desc": "일교차 큰 진안 고원은 예부터 이름난 인삼·홍삼 산지다. 마이산 자락엔 홍삼을 넣은 스파와 한방 테마 시설이 있어, 산을 오르고 계곡을 걸은 뒤 뜨끈하게 몸을 푸는 마무리로 좋다. 홍삼 족욕에 특산품 구경까지 곁들이면 진안다운 하루가 완성된다.",
+    "eat": "홍삼을 넣어 고아낸 백숙과 한방 오리요리가 진안의 대표 보양식으로 통한다."
+   }
+  ]
+ },
+ "jincheon": {
+  "nm": "진천",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울 남부터미널·센트럴시티에서 시외버스로 약 1시간 30분. 자가용은 중부고속도로 진천IC로 약 1시간 30분, 부산에서는 약 3시간.",
+  "sep": "봄과 가을. 5~6월엔 농다리축제와 초록으로 물든 초롱길이, 가을엔 초평호를 감싼 단풍이 잔잔한 물길에 통째로 비친다.",
+  "mood": "생거진천(生居鎭川) — 살아서는 진천이 좋다던 옛말처럼, 천 년 돌다리와 느린 호수가 서두르지 않고 흐르는 땅.",
+  "see": "천 년을 견딘 농다리, 호수를 건너는 하늘다리, 오를 수 있는 3층 목탑, 김유신이 태어난 자리.",
+  "spots": [
+   {
+    "name": "진천 농다리",
+    "rom": "천 년을 견딘 돌다리",
+    "meta": [
+     "🪨 천 년 석교",
+     "🚶 무료 산책",
+     "🌿 봄 초롱길"
+    ],
+    "desc": "붉은 돌을 물고기 비늘처럼 켜켜이 쌓아 지네처럼 물을 건너는 다리다. 석회 한 줌 쓰지 않고도 천 년 세월과 세금천의 급류를 버텨왔다. 징검징검 돌을 밟으면 발밑으로 물이 흐르고, 다리가 왜 아직 살아 있는지 몸으로 알게 된다.",
+    "todo": [
+     "돌다리를 직접 걸어서 건너보기",
+     "초평호로 이어지는 초롱길 산책",
+     "농다리 전시관에서 축조 원리 보기"
+    ],
+    "tip": "비가 많이 온 뒤엔 물이 불어 다리가 잠길 수 있으니 수위를 확인하고 가자. 주차장은 무료.",
+    "eat": "초평호 붕어마을의 붕어찜·붕어조림",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg/500px-%EB%86%8D%EB%8B%A4%EB%A6%AC_%EC%B9%A8%EC%88%983.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "초평호 하늘다리",
+    "rom": "호수 위를 걷는 출렁다리",
+    "meta": [
+     "🌉 출렁다리",
+     "🍁 가을 단풍",
+     "🎣 붕어마을"
+    ],
+    "desc": "농다리에서 초롱길을 따라 걸으면 산자락에 안긴 잔잔한 저수지가 나온다. 호수를 가로지르는 하늘다리 한가운데 서면 발밑이 살짝 출렁이고, 물빛과 산 그림자가 함께 흔들린다. 급할 것 없는 풍경 속을 천천히 걷기 좋다.",
+    "todo": [
+     "하늘다리 건너며 호수 한복판 서보기",
+     "농다리~초롱길~하늘다리 트레킹",
+     "호숫가 붕어마을에서 한 끼"
+    ],
+    "tip": "농다리에서 하늘다리까지 왕복 도보로 약 1시간 30분. 흙길과 오르막이 섞여 있어 편한 신발이 좋다.",
+    "eat": "초평 붕어마을의 붕어찜·매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg/500px-%EC%B4%88%ED%8F%89%EB%8C%90_%EC%82%AC%EC%9D%B4%ED%8E%80_%EC%97%AC%EC%88%98%EB%A1%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg/500px-%EC%B4%88%ED%8F%89%EC%A0%80%EC%88%98%EC%A7%80_%ED%95%98%EB%8A%98%EB%8B%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보탑사",
+    "rom": "안으로 오를 수 있는 3층 목탑",
+    "meta": [
+     "🛕 3층 목탑",
+     "🆓 무료",
+     "🍂 사계절"
+    ],
+    "desc": "못 하나 박지 않고 나무로만 지은 3층 목탑이 보련산 자락에 우뚝 서 있다. 밖에서 보기만 하는 탑이 아니라 계단을 밟고 안으로 오를 수 있는 드문 목탑으로, 층마다 다른 부처가 모셔져 있다. 나무 냄새와 고요가 가득하다.",
+    "tip": "봄 연등과 겹벚꽃, 가을 단풍이 특히 곱다. 비구니 스님들이 수행하는 사찰이니 경내에서는 조용히.",
+    "eat": ""
+   },
+   {
+    "name": "진천 김유신 탄생지와 태실",
+    "rom": "삼국통일 명장이 태어난 자리",
+    "meta": [
+     "⚔️ 신라 사적",
+     "🚶 나지막한 산책",
+     "🆓 무료"
+    ],
+    "desc": "신라 삼국통일의 주역 김유신이 태어난 터다. 태령산 정상에는 우리나라에서 가장 오래된 형태로 남은 태실이 있어, 장군의 탯줄을 천사백 년 넘게 품고 있다. 역사의 무게가 조용한 언덕에 얹혀 있다.",
+    "tip": "탄생지는 평지지만 태실은 태령산 정상이라 가벼운 등산이 필요하다. 태실까지 오르면 탄생지 일대가 한눈에 내려다보인다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg/330px-%EC%A7%84%EC%B2%9C_%EA%B9%80%EC%9C%A0%EC%8B%A0_%ED%83%84%EC%83%9D%EC%A7%80%EC%99%80_%ED%83%9C%EC%8B%A4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진천종박물관",
+    "rom": "국내 유일 종 전문 박물관",
+    "meta": [
+     "🔔 종 박물관",
+     "👂 타종 체험",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "성덕대왕신종의 맑고 긴 울림을 낳은 한국 범종의 역사가 한자리에 모였다. 종을 어떻게 빚고 왜 그런 소리가 나는지 눈과 귀로 배우고, 직접 종을 쳐 그 여운을 몸으로 느껴볼 수 있다.",
+    "tip": "매주 월요일·설·추석 휴관. 관람 시간과 체험 운영 여부는 방문 전에 확인하는 편이 안전하다.",
+    "eat": ""
+   },
+   {
+    "name": "진천 배티 성지",
+    "rom": "한국 최초 신학교가 있던 순교지",
+    "meta": [
+     "✝️ 천주교 성지",
+     "🌲 산속 고요",
+     "🆓 무료"
+    ],
+    "desc": "박해를 피한 신자들이 깊은 산속에 모여 살던 교우촌이자, 한국 최초의 신학교가 세워졌던 자리다. 병인박해의 순교자들이 잠든 조용한 골짜기를 걷다 보면, 소란한 마음이 저절로 가라앉는다.",
+    "tip": "산속이라 여름에도 서늘하다. 순례와 묵상의 공간이니 정숙히 둘러보자. 백곡저수지와 가깝다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jindo": {
+  "nm": "진도",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울에서 차로 약 5시간, 진도대교를 건너 섬으로 들어간다. 대중교통은 광주송정역까지 KTX 후 진도행 버스로 환승(부산에서는 차로 약 4시간 반).",
+  "sep": "봄(3~4월) — 바다가 크게 갈라지는 물때에 신비의 바닷길과 영등축제가 열린다. 세방낙조는 오히려 가을·겨울 맑은 날이 더 붉게 탄다.",
+  "mood": "바다가 갈라져 길을 내주고, 붉은 낙조가 섬과 섬 사이로 내려앉는 땅끝의 섬.",
+  "see": "신비의 바닷길·운림산방·세방낙조·다도해 섬, 그리고 진돗개의 고향.",
+  "spots": [
+   {
+    "name": "신비의 바닷길",
+    "rom": "바다가 갈라져 길이 되는 '모세의 기적'",
+    "meta": [
+     "🌊 명승 제9호",
+     "🌸 봄 물때",
+     "⏱ 반나절"
+    ],
+    "desc": "고군면 회동리에서 건너편 모도까지, 약 2.8km의 바다가 갈라지며 폭 40m 안팎의 길이 드러난다. 물때에 맞춰 사람들이 장화를 신고 갈라진 바다 위를 걸어 들어가고, 호랑이를 피해 물 건너 가족을 만나게 해달라 빌었다는 뽕할머니 전설이 그 길에 서려 있다. 평생 한 번쯤은 봐둘 만한, 바다가 스스로 열어주는 장면이다.",
+    "todo": [
+     "장화 신고 바닷길 끝 모도까지 걸어보기",
+     "영등축제 횃불 행렬·공연 참여하기",
+     "뽕할머니 사당에서 전설 읽어보기"
+    ],
+    "tip": "바닷길은 아무 때나 열리지 않는다. 음력 대조기 물때(보통 봄철)와 국립해양조사원 예보를 미리 확인하고 시간을 딱 맞춰 가야 한다.",
+    "eat": "진도 꽃게·간재미회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jindo-map.png/500px-Jindo-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jindo_Miracle_Sea_Road_Festival_100.JPG/500px-Jindo_Miracle_Sea_Road_Festival_100.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "운림산방",
+    "rom": "남종화의 성지, 소치 허련의 화실",
+    "meta": [
+     "🖼 명승 제80호",
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간"
+    ],
+    "desc": "조선 말 남종화의 대가 소치 허련이 첨찰산 자락에 꾸민 화실이자 정원이다. 연못 한가운데 작은 섬과 배롱나무, 그 뒤로 두른 첨찰산 상록수림이 통째로 한 폭의 그림이 된다. 5대에 걸쳐 화맥을 이은 집안의 붓끝이 아직 방 안에 남아 있는 듯한, 조용하고 깊은 자리다.",
+    "todo": [
+     "연못에 비친 첨찰산과 화실 담기",
+     "소치기념관에서 남종화 감상하기",
+     "옆 쌍계사 상록수림 함께 걷기"
+    ],
+    "tip": "바로 옆 쌍계사와 상록수림(천연기념물)까지 묶어 보면 좋다. 연못가 배롱나무 붉은 꽃은 한여름에 핀다.",
+    "eat": "진도 홍주(전통 붉은 술) 한 잔",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세방낙조 전망대",
+    "rom": "한반도 서남쪽 끝, 가장 붉게 타는 일몰",
+    "meta": [
+     "🌅 낙조 명소",
+     "🆓 무료",
+     "⏱ 해질녘"
+    ],
+    "desc": "지산면 세방리 해안도로에 자리한, 다도해 낙조로 손꼽히는 전망대다. 크고 작은 섬들 사이로 해가 잠기며 하늘과 바다가 통째로 붉게 물드는 시간이 압권이다. 다도해 낙조 가운데서도 특히 아름답기로 손꼽혀, 맑은 날 저녁이면 카메라를 든 사람들이 말없이 수평선을 바라본다.",
+    "todo": [
+     "해지기 30분 전 도착해 명당 잡기",
+     "섬 실루엣과 붉은 하늘 담기",
+     "세방낙조로 해안 드라이브 이어가기"
+    ],
+    "tip": "가을·겨울 맑고 구름이 적당한 날이 가장 붉다. 바람이 세니 겉옷을 챙기고, 그날 일몰 시각을 미리 확인하자.",
+    "eat": "가까운 포구의 회·조개구이"
+   },
+   {
+    "name": "관매도",
+    "rom": "다도해 조도군도의 절경 섬",
+    "meta": [
+     "⛴ 배 타고 입도",
+     "🏝 다도해국립공원",
+     "⏱ 1박 추천"
+    ],
+    "desc": "진도항(팽목항)에서 배로 들어가는 조도군도의 대표 섬이다. 넓은 관매해변과 오래된 후박나무 숲, 선녀가 방아를 찧었다는 방아섬(남근바위) 같은 관매 8경이 섬을 두른다. 육지의 속도가 닿지 않는 곳이라, 하룻밤 머물며 파도 소리에 기대는 여행이 잘 어울린다.",
+    "todo": [
+     "관매해변 넓은 백사장 걷기",
+     "방아섬·하늘다리 등 관매 8경 둘러보기",
+     "후박나무 숲에서 쉬어가기"
+    ],
+    "tip": "배편이 하루 몇 편뿐이고 날씨에 따라 결항된다. 시간표를 미리 확인하고, 하루 여유를 두고 들어가는 게 안전하다.",
+    "eat": "자연산 돌미역·멸치"
+   },
+   {
+    "name": "용장성(용장산성)",
+    "rom": "삼별초가 세운 마지막 왕국의 터",
+    "meta": [
+     "🏯 사적 제126호",
+     "🆓 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "1270년 몽골에 항복한 고려 조정에 맞서, 배중손이 이끄는 삼별초가 왕을 세우고 진도로 내려와 궁궐과 성을 쌓은 곳이다. 지금은 행궁 터와 무너진 성벽, 용장사 절터가 산자락에 남아 옛 항쟁의 기개를 조용히 전한다. 풀밭에 남은 주춧돌을 보고 있으면 800년 전의 함성이 스치는 듯하다.",
+    "todo": [
+     "행궁 터와 성벽 흔적 둘러보기",
+     "용장사와 석불좌상 보기",
+     "홍보관에서 삼별초 이야기 읽기"
+    ],
+    "tip": "넓게 흩어진 산성이라 편한 신발이 낫다. 인근 진도타워(울돌목)와 묶어 '항쟁의 길'로 이어 보면 좋다.",
+    "eat": "진도 대파·검정쌀 밥상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg/500px-%EC%A7%84%EB%8F%84_%EC%9A%A9%EC%9E%A5%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진도타워",
+    "rom": "울돌목, 명량대첩의 바다를 내려다보다",
+    "meta": [
+     "🗼 전망 타워",
+     "💴 입장 약 3,000원",
+     "⏱ 1시간"
+    ],
+    "desc": "이순신이 열세 척의 배로 왜선을 물리친 명량대첩의 무대, 울돌목이 발밑에서 소용돌이친다. 전망대에 오르면 거센 물살과 진도대교, 해협 건너 해남까지 한눈에 담긴다. 역사의 물길을 눈으로 확인하는 자리라, 바람 소리마저 예사롭지 않게 들린다.",
+    "todo": [
+     "전망대에서 울돌목 급류와 진도대교 보기",
+     "명량대첩 전시·조형물 관람하기",
+     "진도대교 야간 조명 감상하기"
+    ],
+    "tip": "물살이 가장 거센 물때에 맞춰 가면 울돌목의 '우는 바다'를 제대로 볼 수 있다.",
+    "eat": "진도·해남 낙지"
+   },
+   {
+    "name": "진돗개 테마파크",
+    "rom": "천연기념물, 진돗개의 고향에서 만나는",
+    "meta": [
+     "🐕 천연기념물 제53호",
+     "🎪 진돗개 공연",
+     "⏱ 1~2시간"
+    ],
+    "desc": "용맹하고 주인을 향한 충성으로 이름난 진돗개의 원산지가 바로 이 섬이다. 테마파크에서는 잘 훈련된 진돗개들의 묘기 공연과 넓은 방목장을 볼 수 있고, 황구·백구가 뛰노는 모습에 절로 미소가 난다. 진도에서 나고 자란 진돗개는 천연기념물로 지정돼 있어, 그 본고장에서 진돗개를 만나는 일은 이곳만의 경험이다.",
+    "todo": [
+     "진돗개 공연·훈련 시연 보기",
+     "방목장에서 황구·백구 만나기",
+     "진돗개 홍보관 둘러보기"
+    ],
+    "tip": "공연 시간이 정해져 있으니 시간표를 확인하고 가자. 진돗개는 천연기념물이라 섬 밖 반출에는 허가가 필요하다.",
+    "eat": "진도 흑미·구기자 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ARIRANG.jpg/330px-ARIRANG.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jindo_puppy.jpg/500px-Jindo_puppy.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "jinju": {
+  "nm": "진주",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널에서 고속버스로 약 3시간 30분, 또는 진주역까지 KTX·SRT. 부산에서는 서부터미널 시외버스로 약 1시간 40분.",
+  "sep": "10월 — 남강유등축제로 밤의 강 전체가 등불로 물드는 진주 최고의 계절. (봄 4월엔 진양호 벚꽃길도 곱다.)",
+  "mood": "남강이 성벽을 휘감고, 밤이면 강 위로 수만 개 등불이 흘러가는 도시.",
+  "see": "진주성과 촉석루, 남강 위를 떠가는 유등, 노을 지는 진양호.",
+  "spots": [
+   {
+    "name": "진주성",
+    "rom": "남강을 굽어보는 진주의 심장",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🌙 야경 명소"
+    ],
+    "desc": "남강이 성벽을 휘감고 도는 언덕 위 석성이다. 임진왜란 3대첩의 무대였던 이곳, 촉석루에 올라 강물을 내려다보면 400년 전 함성이 잔잔한 물결 위로 겹쳐진다. 성 안에는 논개가 왜장을 끌어안고 뛰어든 의암과 국립진주박물관이 함께 있어, 걷는 걸음마다 이야기가 따라온다.",
+    "todo": [
+     "촉석루 올라 남강 조망하기",
+     "의암(논개바위) 내려다보기",
+     "해 질 무렵 성벽 야경 걷기"
+    ],
+    "tip": "봄~가을 주말엔 촉석루 일원에서 진주검무·한량무 등 전통공연이 열리기도 한다(일정은 확인 필요). 낮보다 야경이 좋아 저녁 방문을 추천한다.",
+    "eat": "성 근처 중앙시장에서 육회를 얹은 진주비빔밥과 진주냉면",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jinju_castle-Chosuk_gate.jpg/500px-Jinju_castle-Chosuk_gate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c0/%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png/500px-%EC%97%AC%EC%A7%80%EB%8F%84_-_%EC%A7%84%EC%A3%BC%EB%AA%A9.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/500px-Choksuk_pavillion_in_Jinju_Castel.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립진주박물관",
+    "rom": "임진왜란을 기억하는 돌탑 같은 건물",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏛 실내"
+    ],
+    "desc": "진주성 안에 자리한, 국내 최초의 임진왜란 전문 박물관이다. 건축가 김수근이 전통 목탑을 석조로 옮겨 놓은 듯한 건물 자체가 하나의 작품이다. 화포와 옛 문서 사이를 지나며 성벽 밖에서 벌어진 전쟁의 이야기를 안에서 다시 읽게 된다.",
+    "todo": [
+     "임진왜란실 유물 관람하기",
+     "김수근 건축 외관 감상하기"
+    ],
+    "tip": "진주성 관람과 묶어서 보면 동선이 자연스럽다. 실내라 더위·비 오는 날에도 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/500px-The_Jinju_National_Museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hwcha-Chongtong_Style2.jpg/120px-Hwcha-Chongtong_Style2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hwacha-Shinkigeon_Style.jpg/120px-Hwacha-Shinkigeon_Style.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진주남강유등축제",
+    "rom": "남강 위를 떠가는 수만 개의 등불",
+    "meta": [
+     "🗓 매년 10월",
+     "🌙 야간",
+     "🎆 불꽃·부교"
+    ],
+    "desc": "임진왜란 때 강을 건너려는 적을 막으려 유등을 띄운 데서 비롯된 축제다. 매년 10월, 남강 물결 위로 용과 봉황, 연꽃 모양의 등이 불을 밝히고 물빛과 함께 일렁인다. 소망등을 직접 띄우고 부교를 건너다 보면, 밤의 강 전체가 하나의 커다란 등불이 된다.",
+    "todo": [
+     "남강에 소망등 띄우기",
+     "부교(사랑다리) 건너보기",
+     "수상 불꽃놀이 관람하기"
+    ],
+    "tip": "10월 초~중순 개최(연도별 일정은 확인 필요). 저녁 인파가 몰리니 촉석루 쪽에서 강 건너로 조망하는 자리도 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/500px-Jinju_namgang_lantern_festival.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Korea-Jinju-Festival-Nam.River-01.jpg/500px-Korea-Jinju-Festival-Nam.River-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jinju_Namgang_Lantern_Festival_20111002_1912.jpg/120px-Jinju_Namgang_Lantern_Festival_20111002_1912.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진양호",
+    "rom": "노을이 가장 아름다운 서부경남의 호수",
+    "meta": [
+     "💴 무료(동물원 별도)",
+     "⏱ 반나절",
+     "🌅 노을 명소",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "남강댐이 만든 넓은 인공호수로, 전망대에 오르면 지리산 자락까지 호반이 시원하게 펼쳐진다. 진주 사람들이 노을을 보러 오는 곳답게 해 질 무렵 물빛이 가장 곱고, 봄이면 호수를 두른 벚꽃길이 온통 분홍으로 물든다. 호숫가엔 동물원과 둘레길이 있어 천천히 걷기 좋다.",
+    "todo": [
+     "전망대에서 호반·지리산 조망하기",
+     "노을 시간 물가 산책하기",
+     "봄 벚꽃길 걷기"
+    ],
+    "tip": "진양호동물원은 아이 동반 가족에게 인기다. 벚꽃철(4월 초)에 가장 붐빈다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jinu_Jinyang_lake.jpg/500px-Jinu_Jinyang_lake.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Asia_laea_relief_location_map.jpg/500px-Asia_laea_relief_location_map.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "월아산",
+    "rom": "달이 떠오르는 모양의 숲 품은 산",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌲 숲길",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "달이 뜨는 모습을 닮았다 하여 붙은 이름의 나지막한 산이다. 정상 두 봉우리 사이로 달이 떠오르면 장관이라 전해진다. 산자락엔 '월아산 숲속의 진주'가 조성돼 숲놀이터와 목공·숲체험이 어우러져, 크게 힘들이지 않고 숲을 온전히 누릴 수 있다.",
+    "todo": [
+     "숲속의 진주 숲놀이터 걷기",
+     "목공·숲체험 참여하기",
+     "두 봉우리 사이 달맞이 조망하기"
+    ],
+    "tip": "산자락에 숲체험·휴양 시설이 있어 가족 나들이로 좋다(일부 프로그램은 예약 필요).",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg/500px-Wolasan_Mountain%2C_Jinju%2C_Gyeongsangnam-do.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "경상남도수목원",
+    "rom": "남부지방 자생식물의 거대한 생태숲",
+    "meta": [
+     "💴 입장 약 1,500원",
+     "⏱ 반나절",
+     "🌳 산림박물관",
+     "🦌 야생동물"
+    ],
+    "desc": "남부지방 자생종과 세계 곳곳의 식물 1,700여 종이 주제별 정원으로 펼쳐진 넓은 수목원이다. 산림박물관과 열대식물원, 야생동물관찰원 사이를 걷다 보면 계절마다 다른 색으로 갈아입는 숲을 만난다. 아이와 천천히 자연을 배우며 걷기 좋은 곳이다.",
+    "todo": [
+     "산림박물관·열대식물원 관람하기",
+     "화목원·수생식물원 산책하기",
+     "야생동물관찰원 둘러보기"
+    ],
+    "tip": "3~10월은 오전 9시~오후 6시, 겨울엔 오후 5시까지 운영. 봄꽃철과 가을 단풍철이 가장 예쁘다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f1/Gyeongsangnam-do_Arboreta.JPG/500px-Gyeongsangnam-do_Arboreta.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진주향교",
+    "rom": "천년을 이어온 고려 때 지방 학교",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🏯 고건축"
+    ],
+    "desc": "고려 때 세워져 지금까지 남은 오래된 지방 교육기관이다. 명륜당과 대성전이 옛 배치 그대로 서 있어, 도심 가까운 곳에서 조용한 옛 뜰의 시간을 만난다. 화려하진 않지만 담백한 기와와 마당의 고요가 오래 기억에 남는다.",
+    "tip": "상시 개방이지만 제향일 등엔 관람이 제한될 수 있으니 방문 전 확인하면 좋다. 진주성과 묶어 도심 코스로 걷기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jinju_Hyanggyo.jpg/500px-Jinju_Hyanggyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jinju_Hyanggyo_monument.jpg/500px-Jinju_Hyanggyo_monument.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "miryang": {
+  "nm": "밀양",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 KTX·SRT로 밀양역까지 약 2시간, 부산에서는 기차로 약 40~50분. 시내 명소는 가깝지만 얼음골·표충사·만어사는 산자락에 흩어져 있어 차가 편하다.",
+  "sep": "봄(4월 말~5월 초)과 한여름. 위양지 이팝나무가 하얗게 피는 늦봄과, 한여름에도 얼음이 어는 얼음골·15도로 서늘한 트윈터널이 밀양을 찾는 두 이유다. 가을엔 영남알프스 억새가 은빛으로 물든다.",
+  "mood": "한여름에 얼음이 얼고 겨울에 더운 김이 오르는 땅 — 밀양은 '3대 신비'라는 말이 과장이 아닌, 물과 돌과 바람이 이상하게 아름다운 고장이다.",
+  "see": "밀양강 벼랑 위 국보 영남루, 늦봄 물 위에 피는 위양지 이팝나무, 여름에 얼음 어는 얼음골, 두드리면 종소리 나는 만어사 돌강.",
+  "spots": [
+   {
+    "name": "밀양 영남루",
+    "rom": "밀양강 벼랑 위에 앉은 한국 3대 누각",
+    "meta": [
+     "🆓 무료",
+     "⏱ 1~2시간",
+     "🏛 국보"
+    ],
+    "desc": "밀양강 절벽 위로 날아갈 듯 앉은 누각이다. 진주 촉석루·평양 부벽루와 함께 한국의 3대 누각으로 꼽혀 '영남제일루'라 불렸고, 2023년 국보로 승격됐다. 넓은 누마루에 올라 강바람을 맞으며 굽이치는 물줄기를 내려다보면, 옛 선비들이 왜 이 자리에서 시를 지었는지 단번에 알게 된다.",
+    "todo": [
+     "누마루에 앉아 밀양강 조망하기",
+     "해 질 녘~저녁 조명 켜진 야경 보기",
+     "옆 천진궁·아랑각 함께 둘러보기"
+    ],
+    "tip": "밤 조명 야경이 백미라 늦은 오후에 가는 것을 추천. 밀양역·시청에서 가깝고 인근 공영주차장을 이용한다.",
+    "eat": "밀양 돼지국밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Yeongnamru_Miryang_Gyeongsangnamdo.JPG/500px-Yeongnamru_Miryang_Gyeongsangnamdo.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/37/Miryang_yeongnamroo_front.jpg/120px-Miryang_yeongnamroo_front.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/2/26/Miryang_yeongnamroo_office.JPG/120px-Miryang_yeongnamroo_office.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "위양지",
+    "rom": "늦봄 물 위에 하얗게 피는 이팝나무 저수지",
+    "meta": [
+     "🆓 무료",
+     "🌳 이팝나무",
+     "📷 물안개 사진"
+    ],
+    "desc": "통일신라 무렵 축조된 것으로 전하는 오래된 농업용 저수지다. 물 한가운데 작은 섬 완재정을 노거수 여러 그루가 둘러싸고, 못을 한 바퀴 도는 흙길이 고즈넉하다. 4월 말이면 이팝나무가 하얀 꽃을 눈처럼 피워 물 위에 그림자를 드리우는데, 새벽 물안개까지 겹치면 사진가들이 왜 이 새벽에 삼각대를 세우는지 알게 된다.",
+    "todo": [
+     "못 둘레길 한 바퀴 천천히 걷기",
+     "완재정과 노거수가 물에 비친 반영 담기",
+     "이른 아침 물안개 풍경 보기"
+    ],
+    "tip": "이팝나무 절정은 보통 4월 말~5월 초로 짧다. 이 시기 새벽·주말엔 사진 인파가 몰린다.",
+    "eat": "밀양 얼음골 사과, 인근 한정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "밀양 얼음골",
+    "rom": "한여름에 얼음이 어는 신비의 골짜기",
+    "meta": [
+     "🆓 무료",
+     "❄️ 여름 결빙",
+     "🌞 밀양 3대 신비"
+    ],
+    "desc": "천황산 북동쪽 해발 약 600m 너덜지대에 자리한, 대한민국 천연기념물이다. 신기하게도 더위가 심한 삼복더위에 바위틈에 얼음이 가장 많이 얼고, 정작 겨울엔 바위에서 더운 김이 오른다. 땀을 흘리며 계곡을 오르다 얼음이 박힌 바위 앞에 서면, 여름 한복판에 냉기가 훅 끼치는 밀양 3대 신비의 정체를 몸으로 느끼게 된다.",
+    "todo": [
+     "결빙 관찰 데크에서 여름 얼음 확인하기",
+     "가마볼(호박소) 계곡 물놀이",
+     "영남알프스 얼음골 케이블카로 재약산 오르기"
+    ],
+    "tip": "얼음은 대략 6~8월이 가장 잘 언다. 케이블카는 얼음골과 별도 요금이며 가을 억새철엔 대기가 길다.",
+    "eat": "산내면 얼음골 사과, 어탕국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MY-Eoreumgol-FZone.jpg/500px-MY-Eoreumgol-FZone.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rocky_Eoreumgol_Valley.jpg/500px-Rocky_Eoreumgol_Valley.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg/500px-%EC%96%BC%EC%9D%8C%EA%B3%A8_%ED%92%8D%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "표충사",
+    "rom": "사명대사의 충절을 품은 재약산 산사",
+    "meta": [
+     "🆓 무료(주차 별도)",
+     "⏱ 반나절",
+     "🛕 고찰"
+    ],
+    "desc": "재약산 자락에 안긴 신라 고찰로, 임진왜란 때 승병을 이끈 사명대사의 충절을 기리는 표충서원이 절 안에 함께 있는 독특한 곳이다. 계곡 물소리를 따라 일주문을 지나면 넓은 경내와 통일신라 삼층석탑이 산 그림자 아래 조용히 서 있다. 숲길과 바람소리에 발걸음이 저절로 느려지는, 마음 가라앉히기 좋은 산사다.",
+    "todo": [
+     "삼층석탑과 대광전 경내 둘러보기",
+     "표충서원에서 사명대사 이야기 읽기",
+     "절 앞 계곡 따라 산책하기"
+    ],
+    "tip": "주차장에서 절까지 계곡을 낀 오르막을 걷는다. 매표소 주차료가 있으며 요금은 변동 가능.",
+    "eat": "단장면 산채비빔밥, 파전",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miryang_Pyochungsa.png/500px-Miryang_Pyochungsa.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "만어사",
+    "rom": "두드리면 종소리 나는 돌강의 절",
+    "meta": [
+     "🆓 무료",
+     "🪨 경석 돌강",
+     "🔔 밀양 3대 신비"
+    ],
+    "desc": "가야 수로왕 전설이 깃든 산중 고찰인데, 진짜 주인공은 절 아래 비탈을 뒤덮은 검은 돌밭이다. 수만 개의 바위가 물고기 떼처럼 산비탈로 흘러내린 이 '돌강'은, 어떤 돌을 두드리면 맑은 종소리가 울려 밀양 3대 신비의 하나로 꼽힌다. 미륵바위 앞에 서서 발아래 펼쳐진 돌의 바다를 내려다보면 그 규모에 말을 잃는다.",
+    "todo": [
+     "경석을 두드려 종소리 나는 돌 찾기",
+     "미륵전 미륵바위에 소원 빌기",
+     "돌강 너머 낙동강 물줄기 조망"
+    ],
+    "tip": "절까지 가는 산길이 좁고 급하니 운전에 주의. 돌밭은 미끄러우니 발 디딤을 조심한다.",
+    "eat": "삼랑진 딸기(겨울~봄), 밀양 돼지국밥"
+   },
+   {
+    "name": "삼랑진 트윈터널",
+    "rom": "폐터널을 밝힌 900m 빛의 피서지",
+    "meta": [
+     "💴 입장 약 10,000원",
+     "❄️ 사계절 15~19도",
+     "💡 빛 테마파크"
+    ],
+    "desc": "옛 경부선 폐터널 두 개를 이어 빛 테마파크로 되살린 곳이다. 약 900m에 이르는 터널 안은 사계절 내내 15~19도 안팎으로 서늘해, 한여름 바깥이 폭염이어도 이 안에선 긴팔이 필요하다. 수억 개의 조명이 만드는 은하수·오로라 터널을 걷다 보면 시원함과 화려함을 동시에 얻는다.",
+    "todo": [
+     "빛으로 물든 900m 터널 통과하기",
+     "포토존에서 야경 같은 사진 담기",
+     "한여름 더위 식히며 산책하기"
+    ],
+    "tip": "입장료는 성인 약 10,000원(변동 가능)이며 연중무휴 운영. 터널 안이 서늘하니 여름에도 겉옷을 챙기면 좋다.",
+    "eat": "삼랑진 딸기, 밀양 시내 돼지국밥"
+   }
+  ]
+ },
+ "mokpo": {
+  "nm": "목포",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 KTX·SRT로 목포역까지 약 2시간 40분, 부산에서는 차로 남해고속도로 경유 약 3시간 30분. 시내 명소는 대부분 걸어서·짧은 택시로 이어진다.",
+  "sep": "봄과 가을이 가장 좋다. 봄엔 유달산 개나리와 온화한 바닷바람이, 가을엔 맑은 하늘과 붉은 낙조가 항구를 물들인다. '춤추는 바다분수'는 대개 4~10월에 열려 여름 밤도 매력적이다.",
+  "mood": "느린 항구 도시. 낡은 적산가옥과 비린내 나는 골목, 유달산 위로 지는 노을이 오래 마음에 남는다.",
+  "see": "유달산·바다 케이블카·근대역사 거리·갓바위·삼학도, 그리고 남도 밥상.",
+  "spots": [
+   {
+    "name": "유달산",
+    "rom": "목포를 품은 바위산, 항구를 내려다보는 자리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌸 봄 개나리",
+     "🥾 가벼운 등산"
+    ],
+    "desc": "높이 228m의 나지막한 바위산이지만, 정상에 서면 목포 시가지와 다도해의 섬들이 한눈에 펼쳐진다. 노적봉과 이순신 장군 동상을 지나 조각공원과 정자를 따라 오르는 길은 숨차지 않게 걷기 좋고, 봄이면 개나리가 산자락을 노랗게 물들인다.",
+    "todo": [
+     "정상 일등바위에서 다도해 조망 즐기기",
+     "노적봉과 이순신 장군 동상 둘러보기",
+     "해질 무렵 항구 낙조 보기"
+    ],
+    "tip": "정상까지 왕복 1~2시간. 바위길이 미끄러우니 운동화 권장. 유달산 자락에서 목포해상케이블카 북항 승강장으로 이어진다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yudalsan_Mokpo_at_Night.jpg/500px-Yudalsan_Mokpo_at_Night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "목포해상케이블카",
+    "rom": "바다 위 3.23km, 국내 최장 해상 케이블카",
+    "meta": [
+     "💴 왕복 약 24,000원(변동)",
+     "⏱ 왕복 약 40분",
+     "🌊 바다·섬 조망",
+     "📸 크리스탈 캐빈"
+    ],
+    "desc": "북항에서 유달산을 넘어 고하도까지 바다 위를 가로지르는 3.23km 길이의 케이블카다. 유달산 봉우리를 스칠 듯 지나 발아래로 다도해가 펼쳐지고, 바닥이 투명한 크리스탈 캐빈에 타면 발밑으로 바다가 그대로 비친다.",
+    "todo": [
+     "크리스탈 캐빈으로 발아래 바다 내려다보기",
+     "고하도 전망대와 데크길 산책",
+     "노을 시간대 탑승 노리기"
+    ],
+    "tip": "왕복권은 유달산·고하도 두 정거장에서 내렸다 다시 탈 수 있다. 바람이 강하면 운행이 멈추므로 당일 운행 여부 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg/500px-%EB%AA%A9%ED%8F%AC_%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4_%ED%92%8D%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "목포근대역사관",
+    "rom": "1900년 붉은 벽돌 영사관, 항구의 근대사를 담다",
+    "meta": [
+     "💴 입장 약 2,000원(변동)",
+     "⏱ 1~2시간",
+     "🏛 사적 제289호",
+     "🚶 근대역사 거리"
+    ],
+    "desc": "1900년에 지어진 붉은 벽돌 르네상스풍 건물로, 일본영사관에서 시청사·도서관을 거쳐 지금은 목포근대역사관 본관으로 쓰인다. 개항기 목포의 사진과 유물이 시간을 거슬러 항구의 옛 얼굴을 보여준다. 건물 주변으로 적산가옥이 남은 근대역사 거리가 이어진다.",
+    "todo": [
+     "본관(1관)과 옛 동양척식주식회사 건물(2관) 함께 보기",
+     "근대역사 거리 골목 산책",
+     "건물 뒤 방공호 흔적 살펴보기"
+    ],
+    "tip": "1관·2관 통합관람권이 있어 함께 보면 편하다. 유달산·근대거리·오거리가 걸어서 이어져 도보 답사에 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg/500px-Amlou2518_%EA%B5%AC_%EB%AA%A9%ED%8F%AC_%EC%9D%BC%EB%B3%B8%EC%98%81%EC%82%AC%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "목포 갓바위",
+    "rom": "삿갓 쓴 사람을 닮은 바닷가 바위, 천연기념물",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🪨 천연기념물 제500호",
+     "🌉 해상 보행교"
+    ],
+    "desc": "영산강 하구, 바닷물과 강물이 만나는 자리에서 오랜 세월 풍화와 해식으로 깎여 마치 삿갓을 쓴 두 사람이 나란히 선 듯한 바위가 되었다. 바위 앞으로 놓인 해상 보행교를 걸으면 물 위에 떠서 갓바위를 눈높이로 마주하게 된다.",
+    "todo": [
+     "해상 보행교 걸으며 바위 가까이서 보기",
+     "밤에 조명 켜진 갓바위 야경 감상",
+     "옆 목포자연사박물관·문화예술회관 함께 둘러보기"
+    ],
+    "tip": "물때에 따라 보이는 모습이 달라진다. 해질 녘과 야간 조명 시간대가 특히 예쁘다. 주변 주차 넉넉한 편.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Korea-Mokpo_Gatbawi_11-01717.JPG/500px-Korea-Mokpo_Gatbawi_11-01717.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Korea-Mokpo_Gatbawi_11-01713.JPG/120px-Korea-Mokpo_Gatbawi_11-01713.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea-Mokpo_Gatbawi_11-01714.JPG/120px-Korea-Mokpo_Gatbawi_11-01714.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼학도",
+    "rom": "세 마리 학의 전설이 깃든, 목포의 상징 섬",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌳 산책·공원",
+     "🕊 김대중 기념관"
+    ],
+    "desc": "유달산을 사모하다 화살에 맞아 떨어진 세 마리 학이 섬이 되었다는 전설의 섬. 한때 육지와 이어졌다가 복원 공사로 다시 물길을 두른 지금은 잔잔한 산책길과 요트 선착장, 김대중노벨평화상기념관이 어우러진 도심 속 쉼터가 되었다.",
+    "todo": [
+     "섬을 두른 산책로 걷기",
+     "김대중노벨평화상기념관 관람",
+     "어린이바다과학관·요트마리나 둘러보기"
+    ],
+    "tip": "차보다 걷기 좋은 곳. 유달산·근대거리에서 멀지 않아 함께 묶기 좋다."
+   },
+   {
+    "name": "서산동 시화골목",
+    "rom": "가파른 언덕 위 옛 어촌 마을, 시가 걸린 골목",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "📸 사진 명소",
+     "🌅 항구 조망"
+    ],
+    "desc": "바다를 등지고 언덕에 다닥다닥 들어선 옛 어촌 동네. 좁고 가파른 골목 담벼락마다 주민들의 삶을 담은 시와 그림이 걸려 있어 '시화골목'이라 불린다. 계단을 올라 보리마당에 다다르면 목포 앞바다와 항구가 발아래로 펼쳐진다.",
+    "todo": [
+     "담벼락 시화 읽으며 골목 오르기",
+     "언덕 위 보리마당에서 항구 내려다보기",
+     "노을 질 무렵 다시 찾기"
+    ],
+    "tip": "골목이 좁고 가파르니 편한 신발로. 실제 주민이 사는 동네이므로 조용히 예의를 지켜 걷는다.",
+    "eat": "목포는 세발낙지·홍어삼합·꽃게무침·갈치조림·민어회로 이름난 '남도 미식의 도시'다. 근대거리와 항구 주변 백반집에서 한 상 가득한 남도 밥상을 만나기 좋다."
+   },
+   {
+    "name": "평화광장·춤추는 바다분수",
+    "rom": "바다 위로 물이 춤추는 밤, 목포의 야경 무대",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 저녁",
+     "⛲ 세계 최대급 바다분수",
+     "🌃 야경"
+    ],
+    "desc": "갓바위 가까운 바닷가 광장. 밤이 되면 바다 위에서 음악에 맞춰 물줄기가 색색의 빛을 입고 솟구치는 '춤추는 바다분수'가 펼쳐진다. 광장을 따라 늘어선 카페와 포장마차 거리가 밤 산책의 흥을 더한다.",
+    "todo": [
+     "저녁 분수쇼 시간 맞춰 관람하기",
+     "광장 카페거리·포장마차 거리 걷기",
+     "갓바위 야경과 함께 묶어 보기"
+    ],
+    "tip": "분수쇼는 대개 4~10월에 저녁 시간대 운영하며 날씨·시즌에 따라 일정이 바뀌니 방문일 운영 여부를 미리 확인한다."
+   }
+  ]
+ },
+ "muan": {
+  "nm": "무안",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 → SRT·KTX로 목포역(약 2시간 30분) 후 시외버스·택시로 무안, 또는 무안국제공항 직항 / 자가용은 서해안고속도로로 서울에서 약 4시간, 부산에서 남해·서해안고속도로",
+  "sep": "여름(7~8월) — 회산백련지의 백련이 저수지를 새하얗게 뒤덮는 시기라 무안이 1년 중 가장 붐비고 가장 예쁘다. 가을·겨울엔 황토갯벌에서 물오른 세발낙지가 제철",
+  "mood": "양파밭과 황토갯벌 사이, 동양에서 가장 넓은 백련(하얀 연꽃)이 피는 조용한 바닷가 고을",
+  "see": "동양 최대 백련 군락지, 국내 첫 갯벌 습지보호지역, 노을 지는 해변과 일출 포구",
+  "spots": [
+   {
+    "name": "회산백련지",
+    "rom": "동양 최대 백련 자생지",
+    "meta": [
+     "🌸 7~8월 백련 만개",
+     "⏱ 반나절",
+     "💴 입장 약 3,000원(변동가능)"
+    ],
+    "desc": "약 10만 평 저수지를 하얀 연꽃이 온통 뒤덮는, 동양에서 가장 넓다는 백련 자생지다. 연잎 위로 놓인 나무 데크와 구름다리를 따라 걷다 보면 사람 키만 한 연대 사이로 바람이 지나가고, 이른 아침이면 이슬 맺힌 흰 꽃봉오리가 하나씩 벌어진다. 붉은 연꽃과 달리 백련은 조용하고 서늘한 인상이라, 한여름인데도 마음이 가라앉는다.",
+    "todo": [
+     "연꽃 데크와 수련 사이 구름다리 건너보기",
+     "이른 아침·해질 무렵 빛 부드러울 때 사진 찍기",
+     "정자에 앉아 백련 향 맡으며 쉬기"
+    ],
+    "tip": "백련은 7월 중순~8월 말이 절정이라 이 시기 무안연꽃축제와 겹치면 붐빈다. 꽃은 오전에 활짝 피고 한낮엔 오므라드니 이른 아침 방문을 추천. 일로역에서 가깝다.",
+    "eat": "연잎밥과 백련차, 근처 식당의 연근 반찬"
+   },
+   {
+    "name": "무안황토갯벌 (무안황토갯벌랜드)",
+    "rom": "국내 첫 갯벌 습지보호지역·람사르 습지",
+    "meta": [
+     "🦀 짱뚱어·칠게",
+     "⏱ 반나절",
+     "🌊 람사르 습지"
+    ],
+    "desc": "붉은 황토가 섞인 무안 갯벌은 2001년 국내에서 처음 갯벌 습지보호지역으로, 2008년엔 람사르 습지로 등록된 살아있는 벌판이다. 물이 빠지면 짱뚱어가 눈을 굴리며 뛰어다니고 칠게가 구멍마다 드나드는 진흙 세상이 펼쳐진다. 생태갯벌과학관과 목재 탐방로가 있어 신발을 버리지 않고도 갯벌 한복판까지 걸어 들어갈 수 있다.",
+    "todo": [
+     "갯벌 위 목재 데크 산책하며 짱뚱어·칠게 관찰",
+     "생태갯벌과학관에서 갯벌 생태 둘러보기",
+     "물때 맞춰 갯벌 체험(운영 시기 확인)"
+    ],
+    "tip": "갯벌은 물때(밀물·썰물)에 따라 풍경이 완전히 달라지니 방문 전 물때표를 확인하면 좋다. 여름엔 햇볕이 강하니 모자·물을 챙긴다.",
+    "eat": "무안 갯벌에서 잡은 세발낙지·기절낙지, 낙지연포탕"
+   },
+   {
+    "name": "톱머리해수욕장",
+    "rom": "소나무숲과 낙조가 좋은 서해 해변",
+    "meta": [
+     "🌅 서해 낙조",
+     "🌲 해송숲",
+     "✈️ 무안공항 근처"
+    ],
+    "desc": "완만한 백사장 뒤로 오래된 소나무숲이 병풍처럼 둘러선 조용한 서해 해변이다. 물이 빠지면 갯벌과 모래가 함께 드러나 아이와 조개를 캐기 좋고, 해질 무렵엔 온 바다가 주황으로 물들어 낙조 명소로 꼽힌다. 무안국제공항이 가까워 이따금 머리 위로 비행기가 낮게 지나가는 풍경도 이곳만의 정취다.",
+    "todo": [
+     "해송숲 그늘에서 쉬며 낙조 기다리기",
+     "썰물 때 갯벌에서 조개·게 찾기",
+     "해변 산책하며 노을 사진 담기"
+    ],
+    "tip": "일몰 시간을 미리 확인하고 30분 전쯤 도착하면 물빠진 갯벌에 하늘이 통째로 비치는 반영을 볼 수 있다. 여름 성수기 외엔 한산한 편.",
+    "eat": "인근 포구의 활어회, 낙지"
+   },
+   {
+    "name": "도리포",
+    "rom": "일출·일몰을 함께 보는 서해 포구",
+    "meta": [
+     "🌅 일출·일몰 명소",
+     "🎣 숭어회",
+     "⏱ 반나절"
+    ],
+    "desc": "서해 바다를 마주한 작은 포구로, 지형 덕에 해가 뜨는 것도 지는 것도 볼 수 있어 사진가들이 즐겨 찾는 곳이다. 방파제 끝 빨간 등대와 잔잔한 만이 어우러져 새벽엔 붉은 해가, 저녁엔 노을이 물 위로 길게 깔린다. 예전 이 앞바다에서 고려청자가 무더기로 건져 올려진 이야기가 남아, 조용한 포구에 오래된 시간이 함께 흐른다.",
+    "todo": [
+     "새벽 일출 또는 저녁 노을 중 하나 노려 방문",
+     "방파제 등대까지 걸어 만 풍경 담기",
+     "제철 숭어회 맛보기"
+    ],
+    "tip": "일출·일몰 시간은 계절마다 다르니 미리 확인. 새벽 바닷바람이 차니 겉옷을 챙긴다.",
+    "eat": "도리포 숭어회, 갯벌 낙지"
+   },
+   {
+    "name": "승달산·목우암",
+    "rom": "무안에서 가장 높은 숲산과 옛 암자",
+    "meta": [
+     "⛰ 해발 333m",
+     "⏱ 반나절",
+     "🍃 완만한 숲길"
+    ],
+    "desc": "높이 333m로 무안에서 가장 높은 산이지만, 완만한 능선과 짙은 숲 덕에 부담 없이 오를 수 있다. 산자락엔 오래된 암자 목우암과 법천사가 숨어 있어, 나무 그늘 짙은 길을 따라 걷다 보면 새소리와 풍경 소리가 번갈아 들린다. 목포대학교를 품에 안은 모양새라 학교 뒤편에서 오르는 길도 잘 나 있다.",
+    "todo": [
+     "목우암·법천사 들러 조용한 산사 분위기 느끼기",
+     "완만한 숲길 따라 정상까지 걷기",
+     "숲 그늘에서 쉬어가기"
+    ],
+    "tip": "본격 등산이라기보다 숲 산책에 가깝지만 편한 신발은 필수. 여름엔 모기·벌레 대비를 한다.",
+    "eat": "하산 후 무안 양파를 넣은 양파한우, 낙지비빔밥"
+   },
+   {
+    "name": "초의선사 유적지",
+    "rom": "한국 다도를 세운 초의선사의 탄생지",
+    "meta": [
+     "🍵 다도 성지",
+     "⏱ 1~2시간",
+     "💴 무료(변동가능)"
+    ],
+    "desc": "우리 차 문화를 정립한 조선 후기의 다승(茶僧) 초의선사가 태어난 곳으로, 삼향읍 야트막한 언덕에 유적지와 다원이 조성돼 있다. 초의선원과 연못, 차밭을 천천히 걸으며 '차 한 잔에도 도가 있다'던 옛 스님의 마음을 더듬어 볼 수 있다. 번잡함 없이 고요해서, 백련지·갯벌을 돌다 잠시 숨을 고르기 좋은 자리다.",
+    "todo": [
+     "초의선원과 다원 산책하기",
+     "연못과 정자에서 차 한 잔의 여유 느끼기",
+     "다도 관련 전시 둘러보기"
+    ],
+    "tip": "규모가 크진 않아 1~2시간이면 충분하다. 조용한 성지이니 차분한 마음으로 둘러보길.",
+    "eat": "백련잎차, 무안 전통 다과"
+   }
+  ]
+ },
+ "muju": {
+  "nm": "무주",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 센트럴시티·남부터미널에서 무주공용버스터미널 직통 버스로 약 2시간 40분~3시간. 자가용은 대전통영고속도로 무주IC로 빠지면 금방. 부산·대구 쪽에서도 고속도로로 닿는다.",
+  "sep": "겨울(12~2월)이 첫손. 향적봉 능선에 서리꽃(상고대)과 눈꽃이 피고, 국립공원 안 유일한 스키장이 열린다. 단풍철 가을 적상산, 반딧불이가 나는 한여름 밤도 각각의 명장면.",
+  "mood": "곤돌라 한 번에 1,500m 설경 능선에 올라서고, 계곡물 소리 따라 걷다 여름밤엔 반딧불이가 켜지는 곳. 무주는 '깊은 산이 주는 것'으로 이야기하는 고장이다.",
+  "see": "덕유산 향적봉 설경과 눈꽃, 구천동 계곡 트레킹, 붉게 물드는 적상산성, 세계 태권도의 성지 태권도원.",
+  "spots": [
+   {
+    "name": "덕유산 향적봉",
+    "rom": "곤돌라로 오르는 1,614m 눈꽃 능선",
+    "meta": [
+     "🚠 곤돌라 왕복 약 1만원대(변동)",
+     "❄️ 겨울 상고대·눈꽃",
+     "⛰️ 향적봉 1,614m"
+    ],
+    "desc": "무주덕유산리조트에서 곤돌라를 타면 15분 만에 설천봉(1,520m)에 내려선다. 거기서 향적봉 정상까지는 20분 남짓, 겨울이면 나무마다 서리꽃과 눈꽃이 하얗게 피어 능선 전체가 반짝인다. 사방으로 겹겹이 늘어선 산줄기를 내려다보면, 이 높이까지 이렇게 쉽게 왔다는 게 미안할 만큼 풍경이 크다.",
+    "todo": [
+     "향적봉에서 중봉 방향으로 조금 더 걸어 탁 트인 능선 감상하기",
+     "정상 아래 향적봉대피소에서 몸 녹이기",
+     "맑은 날 노을·일출 시간대에 맞춰 오르기"
+    ],
+    "tip": "정상은 한여름에도 바람이 매섭게 차다. 겨울엔 아이젠·방한장비 필수. 곤돌라는 기상·정비에 따라 운휴가 잦으니 당일 운행 여부를 꼭 확인하고 출발한다. 요금은 변동될 수 있다.",
+    "eat": "산 아래 구천동 상가에서 산채비빔밥과 어수리·곰취 같은 봄나물 정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/500px-Deogyusan_from_Hyangjeok_Peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg/120px-%EB%8D%95%EC%9C%A0%EC%82%B0-1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무주 구천동 계곡",
+    "rom": "33경을 품은 덕유산 물길",
+    "meta": [
+     "💧 무료",
+     "🥾 계곡 트레킹",
+     "🍁 여름 피서·가을 단풍"
+    ],
+    "desc": "덕유산 북쪽 자락을 따라 흐르는 긴 계곡으로, 예부터 절경마다 이름을 붙여 '구천동 33경'이라 불렀다. 나제통문에서 시작해 백련사에 이르는 물길을 따라 걷다 보면 맑은 소(沼)와 너럭바위, 폭포가 번갈아 나타난다. 한여름 발을 담그면 시릴 만큼 물이 차고, 매미 소리와 물소리만 가득해 세상과 잠깐 끊긴 기분이 든다.",
+    "todo": [
+     "구천동 어사길(무장애 데크길)을 따라 계곡 옆으로 걷기",
+     "물길 끝 백련사까지 올라 향적봉 등산로 입구 확인하기",
+     "가을엔 단풍이 물에 비치는 지점에서 사진 남기기"
+    ],
+    "tip": "계곡 하부 어사길 구간은 경사가 완만해 가족·초보자도 걷기 좋다. 백련사~향적봉 구간부터는 본격 등산이니 시간과 체력을 넉넉히 잡는다.",
+    "eat": "구천동 초입 식당가의 표고버섯 요리와 흑돼지 석쇠구이."
+   },
+   {
+    "name": "적상산",
+    "rom": "붉은 치마를 두른 산성의 산",
+    "meta": [
+     "🍁 가을 단풍 명산",
+     "🏯 적상산성(사적)",
+     "🚗 정상부 드라이브"
+    ],
+    "desc": "가을이면 온 산이 붉게 물들어 '붉은 치마를 입은 산(赤裳)'이라 불린다. 해발 1,034m 정상부까지 굽이굽이 도로가 이어지고, 그 위에 고려·조선의 산성(적상산성)과 안국사, 조선왕조실록을 보관하던 사고 터가 남아 있다. 능선 근처 800m 고지에 놓인 적상호의 잔잔한 수면이 단풍과 겹칠 때가 이 산의 절정이다.",
+    "todo": [
+     "안국사에서 산성 위로 올라 발아래 단풍 바다 내려다보기",
+     "적상호 둘레를 천천히 돌며 반영 감상하기",
+     "적상산 사고지에서 실록을 지키던 옛 이야기 떠올리기"
+    ],
+    "tip": "단풍 절정은 대개 10월 말~11월 초로 짧다. 이 시기 정상부 도로는 정체가 심하니 이른 아침에 오르는 편이 낫다.",
+    "eat": "무주 읍내의 어죽(민물고기를 곤 얼큰한 죽)과 다슬기수제비.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MJ-JS-JSG14.jpg/500px-MJ-JS-JSG14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무주 덕유산 리조트",
+    "rom": "국립공원 안 유일의 사계절 산악 리조트",
+    "meta": [
+     "⛷️ 겨울 스키·보드",
+     "🚠 설천봉 곤돌라",
+     "🏔️ 최대 낙차 775m"
+    ],
+    "desc": "1990년 문을 연, 국립공원 안에 자리한 국내 유일의 스키장이다. 겨울이면 21면의 슬로프가 열리고, 정상 설천봉(1,520m)까지 곤돌라가 오른다. 눈 위를 미끄러지다 고개를 들면 덕유산 능선의 설경이 배경으로 펼쳐지는, 스키장이자 전망대 같은 곳이다. 봄·여름·가을엔 곤돌라만 타고 향적봉 산책을 나서는 사람도 많다.",
+    "todo": [
+     "초보자용 완만한 슬로프부터 단계별로 즐기기",
+     "비수기엔 곤돌라만 타고 설천봉·향적봉 걷기",
+     "리조트 베이스의 상가·온천에서 하루 마무리"
+    ],
+    "tip": "겨울 성수기·주말은 리프트권과 숙소가 빠르게 마감되니 미리 예약한다. 장비·의류는 현장 대여도 가능. 이용료는 시즌과 시간대에 따라 크게 달라진다.",
+    "eat": "리조트 인근에서 즐기는 뜨끈한 산채정식과 오미자차.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg/500px-%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MJ-Deogyusan.jpg/500px-MJ-Deogyusan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "태권도원",
+    "rom": "세계 태권도가 모이는 성지",
+    "meta": [
+     "🥋 세계 태권도 성지",
+     "🏛️ 태권도박물관",
+     "🌳 광활한 산중 캠퍼스"
+    ],
+    "desc": "231만㎡ 산자락에 조성된, 세계에서 가장 큰 태권도 전용 공간이다. 2014년 문을 연 이곳은 도전·도약·도달의 세 구역으로 나뉘어 체험관, 박물관, 상설 공연장, 수련장이 흩어져 있다. 종주국의 무예를 배우러 세계 각국에서 수련생이 모여드는 현장이라, 산속인데도 어딘가 국제적인 공기가 흐른다.",
+    "todo": [
+     "태권도박물관에서 태권도의 뿌리와 세계화 과정 둘러보기",
+     "상설 시범 공연 관람하기",
+     "언덕 위 전망 공간에 올라 도원 전경 내려다보기"
+    ],
+    "tip": "부지가 매우 넓어 도보로만 다니면 지친다. 관람 동선과 공연 시간을 입구에서 미리 확인하고 움직이는 게 좋다.",
+    "eat": "설천면 일대의 산나물 백반과 무주 사과로 만든 디저트."
+   },
+   {
+    "name": "나제통문",
+    "rom": "바위를 뚫은 옛 신라·백제 경계의 문",
+    "meta": [
+     "🪨 암굴 통로",
+     "📜 경계 설화",
+     "🚶 구천동 33경 제1경"
+    ],
+    "desc": "커다란 바위 봉우리를 뚫어 만든 좁은 굴문으로, 예부터 신라와 백제의 국경이 이 문을 사이에 두고 나뉘었다는 이야기가 전해진다. 실제로 이 문을 경계로 양쪽 마을의 말투와 풍습이 달랐다고도 한다. 구천동 33경의 첫 번째 경치로 꼽히며, 차로 지나치기 쉬운 자리에 뜻밖의 옛이야기를 품고 있다.",
+    "tip": "굴문 앞은 도로변이라 차량 통행이 있으니 주차 후 걸어서 살펴본다. 구천동으로 들어가는 길목에 있어 계곡 여정과 함께 묶기 좋다.",
+    "eat": "인근 무풍·설천 장터의 손두부와 청국장."
+   },
+   {
+    "name": "무주 반딧불이 · 반딧불축제",
+    "rom": "청정 무주가 밝히는 여름밤의 빛",
+    "meta": [
+     "✨ 여름밤 반딧불이",
+     "🌱 천연기념물 서식지",
+     "🎪 여름 대표 축제"
+    ],
+    "desc": "무주는 반딧불이가 살 만큼 물과 공기가 맑다는 걸 브랜드로 삼은 고장이다. 그 상징이 1997년 시작된 반딧불축제로, 해마다 여름 무주 일원에서 열린다. 밤이 깊으면 풀숲 위로 초록빛 불빛이 점점이 떠올라 천천히 흐르는데, 도시에서는 좀처럼 볼 수 없는 이 장면 하나를 보려고 사람들이 무주를 찾는다.",
+    "todo": [
+     "축제 기간 반딧불이 관찰 프로그램 참여하기",
+     "낮에는 반디랜드 곤충박물관·천문과학관 둘러보기",
+     "빛 공해가 적은 서식지에서 눈이 어둠에 익도록 기다리기"
+    ],
+    "tip": "반딧불이는 대개 6~7월 밤에 활동하며, 축제 일정은 해마다 다르니 출발 전 그해 공식 일정을 확인한다. 관찰 시 손전등·플래시 사용은 삼가는 게 예의다.",
+    "eat": "축제장 주변 무주 사과·머루 가공식품과 지역 먹거리 부스."
+   }
+  ]
+ },
+ "mungyeong": {
+  "nm": "문경",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 동서울터미널→문경·점촌행 시외버스 약 2시간, 자가용은 중부내륙고속도로 문경새재IC로 약 2시간 / 부산에서 약 3시간. 문경엔 여객 기차역이 없어 버스·자가용이 편하다.",
+  "sep": "가을(10월 말~11월 초). 문경새재 옛길과 계곡·산성이 온통 단풍으로 물들 때가 절정이고 걷기에도 가장 좋다. 9~10월은 문경 오미자 수확철.",
+  "mood": "과거 보러 한양 넘던 선비들의 발길이 아직 흙길에 남은 곳. 새재를 넘으면, 산성과 계곡과 옛 절이 골골이 숨은 내륙 산고을 문경이다.",
+  "see": "영남대로 옛길·능선 위 산성·화강암 계곡·천년 고찰이 촘촘한, 걷기 좋은 산군.",
+  "spots": [
+   {
+    "name": "문경새재",
+    "rom": "영남대로 옛길, 세 관문이 지키는 과거길",
+    "meta": [
+     "💴 도립공원 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🚶 맨흙길 산책"
+    ],
+    "desc": "조선 선비들이 과거 보러 한양으로 넘던 고갯길. 주흘관·조곡관·조령관 세 관문 사이로 흙길이 이어지고, 계곡물 소리와 노송 그늘이 걸음마다 따라온다. 포장 없는 맨흙길이라 신을 벗고 맨발로 걷는 사람도 많다.",
+    "todo": [
+     "제1관문(주흘관)부터 옛길 따라 관문 넘어보기",
+     "새재 오픈세트장에서 사극 배경 둘러보기",
+     "조곡폭포에서 잠시 쉬어가기"
+    ],
+    "tip": "제1~2관문 왕복만도 넉넉히 두 시간. 오픈세트장은 별도 입장료(성인 약 2,000원, 변동가능). 단풍철 주말은 주차장이 일찍 찬다.",
+    "eat": "새재 입구 산채비빔밥과 문경 약돌돼지구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/500px-Saejae_third_gate_backside.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/39/Mungyeongsaejae_a_control_office.jpg/120px-Mungyeongsaejae_a_control_office.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/35/Old_road_museum.jpg/120px-Old_road_museum.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "진남교반·고모산성",
+    "rom": "강물이 산을 휘도는 경북팔경 제1경",
+    "meta": [
+     "💴 무료",
+     "⏱ 두세 시간",
+     "🏞 절벽·성벽길",
+     "📷 전망"
+    ],
+    "desc": "영강이 오정산 자락을 U자로 휘감아 도는 협곡, 그 위 능선에 신라 옛 산성 고모산성이 얹혀 있다. 성벽을 따라 걸으면 발아래로 강과 철교·도로가 겹쳐 흐르고, 벼랑에 낸 토끼비리 옛길이 영남대로의 아찔함을 그대로 보여준다.",
+    "todo": [
+     "고모산성 성벽길 한 바퀴 걷기",
+     "토끼비리 벼랑 옛길 체험",
+     "전망 좋은 곳에서 진남교반 굽이 내려다보기"
+    ],
+    "tip": "오르막이 있어 편한 신발 권장. 성벽 위는 난간 없는 구간이 있으니 아이 동반 시 주의.",
+    "eat": "마성·가은 일대 문경 약돌한우"
+   },
+   {
+    "name": "문경단산 모노레일",
+    "rom": "능선을 타고 오르는 왕복 관광 모노레일",
+    "meta": [
+     "💴 왕복 약 1만원대",
+     "⏱ 두 시간",
+     "🚠 능선 전망",
+     "🪂 활공장"
+    ],
+    "desc": "단산 정상 부근까지 궤도차가 천천히 능선을 타고 오른다. 창밖으로 문경 시내와 주흘산·백화산 능선이 겹겹이 펼쳐지고, 정상 활공장에선 패러글라이더가 하늘로 떠오르는 장면을 볼 수 있다.",
+    "todo": [
+     "모노레일 타고 단산 전망대 오르기",
+     "활공장에서 능선 파노라마 감상",
+     "맑은 날 패러글라이딩 이륙 구경"
+    ],
+    "tip": "인기 시간대는 대기가 있으니 도착 즉시 표부터. 요금·운행 시간은 시즌마다 바뀌니 방문 전 확인.",
+    "eat": "하산 후 문경 오미자청·오미자막걸리"
+   },
+   {
+    "name": "문경석탄박물관",
+    "rom": "폐광 은성갱을 걷는 근대 탄광 체험",
+    "meta": [
+     "💴 자유이용권 약 1만원대",
+     "⏱ 반나절",
+     "👨‍👩‍👧 가족",
+     "⛏ 실제 갱도"
+    ],
+    "desc": "1994년 문 닫은 은성탄광 자리에 들어선 석탄박물관으로, 지금은 문경에코월드 테마파크 안에 있다. 실제 은성갱 갱도를 따라 들어가면 서늘한 공기와 광부들의 작업 현장이 재현돼 있고, 모노레일·거미열차 같은 체험 시설이 아이들에게 인기다.",
+    "todo": [
+     "실제 은성갱 갱도 체험관 걷기",
+     "광부 생활·탄광 장비 전시 둘러보기",
+     "문경에코월드 모노레일·거미열차 타보기"
+    ],
+    "tip": "갱도 안은 여름에도 서늘하니 겉옷 하나 챙기면 좋다. 자유이용권과 박물관 단독 관람 요금이 다르니 목적에 맞게 선택.",
+    "eat": "가은역 근처 시골 백반과 문경 약돌돼지",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MG-MGCM-En.jpg/500px-MG-MGCM-En.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MG-MGCM-EC1.jpg/960px-MG-MGCM-EC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MG-MGCM-EC2.jpg/960px-MG-MGCM-EC2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대야산 용추계곡",
+    "rom": "하트 모양 소(沼)가 새겨진 화강암 계곡",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "💧 여름 물놀이",
+     "🥾 등산"
+    ],
+    "desc": "매끈한 화강암 반석을 타고 흘러내린 물이, 하트 모양으로 파인 용추에 옥빛으로 고인다. 최치원이 새겼다는 글씨가 바위에 남아 있고, 여름이면 발을 담그러 사람들이 모인다. 대야산 정상으로 이어지는 백두대간 등산로의 들머리이기도 하다.",
+    "todo": [
+     "하트 모양 용추 소(沼) 보기",
+     "반석 계곡 물길 따라 걷기",
+     "대야산 정상까지 백두대간 등반"
+    ],
+    "tip": "정상 등반은 왕복 4~5시간의 본격 산행. 계곡만 볼 거면 주차장에서 20~30분이면 닿는다.",
+    "eat": "가은·완장리 일대 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김룡사",
+    "rom": "운달산 품에 안긴 고요한 천년 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 한두 시간",
+     "🍂 숲길",
+     "🧘 고요"
+    ],
+    "desc": "신라 진평왕 때 창건된 천년 절집. 전나무·잣나무 숲길을 지나면 고풍스러운 목조 전각들이 운달산 아래 나직이 앉아 있다. 관광지의 번잡함이 없어 발소리조차 조심스러운, 오래 머물고 싶은 절이다.",
+    "todo": [
+     "일주문에서 절까지 숲길 걷기",
+     "고색창연한 목조 전각 둘러보기",
+     "대성암 비구니 암자 방향 산책"
+    ],
+    "tip": "조용한 수행 사찰이니 정숙. 가을 단풍과 이른 아침 안개 낀 풍경이 특히 아름답다.",
+    "eat": "산북면 일대 묵밥·산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg/500px-%EB%8C%80%EC%84%B1%EC%95%94_%EA%B8%88%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "봉암사",
+    "rom": "일 년에 단 하루만 문 여는 희양산 수행 도량",
+    "meta": [
+     "💴 무료",
+     "📅 부처님오신날만 개방",
+     "⛰ 희양산 병풍",
+     "🧘 청정 선원"
+    ],
+    "desc": "희양산 화강암 봉우리가 병풍처럼 둘러선 자리에 앉은 조계종 특별 수행도량. 스님들의 참선을 위해 평소엔 산문을 닫아걸고, 부처님오신날 단 하루만 문을 연다. 그 하루의 고요와 청정함 때문에 전국에서 사람들이 찾아온다.",
+    "todo": [
+     "부처님오신날 개방일에 맞춰 방문",
+     "희양산 봉우리와 어우러진 가람 보기",
+     "지증대사탑 등 문화재 둘러보기"
+    ],
+    "tip": "평상시엔 입구에서 통제되어 들어갈 수 없다. 방문은 반드시 부처님오신날(음력 4월 8일) 개방일에 맞춰야 한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg/500px-%EB%B4%89%EC%95%94%EC%82%AC_%EC%A0%84%EA%B2%BD2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg/330px-Stele_accompanying_stupa_of_buddhist_priest_Jijeungdaesa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "naju": {
+  "nm": "나주",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산역에서 KTX로 나주역까지 약 1시간 50분. 광주송정역에서 무궁화·버스로도 30분 거리라 광주와 묶어 다니기 좋다. 부산에선 광주까지 온 뒤 갈아타는 편이 빠르다.",
+  "sep": "봄. 4월이면 배밭 가득 하얀 배꽃이 피고 나주읍성 성벽엔 벚꽃이 겹친다. 조용한 산사 단풍을 원한다면 가을 불회사도 좋다.",
+  "mood": "천 년 동안 전라도의 중심이었던 목(牧)의 고을 — 서울을 본떠 '작은 한양'이라 불린 읍성 안을, 지금도 천천히 걷는다.",
+  "see": "고려·조선 천년의 관아와 네 성문, 마한의 거대한 흙무덤, 그리고 홍어 익어가는 영산강 포구.",
+  "spots": [
+   {
+    "name": "나주 금성관",
+    "rom": "천년 목사고을의 심장, 규모가 웅장한 조선의 객사",
+    "meta": [
+     "🏛 조선시대 객사·보물",
+     "💴 무료",
+     "⏱ 1시간"
+    ],
+    "desc": "나주는 천 년 넘게 전라도를 다스린 '목(牧)'의 고을이었고, 금성관은 그 위세를 보여주는 관청 객사다. 정면 다섯 칸의 팔작지붕이 낮은 담장 위로 묵직하게 앉아 있어, 마당에 서면 이 작은 도시가 한때 얼마나 큰 고을이었는지 실감이 난다. 전남에 몇 남지 않은 객사 가운데 규모가 웅장한 편으로 꼽힌다.",
+    "todo": [
+     "넓은 마당에서 지붕 처마선 사진 담기",
+     "바로 옆 나주목 관아·목사내아 함께 둘러보기"
+    ],
+    "tip": "관아 안 '금학헌'은 하룻밤 묵을 수 있는 한옥 숙소로도 운영된다. 읍성 시가지 한복판이라 걸어서 다 돌 수 있다.",
+    "eat": "근처 나주곰탕 거리 — 기름기 걷어낸 맑은 국물의 나주곰탕이 원조다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg/500px-%EB%82%98%EC%A3%BC%EA%B8%88%EC%84%B1%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Najumok_03.JPG/250px-Najumok_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "나주읍성",
+    "rom": "네 성문이 되살아난 '작은 한양'의 옛 거리",
+    "meta": [
+     "🏯 사적 제337호",
+     "💴 무료",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "고려 때 자리 잡아 조선에 들어 고쳐 쌓은 읍성으로, 남고문·동점문·영금문·북망문 네 문이 차례로 복원돼 지금은 성문 사이로 오래된 골목이 이어진다. 조선의 도성 한양을 본떠 지었다 하여 '작은 서울'로 불렸다. 남고문 누각 아래에 서면 옛 고을의 정문을 지나 성 안으로 들어서는 기분이 든다.",
+    "todo": [
+     "남고문 누각에 올라 읍성 안 조망하기",
+     "성문을 잇는 옛 골목과 근대 건물 산책"
+    ],
+    "tip": "봄이면 성벽 주변 벚꽃이 좋다. 읍성이 시가지와 겹쳐 있어 금성관·향교까지 도보로 묶기 편하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Naju_castle_west_gate02.jpg/500px-Naju_castle_west_gate02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립나주박물관과 반남고분군",
+    "rom": "마한의 거대 흙무덤 곁에 세운 고고학 박물관",
+    "meta": [
+     "🏛 국립·무료",
+     "⏱ 반나절",
+     "🌾 마한 유적"
+    ],
+    "desc": "반남면 들판에는 봉긋한 흙무덤들이 낮은 언덕처럼 늘어서 있는데, 1500년 전 이 땅에 있던 마한 사람들의 무덤이다. 그 고분군 바로 옆에 세운 국립나주박물관은 신촌리 무덤에서 나온 금동관(국보)을 비롯해 영산강 유역의 유물을 모아 보여준다. 무덤 사이를 걷다가 박물관 안으로 들어가는 동선이 이곳만의 특별함이다.",
+    "todo": [
+     "신촌리 금동관·금동신발 실물 마주하기",
+     "박물관 곁 반남고분군 사이 흙길 걷기"
+    ],
+    "tip": "입장 무료, 월요일 휴관. 고분군은 그늘이 적으니 볕 좋은 날엔 모자와 편한 신발을 챙기자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg/500px-Crown_of_Baekje_National_Treasure_of_Korea_No295.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "나주향교",
+    "rom": "성균관 다음 규모라 일컫던 호남 최대의 향교",
+    "meta": [
+     "🏛 보물 대성전",
+     "💴 무료",
+     "⏱ 40분"
+    ],
+    "desc": "조선의 지방 교육기관 가운데 규모가 커서 '성균관 다음'이라 불렸던 향교로, 공자를 모신 대성전(보물)이 웅장하게 서 있다. 공부하던 명륜당보다 제사 공간인 대성전을 앞세운 특이한 배치라, 이 고을이 학문과 예를 얼마나 무겁게 여겼는지가 담장 안에 그대로 배어 있다. 사람이 적어 마당이 늘 조용하고 단정하다.",
+    "todo": [
+     "웅장한 대성전 앞에서 옛 배치 읽어보기",
+     "한적한 향교 마당과 나무 그늘 거닐기"
+    ],
+    "tip": "나주읍성·금성관과 가까워 걸어서 이어 볼 수 있다. 봄·가을 제향 때가 아니면 대체로 고요하다."
+   },
+   {
+    "name": "영산포",
+    "rom": "홍어 익는 냄새와 강 위 황포돛배, 내륙의 등대",
+    "meta": [
+     "🐟 삭힌 홍어",
+     "🚢 황포돛배",
+     "🌅 강변 노을"
+    ],
+    "desc": "옛날 서해에서 배들이 영산강을 거슬러 올라와 닿던 큰 포구가 영산포다. 흑산도 홍어를 실은 배가 오래 걸려 도착하는 사이 홍어가 삭으면서 이곳 특유의 삭힌 홍어 문화가 생겼고, 지금도 강변엔 홍어 거리가 남아 있다. 바다가 아닌데도 강가에 서 있는 영산포 등대와, 강물 위를 오가는 황포돛배가 사라진 뱃길의 기억을 붙들고 있다.",
+    "todo": [
+     "홍어거리에서 삭힌 홍어 삼합 도전하기",
+     "강가 영산포 등대와 황포돛배 구경",
+     "저녁 강둑에서 노을 산책"
+    ],
+    "tip": "삭힌 홍어는 향이 아주 강하다. 처음이라면 홍어에 돼지고기·묵은지를 곁들이는 '삼합'으로 시작하는 편이 좋다.",
+    "eat": "영산포 홍어 삼합, 얼큰한 홍어애국."
+   },
+   {
+    "name": "불회사",
+    "rom": "덕룡산 비자나무 숲에 폭 안긴 고요한 산사",
+    "meta": [
+     "⛰ 산사",
+     "🍁 가을 단풍",
+     "🗿 석장승"
+    ],
+    "desc": "나주 남쪽 덕룡산 자락, 비자나무와 차나무 숲에 폭 안긴 절이다. 일주문을 지나 오르면 화려한 다포 장식의 대웅전(보물)이 나오고, 절 어귀엔 부정을 막으려 세운 돌장승 한 쌍이 익살스러운 얼굴로 길을 지킨다. 붐비지 않아 숲길과 절 마당의 고요가 온전히 내 것이 된다.",
+    "todo": [
+     "대웅전 처마의 화려한 장식 자세히 보기",
+     "입구 돌장승의 익살스러운 표정 찾기",
+     "비자나무 숲길 천천히 걷기"
+    ],
+    "tip": "가을 단풍철이 특히 아름답다. 산속이라 대중교통이 뜸하니 자동차로 가는 편이 마음 편하다."
+   },
+   {
+    "name": "빛가람 호수공원",
+    "rom": "옛 들판 위에 새로 생긴 도시의 호수와 야경",
+    "meta": [
+     "🌊 호수공원",
+     "🌃 야경",
+     "⏱ 1~2시간"
+    ],
+    "desc": "나주 동쪽, 논밭이던 자리에 광주·전남 혁신도시가 들어서며 만든 넓은 인공 호수공원이다. 물가를 따라 산책로와 잔디밭이 펼쳐지고, 저녁이면 호수에 도시 불빛이 비쳐 낮에 걷던 옛 읍성과는 사뭇 다른 풍경을 준다. 나주의 천 년 옛길과 갓 태어난 신도시를 하루 안에 오가는 대비가 재미있다.",
+    "todo": [
+     "호수 둘레길 한 바퀴 걷기",
+     "해 진 뒤 호수에 비친 도시 야경 담기"
+    ],
+    "tip": "낮의 역사 여행 뒤 저녁 산책 코스로 붙이기 좋다. 주차 공간이 넉넉하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naju-map1.png/500px-Naju-map1.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "namhae": {
+  "nm": "남해",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 자가용 약 4시간 30분(남해고속도로 → 남해대교·노량대교), 부산에서 약 2시간. 대중교통은 서울남부·부산서부터미널에서 남해공용터미널行 시외버스.",
+  "sep": "늦봄~초여름(5~6월)이 으뜸 — 다랭이논에 물이 차 하늘을 담고 유채·보리가 물든다. 여름은 상주 해수욕, 10월은 독일마을 맥주축제, 겨울 새벽은 보리암 일출.",
+  "mood": "빨간 지붕 독일마을부터 바다까지 흘러내린 다랭이논까지 — 섬 하나에 이국과 옛 정취가 겹쳐 있는 남해.",
+  "see": "독일마을·다랭이논·보리암 일출·죽방렴, 그리고 노량 앞바다에 남은 이순신의 마지막.",
+  "spots": [
+   {
+    "name": "남해 독일마을",
+    "rom": "파독 광부·간호사가 돌아와 지은 붉은 지붕 마을",
+    "meta": [
+     "🍺 맥주축제 10월",
+     "🏘️ 이국적 전망",
+     "☕ 카페·전망"
+    ],
+    "desc": "1960년대 독일로 떠났던 파독 광부와 간호사들이 노년에 돌아와 정착한 마을. 삼동면 물건리, 물건항 앞바다가 내려다보이는 언덕에 빨간 지붕과 하얀 벽의 독일식 주택이 층층이 들어서 있다. 골목을 오르내리며 이국적인 풍경을 걷다 보면 여기가 남해라는 게 잠시 잊힌다.",
+    "todo": [
+     "언덕 위 카페에서 물건 앞바다 내려다보기",
+     "파독전시관에서 그들이 걸어온 이야기 읽기",
+     "10월 옥토버페스트 맞춰 가보기"
+    ],
+    "tip": "주말·성수기엔 마을 안 주차가 붐빈다. 아래 공영주차장에 대고 걸어 오르는 편이 편하다.",
+    "eat": "독일식 소시지와 수제 맥주, 전망 좋은 마을 카페의 커피.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/500px-German_Village_in_South_Korea_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/German_Village_in_South_Korea_05.jpg/250px-German_Village_in_South_Korea_05.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg/250px-German_Village_in_Namhae%2C_South_Korea_on_August_31st%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가천 다랭이마을",
+    "rom": "바다까지 계단으로 이어진 논, 명승 제15호",
+    "meta": [
+     "🌾 명승 제15호",
+     "🌊 바다 전망",
+     "🚶 반나절"
+    ],
+    "desc": "가파른 바닷가 비탈을 한 층 한 층 돌로 쌓아 만든 다랑이논이 바다까지 흘러내린다. 손바닥만 한 논을 백 개, 이백 개씩 일군 옛사람들의 노동이 그대로 풍경이 됐다. 봄이면 유채가, 초여름이면 논에 담긴 물이 하늘을 담아 반짝인다.",
+    "todo": [
+     "마을 아래 밥무덤과 암수바위 둘러보기",
+     "다랑이논 사이 산책로 천천히 걷기",
+     "바다 전망 카페에서 한 박자 쉬기"
+    ],
+    "tip": "논 사이 길이 좁고 미끄러우니 편한 신발. 물 담긴 논은 5~6월 모내기 무렵이 가장 예쁘다.",
+    "eat": "마을 식당의 멸치쌈밥과 막걸리 한 잔.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg/500px-%EB%82%A8%ED%95%B4_%EA%B0%80%EC%B2%9C%EB%A7%88%EC%9D%84_%EB%8B%A4%EB%9E%91%EC%9D%B4_%EB%85%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NH-Da-Klgr1.jpg/500px-NH-Da-Klgr1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg/500px-Namhae-gun_Gachon_Darangi_%28Daraengi%29_Village_2025-05-28_A.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보리암",
+    "rom": "금산 정상의 기도 도량, 남해 바다 일출",
+    "meta": [
+     "⛰️ 금산 정상",
+     "🌅 일출 명소",
+     "🙏 관음 기도처"
+    ],
+    "desc": "금산 꼭대기 벼랑에 걸터앉은 암자. 해수관음상 아래로 한려수도의 섬과 바다가 아득히 펼쳐진다. 양양 낙산사·강화 보문사와 함께 우리나라 3대 기도처로 꼽혀, 새벽 일출을 보러 오르는 발길이 사철 끊이지 않는다.",
+    "todo": [
+     "해수관음상 앞에서 앞바다 조망하기",
+     "일출·일몰 시간 맞춰 오르기",
+     "금산 정상 봉수대까지 걸어보기"
+    ],
+    "tip": "주차장에서 셔틀 또는 도보 20~30분. 새벽 일출은 어둡고 추우니 방한·조명 준비. 입장·주차 요금은 변동될 수 있으니 방문 전 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Boriam.jpg/500px-Boriam.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "상주은모래비치",
+    "rom": "금산 아래 반달 모양 은빛 백사장",
+    "meta": [
+     "🏖️ 여름 해수욕",
+     "🌊 얕은 수심",
+     "⏱ 반나절"
+    ],
+    "desc": "금산이 병풍처럼 둘러친 반달 모양의 백사장. 이름처럼 은빛 고운 모래가 넓게 깔려 있고 물이 얕아, 여름이면 가족 단위 피서객이 모인다. 해가 지면 뒤편 솔숲 사이로 캠핑 불빛이 하나둘 켜진다.",
+    "todo": [
+     "얕은 물에서 물놀이",
+     "솔숲 그늘에서 쉬어가기",
+     "해질녘 백사장 산책"
+    ],
+    "tip": "여름 성수기엔 주차·입장이 붐빈다. 오전 일찍 가면 한결 한적하다.",
+    "eat": "주변 횟집의 자연산 회와 시원한 물회."
+   },
+   {
+    "name": "이순신순국공원(관음포)",
+    "rom": "노량해전, 이순신이 순국한 바다",
+    "meta": [
+     "⚓ 사적 제232호",
+     "🌊 노량 앞바다",
+     "🕯 이락사"
+    ],
+    "desc": "임진왜란의 마지막 격전, 노량해전에서 이순신 장군이 최후를 맞은 곳. \"나의 죽음을 알리지 말라\"는 그 말이 남은 바다가 눈앞에 있다. 이락사와 첨망대에 서면 장군이 마지막으로 바라봤을 앞바다가 그대로 펼쳐진다.",
+    "todo": [
+     "이락사에서 유허비와 사당 둘러보기",
+     "첨망대에 올라 노량 앞바다 조망",
+     "순국공원 전시관에서 노량해전 되짚기"
+    ],
+    "tip": "관음포 일대는 넓으니 이락사·첨망대·전시관을 정해 동선을 잡는 편이 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg/500px-Encykorea-%EB%82%A8%ED%95%B4_%EA%B4%80%EC%9D%8C%ED%8F%AC_%EC%9D%B4%EC%B6%A9%EB%AC%B4%EA%B3%B5_%EC%9C%A0%EC%A0%81_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "남해대교",
+    "rom": "노량 물목을 건너는 붉은 현수교, 1973년",
+    "meta": [
+     "🌉 현존 최고(最古) 현수교",
+     "🚗 남해의 관문",
+     "🌊 노량해협"
+    ],
+    "desc": "1973년 개통해 남해를 뭍과 처음 이어준 붉은 현수교. 하동과 남해 사이 노량 물목을 가로지르며, 오랫동안 '남해에 들어왔다'는 신호였다. 지금은 옆에 놓인 노량대교와 나란히 서서 옛것과 새것이 한 풍경을 이룬다.",
+    "todo": [
+     "다리 아래 세찬 노량 물목 내려다보기",
+     "밤에 조명 켜진 다리 보기",
+     "인근 충렬사 함께 들르기"
+    ],
+    "tip": "서울 방향에서 남해로 들어오는 관문. 주변에 전망 포인트와 주차 공간이 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Namhae_Bridge-edit.jpg/500px-Namhae_Bridge-edit.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Namhaebridge.jpg/500px-Namhaebridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "지족해협 죽방렴",
+    "rom": "물살에 기대 멸치를 잡는 대나무 그물, 명승 제71호",
+    "meta": [
+     "🎣 명승 제71호",
+     "🐟 죽방멸치",
+     "🌊 지족해협"
+    ],
+    "desc": "창선과 남해 본섬 사이 좁은 지족해협, 세찬 물살에 V자로 대나무 발을 세워 밀려드는 물고기를 가두는 오랜 전통 어법. 썰물 때 갯벌 위로 드러난 죽방렴은 그 자체로 바다에 놓인 조형물 같다. 여기서 잡힌 죽방멸치는 예부터 으뜸으로 친다.",
+    "todo": [
+     "지족교 위에서 죽방렴 내려다보기",
+     "썰물 시간 맞춰 방문하기",
+     "인근에서 죽방멸치 맛보기"
+    ],
+    "eat": "은빛 죽방멸치와 멸치쌈밥, 갓 잡아 올린 회."
+   }
+  ]
+ },
+ "namwon": {
+  "nm": "남원",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울 용산역에서 KTX로 남원역까지 약 2시간 10분, 고속버스는 약 3시간 30분. 부산에서는 시외버스로 약 3시간이며, 지리산 서북 능선의 관문이라 대중교통·자가운전 모두 무난하다.",
+  "sep": "봄이 남원의 절정 — 4월이면 광한루원과 요천 변에 벚꽃이 흐드러지고, 5월 초에는 바래봉 능선이 철쭉으로 붉게 덮인다. 가을엔 뱀사골 단풍이 산을 다시 한 번 물들인다.",
+  "mood": "오작교 위 춘향의 도시이자, 지리산 골짜기와 능선이 사철 표정을 바꾸는 이야기의 고을.",
+  "see": "춘향전이 태어난 광한루원과 춘향테마파크, 뱀사골·바래봉의 산길, 혼불의 문학 마을과 옛 간이역까지.",
+  "spots": [
+   {
+    "name": "광한루원",
+    "rom": "춘향전이 태어난 조선의 정원",
+    "meta": [
+     "💴 입장 약 4,000원(변동가능)",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "오작교를 건너면 누각 아래 연못에 하늘이 그대로 내려앉는다. 조선 최고의 누원으로 꼽히는 이곳은 춘향과 몽룡이 처음 눈을 맞춘 무대이기도 하다. 봄 벚꽃과 여름 연꽃, 물에 비친 광한루의 곡선이 계절마다 다른 그림을 그린다.",
+    "todo": [
+     "오작교 건너 광한루 누각 올려다보기",
+     "춘향사당에서 이야기의 출발점 되짚기",
+     "연못에 비친 누각 사진 담기"
+    ],
+    "tip": "매년 봄 춘향제 기간엔 야간 조명과 공연이 더해져 붐빈다. 아침 일찍 가면 물안개 낀 정원을 한적하게 걷는다.",
+    "eat": "남원 대표 향토음식 추어탕 — 광한루 인근에 오래된 노포가 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/500px-Korea-Nawon-Kwanghanlu2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "지리산 뱀사골 계곡",
+    "rom": "지리산 북사면을 굽이치는 옥빛 물길",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "반야봉에서 흘러내린 물이 옥빛 소를 이루며 바위 사이를 굽이친다. 여름엔 발만 담가도 시린 계곡물이, 가을엔 골짜기를 가득 메운 단풍이 걸음을 붙잡는다. 잘 놓인 탐방로를 따라 물소리만 들으며 걷기 좋다.",
+    "todo": [
+     "뱀사골 탐방로 따라 계곡 거슬러 오르기",
+     "와운마을 천년송 만나러 가기"
+    ],
+    "tip": "여름 성수기와 가을 단풍철 주말엔 주차가 크게 붐빈다. 이른 오전 도착을 권한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "바래봉",
+    "rom": "5월이면 능선을 붉게 물들이는 철쭉",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절~하루",
+     "🌺 5월 철쭉"
+    ],
+    "desc": "운봉이나 정령치 쪽에서 오르면 완만한 초원 능선이 펼쳐지고, 5월이 되면 온 산등성이가 철쭉으로 붉게 물든다. 지리산 주능선을 마주 보는 조망이 시원해, 봄 한 철 전국의 산객이 이 붉은 능선을 보러 모여든다.",
+    "todo": [
+     "철쭉 능선 따라 천천히 걷기",
+     "지리산 주능선 조망 눈에 담기"
+    ],
+    "tip": "철쭉 절정은 대개 5월 중순 전후이지만 해마다 다르다. 방문 전 개화 상황을 확인하면 헛걸음이 없다."
+   },
+   {
+    "name": "혼불문학관",
+    "rom": "최명희의 대하소설이 태어난 노봉마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "📖 문학 기행"
+    ],
+    "desc": "최명희가 17년에 걸쳐 써 내려간 대하소설 《혼불》의 무대, 사매면 노봉마을에 자리한 문학관이다. 소설 속 장면을 재현한 디오라마와 작가의 육필 원고를 따라가다 보면, 언덕 아래 저수지와 마을 풍경이 그대로 소설이 된다.",
+    "todo": [
+     "작가 최명희의 육필 원고 살펴보기",
+     "문학관 언덕에서 노봉마을 내려다보기"
+    ],
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg/500px-%ED%98%BC%EB%B6%88%EB%AC%B8%ED%95%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서도역",
+    "rom": "시간이 멈춘 전라선 옛 간이역",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "📷 사진 명소"
+    ],
+    "desc": "1934년 문을 연 뒤 열차가 더는 서지 않는 옛 목조 역사. 낡은 나무 플랫폼과 녹슨 철길, 우거진 나무가 어우러져 소설 《혼불》의 배경이자 드라마·영화 촬영지로 사랑받는다. 봄이면 벚꽃과 어우러진 철길 풍경이 특히 곱다.",
+    "todo": [
+     "옛 목조 역사와 나무 플랫폼 둘러보기",
+     "고요한 철길 위에서 사진 남기기"
+    ],
+    "tip": "혼불문학관과 가까워 문학 기행 코스로 함께 묶어 보기 좋다."
+   },
+   {
+    "name": "실상사",
+    "rom": "들판 한가운데 앉은 지리산 자락의 옛 절",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🛕 통일신라 고찰"
+    ],
+    "desc": "828년에 세워진 구산선문의 첫 사찰로, 산속이 아니라 너른 들판 한가운데 앉은 드문 절이다. 오래된 석탑과 석등, 한국에 남아 있는 가장 큰 철불이 소박한 마당에 담담히 서 있다. 지리산 능선을 배경으로 논밭 길을 걸어 들어가는 접근 길부터가 평화롭다.",
+    "todo": [
+     "석탑·석등과 철조여래좌상 둘러보기",
+     "들판 길 따라 절로 걸어 들어가기"
+    ],
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%8B%A4%EC%83%81%EC%82%AC.jpg/500px-%EC%8B%A4%EC%83%81%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg/250px-Three-story_Stone_Pagoda_at_Baekjangam_of_Silsangsa_Temple_in_Namwon%2C_Korea_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "춘향테마파크",
+    "rom": "춘향전을 걸어서 따라가는 언덕 공원",
+    "meta": [
+     "💴 입장 약 3,000원(변동가능)",
+     "⏱ 2~3시간",
+     "🎬 드라마 세트"
+    ],
+    "desc": "춘향과 몽룡의 이야기를 만남·사랑·이별·재회의 마당으로 나눠 언덕을 따라 꾸며 놓았다. 한옥 세트와 옥사 재현, 광한루원과 남원 시내가 내려다보이는 전망까지 있어 춘향전을 눈으로 걷는 기분이 든다. 밤이면 조명이 들어와 야경 명소로도 알려져 있다.",
+    "todo": [
+     "사랑의 언덕 따라 이야기 순서대로 걷기",
+     "전망 좋은 곳에서 남원 시내 내려다보기"
+    ],
+    "tip": "광한루원과 요천을 사이에 두고 마주해 있어 함께 둘러보기 좋다."
+   }
+  ]
+ },
+ "namyangju": {
+  "nm": "남양주",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 동쪽으로 40분, 경의중앙선·경춘선을 타면 한 시간이면 강마을에 닿는다. 자가용이면 강변북로를 따라 팔당을 지나 두물머리와 한강을 나눠 갖는 물의 도시.",
+  "sep": "봄 신록과 가을 단풍이 가장 좋다. 광릉숲과 국립수목원은 5월 초록이 가장 짙고, 물의정원은 5월 유채·9월 코스모스, 능과 숲길은 10월 단풍이 절정이다.",
+  "mood": "서울 바로 옆인데 원시림과 두 강, 왕의 능과 황제의 능이 다 있다 — 남양주는 '가까운데 깊은 숲'이다.",
+  "see": "500년 손타지 않은 광릉숲과 국립수목원, 두 강이 만나는 걸 내려다보는 수종사, 다산 정약용이 돌아와 산 강마을.",
+  "spots": [
+   {
+    "name": "국립수목원 (광릉숲)",
+    "rom": "500년을 지켜온 원시림, 예약해야 들어가는 숲",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 반나절",
+     "🌳 유네스코 생물권",
+     "🌲 사전예약 필수"
+    ],
+    "desc": "세조의 능 광릉을 지키느라 500년 넘게 사람 손이 닿지 않은 숲이다. 그래서 서울에서 한 시간 거리인데도 원시림의 공기가 그대로 남아 있고, 유네스코 생물권보전지역으로 지정됐다. 하루 들어갈 수 있는 인원을 정해두어 숲이 늘 조용하고, 신록의 5월과 단풍의 10월이면 나무 사이로 빛이 쏟아진다.",
+    "todo": [
+     "육림호를 한 바퀴 천천히 돌기",
+     "난대·침엽수 온실과 수생식물원 구경",
+     "광릉숲 탐방로에서 숲의 냄새 맡기"
+    ],
+    "tip": "홈페이지 사전예약 필수 — 예약 없이는 입장이 안 되고, 하루 인원 제한이라 주말은 일찍 마감된다. 휴관일이 있으니 방문 전 운영일을 꼭 확인할 것. 숲은 남양주 진접과 포천 소흘에 걸쳐 있고, 정문·매표소 주소는 포천 쪽이니 길찾기 때 참고할 것.",
+    "eat": "수목원 가는 길목의 광릉·봉선사 일대 이동갈비와 한정식집이 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "광릉",
+    "rom": "숲을 500년 지켜낸 세조의 능",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 1시간",
+     "👑 유네스코 조선왕릉",
+     "🍂 가을 솔숲"
+    ],
+    "desc": "조선 7대 임금 세조와 정희왕후가 잠든 능이다. 왕과 왕비의 봉분을 하나의 정자각으로 잇는 동원이강릉을 처음 도입한 곳이라, 왕릉을 아는 사람에게는 교과서 같은 자리다. 무엇보다 이 능이 있어 광릉숲이 500년을 살아남았으니, 홍살문에서 능침까지 이어지는 소나무 길을 걸으면 숲과 능이 한 몸이라는 게 느껴진다.",
+    "todo": [
+     "홍살문에서 능침까지 솔숲길 걷기",
+     "병풍석 없이 난간석에 새긴 십이지신상 살피기"
+    ],
+    "tip": "국립수목원과 아주 가까워 함께 묶기 좋다. 능은 왕릉 관람 시간이 정해져 있으니 오후 늦게는 피할 것.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%EA%B4%91%EB%A6%89.JPG/500px-%EA%B4%91%EB%A6%89.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수종사",
+    "rom": "두 강이 만나는 걸 발아래로 내려다보는 절",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "⛰ 운길산 중턱",
+     "🍵 삼정헌 차 한 잔"
+    ],
+    "desc": "운길산 중턱에 앉아, 북한강과 남한강이 두물머리에서 몸을 섞는 장면을 그대로 내려다본다. 예부터 '동방에서 제일가는 전망을 가진 절'로 불렸고, 물안개가 피어오르는 아침이면 그 말이 과장이 아님을 안다. 오래된 은행나무 아래에서 강을 바라보다, 다실 삼정헌에 앉아 차 한 잔을 우리면 오르막을 오른 수고가 다 갚아진다.",
+    "todo": [
+     "삼정헌에 앉아 강을 보며 차 한 잔",
+     "500년 은행나무 아래에서 두물머리 전망 담기",
+     "이른 아침 물안개·일출 노리기"
+    ],
+    "tip": "차로도 오를 수 있지만 산길이 좁고 가파르다. 운길산역에서 걸어 오르면 한 시간 남짓 등산이 되니, 편한 신발은 필수. 주차 후에도 오르막을 조금 더 걸어야 한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg/330px-%EB%82%A8%EC%96%91%EC%A3%BC_%EC%88%98%EC%A2%85%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "다산 정약용 유적지",
+    "rom": "18년 유배 끝에 돌아온 강마을 생가",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "📖 실학박물관",
+     "🚴 강변 다산길"
+    ],
+    "desc": "다산 정약용이 태어나 자라고, 강진 유배 18년 뒤 돌아와 생을 마친 마재마을이다. 생가 여유당과 묘소, 그리고 그의 방대한 저술과 실학 세계를 풀어놓은 실학박물관이 강가에 나란히 있다. 두 강이 만드는 넓은 물길을 곁에 두고 서 있으면, 한 사람의 학문이 어디에서 흘러나왔는지 어렴풋이 짐작하게 된다.",
+    "todo": [
+     "생가 여유당과 뒷동산 묘소 둘러보기",
+     "실학박물관에서 거중기·저술 자료 보기",
+     "강변 다산길을 자전거나 걸음으로"
+    ],
+    "eat": "능내리 일대에서 연잎밥과 붕어찜 같은 강마을 음식을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeong_Yak-yong.jpg/500px-Jeong_Yak-yong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Geojunggi.png/250px-Geojunggi.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mokminsimseo.jpg/500px-Mokminsimseo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "홍유릉",
+    "rom": "왕이 아니라 황제로 잠든 능",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "⏱ 1시간",
+     "👑 대한제국 황제릉",
+     "🐘 낯선 석수 산책"
+    ],
+    "desc": "고종과 순종이 잠든 곳으로, 조선의 왕릉이 아니라 대한제국의 황제릉이다. 그래서 여느 왕릉과 생김새가 다르다 — 정자각 대신 넓은 침전이 서 있고, 능으로 오르는 길에는 기린·코끼리·낙타 같은 낯선 석수들이 줄지어 손님을 맞는다. 나라의 격이 바뀌던 짧고 무거운 시절이 돌에 새겨져 있어, 걸으며 자연스레 그때를 생각하게 된다.",
+    "todo": [
+     "침전 앞 참도를 지키는 석수들 하나하나 보기",
+     "홍릉과 유릉을 잇는 숲길 산책"
+    ],
+    "tip": "금곡동 시내에 있어 접근이 쉽다. 능은 관람 시간이 정해져 있고 월요일 휴관이 흔하니 방문 전 확인할 것.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg/500px-%ED%99%8D%EC%9C%A0%EB%A6%89_20111023.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "물의정원",
+    "rom": "한강을 끼고 유채와 코스모스가 번지는 들판",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌼 5월 유채·9월 코스모스",
+     "🚶 강변 산책"
+    ],
+    "desc": "운길산역 바로 옆, 한강이 크게 휘도는 자리에 펼쳐진 강변 꽃밭이다. 봄이면 노란 유채가, 가을이면 분홍 코스모스가 강까지 번져 나가고, 붉은 뱃나들이교와 물안개 분수가 사진의 배경이 되어준다. 특별한 볼거리를 찾아가는 곳이라기보다, 강바람을 맞으며 아무 생각 없이 걷기 좋은 넓고 순한 들판이다.",
+    "todo": [
+     "뱃나들이교 붉은 다리 건너 강 보기",
+     "유채·코스모스 만개 시기에 맞춰 꽃밭 걷기",
+     "물안개 분수 앞에서 잠깐 앉아 쉬기"
+    ],
+    "tip": "전철 운길산역에서 걸어갈 수 있어 뚜벅이 여행에 좋다. 꽃 성수기 주말은 주차장이 금세 차니 아침 일찍 가거나 전철을 권한다."
+   }
+  ]
+ },
+ "nonsan": {
+  "nm": "논산",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울역에서 KTX로 논산·강경역까지 약 1시간, 자동차로는 천안논산고속도로 타고 약 2시간. 부산에서는 차로 약 3시간.",
+  "sep": "봄(1~4월 논산딸기·나들이)과 가을(서원·고택 단풍)이 가장 좋고, 여름밤엔 탑정호 출렁다리 조명쇼가 백미다.",
+  "mood": "고개를 한참 젖혀야 얼굴이 보이는 천년 석불, 호수 위를 걷는 600m 다리, 젓갈 냄새 나는 근대 골목 — 논산은 크게 자랑하지 않아도 오래 남는 도시다.",
+  "see": "은진미륵(관촉사)·유네스코 돈암서원·탑정호 출렁다리·강경 근대거리·명재고택·선샤인랜드.",
+  "spots": [
+   {
+    "name": "관촉사",
+    "rom": "국내 최대급 석불, 은진미륵이 지키는 천년 사찰",
+    "meta": [
+     "💴 입장 약 1,500원(변동가능)",
+     "⏱ 1~2시간",
+     "🗿 국보 은진미륵",
+     "🍁 가을 단풍"
+    ],
+    "desc": "반야산 자락, 고개를 한참 젖혀야 얼굴이 보이는 거대한 석조미륵보살입상 앞에 서면 천 년 전 사람들이 왜 이 앞에서 소원을 빌었는지 알 것 같다. 큼직한 이목구비와 넓적한 관은 정교한 균형미 대신 뭉근한 위엄으로 사람을 압도한다. 968년 고려 광종 때 세워져 지금까지 논산을 내려다보는, 투박해서 더 오래 남는 얼굴이다.",
+    "todo": [
+     "은진미륵 앞에서 실제 크기 실감하기",
+     "보물로 지정된 석등과 함께 사진",
+     "반야산 산책로 한 바퀴"
+    ],
+    "tip": "주차장에서 절까지 완만한 오르막을 5~10분 걷는다. 가을 단풍철 주말은 이른 오전이 한적하다.",
+    "eat": "논산 시내 순댓국·국밥"
+   },
+   {
+    "name": "돈암서원",
+    "rom": "유네스코 세계유산, 예학의 대가 김장생을 기린 서원",
+    "meta": [
+     "💴 입장 무료(변동가능)",
+     "⏱ 1시간",
+     "🏛 유네스코 세계유산",
+     "📿 조선 예학"
+    ],
+    "desc": "2019년 '한국의 서원' 아홉 곳 중 하나로 유네스코 세계유산에 오른 곳. 사계 김장생을 모신 강당과 사당이 나지막한 담장 안에 단정하게 앉아 있고, 화강석 담장에 글귀를 새긴 꽃담이 조선 선비의 미감을 조용히 보여준다. 관람객이 붐비지 않아, 툇마루에 앉아 마당의 정적을 오래 들여다보기 좋다.",
+    "todo": [
+     "응도당 툇마루에서 마당 감상",
+     "꽃담에 새겨진 글귀 읽어보기"
+    ],
+    "tip": "무료 관람. 차로 가까운 명재고택과 묶어 '노성면 한나절 코스'로 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Donam_Seowon.jpg/500px-Donam_Seowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "탑정호 출렁다리",
+    "rom": "호수 위 600m, 야경이 흐르는 국내 최장급 출렁다리",
+    "meta": [
+     "💴 통행료 변동가능(방문 전 확인)",
+     "⏱ 1~2시간",
+     "🌉 길이 600m",
+     "🌃 야간 조명쇼"
+    ],
+    "desc": "충남에서 두 번째로 큰 탑정호 수면 위로 600m를 걸어 건너는 다리. 발밑이 살짝 출렁일 때마다 넓은 호수와 하늘이 통째로 눈에 들어온다. 해가 지면 다리와 분수에 불이 들어와 물 위로 빛이 번지는데, 여름밤 산책으로 이만한 곳이 드물다.",
+    "todo": [
+     "출렁다리 왕복으로 건너보기",
+     "해 질 녘부터 야간 조명쇼 보기",
+     "탑정호 수변생태공원 산책"
+    ],
+    "tip": "야간 미디어파사드·분수쇼는 계절·요일별 운영시간이 달라 방문 전 확인이 필요하다. 다리 위는 바람이 세니 겉옷을 챙긴다.",
+    "eat": "호수 인근 카페·붕어찜",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg/500px-Tabjeong_bridge_in_Nonsan%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "강경 근대역사거리",
+    "rom": "젓갈로 흥한 옛 포구 도시, 근대 건물이 남은 골목",
+    "meta": [
+     "💴 거리 산책 무료",
+     "⏱ 반나절",
+     "🏚 근대건축",
+     "🦐 강경젓갈"
+    ],
+    "desc": "한때 조선 3대 시장으로 꼽히던 포구 도시 강경에는 일제강점기 은행·창고 같은 근대 건물이 골목마다 남아 시간이 멈춘 듯한 풍경을 만든다. 첨두아치가 인상적인 강경성당을 지나 옥녀봉에 오르면 금강과 옛 시가지가 한눈에 들어온다. 골목을 걷다 젓갈 냄새가 훅 끼치면, 여기가 왜 젓갈의 고장인지 몸으로 알게 된다.",
+    "todo": [
+     "강경성당과 근대건물 골목 걷기",
+     "옥녀봉 전망대에서 금강 조망",
+     "젓갈시장 구경하기"
+    ],
+    "tip": "10월 강경젓갈축제 기간에 가장 붐빈다. 근대건물은 내부 관람 시간이 제한적이니 미리 확인한다.",
+    "eat": "강경젓갈백반, 젓갈정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "명재고택",
+    "rom": "연못과 장독대가 있는, 소박한 조선 선비의 집",
+    "meta": [
+     "💴 관람 무료(변동가능)",
+     "⏱ 1시간",
+     "🏠 국가민속문화재",
+     "🪷 앞뜰 연못"
+    ],
+    "desc": "조선 학자 명재 윤증을 기려 지은 한옥으로, 담장 없이 트인 사랑채와 앞뜰 연못이 만드는 여백이 유난히 편안하다. 뒤뜰 언덕엔 수백 개의 장독이 줄지어 앉아 햇빛을 받는데, 그 풍경 하나로 한복·필름 사진 명소가 됐다. 노성산 아래 조용한 마을에서, 화려하지 않아 오히려 오래 머무르고 싶은 집이다.",
+    "todo": [
+     "장독대 언덕에서 사진 남기기",
+     "사랑채 마루에 앉아보기",
+     "앞뜰 연못 한 바퀴 돌기"
+    ],
+    "tip": "돈암서원과 차로 가깝다. 후손이 관리하는 살림집이라 예의를 지켜 조용히 관람한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg/500px-%EB%85%BC%EC%82%B0_%EB%AA%85%EC%9E%AC_%EA%B3%A0%ED%83%9D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선샤인랜드",
+    "rom": "드라마 '미스터 션샤인' 세트와 밀리터리 체험이 한자리에",
+    "meta": [
+     "💴 입장 약 6,000원~(변동가능)",
+     "⏱ 2~3시간",
+     "🎬 드라마 세트",
+     "🪖 밀리터리 체험"
+    ],
+    "desc": "개화기 거리를 그대로 재현한 '선샤인스튜디오'는 드라마 속 한 장면으로 걸어 들어간 듯한 골목을 걷게 한다. 같은 부지에 서바이벌·사격 같은 밀리터리 체험 시설과 항공·병영 전시가 있어, 아이와 어른이 각자의 재미를 찾는다. 시대극 감성의 사진을 남기기엔 논산에서 가장 손쉬운 곳이다.",
+    "todo": [
+     "선샤인스튜디오 개화기 거리에서 사진",
+     "밀리터리 체험존 즐기기"
+    ],
+    "tip": "구역별로 입장·체험 요금이 따로 있는 경우가 많으니 통합권 여부를 확인한다. 세트장은 그늘이 적어 여름엔 모자가 필수다.",
+    "eat": ""
+   }
+  ]
+ },
+ "okcheon": {
+  "nm": "옥천",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울역→대전 KTX 약 1시간, 대전역에서 무궁화호나 시내버스로 옥천 약 20분. 자가용은 경부고속도로 옥천IC로 서울에서 약 2시간, 부산에서 약 2시간 30분.",
+  "sep": "가을 — 대청호에 물안개가 피고 용암사 새벽 운무가 절정에 오르며, 향수호수길과 서화천 계곡이 단풍으로 물든다. 봄(4월)엔 호숫가 벚꽃길이 좋다.",
+  "mood": "'넓은 벌 동쪽 끝으로'—정지용의 「향수」가 태어난 땅, 대청호 물 위엔 산이 병풍처럼 떠 있다.",
+  "see": "물 위에 뜬 산 부소담악, 새벽 구름바다의 용암사, 향수의 시인 정지용, 호수를 두른 향수호수길.",
+  "spots": [
+   {
+    "name": "정지용 생가·문학관",
+    "rom": "「향수」가 흘러나온 실개천 옆 초가",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "📖 「향수」의 고향"
+    ],
+    "desc": "'그곳이 차마 꿈엔들 잊힐 리야.' 국민 애송시 「향수」를 쓴 정지용이 나고 자란 옥천 구읍, 실개천 옆으로 복원된 초가와 낮은 돌담이 시 속 풍경 그대로 앉아 있다. 바로 옆 문학관에는 시인의 육필과 시 세계가 조용히 펼쳐져, 노래로만 알던 「향수」의 첫 자리에 발을 딛는 기분이 든다.",
+    "todo": [
+     "문학관에서 「향수」 육필과 시 세계 둘러보기",
+     "복원된 생가 초가와 실개천 앞에서 시 한 편 읽기",
+     "매년 5월 열리는 지용제 일정 확인하기"
+    ],
+    "tip": "생가와 문학관은 옛 읍내(구읍)에 나란히 붙어 있어 걸어서 함께 돌기 좋다. 월요일 휴관 여부를 미리 확인한다.",
+    "eat": "옥천 명물 생선국수—민물생선을 통째로 갈아 끓인 얼큰한 국물에 국수를 만 향토음식으로, 구읍 일대에 오래된 노포가 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jeong_Ji-yong_stele.jpg/500px-Jeong_Ji-yong_stele.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "부소담악",
+    "rom": "물 위에 뜬 병풍바위, 충북의 소금강",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🏞 대청호",
+     "📷 사진 명소"
+    ],
+    "desc": "군북면 추소리, 대청호 물속에서 솟은 바위 능선이 약 700m에 걸쳐 병풍처럼 이어지며 호수 위를 걸어가는 듯한 길을 낸다. 예부터 '작은 금강산(소금강)'이라 불려온 이 풍경은, 능선을 따라 걷다 추소정 정자에 앉으면 발밑으로 물이 감돌아 정말 산 하나가 물 위에 떠 있는 것만 같다.",
+    "todo": [
+     "추소리 주차장에서 능선 따라 추소정까지 걷기",
+     "전망 좋은 곳에서 물 위에 뜬 병풍바위 담기",
+     "물가에서 대청호 윤슬 바라보며 쉬기"
+    ],
+    "tip": "능선길은 폭이 좁고 오르내림이 있어 편한 신발이 필수다. 장마철이나 비 온 뒤엔 바위가 미끄러우니 주의한다.",
+    "eat": "대청호변의 민물매운탕과 도리뱅뱅이—작은 민물고기를 팬에 둥글게 둘러 바싹 조려낸 옥천식 별미."
+   },
+   {
+    "name": "옥천 용암사",
+    "rom": "새벽 구름바다가 발밑에 깔리는 산사",
+    "meta": [
+     "💴 무료",
+     "🌅 새벽 운무",
+     "🗿 마애불·보물 석탑",
+     "🍂 가을 절정"
+    ],
+    "desc": "장령산 자락에 안긴 작은 절이지만, 일교차 큰 새벽이면 발아래 골짜기가 온통 구름바다로 덮여 사진가들이 어둠 속에 삼각대를 세우고 기다리는 곳이다. 붉은 바위에 새긴 마애여래입상과 산등성이의 동·서 삼층석탑(보물) 너머로 해가 떠오르면, 운무 위로 산봉우리만 섬처럼 떠 있는 장면이 펼쳐진다.",
+    "todo": [
+     "일출 1시간 전 도착해 구름바다 기다리기",
+     "붉은 마애여래입상과 동·서 삼층석탑 찾아보기",
+     "산등성이 전망대에서 장령산 능선 조망 즐기기"
+    ],
+    "tip": "운무는 날마다 보장되지 않는다—일교차가 크고 맑은 가을~초겨울 새벽에 잘 낀다. 주차 후 계단을 조금 올라가야 하니 손전등을 챙기면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장계관광지·향수호수길",
+    "rom": "대청호를 두른 수변 데크 산책로",
+    "meta": [
+     "💴 무료(일부 시설 유료)",
+     "⏱ 반나절",
+     "🚶 호수 데크길",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "대청호 물가를 따라 놓인 나무 데크 향수호수길을 걸으면, 잔잔한 호수와 건너편 산자락이 통째로 시야에 들어온다. 장계관광지 안엔 조형물과 산책 데크, 쉼터가 흩어져 있어 물길을 걷다 쉬어가기 좋고, 봄이면 호숫가 벚꽃이 데크 위로 떨어진다.",
+    "todo": [
+     "향수호수길 수변 데크 천천히 걷기",
+     "대청호 조망하며 관광지 안 조형물과 산책로 둘러보기",
+     "물가 쉼터·카페에서 호수 바라보며 쉬기"
+    ],
+    "tip": "주차장이 넓고 카페·쉼터가 있어 가족 나들이에 좋다. 봄 벚꽃철 주말은 붐비니 아침 일찍 찾는 편이 여유롭다.",
+    "eat": ""
+   },
+   {
+    "name": "육영수 생가",
+    "rom": "'삼정승집'으로 불린 옛 한옥과 정원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🏯 한옥 정원"
+    ],
+    "desc": "옥천읍 교동리, 조선시대 대지주의 저택으로 세 정승이 살았다 하여 '삼정승집'이라 불리던 큰 한옥을 복원한 곳이다. 사랑채와 안채, 곳간이 넓게 자리하고 마당엔 연못과 오래된 나무가 있어, 옛 반가의 살림 규모와 정원을 조용히 거닐며 볼 수 있다.",
+    "todo": [
+     "복원된 사랑채·안채와 곳간 둘러보기",
+     "연못과 정원을 따라 마당 거닐기",
+     "'삼정승집' 옛 이야기 안내판 읽어보기"
+    ],
+    "tip": "구읍의 정지용 생가·옥천성당과 가까워 걸어서 함께 묶기 좋다. 입장은 무료다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg/500px-%E9%99%86%E8%8B%B1%E4%BF%AE%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%8D%81%E5%AD%97%E7%BC%9D%E7%BA%AB%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg/500px-%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B1%B4%EC%84%A4_%EC%B0%A9%EA%B3%B5%EC%8B%9D%EC%97%90_%EC%B0%B8%EC%84%9D%ED%95%9C_%EB%B0%95%EC%A0%95%ED%9D%AC_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%82%B4%EC%99%B8_%281971._4._12%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥천 이지당",
+    "rom": "계곡 물가 위에 앉은 조선의 서당",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분~1시간",
+     "🏛 보물 서당",
+     "💧 서화천 계곡"
+    ],
+    "desc": "서화천 맑은 물가 바위 위에 올라앉은 서당으로, 임진왜란 때 의병장 조헌이 제자들을 가르쳤고 훗날 우암 송시열이 '그칠 지(止)' 자를 따 이지당이라 이름 붙였다. 누각에 앉으면 아래로 흐르는 물소리가 그대로 올라와, 옛 선비가 왜 이 자리를 택했는지 몸으로 알 것 같다.",
+    "todo": [
+     "서화천 물소리 들으며 누각에 앉아보기",
+     "조헌·송시열의 강학 이야기 살펴보기",
+     "물가 바위와 어우러진 건물 담기"
+    ],
+    "tip": "규모가 아담해 짧게 보는 곳이니, 부소담악·군북면 코스와 묶으면 동선이 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG/500px-%EC%98%A5%EC%B2%9C_%EC%9D%B4%EC%A7%80%EB%8B%B9_%2810%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥천성당",
+    "rom": "충북에 하나 남은 1940년대 성당",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "⛪ 근대 등록문화재"
+    ],
+    "desc": "옥천읍 한복판에 선 벽돌 성당으로, 1940년대에 지어진 지방 성당 건축의 전형을 간직해 국가등록문화재가 되었다. 훗날 십자형으로 증축된 소박하고 단정한 외관이 오래된 읍내 골목과 어우러져, 구읍을 걷다 잠시 발걸음을 멈추게 하는 조용한 근대의 풍경을 남긴다.",
+    "todo": [
+     "1940년대 벽돌 성당의 외관과 십자형 구조 살펴보기",
+     "구읍 골목과 함께 천천히 둘러보기"
+    ],
+    "tip": "미사 시간에는 내부 관람이 제한될 수 있으니 외부에서 조용히 둘러본다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg/500px-%EC%98%A5%EC%B2%9C%EC%84%B1%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "osan": {
+  "nm": "오산",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선 전철로 오산역까지 약 1시간, 자가용은 경부고속도로 오산IC로 진입. 지방에선 KTX로 수원역까지 온 뒤 1호선으로 환승하면 편하다.",
+  "sep": "봄과 가을을 추천한다. 4월엔 오산천 벚꽃 터널과 물향기수목원 신록이, 10월엔 수목원 단풍과 억새가 좋아 나들이 삼기 딱 좋다.",
+  "mood": "서울 코앞, 반나절이면 도는 작지만 알찬 도시. 흰 말을 쌀로 씻겨 왜군을 속인 산성부터 물 향기 나는 수목원, 6·25 첫 전투의 고개까지 — 역사와 산책이 한 손에 잡힌다.",
+  "see": "권율의 지혜가 서린 독산성, 물 좋아하는 나무들의 수목원, 그리고 한국전쟁 지상 첫 전투가 벌어진 죽미령.",
+  "spots": [
+   {
+    "name": "물향기수목원",
+    "rom": "물을 좋아하는 나무들이 모인 경기도립 수목원",
+    "meta": [
+     "💴 입장 약 1,500원(변동가능)",
+     "⏱ 반나절",
+     "🍁 봄 신록·가을 단풍"
+    ],
+    "desc": "이름 그대로 '물 향기'가 나는 수목원. 습지생태원과 수생식물원을 지나다 보면 발밑으로 물길이 흐르고, 1,600여 종의 나무가 계절마다 옷을 갈아입는다. 34만 제곱미터 너른 숲을 천천히 걷다 보면 도시 소음이 어느새 멀어진다.",
+    "todo": [
+     "습지생태원·수생식물원 물길 따라 걷기",
+     "메타세쿼이아 길에서 사진 남기기",
+     "전망대에서 수목원 전경 내려다보기"
+    ],
+    "tip": "매주 월요일과 설·새해 첫날은 휴관. 3~10월은 오후 6시까지, 그 외 계절엔 오후 5시까지 문을 연다. 오산역에서 버스로 닿고 주차장이 넉넉하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2025_Osan_Jjw_2.jpg/500px-2025_Osan_Jjw_2.jpg"
+    ]
+   },
+   {
+    "name": "독산성과 세마대지",
+    "rom": "흰 말을 쌀로 씻겨 왜군을 속인 권율의 산성",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⛰ 성곽 산책",
+     "📜 사적 제140호"
+    ],
+    "desc": "임진왜란 때 권율 장군이 물이 부족한 이 산성에서, 산 위로 흰 말을 끌어다 쌀을 부어 씻기는 시늉을 해 '물이 저리 넉넉하다'며 왜군을 속였다는 세마대 전설이 서린 곳. 백제가 처음 쌓았다는 1,100m 성곽을 따라 걸으면 오산 시내와 들판이 한눈에 펼쳐진다.",
+    "todo": [
+     "세마대에 올라 전설의 현장 보기",
+     "성곽 한 바퀴 돌며 사방 조망",
+     "성 안 작은 절 보적사 들르기"
+    ],
+    "tip": "성문 근처까지 차로 오를 수 있어 주차 후 걸으면 코스가 짧다. 노을 무렵 능선에서 보는 조망이 특히 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg/500px-%EB%8F%85%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%84%B8%EB%A7%88%EB%8C%80%EC%A7%80-4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽미령평화공원",
+    "rom": "6·25 지상 첫 전투 스미스부대가 싸운 고개",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📜 6·25 유적",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "1950년 7월 5일, 미군 스미스 특수임무부대 540여 명이 북한군을 처음으로 맞선 죽미령 고개. 유엔군초전기념관에는 그날의 기록이 전시돼 있고, 야외에는 군용 장비가 놓여 있다. 공원 능선을 오르면 전투가 벌어진 지형이 그대로 내려다보인다. 무겁지만 오래 남는 걸음.",
+    "todo": [
+     "유엔군초전기념관 전시 관람",
+     "스미스평화관·전망대 오르기",
+     "야외 군용 장비 전시 둘러보기"
+    ],
+    "tip": "기념관 관람은 무료, 월요일 휴관. 아이와 함께 근현대사를 이야기하며 걷기 좋은 곳이다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg/500px-20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/20251101_osan_%EA%B8%88%EC%88%B2_34.jpg/500px-20251101_osan_%EA%B8%88%EC%88%B2_34.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg/120px-2025-11-01_%EC%98%A4%EC%82%B0_Kyumin_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오산 궐리사",
+    "rom": "공자를 모신 우리나라 두 궐리사 중 하나",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "📜 경기도 기념물",
+     "🌳 은행나무"
+    ],
+    "desc": "정조 때 세워진, 공자의 영정을 모시고 제사를 올리는 사당. 중국 산둥성에서 기증받은 공자 석고상도 함께 있다. 조선 문신 공서린이 은행나무에 북을 달아 후학을 깨우쳤는데, 그가 죽자 나무도 말라 죽었다는 전설이 마당의 고요함을 더한다.",
+    "todo": [
+     "공자 영정과 석고상 참배",
+     "오래된 은행나무 아래 서 보기"
+    ],
+    "tip": "규모가 크지 않아 잠깐 들르기 좋다. 가까운 독산성과 묶어 반나절 코스로 돌면 알맞다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg/500px-%EC%98%A4%EC%82%B0_%EA%B6%90%EB%A6%AC%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오산오색시장",
+    "rom": "오래도록 이어온 오산 최대 전통시장",
+    "meta": [
+     "💴 무료입장",
+     "⏱ 1~2시간",
+     "🍜 먹거리",
+     "🛍 전통시장"
+    ],
+    "desc": "오래전 장이 선 이래 오산 인근에서 가장 큰 상권으로 자란 시장. '오색'이라는 이름처럼 골목마다 색이 다른데, 국밥·순대·떡·전 부치는 냄새가 뒤섞여 배가 절로 고파진다. 관광보다 '먹으러' 오는 곳.",
+    "todo": [
+     "시장 골목 따라 먹거리 순례",
+     "제철 채소·과일 구경하기"
+    ],
+    "tip": "오산역에서 걸어갈 수 있는 거리. 주말과 장날엔 붐비니 이른 시간을 추천한다.",
+    "eat": "순대국밥, 시장 손칼국수, 갓 부친 전과 떡"
+   },
+   {
+    "name": "오산천",
+    "rom": "도심을 가르는 벚꽃·억새 산책길",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌸 봄 벚꽃",
+     "🚶 산책·자전거"
+    ],
+    "desc": "오산 시내를 관통하는 하천. 봄이면 양옆으로 벚꽃이 터널을 이루고, 가을엔 억새가 물가에 눕는다. 자전거길과 산책로가 잘 닦여 있어 아침저녁 주민들의 걸음이 끊이지 않는다. 큰 볼거리라기보단, 이 도시의 숨결 같은 곳.",
+    "todo": [
+     "봄 벚꽃 터널 걷기",
+     "자전거로 물길 따라 달리기"
+    ],
+    "tip": "물향기수목원·오색시장과 가까워 이어 걷기 좋다. 벚꽃은 대개 4월 초에 절정이다.",
+    "eat": ""
+   }
+  ]
+ },
+ "paju": {
+  "nm": "파주",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 자유로 타고 40~50분이면 임진강. 대중교통은 경의중앙선 문산역까지 간 뒤 버스로 갈아탄다. DMZ 안쪽(도라산·제3땅굴)은 임진각에서 출발하는 안보관광 예약차로만 들어간다.",
+  "sep": "가을(9~11월)이 가장 파주답다. 평화누리공원의 억새가 은빛으로 눕고, 감악산 단풍이 출렁다리 아래로 번진다. 봄 벚꽃길과 여름 초록 호수도 좋지만, 분단의 풍경이 가을 하늘 아래에서 가장 깊게 읽힌다.",
+  "mood": "휴전선이 코앞인데 미술관과 책마을과 정원이 나란히 있다. 긴장과 낭만이 이렇게 가까이 붙은 도시는 흔치 않다.",
+  "see": "임진각 DMZ, 헤이리 예술마을, 출판도시 책숲, 호수 위 흔들다리, 유럽식 정원까지.",
+  "spots": [
+   {
+    "name": "임진각 · 평화누리공원",
+    "rom": "기차가 멈춘 곳, 바람개비가 도는 언덕",
+    "meta": [
+     "💴 공원 무료 · 곤돌라 약 11,000원",
+     "⏱ 반나절",
+     "🍂 가을 억새"
+    ],
+    "desc": "총탄 자국이 남은 녹슨 증기기관차가 철로 위에 그대로 서 있고, 그 너머로 자유의 다리가 임진강을 건넌다. 뒤편 평화누리공원엔 3천 개의 바람개비가 언덕에서 돌고, 넓은 잔디밭엔 억새가 은빛으로 눕는다. 무겁지 않게, 그러나 문득 코끝이 시큰해지는 풍경이다.",
+    "todo": [
+     "평화곤돌라 타고 임진강 건너 DMZ 안쪽 조망",
+     "자유의 다리와 녹슨 기관차 앞에서 걸음 멈추기",
+     "바람의 언덕에서 바람개비 물결 바라보기"
+    ],
+    "tip": "공원과 임진각 광장은 무료지만 곤돌라는 유료(왕복 약 11,000원, 변동 가능). 주차장 넓고 주말엔 붐빈다. 곤돌라 민통선 탑승은 신분증이 필요할 수 있으니 챙긴다.",
+    "eat": "임진강 명물 장어구이와 매운탕. 광장 매점의 옛날 소시지·호떡도 소소한 재미.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/500px-Imjingak_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bridge_of_Freedom_Korea_001.jpg/120px-Bridge_of_Freedom_Korea_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gyeongui_line_imjingang_cheolgyo.jpg/120px-Gyeongui_line_imjingang_cheolgyo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "헤이리 예술마을",
+    "rom": "예술가 370명이 지어 사는 마을",
+    "meta": [
+     "💴 마을 무료 · 전시 별도",
+     "⏱ 반나절",
+     "🎨 갤러리·카페"
+    ],
+    "desc": "화가와 건축가, 음악가 들이 직접 설계해 지은 집들이 낮은 언덕을 따라 흩어져 있다. 반듯한 관광단지가 아니라 노출 콘크리트와 담쟁이가 제멋대로 어우러진, 산책하며 발견하는 마을이다. 갤러리와 공방, 개성 강한 카페 사이를 정처 없이 걷다 보면 하루가 짧다.",
+    "todo": [
+     "마음에 드는 갤러리·뮤지엄 한두 곳만 골라 천천히 관람",
+     "골목마다 다른 건축물 구경하며 사진",
+     "통유리 카페에서 오후 햇살 보내기"
+    ],
+    "tip": "마을 진입은 무료이나 개별 전시관은 각각 입장료를 받는다. 워낙 넓어 편한 신발 필수. 월요일 휴관하는 공간이 많으니 확인하고 간다.",
+    "eat": "마을 안 브런치·베이커리 카페가 강점. 파주 콩요리·손두부도 근방에서 만날 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/500px-Art-Service_Studio%2C_Heyri.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "파주출판도시 · 지혜의 숲",
+    "rom": "천장까지 책이 차오른 도시",
+    "meta": [
+     "💴 무료",
+     "📚 책마을",
+     "☕ 북카페"
+    ],
+    "desc": "출판사 300여 곳이 모여 사는 나라 유일의 책 도시. 그 심장인 '지혜의 숲'은 8미터 천장까지 책장이 이어지는 열린 도서관으로, 사다리를 타야 닿을 높이까지 책이 빼곡하다. 건물마다 절제된 벽돌과 콘크리트 건축이 인상적이라 사진 찍는 이도 많다.",
+    "todo": [
+     "지혜의 숲 책벽 사이에서 마음 가는 책 한 권 펼치기",
+     "출판사 직영 북카페에서 커피와 함께 독서",
+     "건축 산책하듯 단지 골목 걷기"
+    ],
+    "tip": "지혜의 숲은 무료 개방(일부 구역 야간까지). 대출은 안 되고 그 자리에서 읽는 공간이다. 헤이리와 차로 10분 거리라 묶어 돌기 좋다.",
+    "eat": "아시아출판문화정보센터 안 카페·식당. 근처 프로방스 마을의 이탈리안·베이커리도 가깝다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Paju_Book_City_01logo_%288021612646%29.jpg/500px-Paju_Book_City_01logo_%288021612646%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오두산 통일전망대",
+    "rom": "두 강이 만나는 자리에서 북녘을 보다",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "🔭 전망대",
+     "⏱ 1~2시간"
+    ],
+    "desc": "한강과 임진강이 하나로 합쳐지는 오두산 꼭대기에 선 전망대. 원형 전망실에 서면 강 건너 북한 개풍 들판과, 맑은 날엔 개성 송악산까지 눈에 담긴다. 망원경 너머로 보이는 마을의 고요함이 오히려 오래 마음에 남는다.",
+    "todo": [
+     "원형 전망실에서 망원경으로 북녘 마을 관찰",
+     "두 강이 합류하는 물길 내려다보기",
+     "전시관에서 분단·통일 이야기 둘러보기"
+    ],
+    "tip": "입장료 약 3,000원(변동 가능). 주차장에서 전망대까지 무료 셔틀버스가 다닌다. 시야 트인 맑은 날 오전이 조망에 유리하다.",
+    "eat": "탄현 일대 손칼국수·장단콩 두부요리. 근처 프로방스 마을에서 식사를 붙이기도 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Odusan_Mt._Unification_Observatory.jpg/500px-Odusan_Mt._Unification_Observatory.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "마장호수 흔들다리",
+    "rom": "호수 위를 건너는 220m 출렁다리",
+    "meta": [
+     "💴 무료",
+     "🌉 흔들다리",
+     "⏱ 반나절"
+    ],
+    "desc": "산으로 둘러싸인 잔잔한 호수 위로 길게 놓인 출렁다리가 발밑에서 살짝살짝 흔들린다. 다리 한가운데 서면 물빛과 산 그림자가 사방으로 펼쳐져 아찔하면서도 시원하다. 다리를 건넌 뒤 호숫가 데크길을 한 바퀴 도는 산책이 파주 사람들의 주말 코스다.",
+    "todo": [
+     "흔들다리 한가운데서 호수 파노라마 감상",
+     "호수 둘레 데크길 천천히 걷기",
+     "카페 테라스에서 물멍 때리기"
+    ],
+    "tip": "다리 통행은 무료. 주말·성수기엔 주차가 금방 차니 오전에 도착하는 편이 낫다. 바람 부는 날은 흔들림이 커진다.",
+    "eat": "호수 주변 전망 카페와 오리·닭백숙 식당. 산책 후 파전에 막걸리도 제격."
+   },
+   {
+    "name": "감악산 출렁다리",
+    "rom": "산과 산 사이 허공을 건너는 다리",
+    "meta": [
+     "💴 무료",
+     "🥾 가벼운 산행",
+     "🍁 가을 단풍"
+    ],
+    "desc": "해발 675m 감악산 자락, 두 봉우리 사이 협곡을 가로지르는 150m 길이의 산악 현수교. 다리 위에 서면 발아래로 계곡이 아득히 떨어지고, 가을이면 단풍이 그 골짜기를 붉게 채운다. 무장애 탐방로로 이어져 크게 힘들이지 않고도 산속 스릴을 맛볼 수 있다.",
+    "todo": [
+     "출렁다리 위에서 협곡과 단풍 내려다보기",
+     "이어지는 무장애 데크 탐방로 걷기",
+     "여력이 되면 감악산 정상까지 산행"
+    ],
+    "tip": "다리와 탐방로는 무료. 주차장에서 다리까지 완만한 오르막을 조금 걷는다. 겨울 결빙·강풍 시 통제될 수 있으니 확인하고 간다.",
+    "eat": "적성면 일대 매운탕과 두부전골. 산행 뒤 파주 장단콩 청국장이 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gamaksan_Bridge_1.jpg/500px-Gamaksan_Bridge_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "벽초지수목원",
+    "rom": "연못을 품은 유럽식 정원",
+    "meta": [
+     "💴 입장 약 9,500원",
+     "🌷 테마정원",
+     "📸 포토존"
+    ],
+    "desc": "12만 제곱미터 부지에 스물일곱 개의 정원이 여섯 테마로 나뉘어 펼쳐지는 사립 수목원. 유럽풍 조각과 연못, 계절 꽃이 어우러져 어느 계절에 가도 화면 가득 색이 담긴다. 웨딩·화보 촬영지로도 이름나, 발길 닿는 곳마다 그림 같은 포토존이 이어진다.",
+    "todo": [
+     "테마별 정원 돌며 계절 꽃 감상",
+     "연못과 유럽식 조각 앞에서 인생사진",
+     "야간개장 시즌엔 조명 정원 산책"
+    ],
+    "tip": "입장료 약 9,500원(시즌·행사 따라 변동). 봄 튤립·가을 국화, 겨울 조명축제 등 시즌마다 얼굴이 다르다. 넓으니 두세 시간 잡는다.",
+    "eat": "수목원 내 카페와 근처 광탄면 손두부·한정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg/120px-20241207_HPGkiji_%EB%B2%BD%EC%B4%88%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/241207_bcc_1.jpg/120px-241207_bcc_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "도라산역 · 제3땅굴",
+    "rom": "남쪽 끝이 아니라 북으로 가는 첫 역",
+    "meta": [
+     "💴 안보관광 약 12,000원~",
+     "🚆 예약 필수",
+     "🪖 DMZ"
+    ],
+    "desc": "'남쪽의 마지막 역이 아니라 북으로 가는 첫 번째 역'이라 적힌 도라산역, 그리고 1978년 발견된 남침 땅굴을 걸어 내려가는 제3땅굴. 민간인통제선 안쪽이라 정해진 안보관광 코스로만 들어갈 수 있어, 여느 관광지와는 온도가 다른 시간이 된다. 지하 통로의 서늘한 공기가 오래 기억에 남는다.",
+    "todo": [
+     "도라전망대에서 개성 방향 조망",
+     "제3땅굴 지하 통로 걸어보기",
+     "도라산역 플랫폼에서 끊긴 철길 바라보기"
+    ],
+    "tip": "개인 자유 출입 불가 — 임진각 DMZ 안보관광(셔틀·투어)을 예약하고 신분증을 꼭 지참한다. 월요일·지정일 휴무가 잦고, 코스별 요금이 다르니 사전 확인 필수.",
+    "eat": "투어 출발지 임진각 광장의 장어·매운탕으로 앞뒤를 채운다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dorasan_stationdue.jpg/500px-Dorasan_stationdue.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Korea_DMZ_Train_15_%2814061863659%29.jpg/500px-Korea_DMZ_Train_15_%2814061863659%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Korail_dorasan_station_name_plate.jpg/500px-Korail_dorasan_station_name_plate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "pocheon": {
+  "nm": "포천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 도심에서 자가용 약 1시간~1시간 30분. 대중교통은 수유역·의정부에서 3000번대 버스, 동서울터미널에서 시외버스로 연결된다.",
+  "sep": "가을(10~11월) — 명성산 억새가 은빛으로 일렁이고 국립수목원 단풍이 절정에 드는 때. 산정호수 둘레길이 한 해 중 가장 곱다.",
+  "mood": "서울에서 한 시간, 물 채운 화강암 채석장과 현무암 협곡, 억새 물결까지 — 수도권 안에 숨은 '작정한 자연'.",
+  "see": "산정호수와 명성산 억새, 되살아난 아트밸리 채석장 호수, 한탄강 주상절리와 비둘기낭폭포, 500년을 지킨 국립수목원 숲.",
+  "spots": [
+   {
+    "name": "산정호수",
+    "rom": "명성산이 물 위에 통째로 내려앉는 호수",
+    "meta": [
+     "🚶 둘레길 3.2km",
+     "🍂 가을 억새·단풍",
+     "🅿️ 주차 약 5,000원"
+    ],
+    "desc": "명성산이 물 위에 그림자를 드리우는 고요한 인공 호수다. 3.2km 둘레길을 천천히 걸으면 물결 위로 산 능선이 통째로 내려앉는 풍경을 만난다. 봄엔 벚꽃, 가을엔 억새, 겨울엔 얼음 위 썰매까지 사계절 표정이 다 다르다.",
+    "todo": [
+     "호수 한 바퀴 둘레길 걷기",
+     "명성산 능선이 물에 비치는 지점에서 사진",
+     "보트 타고 호수 한가운데로 나가 보기"
+    ],
+    "tip": "억새가 절정인 10월 주말은 주차장이 금세 찬다. 오전 일찍 도착하는 편이 마음 편하다.",
+    "eat": "호수 초입 상가촌의 쏘가리매운탕과 포천 이동갈비.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg/500px-Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "포천 아트밸리",
+    "rom": "버려진 채석장이 에메랄드빛 호수로",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "🚞 모노레일",
+     "⏱ 두세 시간"
+    ],
+    "desc": "버려진 화강암 채석장이 물을 채우며 에메랄드빛 호수 '천주호'로 되살아난 곳이다. 깎여나간 화강암 절벽이 물가에 병풍처럼 서 있어 폐허와 비경이 한 화면에 담긴다. 가파른 언덕은 모노레일이 대신 올라준다.",
+    "todo": [
+     "천주호 화강암 절벽 앞에서 사진",
+     "모노레일 타고 천문대역까지 오르기",
+     "밤이면 천문대에서 별 관측"
+    ],
+    "tip": "천주호까지 오르막이 있으니 편한 신발을 권한다. 모노레일은 왕복 별도 요금(약 4,500원)이고 주말엔 대기가 길다.",
+    "eat": "포천 대표 먹거리 이동갈비.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_Valley_In_Korea_%2865750913%29.jpeg/500px-Art_Valley_In_Korea_%2865750913%29.jpeg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_3.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG/500px-%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_4.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립수목원(광릉숲)",
+    "rom": "500년을 지켜온 수도권의 원시림",
+    "meta": [
+     "💴 입장 약 1,000원",
+     "📅 예약 필수",
+     "🌲 전나무 숲길"
+    ],
+    "desc": "조선 세조의 능림을 500년 넘게 지켜온 덕에, 수도권에 이런 원시림이 남았다. 하늘을 가린 전나무 숲길을 걸으면 도심에서 한 시간 거리라는 사실이 믿기지 않는다. 900여 종의 나무가 계절마다 다른 숲을 만든다.",
+    "todo": [
+     "전나무 숲길 천천히 걷기",
+     "산림박물관과 열대식물자원연구센터 둘러보기",
+     "가을 단풍 명소 찾아 사진"
+    ],
+    "tip": "하루 입장 인원을 제한하는 예약제라 방문 전 홈페이지 예약이 필수다. 개방일과 휴원일이 정해져 있으니 예약할 때 함께 확인하는 편이 좋다.",
+    "eat": "수목원 인근 광릉숲길의 손두부와 산채정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_%28The_forest_eco-trail_in_the_Korea_National_Arboretum%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aquatic_Botanical_Garden.jpg/120px-Aquatic_Botanical_Garden.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG/120px-%EA%B8%88%EB%B6%93%EA%BD%83_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "비둘기낭폭포",
+    "rom": "주상절리 협곡에 숨은 옥빛 폭포",
+    "meta": [
+     "🆓 무료",
+     "🏞 주상절리 협곡",
+     "📸 드라마 촬영지"
+    ],
+    "desc": "한탄강이 현무암 대지를 깎아 만든 깊은 협곡 끝에 숨은 폭포다. 주상절리 절벽에 둘러싸인 물웅덩이는 계절과 햇빛에 따라 옥빛에서 짙은 초록으로 변한다. 사극·판타지 드라마의 단골 촬영지로, 실제로 서 보면 왜 그랬는지 안다.",
+    "todo": [
+     "전망대에서 폭포 내려다보기",
+     "한탄강 하늘다리까지 이어 걷기",
+     "현무암 주상절리 절벽 관찰하기"
+    ],
+    "tip": "협곡 안은 그늘이라 여름에도 서늘하다. 데크 계단이 미끄러울 수 있으니 비 온 뒤엔 조심.",
+    "eat": "한탄강 일대의 오리백숙과 매운탕.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg/500px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg/250px-Columnar_jointed_basalt_in_Bidulginang%28Dove%27s_pocket%29_Fall_at_Pocheon%2C_Gyeonggi-do%2C_South_Korea%2C_image_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "허브아일랜드",
+    "rom": "밤이 더 유명한 지중해 허브 마을",
+    "meta": [
+     "💴 입장 약 9,000원",
+     "✨ 야간 불빛축제",
+     "🌿 실내 허브정원"
+    ],
+    "desc": "지중해 마을을 옮겨온 듯한 허브 테마파크로, 낮보다 밤이 더 유명하다. 해가 지면 온 정원에 수많은 전구가 켜지는 불빛동화축제가 열려 산타마을과 골목이 반짝인다. 허브 향이 밴 실내정원은 겨울에도 초록빛이다.",
+    "todo": [
+     "해 질 무렵 들어가 낮과 밤을 모두 보기",
+     "허브식물박물관과 산속정원 산책",
+     "족욕 카페에서 허브 족욕 즐기기"
+    ],
+    "tip": "불빛축제는 저녁에 켜지니 오후 늦게 입장하면 낮과 밤을 한 번에 즐긴다. 수요일은 정기휴무.",
+    "eat": "허브를 넣은 허브빵과 허브차, 원내 레스토랑."
+   },
+   {
+    "name": "명성산 억새밭",
+    "rom": "가을이면 은빛으로 눕는 억새 능선",
+    "meta": [
+     "🆓 무료 등산",
+     "🌾 10월 억새 절정",
+     "🥾 왕복 3~4시간"
+    ],
+    "desc": "가을이면 정상 아래 억새밭이 은빛으로 일렁이는 산이다. 산정호수에서 억새밭까지 오르는 길은 두어 시간, 능선에 서면 바람에 눕는 억새 물결이 발밑까지 펼쳐진다. 매년 억새꽃 축제가 이 풍경 위에서 열린다.",
+    "todo": [
+     "산정호수를 기점으로 억새밭까지 등반",
+     "억새밭 능선에서 사진 남기기",
+     "가을 억새꽃 축제 시기에 맞춰 방문"
+    ],
+    "tip": "억새밭까지는 사실상 등산이다. 물과 편한 등산화는 필수, 정상까지 무리하지 말고 억새밭 능선까지만 다녀와도 충분하다.",
+    "eat": "하산 후 산정호수 상가촌의 이동갈비와 매운탕.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한탄강 하늘다리",
+    "rom": "협곡 위 200m 흔들다리",
+    "meta": [
+     "🆓 무료",
+     "🌉 200m 흔들다리",
+     "🏞 유네스코 지질공원"
+    ],
+    "desc": "한탄강 협곡을 가로질러 놓인 길이 200m의 흔들다리다. 다리 한가운데 서면 발밑으로 현무암 절벽과 강물이 아득하게 흐르고, 투명 구간 아래로 협곡이 그대로 내려다보인다. 비둘기낭폭포와 이어져 한 번에 걷기 좋다.",
+    "todo": [
+     "다리 한가운데 투명 구간에서 아래 내려다보기",
+     "비둘기낭폭포까지 협곡 산책로 걷기",
+     "한탄강 주상절리길 이어 걷기"
+    ],
+    "tip": "바람 부는 날은 다리가 제법 흔들린다. 비둘기낭폭포 주차장을 함께 쓰면 두 곳을 한 번에 볼 수 있다.",
+    "eat": "한탄강 주변 마을의 손칼국수와 오리요리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/500px-Hantan_River_nearby_Goseokjeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hantan_river.png/500px-Hantan_river.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "pohang": {
+  "nm": "포항",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울역에서 KTX로 포항역까지 약 2시간 20분, 부산에서는 승용차·시외버스로 약 1시간 30분. 포항역·시외버스터미널에서 시내버스나 렌터카로 해안을 따라 움직이면 편하다.",
+  "sep": "겨울(11~2월)이 백미다. 구룡포 덕장에 과메기가 걸리는 제철이자, 새해 첫날 호미곶 일출을 보러 전국에서 사람이 모인다. 물놀이가 목적이면 초여름~여름, 폭포 계곡의 초록을 원하면 여름 내연산이 좋다.",
+  "mood": "바다에서 해가 뜨는 도시. 손 하나가 파도 위로 솟은 호미곶에서, 과메기 냄새 나는 골목까지 — 동해의 아침을 가장 먼저 만지는 곳.",
+  "see": "동해 일출 명소 호미곶, 야경이 예쁜 영일대 해변, 12폭포의 내연산, 그리고 근대 골목이 남은 구룡포까지.",
+  "spots": [
+   {
+    "name": "호미곶",
+    "rom": "바다 위로 솟은 상생의 손, 한반도 동쪽 끝의 일출",
+    "meta": [
+     "💴 입장 무료",
+     "🌅 새해 일출",
+     "⏱ 한나절"
+    ],
+    "desc": "호랑이 꼬리에 해당한다는 한반도의 동쪽 끝, 바다 한가운데 커다란 손 조형물 '상생의 손'이 파도 위로 손가락을 펼치고 있다. 새해 첫날이면 그 손 위로 붉은 해가 떠오르는 장면을 보러 전국에서 사람이 모여든다. 해맞이광장과 국립등대박물관을 함께 둘러보며 동해의 아침을 가장 먼저 맞을 수 있는 곳이다.",
+    "todo": [
+     "상생의 손 사이로 떠오르는 일출 담기",
+     "국립등대박물관에서 옛 등대 이야기 보기",
+     "해맞이광장 걷기"
+    ],
+    "tip": "새해 일출은 인파가 몰려 주차가 매우 붐빈다. 어둡기 전 일찍 도착하고 방한을 단단히. 평일 아침에 가면 한적하게 볼 수 있다.",
+    "eat": "물회, 대게, 그리고 겨울이면 인근 구룡포 과메기",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/500px-New_millennium_park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg/120px-%EC%83%88%EC%B2%9C%EB%85%84%EA%B8%B0%EB%85%90%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Homigot_20240113_009.jpg/120px-Homigot_20240113_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영일대 해수욕장",
+    "rom": "바다 위 누각과 야경, 포항의 밤이 가장 예쁜 해변",
+    "meta": [
+     "💴 입장 무료",
+     "🌃 야경",
+     "🏖 여름 물놀이"
+    ],
+    "desc": "백사장 1.7km가 길게 이어지는 포항 대표 해변으로, 대한민국 최초의 해상누각이 바다 위에 떠 있어 걸어 나가 볼 수 있다. 해가 지면 영일만 건너편 포스코 제철소의 불빛이 물 위에 번지고, 해변을 따라 늘어선 카페와 포장마차가 하나둘 불을 밝힌다. 낮의 물놀이보다 밤의 산책이 더 인상적인, 도시의 바다다.",
+    "todo": [
+     "해상누각까지 걸어 나가 바다 위에서 보기",
+     "밤에 포스코 야경과 해변 불빛 감상",
+     "해변 카페거리에서 커피 한 잔"
+    ],
+    "tip": "여름 성수기 주말 저녁은 매우 붐빈다. 야경이 목적이면 해질 무렵 도착해 어둠이 내릴 때까지 머무는 편이 좋다.",
+    "eat": "해변 포장마차의 회와 조개구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yeongildae_Pavilion_on_September_19th%2C_2016.jpg/500px-Yeongildae_Pavilion_on_September_19th%2C_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg/330px-Yeongildae_Beach_at_night_on_March_2nd%2C_2019.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽도시장",
+    "rom": "포항을 대표하는 큰 전통시장, 활어와 물회의 바다",
+    "meta": [
+     "💴 입장 무료",
+     "🍜 회·물회",
+     "⏱ 반나절"
+    ],
+    "desc": "포항을 대표하는 큰 전통시장으로, 골목마다 펄떡이는 활어 수조와 갓 잡아 올린 해산물이 가득하다. 상인의 흥정 소리와 비린 바다 냄새가 뒤섞인 시장 안을 걷다 보면, 즉석에서 썰어주는 회와 시원한 물회 한 그릇의 유혹을 이기기 어렵다. 포항의 '먹는 여행'이 시작되는 곳이다.",
+    "todo": [
+     "활어회 떠서 초장집에서 바로 먹기",
+     "얼큰·시원한 포항식 물회 맛보기",
+     "건어물·과메기 사 오기"
+    ],
+    "tip": "회를 산 뒤 근처 초장집에서 상차림 비용을 내고 먹는 방식이 흔하다. 가격은 흥정 전 미리 물어보는 게 좋다.",
+    "eat": "포항물회, 활어회, 대게, 과메기(겨울)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/Pohang-Jukdosijang_main.jpg/500px-Pohang-Jukdosijang_main.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "내연산 보경사 12폭포",
+    "rom": "숲길 따라 이어지는 열두 폭포, 연산폭포의 물소리",
+    "meta": [
+     "💴 문화재관람료(변동·확인)",
+     "🌲 계곡 트레킹",
+     "🍁 가을 단풍"
+    ],
+    "desc": "포항과 영덕에 걸친 내연산 자락에는 신라 때 세워졌다는 고찰 보경사가 계곡 입구를 지킨다. 절을 지나 계곡을 거슬러 오르면 관음폭포, 연산폭포로 이어지는 열두 개의 폭포가 차례로 나타나는데, 특히 가장 큰 연산폭포는 여름이면 우렁찬 물소리로, 겨울이면 거대한 얼음기둥으로 압도한다. 물길을 따라 걷는 그 자체가 여행이다.",
+    "todo": [
+     "보경사에서 오래된 석탑과 부도 둘러보기",
+     "계곡 따라 연산폭포까지 걷기",
+     "가을 단풍철 계곡 물빛 담기"
+    ],
+    "tip": "폭포까지는 완만하지만 왕복 몇 시간 걷는 길이라 편한 신발 필수. 문화재관람료는 변동될 수 있으니 방문 전 확인.",
+    "eat": "산채비빔밥, 계곡 초입 식당의 파전",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구룡포 근대문화역사거리",
+    "rom": "옛 일본인 가옥이 남은 골목, 드라마 속 그 거리",
+    "meta": [
+     "💴 입장 무료",
+     "🎬 드라마 촬영지",
+     "⏱ 반나절"
+    ],
+    "desc": "한때 일본인들이 건너와 살던 항구 마을로, 나무 창틀과 좁은 골목에 근대의 시간이 그대로 멈춰 있다. 드라마 《동백꽃 필 무렵》의 무대가 되며 유명해졌고, 언덕 위 계단을 오르면 구룡포 항구가 한눈에 내려다보인다. 근대역사관으로 쓰이는 옛 가옥에서 그 시절의 이야기도 만날 수 있다.",
+    "todo": [
+     "옛 일본인 가옥거리 골목 산책",
+     "근대역사관에서 마을의 역사 보기",
+     "언덕 계단에서 항구 전망 담기"
+    ],
+    "tip": "겨울이 과메기 제철이라 골목 곳곳 덕장을 볼 수 있다. 언덕 계단은 다소 가파르니 편한 신발을 권한다.",
+    "eat": "구룡포 과메기, 모리국수(포항식 얼큰 해물칼국수)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Guryongpo_Japanese_House_Street_20240113_001.jpg/500px-Guryongpo_Japanese_House_Street_20240113_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guryongpo_Japanese_House_Street_20240113_002.jpg/250px-Guryongpo_Japanese_House_Street_20240113_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Guryongpo_Japanese_House_Street_20240113_003.jpg/250px-Guryongpo_Japanese_House_Street_20240113_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "포항 스페이스워크",
+    "rom": "언덕 위 하늘길을 걷는 무료 체험형 전망대",
+    "meta": [
+     "💴 입장 무료",
+     "🌃 야경",
+     "⏱ 1~2시간"
+    ],
+    "desc": "환호공원 언덕 위에 놓인 거대한 철제 트랙으로, 계단을 오르내리며 하늘 위를 걷듯 도시와 바다를 내려다볼 수 있다. 롤러코스터 레일을 닮은 구조물 끝에서 보는 영일만과 포항 시내 전경이 시원하고, 해질 무렵이면 노을과 야경이 함께 펼쳐진다. 무료로 이런 풍경을 걷게 해준다는 점이 반갑다.",
+    "todo": [
+     "트랙 정상까지 걸어 올라 전망 보기",
+     "해질녘 노을과 야경 담기",
+     "영일대 해변과 묶어서 코스로"
+    ],
+    "tip": "안전상 기상 악화 시 운영이 중단되고 이용 인원도 제한된다. 바람 부는 날은 특히 확인 필요. 계단이 많아 편한 신발 권장.",
+    "eat": "인근 영일대 해변 카페거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_01.jpg/500px-SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_02.jpg/500px-SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_02.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_03.jpg/500px-SpaceWalk_%28walkable_sculpture%2C_Pohang_2021%29_Mutter_Genth_03.jpg"
+    ]
+   },
+   {
+    "name": "포항운하",
+    "rom": "도심을 가르는 물길, 크루즈로 만나는 포항의 재생",
+    "meta": [
+     "💴 크루즈 약 유료(변동)",
+     "🚤 운하 크루즈",
+     "⏱ 1~2시간"
+    ],
+    "desc": "형산강과 동빈내항을 잇는 약 1.3km의 도심 물길로, 한때 매립됐던 옛 수로를 되살려 만든 도시재생의 상징이다. 운하를 따라 걷거나 작은 크루즈를 타면, 다리와 벽화가 이어지는 물가 풍경 속에서 어시장 동빈항까지 닿는다. 도시가 스스로를 고쳐 만든 산책로 같은 곳이다.",
+    "todo": [
+     "운하 크루즈 타고 동빈항까지",
+     "운하 옆 산책로와 벽화거리 걷기",
+     "죽도시장과 묶어서 코스로"
+    ],
+    "tip": "크루즈 요금·운항 시간은 계절과 요일에 따라 달라지니 방문 전 확인. 죽도시장이 걸어갈 거리라 함께 다니기 좋다.",
+    "eat": "동빈항·죽도시장의 회와 물회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pohang_Canal_on_January_29th%2C_2017.jpg/500px-Pohang_Canal_on_January_29th%2C_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "pyeongchang": {
+  "nm": "평창",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 동서울터미널에서 시외버스로 약 2시간 30분(장평·진부), 자가용은 영동고속도로 진부IC·평창IC 하차. 부산에서는 KTX로 진부(오대산)역까지 이어 붙는 길이 가장 편하다.",
+  "sep": "가장 넓게 사랑받는 건 하얀 겨울(1~2월)이다 — 대관령 능선의 설경과 스키가 절정이다. 하지만 진짜 숨은 명장면은 늦여름 9월, 봉평 들판이 온통 소금을 뿌린 듯 메밀꽃으로 하얗게 피어날 때다. 오대산 단풍은 10월 중순이 곱다.",
+  "mood": "해발 700미터, 대한민국에서 하늘과 가장 가까운 고원. 여름에도 서늘한 바람이 능선을 넘어오고, 겨울이면 온 세상이 하얗게 덮인다.",
+  "see": "능선을 걷는 양떼목장과 풍력발전기, 천년 고찰 월정사의 전나무숲길, 그리고 소금밭 같은 봉평 메밀꽃.",
+  "spots": [
+   {
+    "name": "대관령 양떼목장",
+    "rom": "능선 위를 걷는 초록 산책로와 양떼",
+    "meta": [
+     "💴 입장료 있음(변동)",
+     "⏱ 반나절",
+     "🐑 양먹이 체험",
+     "🌿 초원 트레킹"
+    ],
+    "desc": "완만한 능선을 따라 산책로가 원을 그리며 이어지고, 그 초원 위에 양들이 한가로이 흩어져 있다. 언덕 꼭대기에 서면 대관령의 능선이 겹겹이 물결치고, 바람이 풀밭을 훑고 지나간다. 알프스 엽서 속에 들어온 듯한 풍경이 사철 마음을 잡아끄는 곳이다.",
+    "todo": [
+     "산책로 정상에서 능선 파노라마 사진 남기기",
+     "매표소에서 건초 받아 양에게 먹이 주기"
+    ],
+    "tip": "경사가 있으니 편한 신발 필수. 여름에도 능선 바람이 서늘해 얇은 겉옷을 챙기면 좋다. 겨울엔 눈 덮인 초원이 또 다른 장관이다.",
+    "eat": "목장 근처 대관령 일대는 황태해장국과 한우가 유명하다."
+   },
+   {
+    "name": "월정사와 전나무숲길",
+    "rom": "천년 고찰로 이어지는 아름드리 전나무 숲",
+    "meta": [
+     "🆓 입장 무료",
+     "⏱ 반나절",
+     "🌲 전나무숲길 약 1km",
+     "🛕 국보 팔각구층석탑"
+    ],
+    "desc": "일주문에서 절 마당까지 약 1km, 수백 년 묵은 아름드리 전나무가 하늘을 가리며 도열해 있다. 흙길을 밟으며 걸으면 향긋한 나무 냄새와 새소리만 남는다. 숲 끝에 다다르면 오대산을 등지고 앉은 월정사, 그 앞뜰에 국보 팔각구층석탑이 천년째 서 있다.",
+    "todo": [
+     "전나무숲길 천천히 왕복하며 산림욕 하기",
+     "성보박물관에서 오대산 사고와 불교 유물 보기"
+    ],
+    "tip": "숲길은 평탄해 아이·어르신도 걷기 좋다. 이른 아침이나 비 온 뒤에 안개 낀 숲이 특히 신비롭다.",
+    "eat": "진부면 오대산 입구에 산채정식·더덕구이 식당이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%9B%94%EC%A0%95%EC%82%AC1.jpg/500px-%EC%9B%94%EC%A0%95%EC%82%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG/120px-Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "오대산 국립공원",
+    "rom": "다섯 봉우리가 감싸안은 소금강의 명산",
+    "meta": [
+     "🆓 입장 무료",
+     "⏱ 하루",
+     "🍁 10월 단풍",
+     "⛰ 비로봉 1,563m"
+    ],
+    "desc": "기암이 금강산을 닮았다 하여 '소금강'으로도 불리는 넉넉한 산이다. 상원사에서 적멸보궁으로 오르는 길은 순례자의 길이자 가벼운 트레킹 코스로, 계곡물 소리를 벗 삼아 걷는다. 가을이면 골짜기마다 단풍이 불붙듯 물들어 온 산이 붉어진다.",
+    "todo": [
+     "상원사에서 적멸보궁까지 오르며 산 기운 느끼기",
+     "소금강 계곡을 따라 물길 산책하기"
+    ],
+    "tip": "상원사까지는 차로 오를 수 있어 등산이 부담스러우면 절 주변만 둘러봐도 좋다. 단풍철 주말은 혼잡하니 아침 일찍 움직이자.",
+    "eat": "오대산 자락의 곤드레밥과 산채비빔밥이 담백하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG/500px-Korea-Gangwondo-Odaesan_National_Park_1480-07.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "봉평 효석문화마을",
+    "rom": "소금을 뿌린 듯 하얀 메밀꽃 들판",
+    "meta": [
+     "💴 입장료 있음(변동)",
+     "⏱ 반나절",
+     "🌾 9월 메밀꽃",
+     "📖 이효석 문학기행"
+    ],
+    "desc": "소설가 이효석이 나고 자란 마을, 그의 대표작 '메밀꽃 필 무렵'의 무대다. 늦여름이면 봉평 들판이 온통 하얀 메밀꽃으로 뒤덮여 '소금을 뿌린 듯' 반짝인다. 물레방앗간과 섶다리, 이효석 문학관을 잇는 산책로를 걸으면 소설 속 달밤 풍경으로 걸어 들어가는 기분이 든다.",
+    "todo": [
+     "메밀꽃밭 사잇길 걸으며 사진 남기기",
+     "이효석 문학관에서 소설의 무대 되짚어 보기"
+    ],
+    "tip": "메밀꽃 절정은 9월 초·중순, 이 시기 효석문화제가 열려 가장 붐빈다. 꽃밭은 이슬 맺힌 이른 아침이 가장 곱다.",
+    "eat": "봉평은 메밀의 고장 — 메밀막국수와 메밀전병(메밀전)을 꼭 맛보자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg/250px-%EC%9D%B4%ED%9A%A8%EC%84%9D_%EC%9E%91%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "평창 백룡동굴",
+    "rom": "헬멧 쓰고 기어드는 체험형 천연동굴",
+    "meta": [
+     "💴 체험료 있음(변동)",
+     "⏱ 반나절",
+     "🎫 예약 필수",
+     "💎 천연기념물 제260호"
+    ],
+    "desc": "국내 최초의 체험형 관광동굴로, 관람이 아니라 '탐험'을 한다. 헬멧과 작업복을 갖추고 가이드를 따라 좁은 통로를 기어 지나며, 수만 년이 빚어낸 종유석과 석순을 코앞에서 만난다. 미탄면 마하리, 동강을 배로 건너 들어가는 접근 자체가 이미 모험이다.",
+    "todo": [
+     "가이드 투어로 동굴 안 미로 탐험하기",
+     "동강 뱃길로 동굴 입구까지 건너가 보기"
+    ],
+    "tip": "회당 인원과 시간이 제한돼 사전 예약이 필수다. 옷·신발이 젖고 흙이 묻으니 여벌 준비를 권한다. 좁은 구간이 있어 폐소공포가 있으면 신중히.",
+    "eat": "미탄·평창읍 일대에서 동강 민물매운탕이 별미다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/KOCIS_Baengnyong_Cave_%284811002039%29.jpg/330px-KOCIS_Baengnyong_Cave_%284811002039%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대관령 · 선자령",
+    "rom": "풍력발전기 능선을 걷는 바람의 언덕",
+    "meta": [
+     "🆓 무료",
+     "⏱ 반나절~하루",
+     "🌬 풍력발전 능선",
+     "🥾 선자령 트레킹"
+    ],
+    "desc": "해발 832m 옛 고개 위, 하늘과 맞닿은 고원이 펼쳐진다. 거대한 풍력발전기들이 능선을 따라 천천히 돌고, 그 사이로 백두대간 선자령 트레킹 길이 이어진다. 겨울엔 눈밭과 상고대가, 여름엔 초록 능선과 시원한 바람이 반긴다 — 사계절 표정이 가장 다른 곳.",
+    "todo": [
+     "선자령 능선을 걸으며 풍력발전기 아래 서 보기",
+     "옛 대관령휴게소에서 강릉 방면 시야 즐기기"
+    ],
+    "tip": "능선은 바람이 매우 강하고 기온이 낮다. 여름에도 방풍 재킷 필수, 겨울엔 아이젠·방한 완전무장이 필요하다. 안개가 잦으니 맑은 날을 고르자.",
+    "eat": "대관령 일대 황태해장국으로 든든하게 속을 풀기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Daegwallyeong3.jpg/500px-Daegwallyeong3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg/330px-%EC%98%81%EB%8F%99%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C_%EA%B5%AC_%EB%8C%80%EA%B4%80%EB%A0%B9_%EA%B5%AC%EA%B0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Daegwallyeong1.jpg/500px-Daegwallyeong1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "발왕산과 모나 용평",
+    "rom": "케이블카로 오르는 해발 1,458m 정상",
+    "meta": [
+     "💴 케이블카 요금 있음(변동)",
+     "⏱ 반나절",
+     "⛷ 겨울 스키",
+     "🏔 발왕산 스카이워크"
+    ],
+    "desc": "우리나라 최초의 스키장이 자리한 곳이자 2018 평창올림픽 알파인 스키의 무대다. 겨울이 아니어도 관광케이블카를 타면 발왕산 정상 부근에 오른다. 발밑으로 강원 산줄기가 끝없이 펼쳐지고, 스카이워크에 서면 고원의 능선과 하늘이 한눈에 담긴다.",
+    "todo": [
+     "관광케이블카로 발왕산 정상 오르기",
+     "정상 스카이워크에서 강원 산맥 조망하기"
+    ],
+    "tip": "정상은 아래보다 훨씬 춥고 바람이 세다 — 계절과 무관하게 겉옷을 챙기자. 겨울엔 스키·스노보드 시즌권 이용객으로 붐빈다.",
+    "eat": "리조트 인근 대관령면에서 한우와 오삼불고기가 인기다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg/330px-Winter_2014_Candidate_City-_PyeongChang_Dragon_Valley_ski_resort.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/YongpyeongR2.jpg/500px-YongpyeongR2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/YongpyeongR1.jpg/500px-YongpyeongR1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "pyeongtaek": {
+  "nm": "평택",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 SRT·KTX로 평택지제역까지 약 20분, 자가용은 경부고속도로로 1시간 안팎. 부산에서도 SRT 한 번에 닿는다. 관광지끼리는 흩어져 있어 차가 편하다.",
+  "sep": "가을(9월 말~11월 초)이 가장 좋다. 바람새마을 핑크뮬리가 절정이고 평택호 갈대와 노을이 깊어진다. 봄에는 평택호·진위천 벚꽃, 여름엔 소풍정원 연꽃과 물놀이가 이어진다.",
+  "mood": "미군기지의 이국적인 밤과 바다처럼 넓은 호수의 노을이 한 도시에 있다. 화려한 관광지는 아니어도, 수도권에서 가장 '색이 다른' 하루가 여기 있다.",
+  "see": "바다 같은 평택호, 분홍빛 핑크뮬리, 부대찌개 익어가는 국제시장, 영어 간판이 즐비한 작은 이태원.",
+  "spots": [
+   {
+    "name": "평택호 관광단지",
+    "rom": "바다처럼 넓은 인공호수와 노을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 노을 명소"
+    ],
+    "desc": "방조제로 바닷물을 막아 만든 거대한 인공호수. 목조 수변데크를 걷다 보면 여기가 호수인지 바다인지 헷갈릴 만큼 물이 넓게 펼쳐진다. 해 질 무렵 물 위로 붉게 번지는 노을을 보려고 저녁 시간에 맞춰 찾는 사람이 많다.",
+    "todo": [
+     "수변데크 따라 천천히 걷기",
+     "뱃머리전망대에서 호수 전경 담기",
+     "노을 시간에 맞춰 물가에 앉아 보기"
+    ],
+    "tip": "주차장이 넉넉하고 무료. 노을을 보려면 일몰 30분 전에 도착하는 게 좋고, 물가라 저녁엔 바람이 차니 겉옷을 챙기자.",
+    "eat": "관광단지 인근 식당가에서 민물장어구이와 붕어찜을 낸다."
+   },
+   {
+    "name": "소풍정원",
+    "rom": "연꽃 습지 위 데크길, 밤엔 빛의 정원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2시간",
+     "🪷 여름 연꽃",
+     "🏕 캠핑"
+    ],
+    "desc": "'미소 짓는 바람이 머무는 정원'이라는 뜻의 생태 습지공원. 물 위로 놓인 데크길을 따라가면 여름엔 연꽃이 가득한 습지가, 사이사이엔 네 개의 테마 섬이 이어진다. 밤이면 섬마다 조명이 들어와 조용한 야경 산책 코스가 된다.",
+    "todo": [
+     "연꽃 습지 데크길 한 바퀴",
+     "테마 섬 넷을 이어 걷기",
+     "저녁 조명 켜진 뒤 야경 산책"
+    ],
+    "tip": "바로 옆 바람새마을과 도보 10분 거리라 함께 묶어 보기 좋다. 캠핑장과 어린이 물놀이터가 있어 아이 동반 가족에게 특히 편하다.",
+    "eat": ""
+   },
+   {
+    "name": "진위천 시민유원지",
+    "rom": "돌다리 건너 물놀이·레일바이크",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🚲 레일바이크",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "진위천을 가로지르는 돌다리를 사이에 두고 레일바이크, 카약, 물놀이, 놀이기구가 모여 있는 강변 유원지. 오토캠핑장이 있어 하룻밤 묵기 좋고, 겨울이면 눈썰매장이 열려 사계절 내내 붐빈다.",
+    "todo": [
+     "강변 따라 레일바이크 타기",
+     "돌다리 건너며 물멍하기",
+     "오토캠핑장에서 하룻밤"
+    ],
+    "tip": "주차장·샤워장·매점에 축구장·족구장까지 갖춰 종일 놀기 좋다. 여름 성수기 주말엔 물놀이 자리가 빨리 차니 오전에 도착하는 걸 추천.",
+    "eat": ""
+   },
+   {
+    "name": "바람새마을",
+    "rom": "가을이면 온통 분홍빛 핑크뮬리",
+    "meta": [
+     "💴 입장 약 4,000원(변동가능)",
+     "⏱ 2시간",
+     "🌸 가을 핑크뮬리",
+     "📷 인생샷"
+    ],
+    "desc": "9월 말부터 11월 초까지 마을 전체가 분홍빛 핑크뮬리로 물드는 농촌체험마을. 바람에 흔들리는 핑크뮬리 물결 앞에서 인생샷을 남기려는 사람들로 가을이면 북적인다. 계절이 바뀌면 생태 학습과 농촌 체험이 이어지는 살아있는 마을이다.",
+    "todo": [
+     "핑크뮬리 밭에서 사진 남기기",
+     "마을 산책로 따라 걷기",
+     "가을 핑크뮬리 축제 즐기기"
+    ],
+    "tip": "핑크뮬리는 10월 초중순이 절정. 자체 주차장이 마땅치 않아 바로 옆 소풍정원 주차장을 함께 이용하기 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "웃다리문화촌",
+    "rom": "폐교가 된 시골 분교의 예술 변신",
+    "meta": [
+     "💴 체험 유료",
+     "⏱ 2~3시간",
+     "🎨 공예 체험",
+     "🏫 폐교"
+    ],
+    "desc": "문을 닫은 시골 초등학교 분교를 문화 공간으로 되살린 곳. 옛 교실 자리에서 생활 도예, 공예, 전통놀이 같은 체험이 열리고, 운동장과 낮은 건물 사이엔 시골 학교 특유의 정겨운 분위기가 그대로 남아 있다.",
+    "todo": [
+     "도예·공예 체험 프로그램 참여",
+     "폐교 운동장과 교실 둘러보기",
+     "전시·공연 일정 맞춰 방문"
+    ],
+    "tip": "체험 프로그램은 사전 예약이 안전하다. 평택 도심에서 다소 떨어진 서탄면 외곽이라 차로 가는 편이 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg/330px-%EC%9B%83%EB%8B%A4%EB%A6%AC%EB%AC%B8%ED%99%94%EC%B4%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "송탄 국제중앙시장",
+    "rom": "미군기지 앞에서 자란 국제시장, 부대찌개",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2시간",
+     "🍜 부대찌개",
+     "🌏 이국적"
+    ],
+    "desc": "1950년대 미군기지 앞에서 자연스럽게 형성된 국제시장. 세계 각국 식료품과 잡화, 다국적 식당이 뒤섞여 여느 전통시장과는 다른 이국적인 공기가 흐른다. 미군 부대 문화에서 유래한 부대찌개와 두툼한 송탄식 수제버거가 이곳의 대표 먹거리다.",
+    "todo": [
+     "부대찌개로 든든하게 한 끼",
+     "다국적 식료품·잡화 구경",
+     "골목마다 다른 나라 간판 찾기"
+    ],
+    "tip": "평일 낮이 한산하고 여유롭다. 미군 관련 이국적 상점이 많아 구경하는 재미가 크다.",
+    "eat": "미군 부대 문화에서 자란 부대찌개가 대표 먹거리. 두툼한 송탄식 수제버거도 유명하다."
+   },
+   {
+    "name": "안정리 로데오거리",
+    "rom": "작은 이태원, 영어 간판과 이국의 밤",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 저녁 나절",
+     "🌏 이국적",
+     "🌃 야경"
+    ],
+    "desc": "미군기지 캠프 험프리스를 낀 팽성읍 안정리에는 영어 간판과 외국 음식점이 늘어선 '작은 이태원' 로데오거리가 있다. 밤이 되면 한국과 미국이 뒤섞인 독특한 거리 풍경이 살아난다.",
+    "todo": [
+     "밤 거리의 이국적 분위기 걷기",
+     "외국 음식점에서 한 끼",
+     "영어 간판 즐비한 밤거리 사진 담기"
+    ],
+    "tip": "낮보다 저녁~밤에 분위기가 산다. 캠프 험프리스는 국내 최대 규모 미군기지로 내부 출입은 불가, 바깥 거리 산책 위주로 즐기면 된다.",
+    "eat": "타코, 버거 같은 미국식 먹거리와 다국적 음식점이 거리를 채운다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/USAGH-CREST.jpg/500px-USAGH-CREST.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chinook-Humphreys.JPG/250px-Chinook-Humphreys.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "sacheon": {
+  "nm": "사천",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 사천공항까지 국내선 약 1시간, 또는 남부터미널·센트럴시티에서 삼천포행 고속버스 약 4시간(진주 KTX 후 시외버스도 가능). 부산 서부터미널에서는 삼천포행 시외버스로 약 2시간.",
+  "sep": "봄(3월 말~4월 초). 선진리성 벚꽃이 왜성 돌담을 뒤덮는 시기이자, 실안 앞바다 낙조는 사계절 내내 붉게 진다.",
+  "mood": "한려수도의 섬과 바다, 그 위를 가로지르는 케이블카. 사천은 '해질 무렵'이 가장 아름다운 도시다.",
+  "see": "바다 위 케이블카, 죽방렴 사이로 지는 낙조, 벚꽃 뒤덮인 왜성, 솔숲 품은 고찰까지.",
+  "spots": [
+   {
+    "name": "사천바다케이블카",
+    "rom": "바다·산·섬을 한 번에 잇는 2.43km 하늘길",
+    "meta": [
+     "💴 일반 왕복 약 18,000원",
+     "⏱ 왕복 40분~",
+     "🌅 실안 낙조 조망"
+    ],
+    "desc": "각산과 초양도, 그리고 사천 앞바다를 한 줄로 잇는 산·바다·섬 케이블카다. 캐빈이 바다 위 구간을 건너는 동안 발 아래로는 부채꼴 죽방렴이 펼쳐지고, 눈앞에는 한려해상국립공원의 섬들이 파노라마처럼 흘러간다. 바닥이 투명한 크리스탈 캐빈을 타면 바다 위를 걷는 듯한 아찔함까지 덤이다.",
+    "todo": [
+     "각산 정류장에 내려 전망대에서 삼천포 앞바다 조망",
+     "해질 무렵 탑승해 케이블카 위에서 낙조 감상"
+    ],
+    "tip": "노을을 노린다면 일몰 1시간 전 탑승이 정석. 시기에 따라 야간 운행도 하니 야경을 노린다면 운행 시간을 확인하자. 주말·성수기엔 대기가 길어 오전 방문이 편하다.",
+    "eat": "케이블카 대방 정류장 근처 삼천포항 일대의 회·물회, 갓 삶은 죽방멸치"
+   },
+   {
+    "name": "실안낙조·실안해안도로",
+    "rom": "사천팔경으로 꼽히는 손꼽히는 낙조 명소",
+    "meta": [
+     "💴 무료",
+     "⏱ 저녁 1~2시간",
+     "🌅 죽방렴 노을",
+     "🚗 드라이브"
+    ],
+    "desc": "삼천포대교 옆으로 이어지는 실안해안도로는 해가 질수록 진가를 드러낸다. 참나무 말뚝을 부채꼴로 박은 전통 어장 죽방렴과 옹기종기 뜬 섬들, 그리고 붉게 타는 하늘이 한 폭의 그림처럼 겹친다. 사진가들이 삼각대를 세우고 기다리는 이유가 여기 있다.",
+    "todo": [
+     "일몰 시각에 맞춰 해안도로 드라이브",
+     "죽방렴 실루엣을 담는 노을 사진 남기기"
+    ],
+    "tip": "일몰 시각은 계절마다 다르니 방문 전 그날 일몰 시간을 확인하고 30분 전에 도착하면 여유롭다. 해안도로변 선상카페에서 낙조를 보며 쉬어가기 좋다.",
+    "eat": "실안·삼천포 일대 죽방멸치 요리, 서대회무침, 신선한 활어회"
+   },
+   {
+    "name": "사천선진리성",
+    "rom": "돌담 위로 벚꽃이 쏟아지는 봄의 왜성",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "🏯 역사"
+    ],
+    "desc": "임진왜란 때 일본군이 쌓은 왜성이 지금은 사천을 대표하는 벚꽃 공원이 되었다. 성 안팎으로 벚나무가 오래된 돌담을 따라 흐드러지면, 조용한 벚꽃 터널이 열린다. 사람 붐비는 명소를 피해 조용히 봄을 걷고 싶은 이에게 맞춤한 곳이다.",
+    "todo": [
+     "성벽 산책로를 따라 걸으며 벚꽃과 돌담 함께 담기",
+     "언덕 위에서 사천만 바다 조망"
+    ],
+    "tip": "벚꽃 절정은 보통 3월 말~4월 초, 매년 선진리성 일대에서 벚꽃축제가 열린다. 개화 시기는 해마다 조금씩 달라지니 실시간 개화 소식을 확인하고 가면 실패가 없다.",
+    "eat": "선진리·용현 일대의 재첩국, 장어구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg/500px-%EC%82%AC%EC%B2%9C%EC%84%A0%EC%A7%84%EB%A6%AC%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "다솔사",
+    "rom": "차향과 솔숲에 안긴 1500년 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 두세 시간",
+     "🍵 차밭·솔숲",
+     "🍂 사계절"
+    ],
+    "desc": "봉명산 자락에 터를 잡은 다솔사는 신라 때 창건됐다고 전해지는 오래된 절이다. 절을 둘러싼 소나무 숲과 뒤편의 야생 차밭이 산사를 포근히 감싸, 경내를 걷는 것만으로 마음이 가라앉는다. 만해 한용운이 머물고 소설가 김동리가 야학에서 가르치던 자리라, 고요함에 이야기가 얹힌 공간이기도 하다.",
+    "todo": [
+     "솔숲 산책로를 천천히 걷기",
+     "차밭 사이에서 산사의 정적 느끼기"
+    ],
+    "tip": "봄철 차밭의 연둣빛, 가을 단풍이 특히 곱다. 산사라 조용히 예를 갖춰 둘러보는 것이 좋고, 주차는 일주문 아래 공영주차장을 이용한다.",
+    "eat": "곤명·완사 일대 산채비빔밥, 손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사천 대방진 굴항",
+    "rom": "고려 왜구를 막던 작은 인공 군항",
+    "meta": [
+     "💴 무료",
+     "⏱ 한 시간",
+     "🌊 항구",
+     "🏯 역사"
+    ],
+    "desc": "왜구의 노략질을 막기 위해 고려 때 만든 인공 군항으로, 반달 모양 돌둑이 작은 배들을 아늑하게 품고 있다. 이순신 장군이 임진왜란 때 이곳을 수군기지로 활용했다는 이야기가 전해져, 잔잔한 물결 위에 역사의 무게가 조용히 얹힌다. 크지 않지만 산책하듯 둘러보기 좋은 숨은 명소다.",
+    "todo": [
+     "반달형 방파제를 따라 한 바퀴 걷기",
+     "케이블카 대방 정류장과 묶어 함께 둘러보기"
+    ],
+    "tip": "사천바다케이블카 대방 정류장 바로 인근이라 케이블카 탑승 전후로 들르기 좋다. 규모가 아담해 30분~1시간이면 충분하다.",
+    "eat": "대방·삼천포항의 갓 잡은 회, 멸치쌈밥"
+   },
+   {
+    "name": "비토섬·별주부전 테마파크",
+    "rom": "토끼와 거북 전설이 살아 있는 갯벌 섬",
+    "meta": [
+     "💴 무료(체험 별도)",
+     "⏱ 반나절",
+     "🐢 갯벌 체험",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "《별주부전》의 무대로 전해지는 섬으로, 토끼섬·거북섬·목섬 같은 이름에 그 전설이 그대로 담겨 있다. 물이 빠지면 드러나는 넓은 갯벌에서 조개를 캐고, 벚꽃 터널과 토끼 석상이 있는 테마파크에서는 아이들이 마음껏 뛰논다. 다리로 연결돼 차로 들어갈 수 있어 접근도 편하다.",
+    "todo": [
+     "물때에 맞춰 갯벌 체험하기",
+     "전망대에 올라 비토 앞바다와 작은 섬들 조망"
+    ],
+    "tip": "갯벌 체험은 물때(간조) 시간에 좌우되니 방문 전 물때표를 꼭 확인한다. 봄에는 비토섬 일대에서 별주부전 축제가 열려 볼거리가 더해진다.",
+    "eat": "비토·서포 일대의 바지락 칼국수, 굴 요리"
+   },
+   {
+    "name": "사천항공우주박물관",
+    "rom": "실물 항공기가 늘어선 하늘의 박물관",
+    "meta": [
+     "💴 유료(변동가능)",
+     "⏱ 두세 시간",
+     "✈️ 항공기 전시",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "항공기 제작사 KAI가 운영하는 박물관으로, 야외 전시장에는 실물 크기의 전투기와 폭격기, 수송기가 도열해 있다. 하늘을 날던 기체를 바로 눈앞에서 올려다보는 압도감이 상당하고, 실내 전시관에서는 항공·우주 기술의 흐름을 찬찬히 짚어볼 수 있다. 아이와 함께라면 종일 머물러도 지루하지 않다.",
+    "todo": [
+     "야외 전시장에서 실물 항공기 관람",
+     "인근 사천첨단항공우주과학관 체험관 묶어 방문"
+    ],
+    "tip": "바로 옆 사천첨단항공우주과학관과 함께 묶으면 반나절 이상 알찬 코스가 된다. 요금·휴관일은 변동될 수 있으니 방문 전 확인하는 것이 좋다.",
+    "eat": "사천읍 일대의 사천짜장, 재첩국"
+   }
+  ]
+ },
+ "samcheok": {
+  "nm": "삼척",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 동서울터미널→삼척 고속버스 약 3시간 30분, 또는 KTX·기차로 동해역 하차 후 시내버스. 부산에서는 동해선 열차나 버스로 약 4시간.",
+  "sep": "한여름(7~8월). 장호항의 투명한 바다에서 카누를 타기 가장 좋고, 연중 10도 안팎인 동굴은 무더위를 피하는 천연 피서지가 된다. 서늘한 늦봄·초가을엔 절벽 누각과 폭포 산책이 특히 좋다.",
+  "mood": "동해의 쪽빛 바다와 땅속 수억 년의 석회동굴을 하루 안에 오갈 수 있는 곳. 삼척은 바다도 땅속도 깊다.",
+  "see": "국보 죽서루의 절벽 누각, 국내 최장 환선굴, 동양의 나폴리 장호항, 그리고 솔직해서 웃게 되는 해신당공원까지.",
+  "spots": [
+   {
+    "name": "삼척 죽서루",
+    "rom": "오십천 절벽 위에 앉은 관동팔경 제일루",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1시간",
+     "🏛 국보"
+    ],
+    "desc": "오십천이 감아 도는 절벽 위에 자연석의 높낮이를 그대로 살려 길이가 제각각인 17개 기둥으로 세운 누각이다. 관동팔경 중 유일하게 강을 끼고 있어, 마루에 올라서면 발밑으로 물길과 소나무가 한눈에 들어온다. 2023년 보물에서 국보로 승격된, 삼척이 가장 자랑하는 옛 건축이다.",
+    "todo": [
+     "누각 마루에 앉아 오십천 물굽이 바라보기",
+     "제각각인 17개 기둥의 높낮이 눈으로 세어보기",
+     "저녁 무렵 강 건너에서 누각 실루엣 담기"
+    ],
+    "tip": "시내 한복판에 있어 접근이 쉽고 주차장도 넉넉하다. 관람료가 없어 부담 없이 잠깐 들르기 좋다.",
+    "eat": "죽서루 인근 삼척 중앙시장에서 곰치국(물곰탕)으로 속을 풀어보길.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg/500px-Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg/500px-%EC%82%BC%EC%B2%99_%EC%A3%BD%EC%84%9C%EB%A3%A8%EC%99%80_%EC%98%A4%EC%8B%AD%EC%B2%9C-_%EA%B0%95%EC%9B%90%EB%8F%84%EC%B2%AD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "환선굴",
+    "rom": "국내에서 가장 긴 석회동굴, 모노레일로 오른다",
+    "meta": [
+     "💴 약 4,000원(변동가능)",
+     "⏱ 반나절",
+     "🌡 연중 시원"
+    ],
+    "desc": "대이리 동굴지대에 자리한 국내 최장의 석회암 동굴로, 개방된 관람로만 1.6km에 이르고 내부엔 폭포와 거대한 광장이 펼쳐진다. 매표소에서 입구까지는 가파른 오르막이지만 6분짜리 모노레일이 대신 올려준다. 한여름에도 서늘한 공기가 감돌아, 땀을 식히며 억겁의 시간이 빚은 지형을 걷게 된다.",
+    "todo": [
+     "모노레일 타고 급경사 구간 편하게 오르기",
+     "동굴 안 오련폭포와 넓은 광장 둘러보기"
+    ],
+    "tip": "동굴 안은 계단과 물기가 많아 미끄럽지 않은 신발이 필수다. 여름엔 겉옷 하나 챙기면 시원함을 오래 즐길 수 있다.",
+    "eat": "동굴 아래 식당촌의 산채비빔밥과 감자옹심이가 든든하다."
+   },
+   {
+    "name": "대금굴",
+    "rom": "예약제로만 들어가는 모노레일 동굴",
+    "meta": [
+     "💴 약 12,000원(변동가능)",
+     "⏱ 반나절",
+     "📅 사전예약 필수"
+    ],
+    "desc": "2003년에 발견된 신비로운 동굴로, 하루 관람 인원을 제한해 반드시 사전 예약을 해야 들어갈 수 있다. 매표소에서 동굴 입구까지 모노레일을 타고 들어가는 방식이라 그 자체로 색다르고, 안에는 비룡폭포와 천지연 호수가 어둠 속에서 조용히 빛난다. 보존을 위해 사진 촬영이 금지되어, 오롯이 눈과 마음에만 담아 오게 된다.",
+    "todo": [
+     "매표소~입구 모노레일 탑승",
+     "동굴 속 비룡폭포와 천지연 호수 감상"
+    ],
+    "tip": "예약제라 성수기·주말은 일찍 마감된다. 방문 전 예약 여부를 꼭 확인하고, 사진은 못 찍으니 마음으로 담는다는 생각으로.",
+    "eat": "환선굴과 같은 대이리 골짜기라 식당촌을 함께 이용하면 된다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hwanseongul.jpg/500px-Hwanseongul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg/330px-Hwanseongul_monorail-%ED%99%98%EC%84%A0%EA%B5%B4_%EB%AA%A8%EB%85%B8%EB%A0%88%EC%9D%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG/330px-%ED%99%98%EC%84%A0%EA%B5%B4_%281%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "해신당공원",
+    "rom": "애바위 전설이 남긴 바다마을의 솔직한 공원",
+    "meta": [
+     "💴 약 3,000원(변동가능)",
+     "⏱ 1~2시간",
+     "🌊 바다전망"
+    ],
+    "desc": "혼인 전 세상을 떠난 처녀의 넋을 달래려 남근 조각을 바치던 어촌 풍습에서 비롯된, 국내에서 손꼽히게 독특한 공원이다. 바다를 향해 늘어선 크고 작은 조각들이 처음엔 웃음을 부르지만, 애바위 전설을 알고 나면 바닷사람들의 애틋한 마음이 남는다. 함께 있는 어촌민속전시관에서 옛 삼척 바닷마을의 삶을 엿볼 수 있다.",
+    "todo": [
+     "해안 산책로 따라 바다와 조각 함께 보기",
+     "애바위 전설 안내판 읽고 유래 이해하기",
+     "어촌민속전시관에서 옛 어촌살이 구경"
+    ],
+    "tip": "원덕읍 끝자락에 있어 시내에서 다소 멀다. 장호항·수로부인길과 묶어 남부 해안 코스로 도는 것을 추천.",
+    "eat": "가까운 임원항의 회센터에서 제철 회와 물회를 맛볼 수 있다."
+   },
+   {
+    "name": "장호항",
+    "rom": "동양의 나폴리라 불리는 투명한 바다마을",
+    "meta": [
+     "💴 카누·케이블카 별도",
+     "⏱ 반나절",
+     "🛶 투명카누"
+    ],
+    "desc": "고운 해안선과 맑은 물빛 덕에 '동양의 나폴리'라 불리는 어항으로, 여름이면 바닥이 비치는 투명 카누와 스노클링을 즐기는 사람들로 활기가 돈다. 언덕 위 해상케이블카에 오르면 발밑으로 쪽빛 만과 붉은 지붕의 마을이 그림처럼 펼쳐진다. 물이 어찌나 맑은지 카누 아래로 헤엄치는 물고기가 그대로 보인다.",
+    "todo": [
+     "투명 카누 타고 맑은 물 위 떠 있기",
+     "해상케이블카에서 만과 마을 내려다보기",
+     "방파제 끝에서 일출·바다 담기"
+    ],
+    "tip": "카누·스노클링은 여름 성수기에 사람이 몰려 대기가 길다. 오전 일찍 가면 붐비기 전 맑은 바다를 즐길 수 있다.",
+    "eat": "장호항 포구에서 갓 잡은 오징어와 가자미회가 싱싱하다."
+   },
+   {
+    "name": "미인폭포",
+    "rom": "통리협곡에 숨은 한국판 그랜드캐니언",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "💧 에메랄드빛 소"
+    ],
+    "desc": "태백과 삼척 경계의 통리협곡 깊숙이 숨어 있는 50m 높이의 폭포로, 붉은빛 지층 절벽이 '한국판 그랜드캐니언'이라 불릴 만큼 이국적이다. 폭포 아래 고인 물은 광물 성분 탓에 신비로운 에메랄드빛을 띠어, 깊은 산속에 이런 색이 있나 싶게 눈을 붙든다. 여인의 슬픈 전설이 이름에 담겨 있어 풍경에 여운을 더한다.",
+    "todo": [
+     "전망대에서 붉은 협곡과 폭포 한눈에 담기",
+     "에메랄드빛 소의 물빛 가까이서 확인하기"
+    ],
+    "tip": "폭포로 내려가는 길이 가파르고 미끄러워 편한 등산화가 좋다. 비가 온 뒤엔 수량이 늘어 더 웅장하지만 길이 더 미끄럽다.",
+    "eat": "도계 방면 시장에서 강원도식 메밀전병·수수부꾸미로 요기하기.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tongristreamcapture.jpg/500px-Tongristreamcapture.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TongriV1.jpg/500px-TongriV1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TongriV2.jpg/500px-TongriV2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼척해양레일바이크",
+    "rom": "바다를 옆에 끼고 달리는 해안 철길",
+    "meta": [
+     "💴 약 30,000원~(2인, 변동가능)",
+     "⏱ 1~2시간",
+     "🚲 예약 권장"
+    ],
+    "desc": "옛 동해남부 철길을 따라 궁촌에서 용화까지, 바다를 바로 옆에 두고 페달을 밟으며 달리는 레일바이크다. 터널마다 색색의 조명이 켜지고, 눈앞으로는 파도가 부서지는 해안선이 끝없이 이어진다. 힘들이지 않고 삼척의 바다를 온몸으로 느끼기에 이만한 방법이 없다.",
+    "todo": [
+     "궁촌~용화 해안 구간 페달 밟으며 달리기",
+     "빛으로 꾸민 터널 통과하기",
+     "중간 정차역에서 바다 배경으로 사진"
+    ],
+    "tip": "주말·성수기는 조기 마감되니 온라인 예약이 안전하다. 편도 운행이라 시간표를 미리 확인하고 복귀 방법을 챙긴다.",
+    "eat": "용화·장호 일대에서 물회 한 그릇으로 시원하게 마무리."
+   }
+  ]
+ },
+ "sancheong": {
+  "nm": "산청",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널→산청 시외버스 약 3시간 40분, 자가용은 대전통영고속도로 산청IC. 부산에서 약 2시간.",
+  "sep": "가을(10월)—대원사계곡 단풍과 천왕봉 운해가 절정. 봄엔 남사예담촌 매화와 지리산 야생화가 곱다.",
+  "mood": "지리산 천왕봉이 품은 약초와 선비의 땅. 느리게 걸으면 절벽 위 암자와 600년 돌담길이 마음을 붙든다.",
+  "see": "천왕봉 산행, 600년 돌담 남사예담촌, 연꽃 정원 수선사, 절벽 위 정취암, 한방의 고장 동의보감촌.",
+  "spots": [
+   {
+    "name": "지리산 천왕봉 (중산리)",
+    "rom": "남한 내륙 최고봉, 산청에서 오르는 하늘 문",
+    "meta": [
+     "🥾 왕복 약 9~11시간",
+     "⛰️ 해발 1,915m",
+     "🍁 가을 운해·단풍"
+    ],
+    "desc": "중산리에서 시작하는 길은 천왕봉을 가장 빠르게 잇는 대표 코스다. 법계사와 로터리대피소를 지나 마지막 깔딱고개를 오르면, 발아래로 지리산 능선이 파도처럼 밀려온다. 새벽에 오른 이들은 구름바다 위로 떠오르는 해를 만난다.",
+    "todo": [
+     "로터리대피소에서 숨 고르고 천왕봉 일출 준비",
+     "'한국인의 기상 여기서 발원한다' 정상석 앞에서 인증",
+     "여유 있으면 법계사 들러 삼층석탑 보기"
+    ],
+    "tip": "당일 왕복은 새벽 산행이 기본이고 체력 소모가 크다. 겨울엔 아이젠·스패츠 필수, 대피소는 국립공원 예약시스템에서 미리 예약한다.",
+    "eat": "중산리·시천면 입구의 산채비빔밥과 지리산 흑돼지구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/500px-Korea-Mountain-Jirisan-15.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Eleutherococcus_senticosus.jpg/500px-Eleutherococcus_senticosus.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "남사예담촌",
+    "rom": "돌담이 휘도는 600년 선비 마을",
+    "meta": [
+     "🚶 반나절",
+     "🏯 전통 한옥·돌담",
+     "🆓 마을 산책 무료"
+    ],
+    "desc": "흙돌담이 골목을 따라 굽이치고, 오래된 한옥들이 어깨를 맞댄 옛 선비 마을이다. 두 그루가 서로 기대 자란 부부 회화나무 아래를 지나면 시간이 천천히 흐르는 느낌이 든다. '한국에서 가장 아름다운 마을 1호'로 꼽힌 곳이다.",
+    "todo": [
+     "X자로 얽힌 부부 회화나무 아래를 지나며 소원 빌기",
+     "이씨고가·최씨고가 등 오래된 고택 마당 둘러보기",
+     "돌담길 따라 천천히 사진 산책"
+    ],
+    "tip": "실제 주민이 사는 마을이니 대문 안 생활공간은 조용히 배려하며 둘러본다. 주차는 무료.",
+    "eat": "마을 근처 한정식과 산청 흑돼지"
+   },
+   {
+    "name": "동의보감촌",
+    "rom": "허준과 약초의 고장, 기(氣)를 받는 언덕",
+    "meta": [
+     "💴 체험·박물관 약 2,000~5,000원(변동)",
+     "👨‍👩‍👧 가족·체험",
+     "🌿 한방 테마"
+    ],
+    "desc": "산청이 왜 '동의보감의 고장'인지 몸으로 느끼는 한방 테마파크다. 산 중턱의 거대한 바위 귀감석 앞에서 사람들은 손을 대고 기를 받고, 동의전에서 내려다보는 전경이 시원하다. 한방 족욕과 약초 체험도 함께 즐길 수 있다.",
+    "todo": [
+     "귀감석·복석정에서 기 받기",
+     "한방테마공원과 동의전 전망 즐기기",
+     "엑스포주제관·한의학박물관 관람"
+    ],
+    "tip": "언덕이 있어 편한 신발을 권한다. 체험·박물관은 유료, 야외 산책로는 무료이며 요금은 시설별로 다르고 변동될 수 있다.",
+    "eat": "산청 약초를 넣은 약선요리와 한방오리백숙"
+   },
+   {
+    "name": "대원사계곡 (대원사)",
+    "rom": "지리산 동편의 옥빛 계곡길",
+    "meta": [
+     "🍁 가을 단풍 절경",
+     "💧 여름 피서",
+     "🆓 사찰 무료"
+    ],
+    "desc": "지리산 동쪽 자락을 따라 이어지는 맑고 깊은 계곡이다. 물길을 끼고 놓인 대원사계곡길을 걸으면 물소리가 내내 곁을 따라오고, 끝에서 비구니 수행도량 대원사의 단정한 가람과 다층석탑을 만난다. 가을 단풍과 여름 물놀이로 이름난 곳이다.",
+    "todo": [
+     "대원사계곡길(약 3.5km) 무장애 데크길 걷기",
+     "대원사 경내와 다층석탑 둘러보기",
+     "맑은 소(沼)에 발 담그고 쉬어가기"
+    ],
+    "tip": "여름 성수기와 단풍철엔 주차가 붐빈다. 계곡 내 취사·물놀이 통제구간을 미리 확인한다.",
+    "eat": "삼장면 일대 산채정식과 손두부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EB%8C%80%EC%9B%90%EC%82%AC.JPG/330px-%EB%8C%80%EC%9B%90%EC%82%AC.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수선사",
+    "rom": "연꽃 뜬 연못과 소나무, 사진가의 절",
+    "meta": [
+     "📷 인생샷 명소",
+     "🪷 여름 연꽃",
+     "☕ 경내 찻집"
+    ],
+    "desc": "산청의 한적한 자락에 자리한 아담한 사찰이지만, 잔잔한 연못에 비친 소나무와 카페 풍경으로 전국에서 사람이 찾아온다. 여름이면 연못 가득 연꽃이 피고, 나무 데크에 앉아 물그림자를 바라보는 시간이 고요하다.",
+    "todo": [
+     "연못에 반영된 소나무 담기",
+     "경내 찻집에서 차 한 잔과 풍경 감상",
+     "연꽃·구절초 등 계절 꽃 시기 맞춰 방문"
+    ],
+    "tip": "사찰이라 정숙이 기본이고 삼각대·과한 촬영은 삼간다. 연꽃은 대략 7~8월이 절정이며, 주차공간이 넓지 않아 이른 시간 방문이 좋다.",
+    "eat": "산청 신등·단성 방면 시골 백반과 흑돼지"
+   },
+   {
+    "name": "산청 전 구형왕릉",
+    "rom": "돌로 쌓아올린 가야 왕의 무덤",
+    "meta": [
+     "🪨 돌무지 7단 능",
+     "🆓 무료",
+     "⏱ 약 1시간"
+    ],
+    "desc": "흙봉분이 아니라 돌을 층층이 쌓아 올린, 우리나라에서 보기 드문 돌무지 형태의 능이다. 가야의 마지막 임금 구형왕의 무덤으로 전해지며, 왕산 숲에 둘러싸여 고요하고 신비로운 기운이 감돈다. 앞에서 보면 일곱 단이 계단처럼 층을 이룬다.",
+    "todo": [
+     "층층이 쌓인 돌무지 능의 독특한 형태 살피기",
+     "주변 왕산 숲길 방향으로 가볍게 산책",
+     "능 앞 안내판에서 구형왕 전설 읽기"
+    ],
+    "tip": "조용한 유적지이니 능 위에 오르거나 돌을 만지지 않는다. 무료 관람.",
+    "eat": "금서면 방면 이동 중 산청 한우·흑돼지",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/9/94/%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg/500px-20230113_%EC%82%B0%EC%B2%AD_%EC%A0%84_%EA%B5%AC%ED%98%95%EC%99%95%EB%A6%89-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정취암",
+    "rom": "절벽에 매달린 그림 같은 암자",
+    "meta": [
+     "⛰️ 대성산 절벽",
+     "🌅 운해·일출",
+     "🆓 무료"
+    ],
+    "desc": "대성산 깎아지른 바위 절벽에 제비집처럼 얹힌 작은 암자다. 좁은 마당 끝에 서면 발아래로 산세가 펼쳐지고, 이른 아침엔 골짜기를 메운 운해가 발밑에 깔린다. 원효대사 창건 설화가 전해지는 천 년의 기도처다.",
+    "todo": [
+     "절벽 끝 관음전에서 아래 전경 내려다보기",
+     "이른 아침 운해·일출 노려 방문",
+     "암자까지 오르는 숲길 천천히 걷기"
+    ],
+    "tip": "진입로가 좁고 굽이지니 운전에 주의한다. 겨울철 결빙에 유의하고, 조용한 수행처이므로 정숙을 지킨다.",
+    "eat": "신등면·단성 방면 시골 백반과 손칼국수"
+   }
+  ]
+ },
+ "sangju": {
+  "nm": "상주",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 남부터미널·동서울에서 상주행 시외버스 2~2시간 반, 자가용은 중부내륙고속도로. 부산에서도 중부내륙고속도로로 2시간 반쯤.",
+  "sep": "가을 — 처마마다 곶감을 매달아 온 동네가 주황빛으로 물들고, 낙동강 단풍과 경천섬 코스모스가 한꺼번에 겹치는 계절.",
+  "mood": "낙동강 칠백 리가 가장 크게 휘도는 자리, 쌀·누에·곶감 '삼백(三白)의 고장'에서 자전거로 강을 따라 달리는 조용한 하루.",
+  "see": "낙동강 물돌이 절벽 경천대와 꽃섬, 전국 유일 자전거박물관, 감빛으로 물드는 곶감의 본고장.",
+  "spots": [
+   {
+    "name": "경천대",
+    "rom": "낙동강이 가장 크게 휘도는 절벽 위 전망대",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍"
+    ],
+    "desc": "낙동강 칠백 리에서 물길이 가장 크게 휘돌아 나가는 자리다. 깎아지른 절벽 위 무우정 정자에 서면 강과 하얀 백사장, 넓은 논밭이 한눈에 펼쳐진다. 드라마 '상도' 촬영지로도 알려졌고, 전망대까지 솔숲 데크길이 이어져 천천히 오르기 좋다.",
+    "todo": [
+     "무우정 정자에서 낙동강 물돌이 내려다보기",
+     "솔숲 전망대 데크길 걷기",
+     "아래 경천섬까지 이어 걷기"
+    ],
+    "tip": "전망대까지 오르막 15~20분이라 편한 신발이 좋다. 아침 물안개와 가을 단풍철이 특히 아름답다.",
+    "eat": "상주 한우, 강변 민물매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/500px-Gyegoncheondae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sangjunak1.jpg/500px-Sangjunak1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sangjunak2.jpg/500px-Sangjunak2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "경천섬",
+    "rom": "강 한가운데 꽃으로 뒤덮이는 낙동강 섬",
+    "meta": [
+     "💴 무료",
+     "🌸 봄 유채·가을 코스모스",
+     "⏱ 1~2시간"
+    ],
+    "desc": "경천대 아래 낙동강 물길 한가운데 떠 있는 섬이다. 봄이면 노란 유채, 가을이면 분홍 코스모스와 백일홍이 섬 전체를 덮어 걷는 내내 꽃밭 속을 지난다. 낙강물길공원 다리로 강을 건너 섬을 한 바퀴 산책할 수 있다.",
+    "todo": [
+     "꽃밭 사이 산책로 걷기",
+     "물길공원 다리 위에서 낙동강 조망",
+     "경천대 전망대와 묶어 한 코스로"
+    ],
+    "tip": "꽃 절정은 유채가 4~5월, 코스모스·백일홍이 9~10월. 그늘이 적어 여름 한낮은 피하는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "상주자전거박물관",
+    "rom": "자전거의 도시가 만든 전국 유일 자전거 박물관",
+    "meta": [
+     "💴 무료",
+     "👨‍👩‍👧 아이랑",
+     "⏱ 1~2시간"
+    ],
+    "desc": "예부터 자전거 보유율이 높아 '자전거의 도시'로 불린 상주가 세운, 우리나라에 하나뿐인 자전거 박물관이다. 나무 바퀴 초창기 자전거부터 경주용·희귀 모델까지 60여 대가 시대순으로 놓여 있고 4D 영상관과 체험존도 있다. 바로 옆 경천섬·낙동강 자전거길에서 대여해 강을 따라 달릴 수 있다.",
+    "todo": [
+     "시대별 자전거 구경하기",
+     "4D 영상관 체험",
+     "낙동강 자전거길 라이딩"
+    ],
+    "tip": "무료 관람. 자전거를 빌려 경천섬~강변길을 한 바퀴 도는 코스를 추천한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/500px-%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
+    ]
+   },
+   {
+    "name": "국립낙동강생물자원관",
+    "rom": "낙동강 담수 생물을 만나는 국립 전시관",
+    "meta": [
+     "💴 무료",
+     "👨‍👩‍👧 아이랑",
+     "🐟 실내"
+    ],
+    "desc": "낙동강의 민물고기와 수서곤충, 수달까지 강에 사는 생물들을 모아 보여주는 국립 전시관이다. 커다란 담수 수조와 표본, 손으로 즐기는 체험 코너가 잘 갖춰져 있어 비 오는 날이나 아이와 함께 오기 좋다. 강변에 자리해 관람 뒤 낙동강 산책으로 자연스럽게 이어진다.",
+    "todo": [
+     "담수 생태 전시 관람",
+     "아이 체험 프로그램 참여",
+     "관람 후 강변 산책"
+    ],
+    "tip": "무료지만 월요일 휴관 등 운영시간이 있으니 방문 전 확인하는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "남장사",
+    "rom": "노음산 자락에 숨은 천 년 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🍁 가을 단풍"
+    ],
+    "desc": "노음산(노악산) 깊은 골짜기에 자리한 신라 때 창건된 고찰이다. 나무를 정교하게 깎아 만든 국보 목각탱과 오래된 불상 등 성보가 전하고, 일주문으로 오르는 계곡 길이 사철 조용하고 서늘하다. 절 어귀에는 마을을 지키던 돌장승이 서 있어 옛 정취를 더한다.",
+    "todo": [
+     "보광전 목각아미타여래설법상 살펴보기",
+     "계곡 따라 이어지는 오솔길 걷기",
+     "어귀의 석장승 찾아보기"
+    ],
+    "tip": "산사라 저녁이 빨리 어둑해진다. 오전에서 한낮 사이 방문을 권한다.",
+    "eat": "상주 산채비빔밥, 더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg/500px-%EC%83%81%EC%A3%BC_%EB%82%A8%EC%9E%A5%EC%82%AC_%EB%B3%B4%EA%B4%91%EC%A0%84_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%812.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "상주곶감공원",
+    "rom": "전국 곶감의 절반, 감빛으로 물드는 삼백의 고장",
+    "meta": [
+     "💴 무료",
+     "🍊 가을~겨울 곶감",
+     "🎁 특산 체험"
+    ],
+    "desc": "상주는 전국 곶감 생산량의 절반을 훌쩍 넘기는 곶감의 본고장이다. 늦가을이면 집집마다 처마에 깎은 감을 주렁주렁 매달아 온 동네가 주황빛으로 물든다. 곶감공원과 감빛 거리에서 곶감이 만들어지는 과정과 상주의 '삼백(쌀·누에·곶감)' 이야기를 함께 만날 수 있다.",
+    "todo": [
+     "곶감 만드는 과정 구경하기",
+     "처마 가득 매달린 감 풍경 사진",
+     "곶감·감말랭이 사 오기"
+    ],
+    "tip": "감 매다는 풍경은 11~12월이 절정이다. 해마다 열리는 곶감 축제 시기를 미리 확인하면 좋다.",
+    "eat": "상주 곶감, 감말랭이, 감식초"
+   }
+  ]
+ },
+ "sejong": {
+  "nm": "세종",
+  "region": "🏞️ 충청 · 세종특별자치시",
+  "route": "서울 → SRT·KTX 오송역 약 40분 하차 후 BRT 20분, 또는 고속버스로 약 1시간 40분 / 부산 → KTX 오송역 약 2시간 + BRT. 도심은 간선급행버스(BRT)와 자전거길로 촘촘히 이어져 뚜벅이 여행도 수월하다.",
+  "sep": "봄(4월)이 백미 — 조천·고복 벚꽃길이 흐드러지고 호수공원·수목원의 초록이 가장 싱그럽다. 여름밤엔 이응다리·호수공원 야경, 가을엔 수목원 단풍과 영평사 구절초, 비암사 산길 단풍이 좋다.",
+  "mood": "논밭 위에 통째로 그려낸 계획도시 — 국내 최대 인공호수, 한글을 새긴 둥근 다리, 세계 최대 옥상정원까지, '새로 태어난 도시'를 걷는 특별한 여행.",
+  "see": "국내 최대 인공호수와 도심 한복판 국립수목원, 한글 반포 1446을 새긴 이응다리, 곰이 노니는 베어트리파크.",
+  "spots": [
+   {
+    "name": "세종호수공원",
+    "rom": "국내 최대 인공호수, 도심 한복판의 물빛 산책",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌙 야경 명소"
+    ],
+    "desc": "32만㎡가 넘는 물결 위로 축제섬·공연섬 같은 다섯 개의 섬이 떠 있고, 8.8km 산책로가 호수를 빙 두른다. 해질녘 물 위로 번지는 노을과 조명이 겹치면 이곳이 도심 한복판이라는 게 믿기지 않는다. 자전거로 한 바퀴 돌아도 좋다.",
+    "todo": [
+     "호숫가 8.8km 산책로 걷기",
+     "공연섬·물놀이섬 둘러보기",
+     "해질녘 물빛 야경 즐기기"
+    ],
+    "tip": "여름밤엔 조명이 켜져 야경이 특히 예쁘다. 바로 옆 국립세종수목원·중앙공원과 묶어 반나절 코스로 걷기 좋다.",
+    "eat": "인근 정부청사·시청 상가에 카페와 식당이 많아 산책 뒤 들르기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sejong_lake_park_190609_17.jpg/500px-Sejong_lake_park_190609_17.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sejong_lake_park_190609_01.jpg/120px-Sejong_lake_park_190609_01.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sejong_lake_park_190609_02.jpg/120px-Sejong_lake_park_190609_02.jpg"
+    ]
+   },
+   {
+    "name": "국립세종수목원",
+    "rom": "국내 첫 도심형 국립수목원, 유리온실 속 사계절",
+    "meta": [
+     "💴 입장 약 5,000원(변동가능)",
+     "⏱ 반나절",
+     "🌷 사계절온실"
+    ],
+    "desc": "산림청이 직접 관장하는 몇 안 되는 국립수목원 중 하나로, 도심 한가운데 65만㎡ 규모로 펼쳐진다. 거대한 사계절온실 안에서는 계절과 상관없이 꽃이 피고, 한국전통정원·야생화원 등 스무 개 남짓한 주제 정원이 이어진다. 호수공원 바로 옆이라 하루에 둘 다 담을 수 있다.",
+    "todo": [
+     "사계절온실에서 열대·지중해 식물 보기",
+     "한국전통정원 거닐기",
+     "야생화원·주제정원 둘러보기"
+    ],
+    "tip": "야간개장 시기엔 조명 켜진 온실 야경이 특별하다. 휴관일·예약 여부는 방문 전 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%905.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg/120px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%903.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "이응다리 (금강보행교)",
+    "rom": "한글 반포 1446을 새긴 국내 최장 보행교",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌙 야경"
+    ],
+    "desc": "금강 위를 둥글게 감아 도는 원형 보행교로, 둘레 1446m는 세종대왕이 한글을 반포한 1446년을 기린 것이다. 위층은 사람이, 아래층은 자전거가 다닌다. 밤이면 다리 전체에 조명이 들어와 강물 위에 커다란 빛의 고리가 떠오른다.",
+    "todo": [
+     "원형 보행교 한 바퀴 걷기",
+     "밤에 조명 켜진 다리 야경 감상"
+    ],
+    "tip": "중앙공원·호수공원과 곧장 이어져 저녁 산책 코스로 묶기 좋다."
+   },
+   {
+    "name": "베어트리파크",
+    "rom": "곰이 노니는 10만 평 꽃정원",
+    "meta": [
+     "💴 입장 약 13,000원(변동가능)",
+     "⏱ 반나절",
+     "🐻 반달곰·불곰"
+    ],
+    "desc": "한 사람이 50년 넘게 가꾼 10만 평 정원에 반달곰·불곰 100여 마리와 40만 점의 꽃·나무가 어우러진다. 오색연못과 분재원, 열대식물원을 지나면 곰들이 노니는 곰동산이 나온다. 봄 철쭉과 가을 단풍이 들 때 특히 화려하다.",
+    "todo": [
+     "곰동산에서 곰 먹이주기 체험",
+     "오색연못·분재원 산책",
+     "전망대에서 정원 전경 내려다보기"
+    ],
+    "tip": "입장료는 성인 약 13,000원(변동가능). 겨울(12~2월)엔 관람 시간이 짧아지니 미리 확인.",
+    "eat": "원내에 식당과 카페가 있어 하루 나들이로도 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg/500px-%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정부세종청사 옥상정원",
+    "rom": "기네스북 세계 최대, 축구장 12개 옥상정원",
+    "meta": [
+     "💴 무료(사전예약)",
+     "⏱ 1~2시간",
+     "🌿 기네스 등재"
+    ],
+    "desc": "여러 청사 건물을 잇는 길이 약 3.6km의 옥상정원으로 세계 최대 규모로 알려져 있다. 허브원·베리원·넝쿨터널을 걷다 보면 발밑이 정부청사라는 사실을 잊게 된다. 도시 전경을 시원하게 내려다보는 시야도 이곳만의 매력이다.",
+    "todo": [
+     "허브원·베리원 등 테마 구역 걷기",
+     "옥상에서 세종 시가지 조망하기"
+    ],
+    "tip": "관람은 사전예약제로 운영되니 청사 안내에 따라 미리 신청하고 신분증을 지참한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Government_of_the_Republic_of_Korea.svg/500px-Flag_of_the_Government_of_the_Republic_of_Korea.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg/500px-Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Government_Complex_Sejong_20190611_Main_Entrance.jpg/500px-Government_Complex_Sejong_20190611_Main_Entrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립세종도서관",
+    "rom": "책을 펼친 듯 물결치는 유선형 건축",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📚 열린 도서관"
+    ],
+    "desc": "책장을 펼쳐 넘긴 듯한 곡선 지붕이 호수공원 옆에 유려하게 내려앉았다. 국립중앙도서관의 첫 지역 분관으로, 넓은 열람실과 카페에서 통유리 너머 호수를 바라보며 쉴 수 있다. 건축 자체가 세종을 대표하는 포토스팟이다.",
+    "todo": [
+     "유선형 건축 외관 사진 찍기",
+     "통유리 열람실·카페에서 쉬어 가기"
+    ],
+    "tip": "호수공원·수목원 사이에 있어 산책 중 잠깐 들르기 좋다. 휴관일은 미리 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sejong_National_Library_east.jpg/500px-Sejong_National_Library_east.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sejong_National_Library%28Main_Hall%29.jpg/500px-Sejong_National_Library%28Main_Hall%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "비암사",
+    "rom": "백제 유민이 세운 운주산 천년 고찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🍁 국보 출토지"
+    ],
+    "desc": "운주산 자락에 백제 유민이 세웠다 전해지는 천년 고찰로, 국보로 지정된 계유명전씨아미타불비상이 이곳에서 나왔다. 가파른 삼층석탑과 고요한 대웅전이 산 그늘 아래 나란히 앉아 있다. 오르는 산길엔 착시로 유명한 '도깨비 도로'도 숨어 있다.",
+    "todo": [
+     "삼층석탑·대웅전 둘러보기",
+     "운주산 산길 오르며 도깨비 도로 체험"
+    ],
+    "tip": "산사라 주차 후 도보 구간이 있다. 가을 단풍철이 특히 아름답다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EB%B9%84%EC%95%94%EC%82%AC.jpg/500px-%EB%B9%84%EC%95%94%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세종중앙공원",
+    "rom": "도심 속 138만㎡ 초대형 잔디·꽃밭",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌾 보리밭·꽃밭"
+    ],
+    "desc": "138만㎡에 이르는 도심 대형 공원으로, 넓은 잔디마당과 계절마다 물드는 꽃밭·보리밭이 시원하게 펼쳐진다. 호수공원·수목원·이응다리와 한 덩어리로 이어져 세종의 초록 심장을 이룬다. 돗자리를 펴고 쉬거나 자전거로 가로지르기 좋다.",
+    "todo": [
+     "넓은 잔디마당에서 쉬어 가기",
+     "계절 꽃밭·보리밭 산책",
+     "호수공원·이응다리로 이어 걷기"
+    ],
+    "tip": "봄엔 보리밭·유채, 가을엔 코스모스가 예쁘다. 그늘이 적으니 여름엔 모자나 양산을 챙긴다."
+   }
+  ]
+ },
+ "seocheon": {
+  "nm": "서천",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 서해안고속도로 타고 춘장대·서천IC까지 약 2시간 반. 장항선 기차로 서천역·장항역에 내려도 좋다. 부산·영남권에선 대전 경유로 3시간 반 남짓.",
+  "sep": "가을(10~11월). 신성리 갈대밭이 은빛으로 절정에 이르고 홍원항 전어가 가장 기름질 때다. 봄(3~4월)엔 마량리 동백이 붉게 피어 또 다른 서천을 만난다.",
+  "mood": "금강이 바다로 스미는 땅. 갈대는 은빛으로 눕고, 동백은 바닷가에서 붉게 피며, 가을 전어는 항구를 들썩이게 한다 — 계절마다 표정을 바꾸는 서천.",
+  "see": "금강 하구 갈대밭, 바닷가 500년 동백숲, 열대에서 극지까지 걷는 국립생태원, 유네스코 한산모시.",
+  "spots": [
+   {
+    "name": "국립생태원",
+    "rom": "열대에서 극지까지, 하루에 걷는 다섯 기후",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 반나절",
+     "🌿 사계절"
+    ],
+    "desc": "에코리움 유리온실 안으로 들어서면 열대우림의 습한 공기부터 사막의 건조함, 극지의 서늘함까지 다섯 기후대가 차례로 펼쳐진다. 사막여우와 열대 물고기가 각자의 기후 속에 살아 있어, 아이와 함께라면 하루가 짧다. 야외에는 못과 수풀길이 이어져 산책만으로도 넉넉하다.",
+    "todo": [
+     "에코리움 5개 기후관 차례로 통과하기",
+     "사막여우·수달 만나기",
+     "야외 정원 한 바퀴 산책"
+    ],
+    "tip": "규모가 커서 반나절 이상 잡는 게 좋다. 여름·주말엔 실내 에코리움이 붐비니 오전 개장 직후가 여유롭다.",
+    "eat": "인근 장항·서천 시내에서 서천 특산 박대구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg/500px-%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "신성리 갈대밭",
+    "rom": "금강 하구에 은빛으로 눕는 갈대의 바다",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🍂 가을 갈대",
+     "🌅 노을"
+    ],
+    "desc": "금강 물길을 따라 드넓게 펼쳐진 갈대밭이 바람이 불 때마다 은빛으로 눕는다. 가을이면 사람 키를 넘는 갈대 사이 오솔길을 걷는 것만으로 마음이 조용해지고, 해질 무렵 강 건너로 지는 노을이 갈대를 붉게 물들인다. 서천을 대표하는 가을 갈대 명소다.",
+    "todo": [
+     "갈대 사잇길 끝까지 걷기",
+     "전망대에서 금강 하구 내려다보기",
+     "석양 노을 담기"
+    ],
+    "tip": "갈대는 10~11월이 절정. 강바람이 세니 겉옷을 챙기고, 해질 무렵 빛이 가장 좋다."
+   },
+   {
+    "name": "서천 마량리 동백나무 숲",
+    "rom": "500년 된 바닷가 동백, 봄마다 붉게 피는 언덕",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🌺 봄 동백",
+     "🌅 서해 일몰"
+    ],
+    "desc": "바다가 내려다보이는 언덕에 500년 가까이 자란 동백나무들이 숲을 이룬다. 천연기념물로 지정된 이 숲은 3월 말에서 4월 초, 붉은 동백이 한꺼번에 피어 발밑에 떨어진 꽃송이가 붉은 카펫을 만든다. 숲 옆 동백정에 오르면 서해로 지는 해가 정면으로 걸린다.",
+    "todo": [
+     "동백꽃 필 무렵(3~4월) 방문",
+     "동백정에서 서해 일몰 보기"
+    ],
+    "tip": "동백 개화는 3월 말~4월 초로 짧다. 마량리 앞바다 일몰 명소라 오후 늦게 가면 두 가지를 한 번에 담는다.",
+    "eat": "인근 홍원항·마량포구에서 제철 회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg/500px-%EB%A7%88%EB%9F%89%EB%A6%AC%EB%8F%99%EB%B0%B1%EB%82%98%EB%AC%B4%EC%88%B2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국립해양생물자원관",
+    "rom": "수천 병의 해양생물 표본이 벽을 채운 '씨큐리움'",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 2~3시간",
+     "🐟 실내"
+    ],
+    "desc": "전시관 '씨큐리움'에 들어서면 천장까지 이어진 유리벽 안에 수천 병에 이르는 해양생물 표본이 빼곡히 차 있어, 바다의 다양함이 한눈에 압도적으로 다가온다. 고래 골격과 심해 생물, 바다 생태를 재현한 전시가 층층이 이어져 비 오는 날이나 한여름에도 좋다. 장항 바닷가 바로 곁이라 나와서 갯벌도 볼 수 있다.",
+    "todo": [
+     "씨큐리움 표본 벽 마주하기",
+     "고래 골격 전시 관람"
+    ],
+    "tip": "실내라 날씨와 무관. 국립생태원과 차로 가깝게 이어져 하루에 둘 다 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg/500px-Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한산모시관",
+    "rom": "유네스코가 기록한 잠자리 날개 같은 여름옷",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1시간",
+     "🧵 전통공예"
+    ],
+    "desc": "한산 땅에서 천 년 넘게 이어온 모시짜기를 만나는 곳. 장인이 무릎에 실을 이어 붙이고 베틀에 앉아 한 올 한 올 짜는 과정을 눈앞에서 볼 수 있는데, 다 짜인 세모시는 잠자리 날개처럼 비쳐 보일 만큼 곱다. 유네스코 인류무형문화유산에 오른 이 기술의 무게가 조용한 전시관 안에 담겨 있다.",
+    "todo": [
+     "모시짜기 시연 보기",
+     "모시 전시·체험관 둘러보기"
+    ],
+    "tip": "매년 여름(6월경) 한산모시문화제가 열린다. 이 지역 특산 한산소곡주도 함께 찾아볼 만하다.",
+    "eat": "한산소곡주 — 한산의 이름난 전통 청주"
+   },
+   {
+    "name": "춘장대해수욕장",
+    "rom": "해송 숲을 낀 완만한 서해 백사장",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🏖 여름",
+     "🌅 일몰"
+    ],
+    "desc": "푸른 해송과 아카시아 숲을 등지고 넓고 완만한 모래밭이 펼쳐진다. 경사가 완만하고 물이 얕아 아이들과 물놀이하기 좋고, 썰물 때면 드러난 갯벌에서 조개를 캐는 사람들이 보인다. 서해라 해가 바다로 떨어지는 일몰이 하루의 마지막 선물처럼 걸린다.",
+    "todo": [
+     "썰물 때 갯벌 체험",
+     "해송 숲 그늘에서 쉬기",
+     "서해 일몰 보기"
+    ],
+    "tip": "여름 성수기엔 붐빈다. 인근 홍원항·동백정과 묶어 서면 코스로 돌기 좋다.",
+    "eat": "인근 홍원항에서 전어·주꾸미"
+   },
+   {
+    "name": "홍원항",
+    "rom": "가을 전어, 봄 주꾸미가 올라오는 활기찬 어항",
+    "meta": [
+     "💴 무료(식비 별도)",
+     "⏱ 1~2시간",
+     "🍜 제철 해산물",
+     "🍂 가을 전어"
+    ],
+    "desc": "서면 바닷가의 국가어항으로, 계절마다 다른 제철 해산물이 배에서 바로 올라온다. 가을이면 기름진 전어가 지천이라 '전어축제'로 항구 전체가 들썩이고, 봄에는 주꾸미가 제철이다. 방파제를 따라 걸으며 정박한 배들과 바다를 보는 것만으로도 항구의 활기가 전해진다.",
+    "todo": [
+     "제철 해산물 회·구이 맛보기",
+     "방파제 산책"
+    ],
+    "tip": "전어는 9~10월, 주꾸미는 3~4월이 제철. 가을 전어축제 기간엔 사람이 많으니 서두르는 게 좋다.",
+    "eat": "자연산 전어(가을)·주꾸미(봄)·광어"
+   },
+   {
+    "name": "판교 시간이 멈춘 마을",
+    "rom": "1970년대에서 멈춘 옛 읍내 골목",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📷 근대풍경"
+    ],
+    "desc": "장항선 옛 판교역 일대는 1970~80년대 번성하던 시절의 상점과 여관, 다방 간판이 그대로 남아 '시간이 멈춘 마을'로 불린다. 문 닫은 정미소와 낡은 극장, 색 바랜 간판 사이를 걷다 보면 오래된 영화 세트장에 들어온 듯하다. 옛 정취 덕에 드라마·영화 촬영지로도 찾는 곳이다.",
+    "todo": [
+     "옛 상가·여관 골목 걷기",
+     "근대 건물 사진 담기"
+    ],
+    "tip": "실제 주민이 사는 마을이니 조용히 예의를 지켜 둘러본다. 판교역(장항선)에서 가깝다."
+   }
+  ]
+ },
+ "seogwipo": {
+  "nm": "서귀포",
+  "region": "🍊 제주 · 제주특별자치도",
+  "route": "서울·부산에서 비행기로 제주공항 → 공항에서 렌터카로 평화로·1100도로 타고 약 1시간, 또는 시외버스·리무진으로 서귀포 시내까지. 제주섬 남쪽이라 한라산을 넘어 내려간다.",
+  "sep": "사철 온화하지만 봄엔 유채·벚꽃, 여름엔 폭포 물줄기가 가장 시원하고, 11~12월엔 감귤이 노랗게 익어 골목까지 향이 밴다. 남향이라 겨울에도 눈보다 동백이 먼저다.",
+  "mood": "폭포가 바다로 곧장 떨어지고, 감귤 향이 골목마다 도는 제주 남쪽의 따뜻한 항구 도시.",
+  "see": "바다로 떨어지는 해안폭포·홀로 선 외돌개·육각 주상절리, 그리고 감귤과 이중섭의 골목.",
+  "spots": [
+   {
+    "name": "천지연폭포",
+    "rom": "하늘과 땅이 만난 연못, 시내에서 걸어가는 폭포",
+    "meta": [
+     "💴 입장 약 2000원(변동)",
+     "⏱ 1~2시간",
+     "🌙 야간 조명"
+    ],
+    "desc": "서귀포 시내에서 아열대 난대림 산책로를 따라 몇 분만 걸으면, 22m 절벽에서 하얀 물줄기가 쏟아지는 못이 나타난다. 깊고 짙은 초록 물빛 위로 물보라가 피어오르고, 밤이면 조명이 켜져 숲 전체가 다른 세계처럼 보인다.",
+    "todo": [
+     "폭포 앞 물보라 맞으며 사진",
+     "야간 개장 시간 맞춰 조명 감상"
+    ],
+    "tip": "시내에서 가까워 도착 첫날이나 저녁에 들르기 좋다. 진입로가 평탄해 유모차·어르신도 무리 없다.",
+    "eat": "근처 서귀포 시내에서 갈치조림·고등어회",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/500px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ab/%EC%B2%9C%EC%A7%80%EC%97%B0.JPG/250px-%EC%B2%9C%EC%A7%80%EC%97%B0.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonjiyeon_Waterfall_at_night.jpg/500px-Cheonjiyeon_Waterfall_at_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "정방폭포",
+    "rom": "폭포수가 바다로 곧장 떨어지는 세계적 희귀 절경",
+    "meta": [
+     "💴 입장 약 2000원(변동)",
+     "⏱ 1시간",
+     "🌊 해안폭포"
+    ],
+    "desc": "물이 바다로 직접 떨어지는 해안폭포는 세계에서도 손에 꼽는다. 계단을 내려가면 20m 절벽에서 쏟아진 물이 바로 파도에 섞이고, 발밑으로는 검은 갯바위, 눈앞으로는 탁 트인 남쪽 바다가 펼쳐진다.",
+    "todo": [
+     "절벽 아래 갯바위까지 내려가 물줄기 정면으로 보기"
+    ],
+    "tip": "내려가는 계단이 가파르고 미끄러우니 편한 신발 필수. 비 온 뒤 물줄기가 가장 웅장하다.",
+    "eat": "정방폭포 인근에서 한치·전복 요리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jeongbang_Waterfall.jpg/330px-Jeongbang_Waterfall.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg/250px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg/500px-%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "천제연폭포",
+    "rom": "선녀가 내려왔다는 3단 폭포와 칠선녀 다리",
+    "meta": [
+     "💴 입장 약 2500원(변동)",
+     "⏱ 1~2시간",
+     "🌉 선임교"
+    ],
+    "desc": "중문에 있는 천제연은 상·중·하 세 단으로 이어지는 폭포다. 에메랄드빛 못 위로 무지개다리 선임교가 걸려 있고, 난대림 숲길을 따라 걷다 보면 물빛이 단마다 색을 바꾼다. 하늘의 선녀가 내려와 목욕했다는 전설이 어울리는 고요한 계곡이다.",
+    "todo": [
+     "선임교 위에서 계곡 전경 보기",
+     "1·2·3단 폭포 따라 숲길 완주"
+    ],
+    "tip": "제1폭포는 비가 온 뒤에만 물이 흐르는 건천이라, 물줄기를 보려면 비 온 다음 날이 확실하다.",
+    "eat": "중문관광단지 주변에서 흑돼지구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg/500px-Chunjeyeon_Waterfall_Jeju_Island_2-_%EC%B2%9C%EC%A0%9C%EC%97%B0%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg/500px-Jeju-island-falls-cheonjeyeon-1594587_1920%EC%B2%9C%EC%A0%9C%EC%97%B0%EC%A0%9C3%ED%8F%AD%ED%8F%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "외돌개",
+    "rom": "바다에 홀로 선 20m 돌기둥, 할망바위 전설",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🥾 올레 7코스"
+    ],
+    "desc": "용암이 파도에 깎여 홀로 남은 20m 돌기둥이 짙푸른 바다 위에 우뚝 서 있다. 남편을 기다리다 돌이 됐다는 할망바위 전설이 전해지고, 주변 해안절벽 산책로에서는 발아래로 부서지는 파도와 멀리 범섬까지 한눈에 들어온다.",
+    "todo": [
+     "전망대에서 외돌개와 범섬 함께 담기",
+     "올레 7코스 해안 산책"
+    ],
+    "tip": "무료 개방이고 주차장에서 가깝다. 해질 무렵 역광 실루엣이 특히 아름답다.",
+    "eat": "인근 서귀포항 쪽에서 물회·회국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg/500px-%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "중문·대포해안 주상절리대",
+    "rom": "파도가 부딪는 육각 돌기둥의 병풍 해안",
+    "meta": [
+     "💴 입장 약 2000원(변동)",
+     "⏱ 1시간",
+     "🌋 육각기둥"
+    ],
+    "desc": "용암이 식으며 갈라져 만들어진 육각·오각 돌기둥이 해안을 따라 병풍처럼 늘어서 있다. 파도가 높은 날이면 검은 기둥 사이로 하얀 물기둥이 솟구쳐 오르고, 자연이 정교하게 깎아낸 듯한 기하학적 절벽에 한참 눈을 떼기 어렵다.",
+    "todo": [
+     "파도 센 날 물기둥 솟는 순간 기다리기",
+     "데크 산책로 따라 절벽 전체 조망"
+    ],
+    "tip": "천연기념물이라 절벽 아래로는 내려갈 수 없고 데크에서 감상한다. 바람 강하면 겉옷 챙길 것.",
+    "eat": "중문 쪽에서 딱새우회·성게미역국",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jeju_Island_20141128_56.jpg/500px-Jeju_Island_20141128_56.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "이중섭거리·이중섭미술관",
+    "rom": "피난 화가가 가장 행복했던 서귀포의 예술 골목",
+    "meta": [
+     "💴 미술관 약 1500원(변동)",
+     "🎨 예술골목",
+     "⏱ 반나절"
+    ],
+    "desc": "전쟁을 피해 내려온 화가 이중섭이 가족과 잠시 머문 초가와, 그가 걷던 언덕길이 그대로 예술 거리가 됐다. 작은 갤러리와 공방, 감성적인 카페가 늘어선 골목을 오르면 미술관에서 그의 원화와 편지를 만난다. 가장 가난했지만 가장 따뜻했던 시절의 흔적이 골목에 남아 있다.",
+    "todo": [
+     "이중섭 살던 초가와 미술관 함께 둘러보기",
+     "골목 공방·카페 천천히 걷기"
+    ],
+    "tip": "미술관은 월요일 휴관인 경우가 많으니 방문 전 확인. 골목 자체는 언제든 무료로 걸을 수 있다.",
+    "eat": "골목 끝 서귀포 매일올레시장에서 간식"
+   },
+   {
+    "name": "쇠소깍",
+    "rom": "민물과 바닷물이 만나는 협곡, 투명카약의 명소",
+    "meta": [
+     "💴 무료(카약 유료)",
+     "🛶 투명카약",
+     "⏱ 1~2시간"
+    ],
+    "desc": "효돈천이 바다와 만나는 하구에, 검은 기암 절벽이 좁은 협곡을 이루고 그 사이로 짙은 옥빛 물이 고요히 흐른다. 투명카약이나 전통 뗏목 테우를 타고 협곡 안쪽으로 들어가면, 위로는 소나무 절벽, 아래로는 속이 비치는 물이 함께 흘러 비현실적인 풍경이 된다.",
+    "todo": [
+     "투명카약 타고 협곡 안쪽 들어가기",
+     "전망 데크에서 절벽과 물빛 감상"
+    ],
+    "tip": "카약·테우는 유료이고 기상에 따라 운영이 멈추니 당일 확인. 협곡 위 산책로만 걸어도 충분히 예쁘다.",
+    "eat": "하효동 인근에서 보말칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg/500px-%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg/330px-%EC%87%A0%EC%86%8C%EA%B9%8D_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg/960px-%EC%87%A0%EC%86%8C%EA%B9%8D_%288%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서귀포 매일올레시장",
+    "rom": "감귤과 흑돼지, 서귀포의 맛이 다 모인 지붕 시장",
+    "meta": [
+     "💴 무료",
+     "🍜 먹거리",
+     "🍊 감귤"
+    ],
+    "desc": "아케이드 지붕 아래로 감귤·한라봉, 흑돼지 꼬치, 오메기떡, 통갈치가 늘어선 서귀포 대표 재래시장이다. 걸으며 하나씩 집어 먹는 재미가 크고, 제철이면 갓 딴 감귤 향이 시장 통로를 가득 채운다. 여행자와 동네 사람이 뒤섞이는 활기가 그대로 남아 있다.",
+    "todo": [
+     "오메기떡·흑돼지 꼬치 사서 걸으며 먹기",
+     "제철 감귤·한라봉 맛보기"
+    ],
+    "tip": "저녁이면 즉석 먹거리 코너가 붐빈다. 이중섭거리와 바로 이어져 함께 묶어 걷기 좋다.",
+    "eat": "시장 안 통갈치조림·마농치킨(마늘치킨)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seogwipo_Maeil_Olle_Market_03.jpg/500px-Seogwipo_Maeil_Olle_Market_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Seogwipo_Maeil_Olle_Market_01.jpg/120px-Seogwipo_Maeil_Olle_Market_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seogwipo_Maeil_Olle_Market_06.jpg/120px-Seogwipo_Maeil_Olle_Market_06.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "seongju": {
+  "nm": "성주",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "기차역이 없어 김천(구미)역 KTX 하차 후 버스·택시로 30~40분, 또는 대구서부에서 시외버스 1시간. 서울에서 승용차 약 3시간(경부·중부내륙), 부산에서 대구 경유 약 2시간.",
+  "sep": "8월 중순~9월 초. 성밖숲 왕버들 그늘 아래 맥문동이 보랏빛으로 만개해 1년 중 가장 사진 같은 풍경이 펼쳐진다. 참외의 계절과 축제를 원하면 5월도 좋다.",
+  "mood": "500년 왕버들이 만든 보랏빛 숲, 왕자들의 태를 묻은 언덕, 참외 향 가득한 조용한 경북의 시골.",
+  "see": "천연기념물 왕버들 성밖숲, 조선 왕실 태실군, 500년 고택마을과 서원, 영남 최대 산성.",
+  "spots": [
+   {
+    "name": "성밖숲",
+    "rom": "왕버들 아래 보랏빛 맥문동 숲",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌿 천연기념물",
+     "📷 8월 맥문동"
+    ],
+    "desc": "조선시대 성주읍성 서문 밖, 하천 범람과 마을의 액운을 막으려 심은 숲이 500년을 살아남았다. 수령 300~500년 왕버들 쉰여 그루가 굵은 팔을 뻗어 하늘을 가리고, 8월 중순이면 그 그늘 아래 맥문동이 온통 보랏빛으로 물든다. 천연기념물 제403호, 전국 '아름다운 숲'으로 꼽힌 곳이다.",
+    "todo": [
+     "왕버들 사이 보랏빛 맥문동 길 걷기",
+     "이천변 산책로 따라 한 바퀴",
+     "저녁 무렵 야간 조명 아래 숲 감상"
+    ],
+    "tip": "맥문동 절정은 8월 중순~9월 초로 짧으니 시기를 맞춰 가면 좋다. 무료 개방이고 이천변 주차장이 있다. 5월엔 이 일대에서 참외 축제가 열린다.",
+    "eat": "성주의 대표 특산물 참외. 장터와 인근 직판장에서 갓 딴 노란 참외를 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg/500px-%EC%84%B1%EC%A3%BC%EA%B2%BD%EC%82%B0%EB%A6%AC_%EC%84%B1%EB%B0%96_%EC%88%B2%28_2_%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세종대왕자 태실",
+    "rom": "왕자 열여덟의 태를 묻은 언덕",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏛 사적 제444호",
+     "🌸 태교 명소"
+    ],
+    "desc": "태봉 정상에 세종대왕의 아들 열여덟 명과 손자 단종의 태를 묻은 태실 열아홉 기가 나란히 서 있다. 왕자들의 태실이 완전한 군집을 이룬 곳은 우리나라에서 이곳뿐. 작은 언덕을 오르면 돌로 만든 태실들이 줄지어 선 고요한 풍경이, 생명을 귀히 여긴 옛 마음을 그대로 전한다.",
+    "todo": [
+     "태봉 언덕 위 태실 열아홉 기 둘러보기",
+     "생명·태교의 의미를 새기며 천천히 걷기"
+    ],
+    "tip": "주차장에서 언덕까지 완만한 오르막이니 편한 신발이 좋다. 그늘이 적어 여름엔 모자·물을 챙기자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg/500px-%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한개마을",
+    "rom": "600년을 이어온 성산 이씨 고택마을",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🏘 국가민속문화재",
+     "🌾 돌담길"
+    ],
+    "desc": "조선 세종 무렵 성산 이씨가 터를 잡아 600년을 이어온 집성촌. 18세기 후반에서 19세기 초에 지어진 예순여 채의 한옥이 야트막한 언덕을 따라 앉아 있고, 그 사이를 흙돌담 골목이 굽이굽이 잇는다. 관광지로 꾸며진 마을이 아니라 사람이 사는 집들이라, 담 너머로 흘러나오는 생활의 온기가 오히려 깊다.",
+    "todo": [
+     "구불구불한 흙돌담 골목 걷기",
+     "북비고택·교리댁 등 고택 마당 둘러보기"
+    ],
+    "tip": "실제 주민이 거주하는 마을이니 사유 공간과 정숙에 유의한다. 근처 포천계곡과 묶어 반나절 코스로 걷기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg/500px-%EC%84%B1%EC%A3%BC7%EA%B2%BD%28%ED%95%9C%EA%B0%9C%EB%A7%88%EC%9D%84%29_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "회연서원",
+    "rom": "한강 정구를 기린 낙동강가 서원",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🏛 유형문화재",
+     "🌸 봄 매화"
+    ],
+    "desc": "조선의 유학자 한강 정구 선생의 학문과 덕을 기려 제자들이 인조 5년(1627) 세운 서원이다. 강당과 사당, 그리고 백 그루 매화를 심었다는 백매원 뜰이 단정하게 어우러져, 봄이면 담장 안이 매화 향으로 가득 찬다. 번잡하지 않아 오래 머물며 옛 선비의 시간을 상상하기 좋은 자리다.",
+    "todo": [
+     "강당 마루에 앉아 뜰 바라보기",
+     "봄철 백매원 매화 감상"
+    ],
+    "tip": "규모가 크지 않아 가야산 선비산수길·성주호와 함께 둘러보면 동선이 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg/500px-%EC%84%B1%EC%A3%BC3%EA%B2%BD%28%ED%9A%8C%EC%97%B0%EC%84%9C%EC%9B%90%EA%B3%BC_%EB%AC%B4%ED%9D%98%EA%B5%AC%EA%B3%A1%29_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "독용산성",
+    "rom": "해발 955m, 영남 최대 규모의 산성",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "⛰ 둘레 7.7km",
+     "🍁 가을 단풍"
+    ],
+    "desc": "가천면 독용산 정상, 해발 955m에 둘레 7.7km로 쌓은 영남에서 가장 큰 산성이다. 성문 아래로 산줄기가 겹겹이 밀려나며 시야가 탁 트이고, 복원된 동문에 서면 능선을 따라 이어진 옛 성벽이 그대로 보인다. 차로 성문 가까이까지 오를 수 있어, 큰 힘 들이지 않고 산성의 스케일을 만날 수 있다.",
+    "todo": [
+     "복원된 동문에서 능선 조망",
+     "성벽 따라 걷는 산성 트레킹"
+    ],
+    "tip": "정상부까지 임도로 접근 가능하나 길이 좁고 굽으니 운전에 주의한다. 가을 단풍철 풍경이 특히 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg/500px-%EC%84%B1%EC%A3%BC2%EA%B2%BD%28%EB%8F%85%EC%9A%A9%EC%82%B0%EC%84%B1%EA%B3%BC_%EC%84%B1%EC%A3%BC%ED%98%B8_%EB%91%98%EB%A0%88%EA%B8%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "가야산 · 성주호",
+    "rom": "칠불봉 능선과 물 따라 걷는 둘레길",
+    "meta": [
+     "💴 무료(둘레길)",
+     "⏱ 반나절~하루",
+     "⛰ 국립공원",
+     "🚶 선비산수길"
+    ],
+    "desc": "국립공원 가야산의 주봉 칠불봉이 성주 땅에 걸쳐 있고, 그 아래로 성주호가 산자락을 끼고 잔잔히 고여 있다. 물과 산을 함께 걷는 가야산 선비산수길 성주호 둘레길은 능선의 웅장함과 호수의 고요를 한 걸음에 담는 길이다. 등산이 부담스러우면 호수를 따라 걷는 것만으로도 충분히 넉넉하다.",
+    "todo": [
+     "성주호 둘레길(선비산수길 1코스) 걷기",
+     "체력이 되면 칠불봉 능선 등반"
+    ],
+    "tip": "본격 등산과 호수 산책은 난이도가 크게 다르니 체력에 맞춰 코스를 고른다. 백운동 지구에 야생화식물원 등 편의시설이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GayaSanghwangbong.jpg/500px-GayaSanghwangbong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kayasan01.JPG/120px-Kayasan01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "seongnam": {
+  "nm": "성남",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울역·강남에서 지하철로 40분~1시간(8호선 모란·신분당선 판교/정자), 자가용은 분당수서로·경부고속도로로 서울 도심에서 30분 안팎. 부산에서는 KTX로 수서역 도착 후 8호선·분당선 환승",
+  "sep": "봄(4월)이 가장 좋다 — 성남중앙공원·율동공원·탄천 벚꽃길이 동시에 터지고, 신구대학교식물원은 봄꽃과 가을 단풍 모두 절정. 남한산성은 단풍 든 10~11월과 눈 덮인 겨울 성곽이 특히 아름답다",
+  "mood": "판교의 유리빌딩과 병자호란의 성곽, 수도권 최대급 5일장이 한 도시 안에 있다 — 도심의 세련됨과 옛 시간이 나란히 걷는 곳",
+  "see": "유네스코 세계유산 남한산성, 호수 낀 율동공원, 사시사철 붐비는 모란시장, 벚꽃 명소 중앙공원, 계절 정원 신구대식물원, 한국의 실리콘밸리 판교",
+  "spots": [
+   {
+    "name": "남한산성",
+    "rom": "성곽 위를 걷는 유네스코 세계유산",
+    "meta": [
+     "🏯 유네스코 세계유산",
+     "⏱ 반나절",
+     "🍂 가을 단풍",
+     "🍲 백숙 먹거리"
+    ],
+    "desc": "능선을 따라 굽이치는 옛 성곽이 서울 남쪽 산줄기를 두르고 있다. 병자호란 때 인조가 혹독한 겨울을 버틴 그 성벽 위를 지금은 누구나 걸을 수 있고, 수어장대에 서면 발아래로 도심과 산이 한눈에 펼쳐진다. 봄엔 연둣빛, 가을엔 붉은 단풍이 성돌을 물들여 걸음이 자꾸 느려진다.",
+    "todo": [
+     "수어장대까지 성곽길 한 바퀴 걷기",
+     "산성 로터리에서 남문·북문 방향 코스 고르기",
+     "역사문화관에서 산성의 내력 훑어보기"
+    ],
+    "tip": "산성 안까지 버스·차로 오를 수 있어 초입 체력 부담이 적다. 주말·단풍철엔 주차장이 금세 차니 오전에 도착하는 편이 낫다.",
+    "eat": "산성 마을의 백숙·오리·도토리묵 등 산채 정식이 유명하다",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/500px-Namhanssanseong.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg/500px-%EB%8F%99%EA%B5%AD%EC%97%AC%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c6/Namhansanseong-haedongjido.JPG/500px-Namhansanseong-haedongjido.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "율동공원",
+    "rom": "호수를 낀 분당의 숨쉬는 공원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "📚 책테마파크"
+    ],
+    "desc": "분당저수지를 그대로 살려 만든 자연 호수 공원이다. 물가를 따라 벚나무와 밤나무가 늘어서고, 호수를 감싸는 산책로와 자전거길이 시원하게 이어진다. 봄이면 벚꽃이, 초여름이면 초록이 물에 비쳐, 산책하는 사람도 자전거 타는 사람도 자꾸 걸음을 멈추게 된다.",
+    "todo": [
+     "호수 둘레 산책로 한 바퀴 돌기",
+     "책테마파크에서 야외 도서 즐기기",
+     "호숫가 조각 작품 둘러보기"
+    ],
+    "tip": "주차장이 넓어 가족 단위 나들이에 편하다. 벚꽃철 주말은 오전에 가야 여유롭다.",
+    "eat": "공원 앞 호수 전망 카페들에서 커피 한 잔 하기 좋다",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg/500px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%280%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%2841%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG/250px-%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90_%289%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "모란민속5일장",
+    "rom": "수도권 최대급 5일장의 활기",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🗓 끝자리 4·9일",
+     "🍜 먹거리 천국"
+    ],
+    "desc": "매달 끝자리 4일과 9일마다 서는, 규모로는 수도권에서 손꼽히는 민속 5일장이다. 채소·약초·화훼부터 먹거리 노점까지 골목마다 사람과 흥정 소리가 넘친다. 정해진 날에만 열렸다 사라지는 장터라, 그날 그 자리를 밟는다는 것만으로도 특별한 기분이 든다.",
+    "todo": [
+     "국밥·손칼국수 등 장터 먹거리 맛보기",
+     "화훼·약초 골목 구경하기",
+     "제철 나물·주전부리 사보기"
+    ],
+    "tip": "장은 끝자리 4·9일(4·9·14·19·24·29일)에만 열린다. 날짜를 꼭 확인하고 가고, 8호선 모란역에서 걸어서 닿는다.",
+    "eat": "장터표 잔치국수·순대국밥·호떡 등 즉석 먹거리가 진짜 재미"
+   },
+   {
+    "name": "성남중앙공원",
+    "rom": "벚꽃과 옛 정취가 어우러진 도심 정원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 2~3시간",
+     "🌸 봄 벚꽃",
+     "🌳 산책"
+    ],
+    "desc": "분당 한복판, 아파트 숲 사이에 뜻밖의 넓은 녹지가 펼쳐진다. 연못과 정자, 잘 가꾼 잔디밭 사이로 옛 수내동 고가와 한산 이씨 묘역이 남아 있어, 신도시 속에서 오래된 시간이 나란히 숨 쉰다. 봄 벚꽃길은 분당에서 손꼽히는 산책 명소다.",
+    "todo": [
+     "벚꽃 터널 산책로 걷기",
+     "연못가 정자에서 쉬어가기",
+     "수내동 가옥(한산이씨 고택) 둘러보기"
+    ],
+    "tip": "지하철 분당선 수내역에서 가깝다. 벚꽃 절정기 주말 낮에는 사람이 많아 아침 산책을 추천.",
+    "eat": "인근 정자동 카페거리에서 브런치·디저트 즐기기",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%283%29.jpg/500px-%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%283%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%281%29.jpg/500px-%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%281%29.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90-%ED%95%9C%EC%82%B0-%EC%9D%B4%EC%94%A8-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%A0%81-%281%29.jpg/500px-%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90-%ED%95%9C%EC%82%B0-%EC%9D%B4%EC%94%A8-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%A0%81-%281%29.jpg"
+    ]
+   },
+   {
+    "name": "신구대학교식물원",
+    "rom": "계절마다 옷을 갈아입는 테마 정원",
+    "meta": [
+     "💴 입장 약 6,000원",
+     "⏱ 2~3시간",
+     "🌷 봄가을 절정",
+     "📷 사진 명소"
+    ],
+    "desc": "남한산성 자락에 자리한 대학 부속 식물원으로, 계절 따라 얼굴이 완전히 달라진다. 봄엔 튤립과 야생화, 여름엔 수국, 가을엔 국화와 단풍이 테마 정원마다 색을 채운다. 곳곳에 어린왕자 조형과 온실이 숨어 있어 천천히 걷는 사진 산책에 제격이다.",
+    "todo": [
+     "계절 테마 정원 따라 한 바퀴 돌기",
+     "온실·습지원 둘러보기",
+     "야생화·수국 앞에서 사진 담기"
+    ],
+    "tip": "입장료·개장시간이 계절과 축제에 따라 바뀌니 방문 전 확인이 좋다. 봄꽃·가을 국화 축제 기간이 가장 볼거리가 많다.",
+    "eat": "식물원 인근 남한산성 방향 산채 정식·카페"
+   },
+   {
+    "name": "판교 (테크노밸리·현대백화점)",
+    "rom": "유리빌딩이 늘어선 한국의 실리콘밸리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏢 도심 랜드마크",
+     "🛍 쇼핑·미식"
+    ],
+    "desc": "네이버·카카오를 비롯한 IT 기업의 유리빌딩이 반듯하게 늘어선, '한국의 실리콘밸리'로 불리는 신도시다. 광장과 가로수길이 세련되게 정돈돼 걷기 좋고, 바로 옆 현대백화점 판교점은 수도권 최대 규모로 옥상정원과 거대한 식품관을 품고 있다. 도심 여행의 감각을 채우기에 좋은 곳.",
+    "todo": [
+     "아브뉴프랑·광장 가로수길 걷기",
+     "현대백화점 옥상정원과 식품관 구경",
+     "판교역 일대 밤 풍경 보기"
+    ],
+    "tip": "신분당선 판교역과 바로 이어져 접근이 편하다. 백화점·식품관은 주말 점심시간에 특히 붐빈다.",
+    "eat": "현대백화점 판교점 식품관과 아브뉴프랑의 다양한 맛집"
+   }
+  ]
+ },
+ "seosan": {
+  "nm": "서산",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 서해안고속도로 타면 서산IC까지 1시간 30분~2시간, 센트럴시티(고속버스터미널)에서 서산행 고속버스도 약 2시간. 부산 기준으론 4시간 남짓이라 서해 낙조 하나 보러 넘어오기 좋다.",
+  "sep": "봄(4월)이 절정 — 유기방 가옥 노란 수선화가 먼저 피고, 이어 개심사 왕벚꽃·청벚꽃이 늦게까지 핀다. 겨울(11~2월)엔 천수만에 철새 수십만 마리가 내려앉고, 간월암 낙조는 사계절 언제 와도 붉다.",
+  "mood": "썰물엔 걸어 들어가고 밀물엔 섬이 되는 암자, 백제 사람이 새긴 천 년의 미소. 서산은 서해로 지는 해를 가장 오래 붙잡아두는 땅이다.",
+  "see": "간월암 낙조 · 해미읍성 · 마애삼존불(백제의 미소) · 개심사 벚꽃 · 유기방 수선화 · 천수만 철새",
+  "spots": [
+   {
+    "name": "간월암",
+    "rom": "밀물 때 섬이 되는, 서해 낙조의 암자",
+    "meta": [
+     "💴 입장 무료",
+     "🌅 서해 낙조",
+     "⏱ 1~2시간"
+    ],
+    "desc": "썰물이 빠지면 갯벌 위로 길이 열려 걸어 들어가고, 밀물이 차면 작은 섬이 되어버리는 바다 위 암자다. 무학대사가 창건했다 전해지는 이 작은 절 지붕 너머로 서해의 해가 붉게 번져 내릴 때, 사람들은 말없이 카메라를 내려놓고 그냥 바라만 본다. 물때에 따라 풍경이 통째로 바뀌는 곳이라, 같은 자리에 두 번 와도 다른 여행이 된다.",
+    "todo": [
+     "물때표 확인하고 걸어 들어가 보기",
+     "해 지는 시각 맞춰 낙조 기다리기",
+     "간월도 어리굴젓 맛보기"
+    ],
+    "tip": "만조 땐 길이 잠겨 못 들어가니 반드시 물때(간조·만조) 시각을 미리 확인하고 갈 것. 일몰 시각 30분 전엔 도착해야 좋은 자리를 잡는다.",
+    "eat": "간월도 특산 어리굴젓과 굴밥. 낙조 보고 나오는 길에 갓 무친 굴 한 접시가 제철이면 최고다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EA%B0%84%EC%9B%94%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg/500px-%EC%A0%9C3%EA%B2%BD_%EA%B0%84%EC%9B%94%EC%95%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서산 해미읍성",
+    "rom": "성벽 위를 걷는 조선 읍성, 천주교 순교의 땅",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏯 조선 사적"
+    ],
+    "desc": "1421년에 완성된 조선의 읍성으로, 성벽이 원형에 가깝게 남아 성곽 위를 실제로 걸어볼 수 있는 몇 안 되는 곳이다. 성 안엔 초가 관아와 옥사가 복원돼 있고, 조선 후기 천주교 신자 천여 명이 순교한 아픈 역사도 함께 품고 있다. 2014년 교황 프란치스코가 다녀간 뒤로 순례객의 발길이 이어지는, 무겁고도 고요한 자리다.",
+    "todo": [
+     "성곽 한 바퀴 걸으며 성안 내려다보기",
+     "수령 300년 회화나무(호야나무) 앞에 서 보기",
+     "복원된 동헌·객사 둘러보기"
+    ],
+    "tip": "그늘이 적은 넓은 잔디 성터라 여름엔 모자와 물이 필수. 매년 가을 해미읍성 역사체험축제 기간엔 성 안이 조선시대 저잣거리로 바뀐다.",
+    "eat": "성 밖 해미 시내의 한우 물국수와 국밥집. 소박하지만 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg/500px-%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haemieupseong_02.JPG/250px-Haemieupseong_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haemieupseong_01.JPG/250px-Haemieupseong_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서산 용현리 마애여래삼존상",
+    "rom": "천 년을 웃는 '백제의 미소'",
+    "meta": [
+     "💴 입장 무료",
+     "🗿 국보",
+     "⏱ 1시간"
+    ],
+    "desc": "가야산 계곡 절벽 바위에 백제 사람들이 새겨 놓은 세 분의 불·보살상, 국보 제84호다. 빛이 드는 각도에 따라 표정이 달라져 아침·한낮·오후의 미소가 다르게 보인다 하여 '백제의 미소'라 불린다. 주차장에서 계곡 물소리를 들으며 잠깐 오르면 나타나는데, 그 온화한 웃음 앞에 서면 천 년이 눈앞에서 접힌다.",
+    "todo": [
+     "햇빛 각도 바뀔 때 미소 표정 변화 관찰하기",
+     "가까운 보원사지 절터까지 이어 걷기",
+     "문화해설사 설명 들어보기"
+    ],
+    "tip": "빛의 방향에 따라 미소가 가장 살아나는 건 오전이라는 이야기가 많다. 흐린 날보다 맑은 날 표정이 또렷하다.",
+    "eat": "운산·해미 방면으로 나오면 시골 백반과 손두부집이 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg/500px-%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg/120px-Rock_carved_Buddha_triad_in_Seosan%2C_South_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG/120px-Seosan_Buddha_Triad_Carved_on_the_Rock_8.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "개심사",
+    "rom": "휘어진 나무 그대로 지은 절, 늦봄 벚꽃 명소",
+    "meta": [
+     "💴 입장 무료",
+     "🌸 4월 왕벚꽃·청벚꽃",
+     "⏱ 반나절"
+    ],
+    "desc": "상왕산 자락의 오래된 절로, 기둥과 보를 휘어진 나무 그대로 다듬지 않고 세운 전각들로 유명하고, 맞배지붕의 대웅전은 보물로 지정돼 있다. 4월 하순 다른 벚꽃이 다 진 뒤에야 피는 겹벚꽃과, 초록빛이 도는 귀한 청벚꽃이 경내를 물들여 이 시기 사진가들이 몰린다. 연못을 건너 절로 드는 짧은 길이 계절마다 색을 바꿔, 벚꽃 없는 계절에도 조용히 걷기 좋다.",
+    "todo": [
+     "휜 나무 그대로 세운 전각 기둥 살펴보기",
+     "늦게 피는 청벚꽃·왕겹벚꽃 시기 맞춰 오기",
+     "외나무다리 건너 일주문 지나기"
+    ],
+    "tip": "벚꽃 절정은 4월 하순으로 다른 지역보다 늦다. 주말 개화기엔 진입로가 크게 막히니 이른 아침이 낫다.",
+    "eat": "절 입구 주차장 근처의 산채비빔밥과 파전.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg/500px-%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg/250px-%EC%84%9C%EC%82%B0_%EA%B0%9C%EC%8B%AC%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg/250px-%EA%B0%9C%EC%8B%AC%EC%82%AC_%EC%8B%AC%EA%B2%80%EB%8B%B9_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서산 유기방 가옥",
+    "rom": "봄이면 뒷담이 노란 수선화 물결로",
+    "meta": [
+     "💴 수선화철 입장 약 5,000원(변동)",
+     "🌼 4월 수선화",
+     "⏱ 1~2시간"
+    ],
+    "desc": "경사진 언덕을 둥글게 감싼 토담이 인상적인 일제강점기 한옥 고택인데, 봄이면 뒷동산 비탈이 온통 노란 수선화로 뒤덮여 전국에서 사람이 찾는다. 고택의 낮은 담과 기와 너머로 흔들리는 수선화 물결은 4월 초중순 한 철에만 볼 수 있는 장면이다. 꽃이 지고 나면 다시 조용한 시골 고택으로 돌아가, 툇마루에 앉아 있으면 시간이 느리게 흐른다.",
+    "todo": [
+     "수선화 언덕에서 한옥 배경으로 사진 남기기",
+     "둥근 토담 따라 한 바퀴 걷기",
+     "툇마루에 앉아 쉬어가기"
+    ],
+    "tip": "수선화 축제 기간(대개 4월)엔 별도 입장료를 받고 주차가 매우 붐빈다. 개화 상황은 해마다 달라 방문 전 개화 소식을 확인하는 게 좋다.",
+    "eat": "인근 서산 시내로 나오면 게국지(꽃게+김치 찌개)와 밀국낙지탕이 유명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg/500px-%EC%84%9C%EC%82%B0_%EC%9C%A0%EA%B8%B0%EB%B0%A9_%EA%B0%80%EC%98%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "서산버드랜드 · 천수만",
+    "rom": "겨울 하늘을 채우는 수십만 철새",
+    "meta": [
+     "💴 입장 약 2,000원(변동)",
+     "🦆 11~2월 철새",
+     "⏱ 반나절"
+    ],
+    "desc": "간척으로 생긴 천수만 일대는 겨울이면 가창오리·기러기 등 수십만 마리 철새가 내려앉는 국내 대표 철새 도래지다. 해질 무렵 하늘을 뒤덮으며 군무를 그리는 새떼의 장관은 이곳 겨울의 상징이고, 곁의 서산버드랜드에선 4D 영상과 탐조 프로그램으로 아이와 함께 즐기기 좋다. 철새 탐조 버스를 타면 습지 가까이 들어가 새들을 만날 수 있다.",
+    "todo": [
+     "해질녘 가창오리 군무 시간 맞춰 기다리기",
+     "탐조 망원경으로 철새 관찰하기",
+     "버드랜드 실내 전시관 둘러보기"
+    ],
+    "tip": "군무는 대개 일몰 직전에 펼쳐지므로 겨울철 늦은 오후에 맞춰 가야 한다. 방한복과 망원경(또는 망원렌즈)을 챙길 것.",
+    "eat": "천수만 인근에서 나는 대하(가을)와 새조개(겨울) 등 제철 해산물.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seosan_Bird_Land.jpg/500px-Seosan_Bird_Land.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "삼길포항",
+    "rom": "배 위에서 회 떠 먹는 서산의 어항",
+    "meta": [
+     "💴 회 시세(변동)",
+     "🐟 우럭·회",
+     "⏱ 2~3시간"
+    ],
+    "desc": "대산반도 끝자락의 국가어항으로, 부둣가에 늘어선 좌판과 회 뜨는 배에서 갓 잡은 우럭·광어를 골라 그 자리에서 썰어 먹는 재미가 있다. 서해 낙조가 항구를 물들일 때 방파제를 따라 걷는 산책도 좋고, 대산에서 삼길포로 이어지는 바닷길 드라이브가 시원하다. 소박하지만 바다 냄새가 진한, 서산 사람들의 밥상 같은 곳이다.",
+    "todo": [
+     "배 위 좌판에서 우럭 회 골라 떠 먹기",
+     "방파제·전망대 산책하며 낙조 보기",
+     "삼길포항 회 축제 시기 확인하기"
+    ],
+    "tip": "회는 무게로 시세 흥정이라 가격을 미리 물어보고 고르는 게 좋다. 주말 저녁엔 자리가 붐빈다.",
+    "eat": "삼길포 우럭회와 우럭젓국(우럭을 말려 끓인 서산식 맑은 국).",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg/500px-%EC%A0%9C9%EA%B2%BD_%EC%82%BC%EA%B8%B8%ED%8F%AC%ED%95%AD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "seoul": {
+  "nm": "서울",
+  "region": "🏙️ 수도권 · 서울특별시",
+  "route": "전국 어디서든 KTX·고속버스가 서울역·용산역·센트럴시티로 모인다. 도심은 지하철 1~9호선으로 웬만한 곳이 30분 안. 공항에서도 공항철도로 서울역까지 한 번에.",
+  "sep": "4월 초 창경궁·석촌호수 벚꽃과 10~11월 고궁 단풍이 절정. 여름 장마와 한겨울 강추위만 피하면 사계절 도심 여행이 두루 좋다.",
+  "mood": "600년 왕조의 궁궐 담장 옆으로 유리빌딩이 솟은 도시. 기와지붕 골목을 돌면 곧 남산타워 불빛이 걸린다.",
+  "see": "고궁·한옥골목·전통시장·복원된 물길·야경 전망대가 지하철 몇 정거장 안에 다 모여 있다.",
+  "spots": [
+   {
+    "name": "경복궁",
+    "rom": "조선 왕조의 법궁, 광화문 앞 수문장 교대의식",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "👘 한복 무료입장"
+    ],
+    "desc": "광화문을 지나 근정전 앞 너른 마당에 서면, 여섯 겹 처마 너머로 북악산 능선이 그대로 병풍처럼 앉아 있다. 조선의 첫 궁궐이자 법궁이라 규모가 크고 격이 높아, 한 바퀴 도는 것만으로 왕조의 무게가 발끝에 전해진다. 경회루 연못에 비친 누각과 물그림자는 서울에서 가장 오래 붙잡게 되는 장면이다.",
+    "todo": [
+     "광화문 앞 수문장 교대의식 보기(하루 두 차례)",
+     "경회루 연못과 향원정 산책",
+     "경내 국립고궁박물관·국립민속박물관 들르기"
+    ],
+    "tip": "한복을 입으면 입장료가 무료다. 매주 화요일 휴궁이니 요일을 확인하고 갈 것.",
+    "eat": "서촌 통인시장의 기름떡볶이와 엽전도시락, 삼청동 수제비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/500px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg/500px-%EA%B2%BD%EB%B3%B5%EA%B6%81%EB%8F%84_%28%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png/500px-%EC%A4%91%EB%AC%98%EC%A1%B0%EC%84%9C%EC%97%B0%EA%B4%80%EC%82%AC%EC%97%B0%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "창덕궁",
+    "rom": "유네스코 세계유산, 후원의 비밀 정원",
+    "meta": [
+     "💴 입장 약 3,000원 (후원 별도 약 5,000원)",
+     "⏱ 반나절",
+     "🌳 유네스코",
+     "🍁 가을 단풍"
+    ],
+    "desc": "언덕과 물길을 밀어내지 않고 자연 지형에 그대로 얹은 궁이라, 걷다 보면 건물마다 앉은 각도가 조금씩 다르다. 이 자연스러움 덕에 조선 궁궐 중 유일하게 유네스코 세계유산에 올랐다. 정원의 백미는 후원(비원) — 예약제 해설로만 들어가는 이 숲속 연못길은 가을 단풍철이면 서울에서 가장 조용하고 깊은 색을 낸다.",
+    "todo": [
+     "후원(비원) 해설 관람 예약하고 걷기",
+     "낙선재의 소박한 살림집 마당 둘러보기",
+     "인정전 앞 품계석 줄 따라 걷기"
+    ],
+    "tip": "후원은 인원 제한 예약제라 온라인 사전예약이 안전하다. 월요일은 휴궁.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/500px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg/500px-Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg/500px-%EB%8F%99%EA%B6%90%EB%8F%84%ED%98%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "북촌 한옥마을",
+    "rom": "경복궁과 창덕궁 사이, 기와지붕 골목",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🏘 한옥골목",
+     "📷 포토스팟"
+    ],
+    "desc": "가회동 언덕 골목에 서면 발밑으로 기와지붕이 물결처럼 겹쳐 흐르고, 그 끝에 남산타워가 작게 걸린다. 두 궁궐 사이에 남은 이 한옥 동네는 지금도 사람이 사는 실제 마을이라, 담장 안에서 밥 짓는 냄새가 나기도 한다. 좁은 오르막을 천천히 오르내리는 것만으로 도심 한복판에서 시간을 거슬러 올라간다.",
+    "todo": [
+     "북촌 8경 포토포인트에서 지붕 물결 담기",
+     "가회동·삼청동 골목 카페와 공방 들르기",
+     "언덕 위에서 남산타워 배경으로 사진 찍기"
+    ],
+    "tip": "주민이 실제로 사는 거주지다 — 이른 아침·늦은 밤엔 조용히, 안내된 관광 허용 시간을 지키자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg/500px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bukchon.jpg/330px-Bukchon.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_14.jpg/330px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_14.jpg"
+    ]
+   },
+   {
+    "name": "남산서울타워(N서울타워)",
+    "rom": "남산 위에서 내려다보는 서울 야경",
+    "meta": [
+     "💴 전망대 약 21,000원",
+     "⏱ 반나절",
+     "🌃 야경",
+     "🚡 케이블카"
+    ],
+    "desc": "케이블카나 숲길을 따라 남산에 오르면, 발아래로 한강과 도심의 불빛이 지평선까지 깔린다. 해가 넘어가고 도시에 하나둘 불이 들어오는 그 20분이 이 산의 절정이다. 전망대 아래 난간을 빼곡히 덮은 사랑의 자물쇠는 이제 서울을 상징하는 풍경이 되었다.",
+    "todo": [
+     "해질 무렵 올라 야경으로 넘어가는 시간대 잡기",
+     "남산 케이블카 타보기",
+     "전망대 난간의 사랑의 자물쇠 구경"
+    ],
+    "tip": "일몰 30분 전쯤 오르면 노을과 야경을 한 번에 본다. 남산 순환버스나 케이블카를 이용하면 오르막이 수월하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_Tower_%284394893276%29.jpg/500px-Seoul_Tower_%284394893276%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/N_Seoul_Tower_Panorama_001.jpg/500px-N_Seoul_Tower_Panorama_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/N_Seoul_Tower_Panorama_Night.jpg/500px-N_Seoul_Tower_Panorama_Night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "광장시장",
+    "rom": "빈대떡과 마약김밥의 100년 전통시장",
+    "meta": [
+     "💴 먹거리 약 5,000원~",
+     "⏱ 2시간",
+     "🍜 먹거리",
+     "🕰 1905년 개설"
+    ],
+    "desc": "기름 두른 철판 위에서 녹두 빈대떡이 지글지글 부쳐지고, 그 앞 좁은 통로에 사람들이 어깨를 붙이고 앉아 막걸리를 나눈다. 1905년 문을 연 오래된 시장이라 골목마다 손맛이 배어 있다. 겨자소스에 찍어 먹는 '마약김밥'이 시작된 곳이 바로 여기라, 한 접시 앞에서 왜 그런 별명이 붙었는지 금세 이해하게 된다.",
+    "todo": [
+     "철판 앞자리에 앉아 갓 부친 녹두 빈대떡 먹기",
+     "마약김밥 한 접시 겨자소스에 찍어보기",
+     "육회골목에서 신선한 육회 맛보기"
+    ],
+    "tip": "저녁 시간대는 자리 경쟁이 치열하다. 현금을 조금 챙겨 가면 편하다.",
+    "eat": "녹두빈대떡, 마약김밥, 육회, 순대와 모둠전",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gwangjangmarket_mainentrance.jpg/500px-Gwangjangmarket_mainentrance.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Korea-Seoul-Gwangjang_Market-01.jpg/250px-Korea-Seoul-Gwangjang_Market-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg/250px-Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "동대문 디자인 플라자(DDP)",
+    "rom": "자하 하디드가 그린 은빛 곡선 건물",
+    "meta": [
+     "💴 외부 무료 (전시 별도)",
+     "⏱ 2~3시간",
+     "🏛 건축",
+     "🌃 야경"
+    ],
+    "desc": "이음매 없이 흐르는 은빛 곡면 덩어리가 동대문 한복판에 착륙한 우주선처럼 앉아 있다. 세계적 건축가 자하 하디드가 설계한 이 건물은 낮에도 근사하지만, 밤이 되면 조명을 받아 곡선이 통째로 빛나며 완전히 다른 얼굴이 된다. 잔디 언덕에 수만 송이 LED 장미가 켜지는 밤에는 사진 찍는 사람들로 계단이 가득 찬다.",
+    "todo": [
+     "건물 곡선 램프를 따라 옥상까지 걸어 올라가기",
+     "야간 LED 장미밭에서 사진 찍기",
+     "심야 동대문 쇼핑몰과 함께 둘러보기"
+    ],
+    "tip": "밤 조명이 켜진 뒤가 훨씬 인상적이다. 주변 동대문 상가는 늦게까지 열려 야행 코스로 엮기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/500px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ddp_logo.jpg/120px-Ddp_logo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg/120px-Design_Lab_and_Kia_Soul_exhibition_in_Dongdaemun_Design_Plaza_%26_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "인사동",
+    "rom": "전통 공예와 찻집, 골동품이 흐르는 거리",
+    "meta": [
+     "💴 무료",
+     "⏱ 2~3시간",
+     "🎨 전통공예",
+     "🍵 전통찻집"
+    ],
+    "desc": "돌바닥이 깔린 인사동길을 따라 한지·붓·도자기 가게와 작은 갤러리가 끝없이 이어진다. 골목마다 골동품 냄새와 먹 향, 갓 우린 쌍화차 향이 뒤섞여 서울에서 가장 '전통'이라는 단어가 잘 어울리는 거리다. 나선형으로 오르는 복합공간 쌈지길에 들어서면 작은 공방을 구경하다 시간을 잊는다.",
+    "todo": [
+     "쌈지길 나선 골목 따라 공방 구경하기",
+     "전통찻집에서 쌍화차 한 잔 쉬어가기",
+     "한지·붓 등 전통 기념품 고르기"
+    ],
+    "eat": "전통찻집의 쌍화차·대추차, 인사동 골목의 한정식과 수제 만두",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Seoul-Insadong-01.jpg/500px-Seoul-Insadong-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Insadong_Street_in_Seoul.jpg/120px-Insadong_Street_in_Seoul.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EC%8C%88%EC%A7%80%EA%B8%B8.jpg/120px-%EC%8C%88%EC%A7%80%EA%B8%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청계천",
+    "rom": "도심을 가로지르는 복원된 물길",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🚶 산책",
+     "🌃 야경"
+    ],
+    "desc": "고가도로 아래 콘크리트에 묻혀 있던 개천을 걷어내고 되살린 물길이라, 빌딩 숲 한복판에서 물소리를 들으며 걸을 수 있다. 광화문 옆 청계광장에서 시작해 다리 밑을 하나씩 지나며 내려가면, 도로 위 소음이 계단 몇 개 차이로 거짓말처럼 멀어진다. 여름 저녁이면 물가에 발을 담근 사람들과 조명이 어우러져 도심 데이트 명소가 된다.",
+    "todo": [
+     "청계광장에서 물길 따라 하류로 걷기",
+     "옛 돌다리 광통교에서 잠시 쉬기",
+     "겨울 등불축제 시즌에 야간 조명 보기"
+    ],
+    "tip": "여름 저녁 산책이 가장 좋다. 비가 많이 온 뒤에는 수량이 불어 산책로가 통제될 수 있으니 확인하고 가자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Seoul_Cheonggyecheon_night.jpg/500px-Seoul_Cheonggyecheon_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korean_Symbol_of_River.svg/330px-Korean_Symbol_of_River.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seoul-Restoration_site_02.jpg/500px-Seoul-Restoration_site_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "siheung": {
+  "nm": "시흥",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 4호선을 타면 종점 오이도역까지 한 번에 닿고, 자가용은 서해안·제3경인고속화도로로 1시간 안팎. 부산에서는 KTX로 광명역까지 온 뒤 환승이 편하다.",
+  "sep": "연꽃이 절정에 달하는 7~8월, 그리고 갯벌이 붉은 칠면초로 물드는 9~10월이 가장 좋다. 서해로 지는 노을은 사철 곱다.",
+  "mood": "수도권 서쪽 끝, 바다와 갯벌과 연꽃이 한 도시 안에 다 있다.",
+  "see": "빨간등대 오이도, 내륙으로 굽이친 갯골, 500년 관곡지 연꽃, 소래산 낙조까지.",
+  "spots": [
+   {
+    "name": "오이도",
+    "rom": "빨간등대와 조개구이의 서해 갯마을",
+    "meta": [
+     "🚇 4호선 오이도역",
+     "🦪 조개구이·회",
+     "🌅 서해 노을"
+    ],
+    "desc": "신석기 패총이 나온 오래된 갯마을이자, 지금은 빨간등대가 상징이 된 서해의 대표 나들이 포구다. 방파제 산책로를 따라 걸으면 갯벌 위로 붉게 지는 노을이 펼쳐지고, 밤이면 등대 불빛이 물에 어린다. 조개구이 냄새가 골목을 채우는, 소박하지만 정겨운 바닷가다.",
+    "todo": [
+     "빨간등대 앞에서 노을 보며 방파제 걷기",
+     "선사유적공원에서 신석기 패총 흔적 보기",
+     "포구 포토존에서 인증샷 남기기"
+    ],
+    "tip": "주말 저녁은 조개구이집과 주차장이 크게 붐빈다. 4호선 오이도역에서 포구까지는 거리가 있어 마을버스나 택시를 확인하는 편이 좋다.",
+    "eat": "조개구이, 바지락칼국수, 굴회덮밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Siheung_October_2014_39.JPG/500px-Siheung_October_2014_39.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Siheung_October_2014_21.JPG/500px-Siheung_October_2014_21.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Siheung_October_2014_06.JPG/500px-Siheung_October_2014_06.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "시흥 갯골생태공원",
+    "rom": "내륙으로 굽이쳐 든 붉은 갯골, 흔들전망대",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🍁 가을 칠면초"
+    ],
+    "desc": "바닷물이 뭍 깊숙이 S자로 굽이쳐 들어온, 국내에서 보기 드문 내만 갯골이다. 나무 데크를 따라 걷다 보면 옛 소금밭과 소금창고가 그대로 남아 있고, 가을이면 붉은 칠면초와 함초가 갯벌을 물들인다. 6층 흔들전망대에 오르면 광활한 갯벌과 갈대밭이 한눈에 들어온다.",
+    "todo": [
+     "흔들전망대에 올라 갯골 전경 내려다보기",
+     "갈대숲 데크길 천천히 산책하기",
+     "옛 소금창고와 폐염전 둘러보기"
+    ],
+    "tip": "그늘이 적어 여름엔 모자와 물이 필수다. 붉은 갯벌 풍경은 9~10월이 절정이며, 길이 평탄해 자전거·유모차 이동이 편하다.",
+    "eat": ""
+   },
+   {
+    "name": "관곡지 · 연꽃테마파크",
+    "rom": "강희맹이 연꽃을 처음 심은 500년 연못",
+    "meta": [
+     "💴 입장 무료",
+     "🪷 7~8월 연꽃",
+     "📷 사진 명소"
+    ],
+    "desc": "조선 초 농학자 강희맹이 중국에서 가져온 연꽃 씨를 처음 심었다는 작은 연못이다. 이 못에서 퍼진 연꽃이 '연성(蓮城)'이라는 옛 지명을 낳았다. 여름이면 관곡지를 둘러싼 드넓은 연꽃테마파크가 분홍빛과 흰빛으로 뒤덮여, 초록 연잎 사이로 꽃대가 솟은 풍경이 장관을 이룬다.",
+    "todo": [
+     "이른 아침 활짝 핀 연꽃 만나기",
+     "연꽃테마파크 데크길 한 바퀴 돌기",
+     "백련과 홍련을 견주며 사진 찍기"
+    ],
+    "tip": "연꽃은 오전에 활짝 피었다가 한낮엔 오므라든다. 7월 말~8월 초가 절정이며, 성수기 주말엔 주차장이 붐빈다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg/500px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_%EA%B1%B4%EB%AC%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg/120px-%ED%96%A5%ED%86%A0%EC%9C%A0%EC%A0%81_%EA%B4%80%EA%B3%A1%EC%A7%80_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소래산",
+    "rom": "거대한 마애보살이 새겨진 낮은 명산",
+    "meta": [
+     "⛰ 해발 299m",
+     "⏱ 2~3시간",
+     "🌅 낙조 명소"
+    ],
+    "desc": "시흥과 인천의 경계에 선 나지막한 산이다. 중턱 장군바위에는 높이가 14m에 이르는 고려시대 마애보살입상(보물)이 선각되어 있어, 바위 앞에 서면 그 크기에 절로 압도된다. 정상에 오르면 수도권 서쪽 들판과 서해로 지는 붉은 낙조가 시원하게 펼쳐진다.",
+    "todo": [
+     "마애보살입상 앞에서 그 규모 실감하기",
+     "정상에서 서해 낙조 바라보기",
+     "솔숲 등산로 걷기"
+    ],
+    "tip": "등산로가 잘 정비돼 초보자도 무난하다. 마애상까지는 완만하지만 정상 구간엔 계단이 있고, 낙조를 보고 내려온다면 손전등을 챙기는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "물왕저수지",
+    "rom": "낚시와 호수 카페의 도심 속 물가",
+    "meta": [
+     "🎣 낚시터",
+     "☕ 호수 카페",
+     "🚗 드라이브"
+    ],
+    "desc": "도심과 가까우면서도 한적한 물가 정취를 주는 넓은 저수지다. 예부터 이름난 낚시터로 알려졌고, 지금은 호수를 낀 카페와 장어·매운탕 맛집이 늘어서 드라이브와 데이트 코스로 인기다. 해질녘 물 위에 번지는 노을이 특히 곱다.",
+    "todo": [
+     "호숫가 카페에서 물멍하기",
+     "저녁 노을 드라이브 즐기기",
+     "좌대에 앉아 붕어낚시 해보기"
+    ],
+    "tip": "저녁 시간대 맛집 골목은 주차가 혼잡하다. 산책로가 길지 않으니 카페와 식사를 중심으로 계획하면 좋다.",
+    "eat": "민물장어구이, 붕어찜, 매운탕"
+   },
+   {
+    "name": "배곧한울공원",
+    "rom": "신도시 옆 바다, 여름엔 대형 해수풀장",
+    "meta": [
+     "💴 해수풀 유료",
+     "🏖 여름 물놀이",
+     "🌊 서해 조망"
+    ],
+    "desc": "배곧신도시 끝자락, 서해와 송도를 마주 보는 바닷가 공원이다. 여름이면 대형 해변 물놀이장이 열려 해수풀장과 모래놀이터를 찾는 가족 나들이객으로 붐빈다. 평소엔 갯벌 산책로와 잔디밭에서 바닷바람을 쐬며 아라뱃길과 인천 스카이라인을 바라볼 수 있다.",
+    "todo": [
+     "여름 해수풀장과 모래놀이터에서 물놀이하기",
+     "해변 데크에서 송도 야경 보기",
+     "잔디광장에서 피크닉 즐기기"
+    ],
+    "tip": "여름 물놀이장은 성수기 개장 기간과 요금을 미리 확인하는 게 좋다. 그늘막과 돗자리를 챙기면 편하다.",
+    "eat": ""
+   }
+  ]
+ },
+ "sinan": {
+  "nm": "신안",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울에서 KTX·SRT로 목포역까지 약 2시간 40분, 이후 렌터카로 섬을 잇는다. 증도·자은도·임자도·퍼플섬은 다리로 차 진입이 되고, 홍도·흑산도는 목포연안여객선터미널에서, 병풍도는 지도 송도항에서 여객선을 탄다. 부산에서는 남해고속도로로 약 4시간 30분.",
+  "sep": "봄(4월) 임자도 대광해변의 튤립과 초여름(6월) 퍼플섬 라벤더가 절정이고, 가을(9~10월)엔 병풍도 맨드라미와 증도 갯벌 노을이 가장 곱다. 섬 여행이라 바람 잔잔한 날을 고르면 배편도 편하다.",
+  "mood": "천사(1004)의 섬이라 불리는 바다 위, 소금밭과 보라색 다리와 붉은 튤립이 계절마다 색을 갈아입는 느린 섬들.",
+  "see": "끝없는 소금밭과 갯벌, 1004개의 섬, 계절마다 색을 바꾸는 꽃섬들.",
+  "spots": [
+   {
+    "name": "증도",
+    "rom": "아시아 최초의 슬로시티, 소금밭의 섬",
+    "meta": [
+     "🏝 아시아 최초 슬로시티",
+     "🧂 국내 최대 태평염전",
+     "⏱ 하루"
+    ],
+    "desc": "다리를 건너 차로 닿는 섬인데도 시간이 느리게 흐른다. 지평선까지 펼쳐진 태평염전에서 하얀 소금꽃이 피고, 짱뚱어다리 위를 걸으면 갯벌이 발밑까지 다가온다. 노을이 염전 수면에 번지는 저녁이면 하루가 통째로 느려진다.",
+    "todo": [
+     "태평염전에서 소금 만들기 체험",
+     "짱뚱어다리 위 갯벌 산책",
+     "우전해수욕장에서 노을 보기"
+    ],
+    "tip": "증도대교로 차 진입 가능. 소금박물관·소금동굴 힐링센터도 함께 묶으면 좋다.",
+    "eat": "함초무침, 짱뚱어탕, 신안 천일염",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg/500px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285657820%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg/330px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285150567%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "퍼플섬",
+    "rom": "지붕도 다리도 온통 보라색인 섬",
+    "meta": [
+     "💜 보라색 마을",
+     "🌿 6월 라벤더",
+     "⏱ 반나절"
+    ],
+    "desc": "지붕도, 다리도, 마을 길도 온통 보라색으로 물든 섬이다. 반월도와 박지도를 잇는 퍼플교를 건너면 라벤더와 아스타 꽃이 계절마다 보랏빛을 더한다. 섬 전체가 하나의 색으로 통일돼, 걷는 내내 사진 밖으로 걸어 나온 듯한 기분이 든다.",
+    "todo": [
+     "퍼플교 걸어서 건너기",
+     "라벤더·아스타 정원 산책"
+    ],
+    "tip": "보라색 옷이나 소지품이 있으면 입장 무료. 안좌도 쪽에서 연결된다.",
+    "eat": "섬 우럭회, 낙지"
+   },
+   {
+    "name": "홍도",
+    "rom": "해질녘 붉게 타오르는 기암의 섬",
+    "meta": [
+     "🚢 목포서 쾌속선 2시간",
+     "🏞 섬 전체 천연기념물",
+     "⏱ 1박"
+    ],
+    "desc": "붉은 섬이라는 이름처럼 해질녘이면 깎아지른 절벽이 온통 붉게 물든다. 유람선을 타고 남문바위와 독립문바위 사이를 미끄러지듯 돌면, 사람 손이 닿지 않은 다도해의 원형이 그대로 남아 있다. 섬 전체가 천연기념물로 지정된 이유가 눈앞에 펼쳐진다.",
+    "todo": [
+     "홍도 유람선으로 기암괴석 한 바퀴",
+     "깃대봉 트레킹으로 섬 조망"
+    ],
+    "tip": "목포여객선터미널에서 쾌속선. 천연기념물이라 돌·식물 채집은 금지.",
+    "eat": "홍도 자연산 회, 우럭매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Hongdo_Island-02.jpg/500px-Korea-Hongdo_Island-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Hongdo-Elephant_Rock_11-02622.JPG/500px-Korea-Hongdo-Elephant_Rock_11-02622.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "흑산도",
+    "rom": "홍어와 자산어보, 열두 굽이 전망의 섬",
+    "meta": [
+     "🚢 목포서 쾌속선 2시간",
+     "🐟 홍어의 고향",
+     "⏱ 1박"
+    ],
+    "desc": "상라산 전망대로 오르는 열두 굽이 길을 넘으면, 점점이 흩어진 다도해가 발아래 펼쳐진다. 삭힌 홍어의 본고장이자 정약전이 《자산어보》를 쓴 유배의 섬이라, 풍경 곳곳에 오래된 이야기가 배어 있다.",
+    "todo": [
+     "상라산 12굽이 전망대 오르기",
+     "자산어보 유배문화 흔적 둘러보기"
+    ],
+    "tip": "홍도와 묶어 1박 2일 일정이 편하다. 배편은 기상에 따라 결항이 잦으니 확인 필수.",
+    "eat": "흑산 홍어삼합, 우럭구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Korea-Heuksando_Island-01.jpg/500px-Korea-Heuksando_Island-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Korea-Heuksando_Island-02.jpg/120px-Korea-Heuksando_Island-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Korea-Heuksando_Island-03.jpg/120px-Korea-Heuksando_Island-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "임자도",
+    "rom": "봄이면 튤립이 물결치는 12km 백사장",
+    "meta": [
+     "🌷 4월 튤립축제",
+     "🏖 대광해변 12km",
+     "⏱ 반나절"
+    ],
+    "desc": "봄이면 대광해수욕장 모래벌 옆으로 튤립밭이 물결친다. 국내에서 손꼽히게 긴 백사장이라 밀물과 썰물 사이 드러난 모래밭이 끝없이 이어지고, 말이 달릴 만큼 단단하게 다져진 길을 따라 바다 끝까지 걸어볼 수 있다.",
+    "todo": [
+     "튤립축제(4월) 꽃밭 걷기",
+     "대광해변 백사장 끝까지 산책"
+    ],
+    "tip": "튤립축제는 매년 4월경. 전국 손꼽히는 새우젓 산지이기도 하다.",
+    "eat": "임자도 새우젓, 병어회"
+   },
+   {
+    "name": "자은도",
+    "rom": "바다 위로 1km, 무한의 다리를 걷다",
+    "meta": [
+     "🌉 무한의 다리",
+     "🌲 1004섬 분재정원",
+     "⏱ 반나절"
+    ],
+    "desc": "백사장에서 바다 위로 1km 넘게 뻗은 무한의 다리를 걸으면, 작은 무인도 세 개를 지나 바다 한가운데를 걷는 기분이 든다. 다리 끝 1004섬 분재정원엔 수백 년 묵은 소나무들이 바다를 배경으로 서 있어, 걸음마다 풍경이 액자처럼 바뀐다.",
+    "todo": [
+     "무한의 다리 끝까지 걷기",
+     "1004섬 분재정원 관람"
+    ],
+    "tip": "천사대교(압해도·암태도)와 은암대교로 차 진입 가능. 일몰 시간대가 가장 예쁘다.",
+    "eat": "자은도 낙지, 병어조림"
+   },
+   {
+    "name": "병풍도",
+    "rom": "가을 언덕을 붉게 덮는 맨드라미와 순례길",
+    "meta": [
+     "🌺 9~10월 맨드라미",
+     "⛪ 12사도 순례길",
+     "⏱ 반나절"
+    ],
+    "desc": "가을이면 섬 언덕이 붉은 맨드라미로 뒤덮여 병풍을 펼친 듯한 풍경이 된다. 갯벌 위 노둣길로 이웃 섬과 이어지는 12사도 순례길엔 작은 예배당들이 점점이 놓여, 물때에 맞춰 섬과 섬 사이를 걸어서 건너는 특별한 걸음이 남는다.",
+    "todo": [
+     "맨드라미 정원 언덕 걷기(가을)",
+     "노둣길 따라 12사도 순례길"
+    ],
+    "tip": "노둣길은 썰물 때만 열린다 — 물때표를 꼭 확인할 것. 지도 송도항에서 배편으로 들어간다.",
+    "eat": "낙지연포탕, 감태"
+   }
+  ]
+ },
+ "sokcho": {
+  "nm": "속초",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울에서 서울양양고속도로로 약 2시간~2시간 30분, 동서울·센트럴시티 고속버스로 약 2시간 30분. 설악산과 동해 바다가 한 도시 안에 붙어 있다.",
+  "sep": "가을(9월 말~10월). 설악산 단풍이 능선부터 물들어 내려오는 계절이 절정이고, 공기가 맑아 울산바위와 바다 빛깔이 가장 선명하다. 해수욕은 7~8월.",
+  "mood": "설악산 봉우리 아래에서 갯배를 타고 순대를 먹는 도시. 산과 바다와 석호가 걸어서 이어진다.",
+  "see": "설악산 단풍·울산바위, 아바이마을 갯배, 영랑호 물길, 그리고 시장 닭강정.",
+  "spots": [
+   {
+    "name": "설악산",
+    "rom": "속초를 품은 국립공원, 바위와 단풍의 산",
+    "meta": [
+     "💴 입장 무료",
+     "🚡 케이블카 약 1.5만원",
+     "🍁 가을 단풍",
+     "⏱ 하루"
+    ],
+    "desc": "속초 어디에서 고개를 들어도 뾰족한 봉우리들이 병풍처럼 서 있다. 소공원에서 케이블카를 타면 권금성 능선 위에 올라 발아래로 속초 시가지와 동해가 한눈에 펼쳐지고, 가을이면 붉고 노란 단풍이 골짜기를 타고 흘러내린다. 산 아래 계곡을 따라 조금만 걸어도 물소리와 바위 냄새가 몸을 감싼다.",
+    "todo": [
+     "권금성 케이블카로 능선에 올라 속초·동해 조망하기",
+     "비룡폭포·육담폭포까지 계곡길 걷기",
+     "가을 단풍 절정 주간 맞춰 오기"
+    ],
+    "tip": "단풍철 주말은 소공원 주차장이 오전 일찍 마감된다. 케이블카는 현장 대기가 길어 온라인 예매를 권한다.",
+    "eat": "설악동 초입 산채비빔밥과 감자전, 하산 후 막걸리 한 잔.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Korea_Seoraksan.jpg/500px-Korea_Seoraksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg/500px-%EB%B9%84%EB%A3%A1%ED%8F%AD%ED%8F%AC_%EC%84%A4%EC%95%85%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "울산바위",
+    "rom": "여섯 봉우리로 솟은 거대한 화강암 병풍",
+    "meta": [
+     "🥾 왕복 3~4시간",
+     "🪨 화강암 절경",
+     "🍁 가을 명승"
+    ],
+    "desc": "멀리서 보면 하늘을 가로막은 돌 병풍 같고, 가까이 오르면 회백색 화강암이 200미터 넘는 절벽으로 곧추선다. 흔들바위를 지나 마지막 철계단을 오르면 능선과 속초 시내, 동해가 한 프레임에 담긴다. 숨이 차오르는 만큼 정상에서 부는 바람이 시원하다.",
+    "todo": [
+     "흔들바위에 손 얹고 흔들어 보기",
+     "정상 철계단 끝에서 설악 능선·바다 한눈에 담기"
+    ],
+    "tip": "막판 철계단이 가파른 왕복 3~4시간 코스다. 미끄럼 방지 신발과 물을 챙기고, 여름 한낮보다 이른 오전이 편하다.",
+    "eat": "설악동 상가의 두부전골·산나물 밥상.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg/500px-%EC%84%A4%EC%95%85%EC%82%B0_%EC%9A%B8%EC%82%B0%EB%B0%94%EC%9C%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "신흥사",
+    "rom": "설악산 자락에 앉은 천년 고찰",
+    "meta": [
+     "💴 관람료 무료",
+     "🛕 652년 창건",
+     "⏱ 1시간"
+    ],
+    "desc": "설악산으로 드는 길목, 거대한 청동좌불이 먼저 사람을 맞는다. 신라 때 향성사로 시작해 천사백 년 가까이 이 자리를 지켜 온 절이라, 낡은 목조 전각과 단청이 산 공기와 잘 어울린다. 예불 소리와 풍경 소리 사이로 걷다 보면 등산 전후의 마음이 한번 가라앉는다.",
+    "todo": [
+     "통일대불 앞에서 설악 능선 배경으로 한 컷",
+     "극락보전 목조 건축 살펴보기"
+    ],
+    "tip": "설악산 소공원과 붙어 있어 등산과 묶어 들르기 좋다. 사찰 예법상 법당 안 촬영은 삼간다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Korea-Sinheungsa-02.jpg/500px-Korea-Sinheungsa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/a6/%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG/120px-%EC%8B%A0%ED%9D%A5%EC%82%AC_%EB%8F%99%EC%A2%85.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sinheungsa_Tong%27ildaebul_20210810_1.jpg/120px-Sinheungsa_Tong%27ildaebul_20210810_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "아바이마을",
+    "rom": "실향민이 세운 갯배 건너 순대 마을",
+    "meta": [
+     "⛴ 갯배 약 500원",
+     "🍜 아바이순대·오징어순대",
+     "⏱ 반나절"
+    ],
+    "desc": "청호동, 한국전쟁 때 함경도에서 내려온 실향민들이 바다 곁에 터를 잡은 동네다. 쇠고리를 손으로 당겨 움직이는 납작한 갯배를 타고 좁은 물길을 건너면, 골목마다 아바이순대와 오징어순대 김이 오른다. 낡은 담벼락과 드라마 촬영지가 뒤섞인 정겨운 풍경 속을 천천히 걷게 된다.",
+    "todo": [
+     "갯배 쇠고리 직접 당겨 물길 건너기",
+     "아바이순대·오징어순대·가자미식해 맛보기",
+     "함경도 실향민 마을 골목 산책"
+    ],
+    "tip": "갯배는 현금 요금이 편하다. 식사 시간대엔 유명 순대집 대기가 길어 조금 이르거나 늦게 가면 여유롭다.",
+    "eat": "아바이순대, 오징어순대, 명태회무침과 가자미식해.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Abai_village_-_5433869814.jpg/500px-Abai_village_-_5433869814.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영금정",
+    "rom": "파도가 바위를 두드리는 동명동 일출 명소",
+    "meta": [
+     "💴 무료",
+     "🌅 일출",
+     "⏱ 1시간"
+    ],
+    "desc": "속초등대 아래, 검은 갯바위 위에 정자가 앉아 있다. 파도가 바위에 부딪히면 마치 거문고를 타는 듯한 소리가 난다 하여 붙은 이름이라, 바닷바람 속에 앉아 있으면 그 울림이 발밑까지 전해진다. 방파제를 따라 걸어 나가면 등대 전망대에서 속초 앞바다가 시원하게 열린다.",
+    "todo": [
+     "새벽 일출 시간에 맞춰 바위 정자에 오르기",
+     "속초등대 전망대까지 걸어 바다 조망하기"
+    ],
+    "tip": "해 뜨는 방향이 정면이라 일출 명소로 인기다. 갯바위가 젖어 미끄러우니 파도 높은 날은 가까이 가지 않는다."
+   },
+   {
+    "name": "영랑호",
+    "rom": "설악을 담은 둘레 8km의 석호",
+    "meta": [
+     "💴 무료",
+     "🚶 호수 산책",
+     "🌉 수상 부교"
+    ],
+    "desc": "신라 화랑 영랑이 반해 발길을 멈췄다는 이야기가 전하는 잔잔한 석호다. 바다와 이어졌다 모래에 막혀 생긴 호수라 물빛이 부드럽고, 수면 위로 설악산 봉우리가 통째로 비친다. 호수를 가로지르는 수상 부교를 건너면 물 한가운데에서 산 그림자 위를 걷는 기분이 든다.",
+    "todo": [
+     "둘레길·수상 부교 걸으며 설악산 반영 감상하기",
+     "범바위에 올라 호수 전경 내려다보기"
+    ],
+    "tip": "둘레 약 8km 평지길이라 자전거로 한 바퀴 돌기 좋다. 바람 잔잔한 아침이 물그림자가 가장 선명하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%EC%98%81%EB%9E%91%ED%98%B8_04.jpg/500px-%EC%98%81%EB%9E%91%ED%98%B8_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "속초해수욕장",
+    "rom": "설악산을 배경에 둔 넓은 백사장",
+    "meta": [
+     "🏖 여름 해수욕",
+     "💴 무료",
+     "🌊 동해"
+    ],
+    "desc": "시내에서 걸어갈 수 있는 넓고 완만한 백사장이다. 등 뒤로는 설악산 능선, 앞으로는 짙푸른 동해가 펼쳐져 산과 바다를 한 자리에서 본다. 여름이면 파라솔이 늘어서고, 계절이 지나도 파도 소리를 들으며 걷기 좋은 산책로가 이어진다.",
+    "todo": [
+     "여름 물놀이와 해변 산책",
+     "해 질 무렵 백사장에서 설악 능선 실루엣 담기"
+    ],
+    "tip": "속초고속버스터미널이 바로 옆이라 접근이 쉽다. 성수기 주말 주차는 붐비니 대중교통이나 도보를 권한다.",
+    "eat": "해변 근처 물회와 회국수.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sokcho_Beach_20221209_001.jpg/330px-Sokcho_Beach_20221209_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sokcho_Beach_20221209_009.jpg/330px-Sokcho_Beach_20221209_009.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "속초관광수산시장",
+    "rom": "닭강정 줄이 늘어서는 속초의 부엌",
+    "meta": [
+     "🍗 닭강정",
+     "🦑 회·건어물",
+     "⏱ 반나절"
+    ],
+    "desc": "속초에 왔다는 실감이 가장 진하게 나는 곳. 골목마다 갓 튀긴 닭강정 냄새가 퍼지고, 좌판엔 오징어와 명태, 각종 건어물이 쌓여 있다. 사람들 틈에 끼어 줄을 서고, 봉지째 안고 나와 바닷가에서 하나씩 집어 먹는 재미가 여행의 한 장면이 된다.",
+    "todo": [
+     "원조 닭강정 한 봉지 사서 걸어 먹기",
+     "즉석 회·물회 맛보고 건어물·명란 사 오기"
+    ],
+    "tip": "주말·연휴엔 유명 닭강정집 대기가 매우 길다. 아침 일찍 들르거나 매장을 나눠 보면 시간을 아낄 수 있다.",
+    "eat": "닭강정, 오징어순대, 물회, 대게·홍게."
+   }
+  ]
+ },
+ "sunchang": {
+  "nm": "순창",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울에서 차로 약 3시간 반, 광주대구고속도로 순창IC로 내려선다. 부산에서도 같은 고속도로를 타면 3시간대. 기차역은 없어 대중교통은 순창시외버스터미널을 쓰거나 광주·전주·남원을 거쳐 들어온다.",
+  "sep": "단풍철(10월 말~11월 초)이 최고다. 강천산 계곡이 붉게 물들고 구름다리 위에서 내려다보는 단풍이 순창을 대표하는 장면이라, 이 시기엔 사람도 가장 많다. 봄에는 향가유원지 벚꽃, 여름엔 섬진강가 물놀이가 좋다.",
+  "mood": "고추장의 고장으로만 알기엔 아깝다. 계곡을 붉게 물들이는 단풍, 절벽에 걸린 하늘길, 강 위를 가로지르는 출렁다리까지 — 순창은 '걸으며 보는 산의 고장'이다.",
+  "see": "강천산 단풍과 구름다리, 채계산·용궐산의 아찔한 다리와 하늘길, 섬진강을 끼고 도는 산과 장독대 풍경.",
+  "spots": [
+   {
+    "name": "강천산 군립공원",
+    "rom": "우리나라 첫 군립공원, 단풍이 계곡을 덮는 곳",
+    "meta": [
+     "🍁 가을 단풍",
+     "⏱ 반나절",
+     "👣 맨발 걷기길"
+    ],
+    "desc": "1981년 우리나라에서 가장 먼저 군립공원으로 지정된 산이다. 계곡을 따라 이어지는 산책로가 거의 평지처럼 완만해 아이도 어르신도 걷기 좋고, 붉은 단풍이 물길 위로 쏟아지는 가을이면 순창에서 가장 붐빈다. 협곡 사이에 아찔하게 걸린 구름다리에 서면 계곡과 병풍바위가 한눈에 들어온다.",
+    "todo": [
+     "구름다리 위에서 계곡과 단풍 내려다보기",
+     "강천사 지나 폭포까지 계곡길 걷기",
+     "여름·가을엔 맨발로 흙길 걸어보기"
+    ],
+    "tip": "단풍 절정(11월 초) 주말은 주차장이 이른 오전에 찬다. 입구에서 강천사까지는 유아차·휠체어도 무리 없는 완만한 길이다.",
+    "eat": "산 입구 식당가의 산채비빔밥과 더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "채계산 출렁다리",
+    "rom": "봉우리와 봉우리를 잇는 국내 최장급 무주탑 출렁다리",
+    "meta": [
+     "🌉 길이 약 270m",
+     "⏱ 1~2시간",
+     "🆓 무료"
+    ],
+    "desc": "책을 쌓아 올린 듯한 바위 능선 때문에 '책여산'이라 불리는 채계산의 두 봉우리를 잇는 출렁다리다. 중간 기둥 없이 한 번에 건너는 다리로는 국내 최장급이라, 발밑으로 섬진강 들판이 아득하게 펼쳐지며 다리가 살짝 출렁일 때마다 스릴이 온다. 다리만 건너고 내려와도 좋고, 능선까지 이어 오르면 순창 들판이 시원하게 열린다.",
+    "todo": [
+     "출렁다리 한가운데서 섬진강 들판 조망",
+     "책을 쌓은 듯한 바위 능선 감상하기"
+    ],
+    "tip": "바람 부는 날은 출렁임이 커진다. 다리까지는 짧지만 능선 종주는 미끄러운 바윗길이라 트레킹화가 안전하다."
+   },
+   {
+    "name": "용궐산 하늘길",
+    "rom": "절벽에 걸린 데크길에서 만나는 섬진강 절경",
+    "meta": [
+     "🏞 섬진강 전망",
+     "⏱ 반나절",
+     "🥾 등산"
+    ],
+    "desc": "화강암 절벽 면을 따라 나무 데크를 놓아 만든 '하늘길'이 용궐산의 명물이다. 벼랑에 매달리듯 이어지는 길을 오르면 발아래로 섬진강이 크게 휘돌아 나가는 풍경이 통째로 열린다. 강 건너 장구목엔 오랜 세월 물살이 파낸 요강바위가 놓여 있어, 하늘길과 함께 묶어 걷는 사람이 많다.",
+    "todo": [
+     "하늘길 전망대에서 섬진강 물돌이 내려다보기",
+     "강 건너 장구목 요강바위까지 둘러보기"
+    ],
+    "tip": "데크길이 가파르고 그늘이 적다. 한여름 한낮은 피하고 물을 넉넉히 챙긴다."
+   },
+   {
+    "name": "회문산 자연휴양림",
+    "rom": "섬진강이 감아 도는 837m 숲, 숲속에서 하룻밤",
+    "meta": [
+     "🌲 자연휴양림",
+     "🏕 숲속 숙박",
+     "⏱ 반나절"
+    ],
+    "desc": "섬진강이 산자락을 감싸고 도는 837m의 깊은 숲으로, 나무가 우거진 자연휴양림에서 하룻밤 묵어갈 수 있다. 한국전쟁 무렵 격전지였던 역사를 담아 위령탑과 옛 사령부를 재현한 비목공원이 조성돼, 걷는 내내 숲의 고요와 지난 시간이 함께 느껴진다. 사람 붐비는 관광지에서 한 발 물러나 조용히 쉬고 싶을 때 좋다.",
+    "todo": [
+     "숲속의집·야영장에서 하룻밤 쉬어가기",
+     "비목공원 둘러보며 산길 걷기"
+    ],
+    "tip": "휴양림 숙박은 예약제로 운영되니 성수기·주말은 미리 잡아둔다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hoemunsan_Korea_2005.jpg/330px-Hoemunsan_Korea_2005.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hoemunsan_2008_Winter_1.jpg/120px-Hoemunsan_2008_Winter_1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hoemunsan_2008_Winter_2.jpg/120px-Hoemunsan_2008_Winter_2.jpg"
+    ]
+   },
+   {
+    "name": "순창전통고추장민속마을",
+    "rom": "지붕마다 장독이 늘어선 발효의 마을",
+    "meta": [
+     "🌶 고추장 체험",
+     "🏺 장독대 풍경",
+     "🆓 무료"
+    ],
+    "desc": "'고추장의 대명사'라 불리는 순창의 이름값이 그대로 담긴 마을이다. 집집마다 마당과 지붕 위로 장독이 줄지어 앉아 있는 풍경이 그 자체로 볼거리고, 장류박물관에서는 순창 장맛의 역사를 짚어볼 수 있다. 직접 고추장을 담가 가져가는 체험이 있어 아이와 함께 오기에도 좋다.",
+    "todo": [
+     "장독대 늘어선 골목 사진 담기",
+     "고추장 담그기 체험 신청하기",
+     "장류박물관에서 발효 이야기 보기"
+    ],
+    "tip": "고추장 담그기 체험은 인원·재료 준비가 필요해 방문 전 마을 안내소에 미리 문의하는 편이 좋다.",
+    "eat": "순창 고추장으로 차려낸 장류 정식·한정식"
+   },
+   {
+    "name": "향가유원지",
+    "rom": "섬진강 옛 터널과 목교, 강가의 레일바이크",
+    "meta": [
+     "🚲 레일바이크",
+     "🌸 봄 벚꽃",
+     "🏕 캠핑"
+    ],
+    "desc": "섬진강을 끼고 자리한 강변 유원지로, 일제강점기에 뚫다 만 옛 향가터널과 강을 가로지르는 목교가 남아 독특한 풍경을 만든다. 강물 소리를 들으며 레일바이크를 타거나 자전거길을 달리기 좋고, 물가 캠핑장에서 하룻밤 보내기에도 그만이다. 봄이면 벚꽃, 가을이면 코스모스가 강변을 물들인다.",
+    "todo": [
+     "옛 향가터널과 섬진강 목교 건너보기",
+     "강변 레일바이크·자전거길 달리기"
+    ],
+    "tip": "봄 벚꽃철 주말은 강변 주차가 붐빈다. 캠핑장은 성수기 예약이 빨리 마감된다."
+   }
+  ]
+ },
+ "suncheon": {
+  "nm": "순천",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울에서 KTX·SRT로 순천역까지 약 2시간 30분, 고속버스 약 4시간. 부산에서는 시외버스 약 3시간. 순천만·국가정원·낙안읍성은 방향이 달라 시내를 기점으로 동선을 나눠 잡으면 좋다.",
+  "sep": "가을(10~11월). 순천만 갈대밭이 황금빛으로 물들고 흑두루미가 내려앉아 절정을 이룬다. 봄엔 국가정원의 튤립·꽃길과 선암사 매화, 여름엔 초록 갈대도 매력적이다.",
+  "mood": "습지와 정원, 천 년 고찰과 초가지붕 읍성이 한 도시에 다 있다. '대한민국 생태수도'라는 별명이 괜히 붙은 게 아니다.",
+  "see": "S자로 굽이치는 갈대밭 노을, 대한민국 1호 국가정원의 꽃길, 사람이 사는 낙안읍성, 조계산을 사이에 둔 두 고찰.",
+  "spots": [
+   {
+    "name": "순천만습지",
+    "rom": "S자 물길과 갈대밭, 순천의 상징",
+    "meta": [
+     "💴 입장 약 8,000원(국가정원 통합)",
+     "⏱ 반나절",
+     "🍂 가을 갈대·흑두루미"
+    ],
+    "desc": "갯벌 위로 끝없이 펼쳐진 갈대밭 사이를 나무 데크길이 가른다. 용산전망대까지 올라 S자로 굽이치는 물길에 노을이 걸리는 장면을 보면, 왜 이곳이 순천의 상징인지 단번에 안다. 겨울이면 흑두루미가 내려앉는 국내 대표 철새 도래지다.",
+    "todo": [
+     "용산전망대 올라 S자 물길과 노을 보기",
+     "갈대밭 데크길 천천히 걷기",
+     "순천만 생태체험선 타보기(계절 운항)"
+    ],
+    "tip": "노을이 하이라이트라 일몰 1~2시간 전 입장을 추천. 국가정원 통합권을 사면 스카이큐브를 타고 두 곳을 한 번에 이을 수 있다.",
+    "eat": "짱뚱어탕, 꼬막 정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20181231_Suncheon_Bay_002.jpg/500px-20181231_Suncheon_Bay_002.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20181231_Suncheon_Bay_003.jpg/500px-20181231_Suncheon_Bay_003.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/20181231_Suncheon_Bay_001.jpg/500px-20181231_Suncheon_Bay_001.jpg"
+    ]
+   },
+   {
+    "name": "순천만국가정원",
+    "rom": "대한민국 1호 국가정원",
+    "meta": [
+     "💴 입장 약 8,000원",
+     "⏱ 반나절",
+     "🌸 봄·가을 꽃"
+    ],
+    "desc": "세계 여러 나라의 정원과 넓은 호수, 물 위를 걷는 다리가 드넓게 이어진다. 계절마다 튤립·장미·국화가 번갈아 피어, 어느 때 와도 꽃길을 걷게 된다. 순천만 습지를 지키기 위한 완충지대로 조성됐다는 사연이 이 넓은 정원을 더 특별하게 만든다.",
+    "todo": [
+     "호수정원과 봉화언덕 산책",
+     "세계 각국 테마정원 둘러보기",
+     "스카이큐브 타고 순천만까지 이동"
+    ],
+    "tip": "걷는 거리가 상당하니 편한 신발은 필수. 순천만 통합권 하나면 국가정원·습지·스카이큐브를 모두 쓸 수 있다.",
+    "eat": "정원 안 카페, 순천 웃장 국밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg/500px-Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Netherlands_garden_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg/120px-Netherlands_garden_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_hill_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg/500px-A_hill_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg"
+    ]
+   },
+   {
+    "name": "낙안읍성",
+    "rom": "사람이 사는 조선시대 성곽마을",
+    "meta": [
+     "💴 입장 약 4,000원",
+     "⏱ 반나절",
+     "🏯 초가지붕 민속마을"
+    ],
+    "desc": "조선시대 성곽과 초가집이 그대로 남아 있고, 지금도 주민이 실제로 살아가는 살아있는 민속마을이다. 성벽 위를 한 바퀴 걸으면 초가지붕이 옹기종기 모인 마을 전체가 발아래 펼쳐진다. 여러 사극의 배경이 되어온 곳이라 걸음마다 옛 정취가 묻어난다.",
+    "todo": [
+     "성벽 위 한 바퀴 걸으며 마을 내려다보기",
+     "초가집 골목과 전통 체험 둘러보기",
+     "장터·주막에서 잠시 쉬기"
+    ],
+    "tip": "시내에서 차로 20~30분 거리이고 순천만·국가정원과 방향이 달라, 동선을 하루 안에서 미리 나눠 잡는 편이 낫다.",
+    "eat": "낙안 시골 밥상, 파전과 동동주",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg/500px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg/120px-%EC%88%9C%EC%B2%9C_%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg/120px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1_%EB%8F%99%ED%97%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선암사",
+    "rom": "승선교 너머 천 년 고찰",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 2~3시간",
+     "🍁 조계산 단풍"
+    ],
+    "desc": "계곡을 가로지르는 무지개 돌다리 승선교를 지나면, 오래된 나무들 사이로 절집이 조용히 나타난다. 화려하게 꾸미지 않은 소박한 가람과 봄이면 만개하는 선암매의 정취가 이곳만의 색이다. 조계산을 사이에 두고 송광사와 마주 본다.",
+    "todo": [
+     "승선교와 강선루에서 사진 남기기",
+     "봄철 오래된 매화 선암매 보기",
+     "조계산 숲길 산책"
+    ],
+    "tip": "선암사와 송광사는 조계산을 넘는 등산로로 이어지지만, 차로 이동하려면 산을 빙 돌아야 해 시간이 꽤 걸린다.",
+    "eat": "조계산 보리밥집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Seonamsa_Iljumun_11-06782.JPG/500px-Seonamsa_Iljumun_11-06782.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Seonamsa_11-06793.JPG/500px-Seonamsa_11-06793.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Seonamsa_Seungseongyo_11-06765.JPG/500px-Seonamsa_Seungseongyo_11-06765.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "송광사",
+    "rom": "삼보사찰 중 승보종찰",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 2~3시간",
+     "🛕 천 년 승보사찰"
+    ],
+    "desc": "한국 불교의 세 보물 사찰 중 하나로, 큰스님을 많이 배출해 '승보종찰'로 불린다. 계곡 위에 놓인 우화각을 건너 경내로 들어서면, 겹겹이 앉은 전각과 깊은 산세가 마음을 가라앉힌다. 국보와 보물이 곳곳에 숨어 있어 천천히 볼수록 깊어지는 절이다.",
+    "todo": [
+     "우화각·삼청교 건너 경내로 들어서기",
+     "템플스테이로 하룻밤 머물기",
+     "성보박물관에서 국보·보물 보기"
+    ],
+    "tip": "조계산 반대편 선암사와 하루에 둘 다 보려면 아침 일찍 시작하는 편이 좋다.",
+    "eat": "조계산 보리밥, 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg/500px-Korea_Korail_Temple_Stay_09_%2814407174739%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Korea-Songgwangsa-02.jpg/120px-Korea-Songgwangsa-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "순천드라마촬영장",
+    "rom": "6070 옛 거리로의 시간여행",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 2시간",
+     "📷 레트로 촬영"
+    ],
+    "desc": "1950~80년대 순천 읍내와 서울 변두리 골목을 통째로 재현한 오픈세트다. 달동네 판잣집, 옛 이발소와 만화방, 교복 대여점까지 있어 그 시절로 걸어 들어간 기분이 든다. '제빵왕 김탁구', '택시운전사' 등 수많은 작품이 이곳에서 촬영됐다.",
+    "todo": [
+     "교복 빌려 레트로 사진 찍기",
+     "달동네 골목과 옛 상점 구경하기",
+     "전망대에서 세트 전경 내려다보기"
+    ],
+    "tip": "낙안읍성 가는 길목에 있어 함께 묶기 좋다. 볕이 좋은 낮에 사진이 가장 잘 나온다.",
+    "eat": "옛날 도시락, 달고나 같은 추억의 간식"
+   },
+   {
+    "name": "와온해변",
+    "rom": "순천만 끝, 노을이 가장 붉은 곳",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 일몰 명소"
+    ],
+    "desc": "순천만이 바다와 만나는 끝자락, 갯벌 위로 해가 지면 온 하늘과 뻘이 붉게 물든다. 작은 솔섬 뒤로 떨어지는 노을을 보러 사진가들이 즐겨 찾는 자리다. 습지의 새들이 집으로 돌아가는 시간과 겹쳐, 하루를 조용히 닫기에 좋다.",
+    "todo": [
+     "솔섬 너머로 지는 일몰 감상",
+     "갯벌 산책로 따라 걷기"
+    ],
+    "tip": "일몰 시각을 미리 확인하고 30분 전쯤 도착하길 추천. 주변 카페에 앉아 노을을 봐도 좋다.",
+    "eat": "인근 짱뚱어탕·꼬막 요리"
+   }
+  ]
+ },
+ "suwon": {
+  "nm": "수원",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울역·강남에서 지하철 1호선·수인분당신분당선으로 수원역까지 약 40~60분, 부산에서는 KTX·SRT로 서울 경유 2시간대. 시내 명소는 버스와 도보로 촘촘히 이어진다",
+  "sep": "봄·가을이 최고. 4월엔 화성 성곽길에 벚꽃이 흩날리고, 10월 수원화성문화제 무렵엔 야간개장으로 성벽 조명이 켜져 걷는 맛이 가장 좋다",
+  "mood": "정조의 꿈이 돌 하나하나에 새겨진 성곽도시. 유네스코 세계유산 성벽을 따라 걷다 보면, 오래된 도시가 이렇게 젊고 세련될 수 있구나 싶어진다",
+  "see": "성곽길 노을·행궁 처마·행리단길 카페·호숫가 야경",
+  "spots": [
+   {
+    "name": "수원 화성",
+    "rom": "성벽 위를 걷는 유네스코 세계유산",
+    "meta": [
+     "🏯 유네스코 세계유산",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "🌙 가을 야경"
+    ],
+    "desc": "정조가 아버지를 그리며 쌓은 5.7km의 성곽이 도시 한가운데를 감싸 안는다. 화홍문 아래로 물이 쏟아지고, 성벽을 따라 오르면 발밑으로 수원 시내가 넓게 펼쳐진다. 200년 전 돌담 위를 걷는데도 낡은 유물이 아니라 지금도 살아 숨 쉬는 길처럼 느껴진다.",
+    "todo": [
+     "화서문에서 방화수류정까지 성곽길 완주하기",
+     "화성어차 타고 성곽 한 바퀴 돌기",
+     "노을 질 무렵 성벽 위에서 시내 조망"
+    ],
+    "tip": "성곽길 자체는 무료로 개방. 오르막이 있으니 편한 신발 필수. 여름 한낮은 그늘이 적어 아침·저녁이 걷기 좋다.",
+    "eat": "성곽 아래 행궁동 골목의 옛날 방식 손칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/500px-Bifyu_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hwaseong_Fortress_Map_-_Korean.PNG/500px-Hwaseong_Fortress_Map_-_Korean.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg/500px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수원 화성행궁",
+    "rom": "정조가 머물던 조선 최대의 행궁",
+    "meta": [
+     "💴 소액 입장료",
+     "⏱ 1~2시간",
+     "🌙 야간개장"
+    ],
+    "desc": "임금이 능행 길에 머물던 처소 중 가장 규모가 컸던 곳. 넓은 마당을 지나 처마가 겹겹이 이어지는 전각 사이를 걷다 보면, 붉은 단청과 낮은 담이 만들어내는 고요한 위엄이 마음을 가라앉힌다. 저녁 야간개장 때는 은은한 조명이 켜져 낮과는 전혀 다른 궁의 얼굴을 볼 수 있다.",
+    "todo": [
+     "봉수당·낙남헌 등 주요 전각 둘러보기",
+     "무예24기 시범공연 관람 (공연 요일 미리 확인)",
+     "야간개장 시간 맞춰 조명 아래 산책"
+    ],
+    "tip": "소액의 입장료가 있으며 요금·야간개장 운영시간은 변동될 수 있으니 방문 전 확인. 바로 앞이 행리단길이라 이어서 둘러보기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg/500px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81%EB%8F%84%28%EA%B7%9C%EC%9E%A5%EA%B0%81%EC%86%8C%EC%9E%A5%EB%B3%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/6/69/%EC%8B%A0%ED%92%8D%EB%A3%A8.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+    ]
+   },
+   {
+    "name": "수원 방화수류정",
+    "rom": "연못에 비친 화성에서 가장 아름다운 정자",
+    "meta": [
+     "🏞 무료",
+     "📷 사진 명소",
+     "⏱ 30분"
+    ],
+    "desc": "'꽃을 찾고 버들을 따라 노닌다'는 이름 그대로, 용연 연못가에 살포시 앉은 정자다. 화성에서 가장 아름다운 건축물로 꼽히며, 물에 비친 정자의 그림자와 버드나무가 어우러진 풍경은 계절마다 옷을 갈아입는다. 돗자리를 펴고 앉은 사람들 사이에서 바람을 맞으면 시간이 느리게 흐른다.",
+    "todo": [
+     "용연 연못 한 바퀴 돌며 정자 감상",
+     "정자 반영이 담기는 각도 찾아 사진 찍기",
+     "해질 무렵 노을빛에 물든 정자 보기"
+    ],
+    "tip": "성곽길 동북쪽에 있어 화홍문·창룡문과 함께 묶어 걷기 좋다. 봄 벚꽃과 가을 단풍철에 특히 붐빈다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/500px-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg/120px-%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EB%8F%99%EB%B6%81%EA%B0%81%EB%A3%A8_%EB%B0%A9%ED%99%94%EC%88%98%EB%A5%98%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "행리단길",
+    "rom": "낡은 행궁동이 되살아난 감성 골목",
+    "meta": [
+     "☕ 카페거리",
+     "🛍 편집숍",
+     "⏱ 반나절"
+    ],
+    "desc": "오래된 행궁동 주택가가 젊은 감각으로 되살아난 골목. 낡은 벽돌집과 한옥을 고쳐 만든 카페, 작은 소품숍과 밥집이 좁은 길을 따라 촘촘히 이어진다. 세계유산 성곽 바로 아래에서 커피를 마시며 오래된 것과 새로운 것이 자연스럽게 겹치는 풍경을 즐길 수 있다.",
+    "todo": [
+     "개성 있는 카페에서 커피 한 잔",
+     "골목 벽화와 소품숍 구경",
+     "화성행궁·성곽과 이어서 산책"
+    ],
+    "tip": "주차가 까다로운 편이라 대중교통이나 인근 공영주차장 이용을 추천. 주말 오후엔 사람이 많다.",
+    "eat": "골목 안 브런치 카페와 수제 디저트"
+   },
+   {
+    "name": "광교호수공원",
+    "rom": "신도시 옆 두 호수의 산책길",
+    "meta": [
+     "🏞 무료",
+     "🌙 야경",
+     "🚶 산책·자전거"
+    ],
+    "desc": "원천호수와 신대호수를 신도시 개발에 맞춰 다듬은 널찍한 호수공원. 물가를 따라 데크길이 길게 이어지고, 저녁이면 호수에 비친 광교 고층빌딩 불빛이 잔잔하게 흔들린다. 산책하는 사람과 자전거, 강아지가 뒤섞인 여유로운 도심 속 쉼터다.",
+    "todo": [
+     "호수 둘레 데크길 따라 걷기",
+     "물 위에 뜬 데크와 프라이빗 가든에서 호수 조망",
+     "해 진 뒤 야경 감상"
+    ],
+    "tip": "두 호수를 다 돌면 꽤 넓으니 시간 여유를 두자. 자전거 대여로 둘러보면 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gg_08.png/500px-Gg_08.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/120px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "팔달문·수원통닭거리",
+    "rom": "성문 곁 시장에서 만나는 왕갈비통닭",
+    "meta": [
+     "🍗 통닭거리",
+     "💴 통닭 약 20,000원대",
+     "🌃 저녁 먹거리"
+    ],
+    "desc": "화성의 남쪽 정문 팔달문 곁으로 오래된 시장과 통닭 골목이 이어진다. 커다란 가마솥에 갓 튀겨낸 옛날통닭과 왕갈비통닭 냄새가 골목을 가득 채우고, 저녁이면 포장을 기다리는 사람들로 북적인다. 성곽 구경을 마치고 든든하게 배를 채우기 딱 좋은 자리다.",
+    "todo": [
+     "통닭거리에서 옛날통닭·왕갈비통닭 맛보기",
+     "팔달문 성문 올려다보기",
+     "인근 남문시장 구경"
+    ],
+    "tip": "인기 집은 저녁에 줄이 길다. 포장해 방화수류정이나 성곽 아래에서 먹는 사람도 많다. 가격은 약 2만 원대로 가게마다 다르다.",
+    "eat": "옛날통닭·왕갈비통닭",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Paldalmun_20240929_001.jpg/500px-Paldalmun_20240929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "월화원",
+    "rom": "효원공원 속 중국식 정원",
+    "meta": [
+     "🏮 중국식 정원",
+     "🏞 무료",
+     "⏱ 40분"
+    ],
+    "desc": "효원공원 안에 광둥성과의 교류로 조성된 중국 남방식 정원. 기와 담장과 연못, 정자와 인공 폭포가 좁은 공간 안에 정교하게 배치되어, 한 걸음 옮길 때마다 다른 그림이 펼쳐진다. 도심 한복판에서 잠시 다른 나라를 걷는 듯한 낯선 정취가 매력이다.",
+    "todo": [
+     "누각에 올라 연못 정원 내려다보기",
+     "회랑을 따라 걸으며 창밖 풍경 감상",
+     "효원공원과 함께 산책"
+    ],
+    "tip": "규모가 아담해 가볍게 둘러보기 좋다. 인근 광교·인계동과 묶어 일정을 짜기 편하다.",
+    "eat": ""
+   }
+  ]
+ },
+ "taean": {
+  "nm": "태안",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울에서 서해안고속도로로 약 2시간(서산·해미IC 경유). 센트럴시티터미널→태안공영버스터미널 고속버스 약 2시간 30분. 부산에서는 4시간 이상. 섬·해변이 넓게 흩어져 있어 렌터카·자가용이 가장 편하다.",
+  "sep": "봄(4월 안면도 튤립·꽃축제)과 가을(9~10월 청산수목원 핑크뮬리, 선선한 해안 트레킹)이 절정이다. 여름은 해수욕, 겨울은 인적 드문 노을이 매력. 무엇보다 태안은 일몰이 주인공이라, 어느 계절이든 해질녘 한두 시간을 비워두면 좋다.",
+  "mood": "해가 바다로 잠기는 걸 보러 가는 서해 노을 1번지. 리아스식 해안을 따라 백사장·소나무숲·모래언덕이 이어지는, 대한민국 유일의 해안형 국립공원.",
+  "see": "꽃지 일몰과 할미·할아비바위, 천리포수목원, 신두리 해안사구, 안면도 소나무숲, 만리포 백사장, 그리고 바다를 걷는 태안해변길.",
+  "spots": [
+   {
+    "name": "꽃지해수욕장",
+    "rom": "할미·할아비바위 사이로 지는 태안 일몰의 상징",
+    "meta": [
+     "🌅 서해 일몰 1번지",
+     "🪨 명승 제69호 할미·할아비바위",
+     "💴 입장 무료"
+    ],
+    "desc": "넓은 백사장 끝에 나란히 선 할미바위와 할아비바위 사이로 해가 붉게 잠기면, 왜 이곳이 '태안 일몰의 상징'으로 불리는지 단번에 알게 된다. 국가지정 명승 제69호로, 썰물 때는 바위 가까이 걸어 들어가 실루엣을 담을 수 있다. 해 지기 한 시간 전에 도착해 모래밭에 앉아 하늘색이 바뀌는 걸 지켜보는 게 이곳을 즐기는 방법이다.",
+    "todo": [
+     "썰물 시간에 맞춰 할미·할아비바위까지 걸어보기",
+     "해지기 1시간 전 도착해 노을 기다리기",
+     "방포항 쪽 해변 산책"
+    ],
+    "tip": "일몰 명소라 주말 해질녘엔 주차장이 붐빈다. 물때표를 확인하면 바위까지 걷는 간조 시간을 맞출 수 있다.",
+    "eat": "안면도 대하·꽃게, 근처 방포항 회"
+   },
+   {
+    "name": "태안 신두리 해안사구",
+    "rom": "한반도에서 가장 큰 바닷가 모래언덕",
+    "meta": [
+     "🏜️ 한반도 최대 해안사구",
+     "🦎 천연기념물 제431호",
+     "⏱ 1~2시간"
+    ],
+    "desc": "바다 옆에 사막처럼 펼쳐진 모래언덕 — 한반도에서 가장 큰 해안사구다. 바람이 수천 년에 걸쳐 쌓아 올린 모래 능선 위를 나무 데크로 걸으면, 억새와 해당화, 순비기나무가 발밑에서 흔들린다. 천연기념물 제431호로, 여느 해수욕장과 전혀 다른 '모래의 풍경'을 만나러 가는 곳이다.",
+    "todo": [
+     "사구 탐방로 데크 따라 걷기",
+     "신두리사구센터에서 사구 생성 원리 보기",
+     "곰솔 군락·두웅습지까지 연계 산책"
+    ],
+    "tip": "그늘이 거의 없어 여름 한낮은 덥다. 이른 아침이나 해질 무렵이 걷기 좋고 사진도 잘 나온다.",
+    "eat": "원북·이원 일대 바지락 칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sindu_sandhills_image_3.jpg/500px-Sindu_sandhills_image_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sindu_sandhills_image_1.png/500px-Sindu_sandhills_image_1.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "천리포수목원",
+    "rom": "바다를 품은, 세계가 인증한 정원",
+    "meta": [
+     "💴 입장 약 10,000원(변동가능)",
+     "🌳 아시아 최초 인증 수목원",
+     "🌸 봄 목련"
+    ],
+    "desc": "미국에서 귀화한 민병갈 박사가 천리포 바닷가에 평생을 바쳐 가꾼, 국제수목학회가 '세계의 아름다운 수목원'으로 인증한 아시아 최초의 정원이다. 목련만 수백 종, 계절마다 다른 꽃과 나무가 바다를 배경으로 이어진다. 잘 가꿔진 오솔길을 천천히 걸으며 나무 이름표를 읽는 것만으로도 반나절이 짧다.",
+    "todo": [
+     "봄 목련·여름 수련 정원 둘러보기",
+     "바다가 보이는 밀러가든 산책",
+     "카페·서점에서 쉬어가기"
+    ],
+    "tip": "봄 목련철과 가을 단풍철이 가장 예쁘고 붐빈다. 입장 요금은 시즌·구역에 따라 변동될 수 있다.",
+    "eat": "천리포·만리포 일대 바지락 칼국수",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg/500px-%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "안면도",
+    "rom": "다리로 이어진 소나무숲의 섬",
+    "meta": [
+     "🌲 안면송 소나무숲",
+     "🌊 밤바다·캠핑",
+     "🌷 4월 꽃축제"
+    ],
+    "desc": "태안 남쪽 끝, 다리로 이어진 우리나라에서 여섯 번째로 큰 섬. 조선시대 궁궐 목재로 쓰였다는 '안면송' 소나무숲이 안면도자연휴양림을 이루고, 그 사이로 밤이면 파도 소리만 남는 해변들이 흩어져 있다. 4월엔 튤립을 비롯한 꽃축제가 열려 섬 전체가 색으로 물든다.",
+    "todo": [
+     "안면도자연휴양림 소나무숲길 걷기",
+     "4월 안면도 꽃축제(코리아플라워파크) 구경",
+     "밧개·기지포 등 조용한 해변에서 밤바다"
+    ],
+    "tip": "볼거리가 섬 곳곳에 넓게 퍼져 있어 차가 있으면 편하다. 성수기 주말엔 원산안면대교 진입로가 정체된다.",
+    "eat": "박속밀국낙지탕, 게국지, 안면도 대하",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Taean-map.png/500px-Taean-map.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3d/Be-01.jpg/500px-Be-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "만리포해수욕장",
+    "rom": "서해 3대 해수욕장, 서핑도 즐기는 넓은 모래밭",
+    "meta": [
+     "🏖️ 서해 3대 해수욕장",
+     "🏄 서핑 명소",
+     "💴 입장 무료"
+    ],
+    "desc": "'만 리를 무사히 간다'는 이름처럼 넓고 완만한 백사장이 3km 가까이 뻗은, 대천·변산과 함께 서해 3대 해수욕장으로 꼽히는 곳이다. 모래가 곱고 물이 얕아 가족 물놀이에 좋고, 서해에선 드물게 파도가 살아 있어 서핑을 배우러 오는 사람도 많다. 해변 앞 노래비와 오래된 상가 거리가 옛 피서지 특유의 정겨운 분위기를 남긴다.",
+    "todo": [
+     "넓은 백사장 맨발 산책",
+     "서핑·패들보드 강습 체험",
+     "해변 상가에서 조개구이"
+    ],
+    "tip": "조수 간만의 차가 커서 썰물 땐 물이 멀리 빠진다. 물놀이는 밀물 시간대를 확인하고 하는 게 안전하다.",
+    "eat": "만리포 조개구이·바지락 칼국수"
+   },
+   {
+    "name": "청산수목원",
+    "rom": "연꽃과 핑크뮬리로 물드는 계절 정원",
+    "meta": [
+     "🌸 가을 핑크뮬리",
+     "🪷 여름 연꽃·빅토리아수련",
+     "💴 입장 약 8,000원(변동가능)"
+    ],
+    "desc": "연꽃과 핑크뮬리, 팜파스가 계절마다 정원을 통째로 물들이는 태안의 대표 사설 수목원이다. 여름이면 커다란 연못이 열대 수련으로 가득 차고, 가을엔 분홍빛 핑크뮬리 언덕이 사진 찍는 사람들로 붐빈다. 미로 정원과 초가집이 어우러져 아이와 함께 걷기에도 좋다.",
+    "todo": [
+     "여름 연꽃·빅토리아수련 보기",
+     "가을 핑크뮬리·팜파스 언덕에서 사진",
+     "미로 정원 산책"
+    ],
+    "tip": "핑크뮬리 절정(9월 말~10월)엔 사람이 몰린다. 입장 요금은 시즌·행사에 따라 달라질 수 있다.",
+    "eat": "남면·안면도 게국지"
+   },
+   {
+    "name": "태안해안국립공원",
+    "rom": "바다를 걷는 대한민국 유일의 해안 국립공원",
+    "meta": [
+     "🥾 태안해변길 7개 코스",
+     "🌅 노을길·바라길",
+     "💴 입장 무료"
+    ],
+    "desc": "대한민국에 하나뿐인 해안형 국립공원으로, 리아스식 해안을 따라 약 530km의 바닷길이 이어진다. 백사장에 눕는 대신 걷고 싶다면 '태안해변길' 7개 코스가 답 — 바라길·노을길처럼 이름부터 바다를 품은 길들이 소나무숲과 갯벌, 등대를 잇는다. 사람 적은 구간을 골라 파도 소리를 배경으로 걷다 보면 태안의 진짜 얼굴을 만난다.",
+    "todo": [
+     "태안해변길 한 코스 골라 걷기(바라길·노을길 등)",
+     "학암포·백리포 등 숨은 해변 찾기",
+     "해안 등대·갯벌 생태 관찰"
+    ],
+    "tip": "코스별 길이와 난도가 달라 국립공원 안내소나 앱에서 미리 확인하는 게 좋다. 물때에 따라 갯벌 구간이 잠긴다.",
+    "eat": "우럭젓국, 게국지 등 태안 향토음식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/500px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg/120px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_%EC%9D%BC%EB%AA%B0_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gauido_at_Taeanhaean_National_Park_image_4.jpg/120px-Gauido_at_Taeanhaean_National_Park_image_4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "taebaek": {
+  "nm": "태백",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 청량리에서 KTX-이음으로 태백역까지 약 2시간 30분, 자가용은 중앙·영동고속도로 경유 약 3시간. 부산에서는 동대구 경유 KTX나 시외버스로 약 4시간. 시내는 좁아도 산속 명소는 차가 편하다.",
+  "sep": "겨울(1~2월)이 최고다. 태백산 능선의 주목이 상고대와 눈을 뒤집어써 하얗게 얼어붙고 눈축제가 열린다. 여름은 해발 700m 고원 도시라 시내조차 서늘해 피서지로도 좋다.",
+  "mood": "낙동강도 한강도 여기서 처음 솟는다. 가장 높은 곳에서 물과 눈과 5억 년 시간이 시작되는 도시.",
+  "see": "천제단과 주목의 태백산, 강의 발원지 검룡소·황지연못, 산을 뚫은 고생대 지질 구문소, 배추밭 물결의 바람의 언덕.",
+  "spots": [
+   {
+    "name": "태백산",
+    "rom": "천제단과 주목이 지키는 민족의 영산",
+    "meta": [
+     "🎟 국립공원 입장 무료(주차 약 4,000원·변동)",
+     "❄️ 1~2월 눈축제",
+     "⏱ 반나절~하루"
+    ],
+    "desc": "겨울이면 능선의 주목이 상고대와 눈을 뒤집어써 하얗게 얼어붙는다. 살아 천 년 죽어 천 년이라는 주목 군락과, 정상 천제단에서 맞는 붉은 일출은 사진으로 봐도 비현실적이다. 완만한 능선이라 겨울 초심자도 도전해볼 만하다.",
+    "todo": [
+     "유일사~천제단 눈꽃 능선 걷기",
+     "천제단에서 일출 보기",
+     "겨울 태백산 눈축제 즐기기"
+    ],
+    "tip": "겨울엔 아이젠·스패츠 필수. 유일사 주차장은 성수기에 이른 아침 도착해야 자리가 있다.",
+    "eat": "태백 한우, 얼큰한 태백 물닭갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Taebaeksan_2016_12_30_winter.jpg/500px-Taebaeksan_2016_12_30_winter.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "검룡소",
+    "rom": "약 500km 한강이 처음 솟는 자리",
+    "meta": [
+     "🎟 무료",
+     "⏱ 왕복 1시간 30분",
+     "💧 사계절 9℃ 냉천"
+    ],
+    "desc": "금대봉 자락 숲길을 걷다 보면 석회암 바닥을 뚫고 하루 수천 톤 물이 솟는 샘이 나온다. 이무기가 용이 되려 몸부림친 자국 같은 계단 폭포가 이끼 위로 에메랄드빛 물길을 흘려보낸다. 여기서 시작된 물이 서울을 지나 서해로 간다는 사실이 걸음마다 실감난다.",
+    "todo": [
+     "금대봉 숲길 산책",
+     "계단상 폭포와 이끼 물길 감상"
+    ],
+    "tip": "주차장에서 왕복 약 3.2km 흙길이다. 굽 없는 편한 신발로 가는 게 좋다.",
+    "eat": "태백 곤드레밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TB-Geomnyongso.jpg/500px-TB-Geomnyongso.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg/500px-%ED%83%9C%EB%B0%B1%EA%B2%80%EB%A3%A1%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TB-Geomnyongso1.jpg/500px-TB-Geomnyongso1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "황지연못",
+    "rom": "도심 한복판에서 시작되는 낙동강",
+    "meta": [
+     "🎟 무료",
+     "⏱ 30분",
+     "💧 하루 약 5,000톤 용출"
+    ],
+    "desc": "태백 시내 한가운데에서 하루 수천 톤 맑은 물이 솟아 부산 을숙도까지 흘러간다. 손님을 박대한 욕심쟁이 황부자가 벌을 받아 집터가 못이 되었다는 전설이 전해지는, 낙동강 1,300리의 첫 물이다. 시내에 있어 오가는 길에 가볍게 들르기 좋다.",
+    "todo": [
+     "연못 한 바퀴 돌며 용출구 보기",
+     "밤에 조명 켜진 연못 산책"
+    ],
+    "tip": "시내라 접근이 쉽고 주차도 무난하다. 저녁 조명이 켜지면 분위기가 다르다.",
+    "eat": "인근 시장의 태백 물닭갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hwangji_the_start.jpg/500px-Hwangji_the_start.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bridge_over_Hwangji.jpg/500px-Bridge_over_Hwangji.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구문소",
+    "rom": "강이 산을 뚫은 5억 년 지질 교과서",
+    "meta": [
+     "🎟 무료",
+     "🦴 천연기념물",
+     "⏱ 1시간"
+    ],
+    "desc": "황지천이 단단한 산을 정면으로 뚫고 지나가며 만든 물길과 석문. 바위에는 5억 년 전 이곳이 따뜻한 바다였던 시절의 삼엽충 흔적과 물결 자국이 새겨져 있다. 돌문 아래 초록 물을 들여다보면 고생대 바다 밑을 걷는 기분이 든다.",
+    "todo": [
+     "석문과 하식 지형 둘러보기",
+     "바위에 남은 고생대 화석·물결 자국 찾기"
+    ],
+    "tip": "인근 고생대자연사박물관과 묶으면 지질 여행이 한결 풍성해진다.",
+    "eat": "태백 한우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gumunso.jpg/500px-Gumunso.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg/500px-%EA%B5%AC%EB%AC%B8%EC%86%8C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "함백산·만항재",
+    "rom": "차로 오르는 가장 높은 고개, 그 위의 일출",
+    "meta": [
+     "🎟 무료",
+     "🚗 만항재 1,330m",
+     "🌼 여름 야생화"
+    ],
+    "desc": "포장도로로 오를 수 있는 국내 최고 높이 고개 만항재에서 함백산 정상까지 능선이 이어진다. 여름이면 야생화가 천상의 화원처럼 피고, 새벽엔 구름바다 위로 해가 떠오르며, 겨울엔 상고대가 나무마다 하얗게 맺힌다. 큰 등반 없이 높은 하늘을 만날 수 있는 곳.",
+    "todo": [
+     "만항재까지 차로 올라 야생화 보기",
+     "새벽 함백산 일출·운해 기다리기"
+    ],
+    "tip": "정상 부근은 여름에도 바람이 세다. 얇은 겉옷을 챙기는 게 좋다.",
+    "eat": "고한·태백 곤드레밥"
+   },
+   {
+    "name": "용연동굴",
+    "rom": "해발 920m, 하늘 아래 첫 석회동굴",
+    "meta": [
+     "🎟 어른 약 3,500원(변동)",
+     "⏱ 1시간",
+     "❄️ 연중 서늘"
+    ],
+    "desc": "우리나라에서 가장 높은 곳에 자리한 석회동굴. 한여름에도 굴 안은 서늘하고, 억겁에 걸쳐 자란 종유석과 석순이 넓은 광장을 가득 채운다. 매표소에서 동굴 입구까지 차로 오를 수 있어 아이와 함께 가기에도 좋다.",
+    "todo": [
+     "광장의 종유석·석순 감상",
+     "한여름에도 서늘한 동굴에서 더위 식히기"
+    ],
+    "tip": "동굴 안이 서늘하니 겉옷을 준비하자. 바닥이 젖어 있어 미끄럽지 않은 신발이 좋다.",
+    "eat": "태백 물닭갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TB-YYCave12.jpg/500px-TB-YYCave12.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TB-YYCave1.jpg/500px-TB-YYCave1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TB-YYCave2.jpg/500px-TB-YYCave2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "매봉산 바람의 언덕",
+    "rom": "풍력발전기 아래 초록 배추밭 물결",
+    "meta": [
+     "🥬 여름 고랭지 배추",
+     "💨 풍력단지",
+     "⏱ 반나절"
+    ],
+    "desc": "해발 1,300m 능선에 초록 배추밭이 파도처럼 펼쳐지고, 그 위로 하얀 풍력발전기가 천천히 돈다. 바람이 워낙 세서 '바람의 언덕'이라 불린다. 여름의 초록과 가을의 파란 하늘이 유난히 시원해, 사진 한 장이면 강원 고원의 여름이 다 담긴다.",
+    "todo": [
+     "배추밭과 풍력발전기 배경으로 사진 찍기",
+     "능선 전망대에서 고원 풍경 보기"
+    ],
+    "tip": "여름 배추 수확 전이 초록이 가장 짙다. 정상부는 차량 통제·셔틀 운행 시기가 있으니 미리 확인하자.",
+    "eat": "태백 한우"
+   },
+   {
+    "name": "철암탄광역사촌",
+    "rom": "석탄 시절 그대로 멈춘 골목",
+    "meta": [
+     "🎟 무료",
+     "⏱ 1시간",
+     "🏚 근대 탄광 마을"
+    ],
+    "desc": "석탄으로 흥청이던 시절의 상점과 골목, 강가에 위태롭게 매달린 '까치발 건물'이 그대로 보존돼 있다. 태백이 원래 어떤 도시였는지를 가장 솔직하게 보여주는, 시간이 멈춘 골목이다. 화려하진 않아도 오래 마음에 남는 풍경이다.",
+    "todo": [
+     "까치발 건물과 옛 상점 골목 걷기",
+     "탄광 시절 생활상 전시 둘러보기"
+    ],
+    "tip": "철암역 바로 옆이라 기차 여행과 묶기 좋다.",
+    "eat": "태백 물닭갈비, 태백 한우"
+   }
+  ]
+ },
+ "tongyeong": {
+  "nm": "통영",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울 남부터미널에서 고속버스 약 4시간, 부산 서부터미널에서 약 1시간 40분. 자가용은 대전통영고속도로로 통영IC 진입.",
+  "sep": "봄(3~4월)과 가을(9~11월)이 가장 좋다. 봄엔 미륵산 자락과 도심 골목에 벚꽃이 번지고 도다리쑥국이 제철이며, 가을엔 바다가 맑고 굴이 살오르기 시작한다. 여름은 섬 트레킹·해수욕에 좋지만 더위와 성수기 혼잡을 감안해야 한다.",
+  "mood": "한려수도 물빛 위에 섬이 그림처럼 흩뿌려진, 바다의 예술 도시. 케이블카로 산에 오르고 배로 이순신의 섬에 닿는다.",
+  "see": "미륵산에서 내려다보는 한려수도, 언덕 골목의 벽화, 배 타고 건너는 한산도·소매물도, 그리고 통제영과 시장의 맛.",
+  "spots": [
+   {
+    "name": "동피랑 벽화마을",
+    "rom": "언덕 골목마다 벽화, 그 끝에 통영항",
+    "meta": [
+     "🎨 벽화마을",
+     "⏱ 1~2시간",
+     "📷 포토스팟",
+     "💴 무료"
+    ],
+    "desc": "강구안 뒤편 가파른 언덕을 따라 좁은 골목이 굽이굽이 이어지고, 담벼락마다 색색의 벽화가 그려져 있다. 숨이 찰 때쯤 꼭대기 동포루에 서면 통영항과 올망졸망한 배들이 발아래로 펼쳐진다. 철거될 뻔한 달동네가 그림으로 되살아난 골목이라 걸음마다 사연이 묻어난다.",
+    "todo": [
+     "동포루 전망대에서 통영항 내려다보기",
+     "골목 벽화 배경으로 사진 남기기",
+     "주민이 사는 마을이니 조용히 둘러보기"
+    ],
+    "tip": "전용 주차공간이 거의 없어 강구안·문화마당 주변 공영주차장에 대고 걸어 오르는 편이 낫다. 실제 거주지라 이른 아침·늦은 밤 소음은 삼간다.",
+    "eat": "언덕 아래 강구안 골목에 충무김밥·꿀빵 가게가 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dongpirang_Village_20190511_03.jpg/330px-Dongpirang_Village_20190511_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dongpirang_Village_20190511_14.jpg/330px-Dongpirang_Village_20190511_14.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dongpirang_Village_20190511_20.jpg/330px-Dongpirang_Village_20190511_20.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "통영 케이블카 · 미륵산",
+    "rom": "케이블카로 오르는 한려수도 파노라마 조망",
+    "meta": [
+     "💴 왕복 약 17,000원(변동)",
+     "⏱ 반나절",
+     "⛰ 미륵산 461m",
+     "🚠 케이블카"
+    ],
+    "desc": "하부역에서 케이블카에 오르면 10분 남짓 공중을 미끄러져 미륵산 능선에 닿는다. 상부역에서 데크길을 조금 더 걸어 정상에 서면, 한려수도의 크고 작은 섬들이 물빛 위에 흩뿌려진 풍경이 사방으로 열린다. 날이 맑으면 멀리 거제와 대마도 방향까지 시야에 들어온다.",
+    "todo": [
+     "상부역에서 정상 전망대까지 데크길 걷기",
+     "한려수도 섬들 파노라마 감상하기",
+     "여유 있으면 인근 스카이라인 루지 함께 즐기기"
+    ],
+    "tip": "현장 구매만 가능하고 바람이 강하면 운휴하니, 방문 당일 공식 홈페이지에서 운행 여부를 확인한다. 요금은 대인 왕복 약 17,000원 수준으로 변동될 수 있다.",
+    "eat": "하부역 인근에 통영 향토 식당과 바다 전망 카페가 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/500px-Tongyeong_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tongyeong_Cable_Car2.jpg/500px-Tongyeong_Cable_Car2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tongyeong_Cable_Car_upper_Station.jpg/500px-Tongyeong_Cable_Car_upper_Station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한산도 · 제승당",
+    "rom": "한산대첩의 바다, 이순신이 진을 친 섬",
+    "meta": [
+     "⛴ 배로 약 30분",
+     "⏱ 반나절",
+     "🏯 제승당·수루"
+    ],
+    "desc": "통영항에서 배로 30분이면 임진왜란 한산대첩의 무대였던 한산도에 닿는다. 이순신이 삼도수군의 본영을 두고 밤바다를 지켰던 제승당과, '한산섬 달 밝은 밤에' 시조가 태어난 수루가 조용한 솔숲 사이에 남아 있다. 잔잔한 물길을 건너는 뱃길 자체가 이미 여행의 절반이다.",
+    "todo": [
+     "제승당과 수루 둘러보기",
+     "선착장에서 제승당까지 해안 솔숲길 걷기",
+     "돌아오는 막배 시간 미리 확인하기"
+    ],
+    "tip": "여객선은 하루 운항 편수가 정해져 있어 돌아오는 막배 시간을 꼭 확인해야 발이 묶이지 않는다.",
+    "eat": "섬 선착장 주변에 소박한 식당이 있으니 배 시간 전에 요기하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Korea-Tongyeong-Hansan_Island-Overview-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Overview-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg/500px-Korea-Tongyeong-Hansan_Island-Chungmu_Shrine-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소매물도 · 등대섬",
+    "rom": "쿠크다스섬, 썰물 때 열리는 바닷길",
+    "meta": [
+     "⛴ 배 편도 약 1시간",
+     "⏱ 하루",
+     "🥾 트레킹",
+     "🌊 한려해상"
+    ],
+    "desc": "통영항에서 배로 한 시간 남짓 들어가면, 광고 속 풍경 그대로인 소매물도와 하얀 등대섬이 마주 본다. 썰물이 되면 두 섬 사이 몽돌길 '열목개'가 하루 두 번 바다 위로 드러나, 사람들이 물길을 건너 등대섬으로 걸어 들어간다. 망태봉에 오르면 두 섬과 남해가 한눈에 담긴다.",
+    "todo": [
+     "망태봉 전망대까지 트레킹하기",
+     "썰물 시간 맞춰 등대섬 바닷길 건너기",
+     "선착장 배 시간과 물때 함께 확인하기"
+    ],
+    "tip": "등대섬으로 걷는 바닷길은 썰물 때, 하루 두 번 정도만 열린다. 배편과 물때가 어긋나면 건너지 못하니 사전에 시간표를 꼭 확인한다.",
+    "eat": "섬 내 매점·식당이 적으니 물과 간식을 챙겨 가는 편이 안전하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Somaemuldo_Island_20190510_03.jpg/500px-Somaemuldo_Island_20190510_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Somaemuldo_Island_20190510_01.jpg/330px-Somaemuldo_Island_20190510_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Somaemuldo_Island_20190510_02.jpg/330px-Somaemuldo_Island_20190510_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "통영 삼도수군통제영 · 세병관",
+    "rom": "조선 수군 본영, 국보 세병관의 큰 지붕",
+    "meta": [
+     "💴 입장 약 3,000원(변동)",
+     "⏱ 1~2시간",
+     "🏯 국보 세병관"
+    ],
+    "desc": "조선 후기 경상·전라·충청 삼도 수군을 지휘하던 통제영이 통영 도심 한복판에 복원되어 있다. 그 중심의 세병관은 정면 아홉 칸의 웅장한 목조 건물로, 널찍한 마루에 서면 굵은 기둥 사이로 통영 앞바다 기운이 스민다. 통영(統營)이라는 지명 자체가 이 통제영에서 비롯됐다.",
+    "todo": [
+     "국보 세병관 마루에서 건물의 규모 느끼기",
+     "복원된 12공방과 관아 건물 둘러보기",
+     "가까운 동피랑·중앙시장과 도보로 묶기"
+    ],
+    "tip": "도심에 있어 동피랑·강구안·중앙시장과 걸어서 함께 돌기 좋다. 입장료는 약 3,000원 수준으로 변동될 수 있다.",
+    "eat": "바로 아래 중앙시장에서 충무김밥·꿀빵으로 요기하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg/500px-Amlou2518_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/500px-%ED%86%B5%EC%98%81_%EC%95%88%EC%A0%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%ED%86%B5%EC%98%81_%EC%82%BC%EB%8F%84%EC%88%98%EA%B5%B0%ED%86%B5%EC%A0%9C%EC%98%81_%EC%A0%84%EA%B2%BD2_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "중앙시장 · 서호시장",
+    "rom": "충무김밥·꿀빵·시락국, 통영의 맛이 모인 곳",
+    "meta": [
+     "🍜 먹거리",
+     "⏱ 1~2시간",
+     "🐟 활어시장"
+    ],
+    "desc": "강구안 바로 곁 중앙시장은 갓 잡은 활어와 굴, 멸치가 좌판마다 쌓이고 그 앞으로 충무김밥·꿀빵 가게가 늘어선 통영 미식의 중심이다. 조금 떨어진 서호시장은 아침 일찍 문 여는 시락국(시래기국밥) 집들로 이름났다. 시장 골목을 걷는 것만으로 통영의 하루가 시작되는 기분이 든다.",
+    "todo": [
+     "충무김밥 한 접시(오징어무침·석박지) 맛보기",
+     "즉석에서 만든 꿀빵 사 먹기",
+     "서호시장 아침 시락국 한 그릇 비우기"
+    ],
+    "tip": "중앙시장은 연중무휴에 가깝게 열려 언제든 찾기 좋다. 서호시장 시락국집은 아침 장사가 중심이라 이른 시간에 가는 게 좋다.",
+    "eat": "충무김밥(약 7,000원 안팎, 변동), 꿀빵, 시락국, 그리고 제철 굴·멸치·고등어회.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f2/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg/330px-%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "통영해저터널",
+    "rom": "바다 밑을 걸어서 건너는 동양 최초 해저터널",
+    "meta": [
+     "💴 무료",
+     "⏱ 30분",
+     "🚶 도보 483m",
+     "🏛 등록문화재"
+    ],
+    "desc": "통영 본토와 미륵도를 잇는 바다 밑, 1932년에 뚫린 483m 콘크리트 터널을 걸어서 건널 수 있다. 완만한 내리막을 따라 내려가면 머리 위로 바닷물이 흐르는, 동양에서 가장 오래된 해저터널 안에 서게 된다. 화려하진 않지만 백 년 가까운 세월을 품은 통로라 걸음이 사뭇 진중해진다.",
+    "todo": [
+     "터널 483m를 끝까지 걸어서 건너보기",
+     "입구 현판과 역사 안내판 읽어보기",
+     "위쪽 통영운하와 충무교 풍경도 함께 보기"
+    ],
+    "tip": "무료로 개방되며 도보·자전거로 통행한다. 미륵도(케이블카·달아공원)로 넘어가는 길에 잠깐 들르기 좋다.",
+    "eat": "미륵도 쪽으로 나오면 바다 전망 카페와 해산물 식당이 이어진다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tongyeong_Undersea_Tunnel.jpg/500px-Tongyeong_Undersea_Tunnel.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "uijeongbu": {
+  "nm": "의정부",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선으로 40~50분(청량리·회기 환승), 의정부역까지 곧장. 시내 명소는 경기 최초의 경전철이 이어준다.",
+  "sep": "봄·가을이 정점. 봄엔 부용천을 따라 벚꽃이 트이고, 가을엔 도봉산·수락산 능선이 단풍으로 물든다. 미술·음악도서관은 계절과 상관없이 언제 가도 좋다.",
+  "mood": "미군 부대가 남긴 얼큰한 부대찌개 한 냄비, 그 옆으로 미술관 같은 도서관과 도봉산 천년 고찰까지 — 서울 바로 위, 반나절이 알차게 채워지는 동네.",
+  "see": "부대찌개 원조 골목, 미술·음악을 품은 이색 도서관, 도봉산·수락산 바위 능선, 600여 점포의 전통시장.",
+  "spots": [
+   {
+    "name": "의정부 부대찌개거리",
+    "rom": "한국전쟁이 남긴 얼큰한 한 그릇, 그 원조 골목",
+    "meta": [
+     "🍜 부대찌개 원조",
+     "💴 1인 약 9,000~11,000원(변동 가능)",
+     "🚇 의정부중앙역 앞"
+    ],
+    "desc": "한국전쟁 직후 미군 부대에서 나온 햄·소시지에 김치와 고추장을 넣어 끓여낸 부대찌개, 그 원조 골목이 여기다. 원조로 널리 알려진 '오뎅식당'을 비롯해 여러 식당이 모여, 자작하게 끓는 냄비 위로 김이 오른다. 경전철 의정부중앙역에서 가까워 찾아가기도 쉽다.",
+    "todo": [
+     "오뎅식당 등 원조 노포에서 부대찌개 한 냄비 끓여 먹기",
+     "라면사리·떡사리 추가해 끝까지 국물 즐기기"
+    ],
+    "tip": "점심·저녁 피크엔 대기가 길다. 매년 가을에는 부대찌개를 내세운 지역 음식축제가 열리기도 한다.",
+    "eat": "부대찌개, 라면사리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Budae_jjigae_%2828587380901%29.jpg/500px-Budae_jjigae_%2828587380901%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의정부미술도서관",
+    "rom": "미술관과 도서관이 한 몸이 된 국내 첫 공간",
+    "meta": [
+     "🎨 미술 특화 도서관",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "2019년 문을 연, 미술관과 도서관을 합친 국내 최초의 공공도서관이다. 유리로 트인 개방형 구조 안에서 전시를 보다가 그대로 미술 서가로 흘러들 수 있다. 1층 전시관과 오픈 스테이지, 3층 작가 오픈 스튜디오까지, 책과 그림 사이 경계가 흐릿한 하루가 된다.",
+    "todo": [
+     "1층 전시관에서 기획전 관람하기",
+     "통유리 열람 공간에서 미술 화집 넘겨보기"
+    ],
+    "tip": "월요일 휴관, 입장 무료. 아래 음악도서관과 묶어 '도서관 여행'으로 돌기 좋다."
+   },
+   {
+    "name": "의정부음악도서관",
+    "rom": "재즈·힙합이 흐르는 국내 첫 음악 전문 도서관",
+    "meta": [
+     "🎵 블랙뮤직 특화",
+     "💴 무료",
+     "🎧 LP·CD 감상"
+    ],
+    "desc": "신곡동에 자리한 국내 첫 음악 특화 공공도서관으로, 재즈·블루스·소울·힙합 같은 '블랙뮤직'을 테마로 삼았다. 미군 부대와 힙합 뮤지션의 흔적이 짙은 이 도시다운 선택이다. LP 수천 장과 CD를 헤드폰으로 감상하고, 오픈 스테이지에서 열리는 무료 공연도 만날 수 있다.",
+    "todo": [
+     "오디오 룸에서 LP·CD 골라 감상하기",
+     "통유리 창가 자리에서 음악책 읽기"
+    ],
+    "tip": "2021년 개관. 월요일 휴관. 미술도서관과 하루로 묶어 돌기 좋다."
+   },
+   {
+    "name": "망월사",
+    "rom": "도봉산 기암절벽에 걸린 천년 고찰",
+    "meta": [
+     "⛰️ 도봉산 산행",
+     "💴 무료",
+     "🍁 가을 단풍"
+    ],
+    "desc": "신라 선덕여왕 때 창건해 의정부에서 가장 오래된 절로 꼽힌다. 원도봉계곡을 따라 왕복 4km 남짓 오르면 기암절벽을 병풍처럼 두른 절집이 나타난다. 만공·한암 같은 선지식이 수행하던 자리라, 능선 아래로 풍경이 펼쳐지는 마당에 서면 발걸음이 절로 느려진다.",
+    "todo": [
+     "원도봉계곡 코스를 따라 걸어 오르기",
+     "절 마당에서 도봉 능선 조망하기"
+    ],
+    "tip": "등산화 권장, 입장료 없음. 계곡 물소리가 좋은 여름과 단풍 물드는 가을이 특히 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "수락산",
+    "rom": "의정부에서 곧장 오르는 화강암 바위 능선",
+    "meta": [
+     "⛰️ 해발 약 638m",
+     "💴 무료",
+     "🌆 서울·의정부 조망"
+    ],
+    "desc": "서울·의정부·남양주에 걸친 화강암 산으로, 의정부 쪽에서도 곧장 등산로가 이어진다. 매끈한 바위 능선과 도정봉에서 내려다보는 의정부 전경은 '의정부 8경'에 든다. 크게 험하지 않아 주말이면 가벼운 산행객이 줄을 잇는다.",
+    "todo": [
+     "도정봉·정상에서 의정부 시가지 내려다보기",
+     "바위 능선 구간 천천히 밟아보기"
+    ],
+    "tip": "정상부는 바위가 많아 미끄럼 주의. 이른 오전 산행이 조망이 맑다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Suraksan.JPG/500px-Suraksan.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의정부제일시장",
+    "rom": "600여 점포가 엉킨 경기 북부 대표 전통시장",
+    "meta": [
+     "🛍️ 600여 점포",
+     "🍢 시장 먹거리",
+     "🚶 시내 도보권"
+    ],
+    "desc": "점포가 600곳을 넘는 경기 북부의 큰 전통시장이다. 가·나·다·라동으로 이어지는 골목엔 의류·한복·커튼·먹거리가 빼곡하고, 한가운데 '십자마당'에선 이따금 공연이 벌어진다. 부대찌개거리와 가까워 시장 구경과 한 끼를 이어 붙이기 좋다.",
+    "todo": [
+     "십자마당을 중심으로 골목 한 바퀴 돌기",
+     "시장 먹거리로 군것질하며 걷기"
+    ],
+    "eat": "시장 분식·떡·전"
+   },
+   {
+    "name": "아나키아",
+    "rom": "자연과 예술이 층층이 쌓인 대형 복합 카페",
+    "meta": [
+     "☕ 대형 베이커리 카페",
+     "🎨 전시·공연",
+     "🅿️ 주차 넉넉"
+    ],
+    "desc": "산곡동에 자리한 여러 층 규모의 베이커리 카페 겸 복합문화공간이다. 층을 오를수록 창밖 자연이 넓어지고, 한쪽엔 전시 공간이 있어 때때로 공연이 열리기도 한다. 커피 한 잔에 전시와 공연까지 얹어 느긋한 반나절을 보내기 좋다.",
+    "todo": [
+     "층마다 다른 뷰 찾아 올라보기",
+     "전시장 둘러보고 공연 스케줄 확인하기"
+    ],
+    "tip": "공연 일정은 아나키아 인스타그램에서 미리 확인. 주차 공간이 넉넉하다."
+   }
+  ]
+ },
+ "uiryeong": {
+  "nm": "의령",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 승용차로 약 3시간 40분, 부산에서 약 1시간 20분. 의령엔 기차역이 없어 자가용·렌터카가 가장 편하다.",
+  "sep": "봄 4~5월엔 한우산 철쭉이 능선을 붉게 물들이고, 가을엔 자굴산 단풍이 곱다 — 산을 노린다면 봄·가을이 최고.",
+  "mood": "솥바위 반경에서 삼성·LG·효성을 세운 세 거부가 났다는 '부자의 땅' 전설, 그리고 임진왜란 최초의 의병을 일으킨 홍의장군 곽재우의 고장.",
+  "see": "솥바위의 부자 전설, 기네스북에 오른 동굴 법당, 철쭉 능선까지 — 작지만 이야기가 진하게 밴 고장.",
+  "spots": [
+   {
+    "name": "솥바위(정암)",
+    "rom": "부자 기운이 흐른다는 남강의 가마솥 바위",
+    "meta": [
+     "💰 부자 전설",
+     "⏱ 30분",
+     "🚶 정암루와 함께"
+    ],
+    "desc": "남강 한가운데 솥을 엎어놓은 듯 앉은 바위. 물속에 잠긴 세 개의 다리가 솥발을 닮았다 해서 솥바위다. 이 바위 반경 8km 안에서 삼성·LG·효성 창업주가 났다는 전설이 전해져, 부자 기운을 빌러 오는 사람들의 발길이 끊이지 않는다.",
+    "todo": [
+     "정암루에 올라 남강과 솥바위를 함께 내려다보기",
+     "해질녘 강물에 물드는 바위 실루엣 담기"
+    ],
+    "tip": "바로 옆 정암루·정암철교와 묶어 30분이면 둘러본다. 무료.",
+    "eat": "의령 소바(메밀국수)와 쫀득한 망개떡이 읍내 명물.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/500px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "충익사",
+    "rom": "홍의장군 곽재우와 열일곱 장수를 모신 사당",
+    "meta": [
+     "🎗 임진왜란 의병",
+     "⏱ 1시간",
+     "🌳 무료"
+    ],
+    "desc": "임진왜란 때 전국에서 가장 먼저 의병을 일으킨 홍의장군 곽재우와 그를 따른 17장수의 위패를 모신 사당. 잘 가꾼 잔디밭과 숲, 곽재우와 17장수를 상징하는 충의탑이 어우러져 역사의 무게와 정원 같은 고요가 함께 흐른다.",
+    "todo": [
+     "의병박물관에서 곽재우의 붉은 옷 이야기 읽기",
+     "경내 노거수 아래에서 잠시 쉬기"
+    ],
+    "tip": "바로 옆 의병박물관도 함께 보면 좋다. 매년 곽재우 추모행사가 열린다.",
+    "eat": "읍내 소바 골목에서 시원한 메밀국수 한 그릇.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg/500px-%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "일붕사",
+    "rom": "기네스북에 오른 세계 최대 동굴 법당",
+    "meta": [
+     "🕳 동굴 법당",
+     "🏆 기네스 기록",
+     "⏱ 1시간·무료"
+    ],
+    "desc": "봉황대 절벽 바위를 파고 들어간 동굴 법당을 품은 절. 가장 큰 대웅전 석굴 법당은 세계 최대 동굴 법당으로 기네스북에 올랐다. 동굴 안으로 들어서면 서늘한 공기와 촛불빛이 감싸, 여느 절과는 전혀 다른 압도감을 준다.",
+    "todo": [
+     "동굴 법당 안으로 들어가 석굴의 공기 느껴보기",
+     "봉황대 주변 숲길 잠깐 걷기"
+    ],
+    "tip": "입장 무료. 궁류면 산속에 있어 자가용이 편하다.",
+    "eat": "내려오는 길, 궁류·의령 읍내에서 한우 국밥이 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Uiryeong_Ilbung-sa.jpg/500px-Uiryeong_Ilbung-sa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UR-IB-BHD1.jpg/500px-UR-IB-BHD1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UR-IB-BHD2.jpg/500px-UR-IB-BHD2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "호암 이병철 생가",
+    "rom": "삼성 창업주가 태어난 '부자의 터'",
+    "meta": [
+     "💰 부자 기운",
+     "⏱ 40분",
+     "🏯 전통 한옥"
+    ],
+    "desc": "삼성 창업주 호암 이병철이 태어나고 자란 한옥. 뒷산의 기운이 곳간으로 흘러든다는 명당 이야기가 전해져, 솥바위 전설과 함께 '부자 기운'을 받으러 오는 사람이 많다. 담백한 전통 한옥과 정갈한 마당을 천천히 걷기 좋다.",
+    "todo": [
+     "기와담장을 따라 걸으며 명당 이야기 듣기",
+     "솥바위와 묶어 '부자 코스'로 돌기"
+    ],
+    "tip": "무료 개방. 정곡면에 있어 솥바위·읍내와 동선이 자연스럽게 이어진다.",
+    "eat": "정곡·의령 읍내의 소바와 망개떡으로 가볍게.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lee_Byung-chul_%28crop%29.jpg/330px-Lee_Byung-chul_%28crop%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한우산",
+    "rom": "봄이면 능선을 붉게 덮는 철쭉 명소",
+    "meta": [
+     "🌸 봄 철쭉",
+     "⛰ 836m",
+     "🚗 드라이브"
+    ],
+    "desc": "자굴산에서 능선으로 이어지는 836m 산. 봄이면 진달래·철쭉이 정상 일대를 붉게 덮어 매년 봄 철쭉제가 열린다. 정상 부근까지 도로가 나 있어 드라이브로 오르기 좋고, 짧은 산책로도 잘 정비돼 있다.",
+    "todo": [
+     "철쭉제(4~5월) 능선 산책",
+     "정상 부근까지 드라이브로 올라 조망 즐기기"
+    ],
+    "tip": "정상 가까이 주차장·데크가 있어 짧게도 걸을 수 있다. 한여름에도 서늘한 편.",
+    "eat": "산 아래 찰비계곡 근처에서 백숙·닭요리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/UR-HUmt1.jpg/500px-UR-HUmt1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/UR-HUmt2.jpg/500px-UR-HUmt2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/UR-HUmt3.jpg/500px-UR-HUmt3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "자굴산",
+    "rom": "의령을 지키는 897m 진산",
+    "meta": [
+     "⛰ 897m",
+     "🥾 등산",
+     "🌫 아침 운해"
+    ],
+    "desc": "의령 한가운데 우뚝 솟은 진산. 897m로 군에서 가장 높아, 능선에 오르면 의령 들판과 남강 물줄기가 발아래로 펼쳐진다. 계절마다 표정이 달라 봄 진달래, 가을 단풍, 이른 아침 운해까지 사색하며 걷기 좋은 산이다.",
+    "todo": [
+     "능선에서 의령 분지 조망하기",
+     "이른 아침 운해 노려보기"
+    ],
+    "tip": "난이도별 코스가 여러 갈래다. 한우산과 능선으로 이어져 함께 걷기도 한다.",
+    "eat": "하산 후 읍내 한우·소바로 든든하게.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/d/d1/%EC%9E%90%EA%B5%B4%EC%82%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/UR-HUmt5.jpg/500px-UR-HUmt5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의령구름다리",
+    "rom": "읍내 수변공원을 가로지르는 철망 바닥 출렁다리",
+    "meta": [
+     "🌉 출렁다리",
+     "⏱ 40분",
+     "🚶 수변 산책"
+    ],
+    "desc": "읍내 수변공원을 가로지르는 출렁다리. 바닥이 철망으로 되어 있어 수십 미터 아래 물줄기가 그대로 비쳐 걸을 때마다 아찔하다. 의병박물관·충익사와 가까워 읍내를 둘러보며 함께 들르기 좋다.",
+    "todo": [
+     "수변공원 산책로 한 바퀴 돌기",
+     "철망 바닥 위를 걸으며 아래 물 내려다보기"
+    ],
+    "tip": "읍내와 가까워 충익사·솥바위와 묶기 좋다. 무료.",
+    "eat": "읍내 소바 골목이 걸어서 닿는 거리."
+   }
+  ]
+ },
+ "uiseong": {
+  "nm": "의성",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 청량리에서 중앙선 열차(KTX-이음·무궁화)로 의성역까지 약 2시간, 자가용은 중앙고속도로로 약 2시간 40분 · 부산에서 약 2시간.",
+  "sep": "봄(3월 말~5월)이 으뜸. 3월 하순 화전리 산수유가 골짜기를 온통 노랗게 물들이고, 5월엔 조문국 고분 능선에 붉은 작약이 무리 지어 핀다. 한여름엔 빙계계곡 얼음골이 서늘하게 시원하다.",
+  "mood": "마늘 한 접의 알싸한 땅, 컬링 '영미!'의 고장, 그리고 삼한의 옛 나라 조문국이 능선마다 잠들어 있는 곳.",
+  "see": "노랗게 타오르는 산수유 골짜기, 봉긋봉긋 능선을 이룬 삼한시대 고분, 한여름에도 얼음이 어는 신비의 빙계계곡.",
+  "spots": [
+   {
+    "name": "조문국사적지 (금성면 고분군)",
+    "rom": "삼한의 옛 나라가 잠든 고분 능선",
+    "meta": [
+     "🏺 사적 제555호",
+     "🌸 5월 작약",
+     "⏱ 반나절"
+    ],
+    "desc": "금성산 자락 너른 들판에 봉긋한 봉분 수백 기가 능선을 이루며 물결친다. 삼한시대 부족국가 조문국의 도읍이 이곳이었다 전해지고, 5~6세기 무덤에서 금동관과 '의성양식' 토기가 쏟아져 나왔다. 5월이면 고분 사이사이로 붉은 작약이 무리 지어 피어 능선 전체가 꽃밭이 된다.",
+    "todo": [
+     "봉분 사이로 난 산책로 천천히 걷기",
+     "조문국박물관에서 출토 유물 보기",
+     "경덕왕릉 전설 안내판 읽어보기"
+    ],
+    "tip": "5월 작약 개화기가 최고 성수기라 주말엔 이른 오전에 가는 게 좋다. 바로 옆 조문국박물관과 함께 묶으면 반나절이 알차다.",
+    "eat": "의성마늘을 먹여 키운 '마늘소' 한우, 마늘소갈비",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%A0%84%EA%B2%BD_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg/330px-%EC%82%AC%EC%A0%81_%EC%A0%9C555%ED%98%B8_%EC%9D%98%EC%84%B1_%EA%B8%88%EC%84%B1%EB%A9%B4_%EA%B3%A0%EB%B6%84%EA%B5%B0_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC_-_%EA%B8%88%EB%8F%99%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의성 산수유마을 (화전리)",
+    "rom": "3월, 온 골짜기가 노랗게 물드는 곳",
+    "meta": [
+     "🌼 3월 산수유",
+     "💴 무료",
+     "⏱ 반나절"
+    ],
+    "desc": "사곡면 화전리 일대 산비탈을 산수유나무가 골짜기째 가득 메운다. 이른 봄 3월 하순이면 잎보다 먼저 노란 꽃이 터져, 오래된 돌담길과 산자락이 온통 샛노란 물감을 뿌린 듯 물든다. 전국에서 손꼽히는 산수유 대군락지다.",
+    "todo": [
+     "돌담 사이 꽃길 따라 산책",
+     "산수유 축제 기간(대개 3월 말~4월 초) 맞춰 방문",
+     "가을엔 빨갛게 익은 산수유 열매 구경"
+    ],
+    "tip": "개화는 3월 하순~4월 초로 짧고, 해마다 기온 따라 달라진다. 개화 소식을 확인하고 움직이면 헛걸음을 피할 수 있다.",
+    "eat": "산수유차, 산수유 정과"
+   },
+   {
+    "name": "빙계계곡",
+    "rom": "한여름에도 얼음이 어는 신비의 얼음골",
+    "meta": [
+     "❄️ 여름 얼음골",
+     "💴 무료",
+     "⏱ 반나절"
+    ],
+    "desc": "춘산면 빙계리, 맑은 물이 흐르는 계곡이다. 바위틈의 빙혈(얼음골)에서는 한여름에도 찬 기운이 새어 나와 얼음이 얼고, 바로 곁 풍혈에선 서늘한 바람이 분다. 반대로 겨울엔 따뜻한 김이 오르는 온혈이 있어 '자연의 냉장고'라 불린다.",
+    "todo": [
+     "빙혈·풍혈에 손을 대보고 냉기 느끼기",
+     "계곡물에 발 담그기",
+     "빙산사지 오층석탑·빙계서원 둘러보기"
+    ],
+    "tip": "얼음골 냉기는 한여름에 가장 또렷해 여름 피서철에 인기가 많다. 물놀이 채비를 챙기면 좋다.",
+    "eat": "계곡 인근 백숙·토종닭 요리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ui-IceV-IceCave.jpg/500px-Ui-IceV-IceCave.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ui-IceV-Kv1.jpg/500px-Ui-IceV-Kv1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ui-IceV-Kv2.jpg/500px-Ui-IceV-Kv2.jpg"
+    ]
+   },
+   {
+    "name": "의성 탑리리 오층석탑",
+    "rom": "모든 신라 석탑의 출발점이 된 국보",
+    "meta": [
+     "🗿 국보 제77호",
+     "💴 무료",
+     "⏱ 30분"
+    ],
+    "desc": "금성면 탑리리 마을 한복판에 우뚝 선 높이 9.65m의 신라 석탑이다. 1층 몸돌은 목조건물을, 지붕돌은 벽돌탑을 본떠 쌓은 독특한 형태로, 경주 분황사 모전석탑과 더불어 신라 석탑의 가장 이른 원형으로 꼽힌다. 천오백 년 세월을 견딘 돌의 질감이 묵직하다.",
+    "todo": [
+     "목조·전탑 양식이 섞인 층층 구조 살펴보기",
+     "안내판으로 시원(始原)형식의 의미 읽기"
+    ],
+    "tip": "마을 안에 있어 조문국 고분군·박물관과 가깝다. 세 곳을 한 동선으로 묶기 좋다.",
+    "eat": "탑리 장터 인근 국밥·의성마늘 반찬",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg/500px-Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg/120px-Five-story_Stone_Pagoda_at_Tamni-ri_in_Uiseong%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "사촌마을 가로숲·만취당",
+    "rom": "600년 방풍림과 서애 류성룡의 태실 마을",
+    "meta": [
+     "🌳 천연기념물 405호",
+     "🍁 가을 단풍",
+     "⏱ 반나절"
+    ],
+    "desc": "점곡면 사촌리, 고려 말 서쪽 들에서 불어오는 찬바람을 막으려 심은 방풍림 '서림'이 상수리·느티·팽나무 500여 그루로 남아 있다. 수령 300~600년의 고목 사이로, 서애 류성룡이 이 숲의 정기를 받아 태어났다는 전설이 전한다. 마을 안엔 퇴계의 제자 김사원이 세운 누각형 고택 만취당(보물)이 단정하게 앉아 있다.",
+    "todo": [
+     "가로숲 오솔길 따라 걷기",
+     "만취당 누마루와 한석봉 친필 현판 보기",
+     "가을 단풍 든 숲길 거닐기"
+    ],
+    "tip": "가을 단풍철에 숲이 특히 곱다. 만취당은 사람이 사는 고택이니 관람 예절을 지키자.",
+    "eat": "의성마늘·마늘한우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg/500px-%EC%9D%98%EC%84%B1_%EC%82%AC%EC%B4%8C%EB%A6%AC_%EA%B0%80%EB%A1%9C%EC%88%B2_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고운사",
+    "rom": "등운산 자락, 최치원의 이름을 딴 옛 절",
+    "meta": [
+     "🛕 신라 고찰",
+     "🌲 소나무 진입로",
+     "⏱ 반나절"
+    ],
+    "desc": "681년 의상이 창건하고, 신라의 문장가 최치원이 머물며 그의 호 '고운'을 따 이름 지었다는 유서 깊은 절이다. 계곡 위에 다리처럼 걸친 누각 가운루가 명물이었고, 굽은 소나무가 늘어선 진입로가 아름답기로 이름났다. 지장보살 영험 성지 '해동제일지장도량'으로도 불린다.",
+    "todo": [
+     "등운산 소나무 진입로 걷기",
+     "계곡과 어우러진 전각·복원 현장 둘러보기"
+    ],
+    "tip": "2025년 3월 대형 산불로 가운루·연수전 등 주요 전각이 크게 소실돼 복원이 진행 중이다. 방문 전 개방·복원 상황을 꼭 확인할 것.",
+    "eat": "단촌 인근 시골 백반, 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Korea-Andong-Gounsa-01.jpg/500px-Korea-Andong-Gounsa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "제오리 공룡발자국 화석산지",
+    "rom": "1억 년 전 공룡이 지나간 자리",
+    "meta": [
+     "🦕 천연기념물 373호",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "금성면 제오리, 도로공사 중 드러난 너른 바위판에 중생대 백악기 공룡 발자국 300여 개가 또렷이 남아 있다. 초식·육식 공룡이 진흙 위를 걸어간 자국이 1억 년을 건너 그대로 굳었다. 좁은 범위에 발자국이 촘촘히 모여 있어 국내에서 손꼽히는 고밀도 화석 산지로 꼽힌다.",
+    "todo": [
+     "발자국 크기와 보폭 견주어 보기",
+     "안내판으로 공룡 종류 확인하기"
+    ],
+    "tip": "야외 암반이라 비 온 뒤 물이 얕게 고이면 발자국 윤곽이 더 잘 보인다. 그늘이 없어 여름엔 모자와 물을 챙기자.",
+    "eat": "의성마늘소 한우, 마늘 요리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg/500px-%EC%A0%9C%EC%98%A4%EB%A6%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ui-JeoriDino1.jpg/500px-Ui-JeoriDino1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ui-JeoriDinoDK.jpg/500px-Ui-JeoriDinoDK.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "uiwang": {
+  "nm": "의왕",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선 의왕역 또는 4호선 인덕원역, 승용차로는 강남 기준 40분 안팎. 부산에서는 KTX로 광명역까지 온 뒤 전철·버스로 환승한다.",
+  "sep": "봄이 가장 좋다. 왕송호수와 백운호수 둘레길에 벚꽃이 줄지어 피어 물빛과 함께 걷기 좋고, 가을이면 청계사 단풍과 호숫가 억새가 조용한 정취를 더한다.",
+  "mood": "호수 둘, 천년 고찰 하나, 그리고 진짜 증기기관차. 서울 바로 아래에 숨어 있는 조용한 물의 도시.",
+  "see": "왕송호수 둘레길과 레일바이크, 실물 기차가 늘어선 국립 철도박물관, 산이 감싼 백운호수 카페거리.",
+  "spots": [
+   {
+    "name": "왕송호수",
+    "rom": "물길 따라 한 바퀴, 의왕에서 가장 큰 호수",
+    "meta": [
+     "🚶 둘레길 약 4.3km",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃"
+    ],
+    "desc": "1948년에 완성된 큰 인공호수로, 물가를 따라 한 바퀴 도는 나무데크 산책로가 시원하게 이어진다. 봄이면 둘레에 벚꽃이 흐드러지고, 물 위로 철새들이 내려앉아 도심 가까이 있다는 게 믿기지 않을 만큼 한적하다. 자연학습공원과 조류생태과학관이 붙어 있어 아이와 함께 걷기에도 좋다.",
+    "todo": [
+     "둘레길 걷거나 자전거로 한 바퀴",
+     "조류생태과학관에서 물새 관찰",
+     "봄 벚꽃길 산책"
+    ],
+    "tip": "주말과 벚꽃철엔 사람이 많고 주차가 붐빈다. 아침 일찍 가면 호수 물안개와 새를 여유롭게 볼 수 있다.",
+    "eat": "호숫가 카페에서 차 한 잔 하며 물멍하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wangsong_Lake_%282015-02-01%29.JPG/500px-Wangsong_Lake_%282015-02-01%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wangsong_Reservoir_-_360_-_2012-07-26.jpg/960px-Wangsong_Reservoir_-_360_-_2012-07-26.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg/960px-Wangsong_Lake_%282015-05-04%2C_Panorama%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "의왕레일파크",
+    "rom": "왕송호수를 도는 4인승 레일바이크",
+    "meta": [
+     "💴 약 2~3만원(인승별·변동)",
+     "⏱ 한 시간 코스",
+     "👨‍👩‍👧 가족·연인"
+    ],
+    "desc": "왕송호수 둘레를 옛 철길처럼 놓인 레일 위로 페달을 밟으며 도는 레일바이크다. 물가와 벚나무 사이를 천천히 지나며 바람을 맞는 재미가 있어, 걷기보다 편하게 호수 한 바퀴를 즐기고 싶은 사람에게 딱이다. 아이도 어른도 페달만 밟으면 되니 부담 없다.",
+    "todo": [
+     "4인승 빌려 호수 한 바퀴 돌기",
+     "중간 포토존에서 사진"
+    ],
+    "tip": "주말·성수기엔 대기가 길다. 방문 전 운영시간과 예약 가능 여부를 확인하고 가면 좋다."
+   },
+   {
+    "name": "철도박물관",
+    "rom": "실물 증기기관차가 늘어선 국내 유일 철도박물관",
+    "meta": [
+     "💴 입장 약 2,000원(변동)",
+     "⏱ 반나절",
+     "🚂 실물 기차"
+    ],
+    "desc": "1988년에 문을 연 국내 유일의 철도박물관으로, 야외전시장에 미카형·파시형 증기기관차를 비롯한 실물 기차 19량이 그대로 놓여 있다. 커다란 쇠 바퀴와 오래된 객차를 코앞에서 올려다보면 기차를 좋아하는 아이는 물론 어른도 시간 가는 줄 모른다. 실내에는 철도 역사와 모형 디오라마가 가득하다.",
+    "todo": [
+     "야외전시장에서 실물 증기기관차 구경",
+     "옛 객차 안 둘러보기",
+     "철도 모형 디오라마 감상"
+    ],
+    "tip": "매주 월요일과 공휴일 다음날은 휴관한다. 하절기는 오후 6시, 동절기는 오후 5시까지라 오전에 가는 게 여유롭다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/South_Korea_Railway_Museum_230825_01.jpg/500px-South_Korea_Railway_Museum_230825_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg/500px-%EC%B2%A0%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80_%ED%91%9C%EC%A7%80%ED%8C%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/87/Korean_Railroad_SL_Moga1_Model.jpg/500px-Korean_Railroad_SL_Moga1_Model.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "백운호수",
+    "rom": "청계산·백운산이 감싼 물가와 카페거리",
+    "meta": [
+     "🚶 둘레길",
+     "☕ 카페거리",
+     "🌇 노을"
+    ],
+    "desc": "청계산과 백운산 자락에 안긴 저수지로, 산 계곡물이 흘러들어 물이 맑고 주변 풍경이 수려하다. 물가를 따라 카페와 음식점이 늘어서 있어 산책하다 노을 지는 물빛을 보며 차 한 잔 하기 좋다. 최근엔 대형 복합몰 타임빌라스가 들어서 볼거리와 먹거리가 더 풍성해졌다.",
+    "todo": [
+     "호수 둘레 산책로 걷기",
+     "물가 카페에서 노을 감상",
+     "타임빌라스 둘러보기"
+    ],
+    "eat": "예부터 오리백숙·장어구이 같은 보양 음식점이 많고, 전망 좋은 카페가 즐비하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg/500px-%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%9802.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/500px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baegun_Lake_viewpoint_bridge.jpg/120px-Baegun_Lake_viewpoint_bridge.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "청계사",
+    "rom": "청계산 자락에 안긴 천년 고찰",
+    "meta": [
+     "🛕 통일신라 창건",
+     "⏱ 두어 시간",
+     "🍁 가을 단풍"
+    ],
+    "desc": "통일신라 때 창건되어 고려 충렬왕 시절 다시 지은 오래된 절로, 청계산 숲에 폭 안겨 있어 도심에서 가까운데도 깊은 산사의 고요함이 흐른다. 극락보전과 삼성각 등 열 채의 전각이 층층이 자리하고, 보물로 지정된 사인비구 동종이 전해진다. 계단을 오르며 마주하는 숲과 풍경만으로도 마음이 차분해진다.",
+    "todo": [
+     "극락보전과 전각 둘러보기",
+     "청계산 숲길 잠깐 걷기",
+     "가을 단풍철 방문"
+    ],
+    "tip": "산 중턱이라 주차 공간이 넉넉하지 않다. 조용한 사찰이니 예불 시간엔 발걸음을 낮춘다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cheonggyesa_Temple_1.jpg/500px-Cheonggyesa_Temple_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cheonggyesa_Temple_00.jpg/120px-Cheonggyesa_Temple_00.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cheonggyesa_Temple_11.jpg/120px-Cheonggyesa_Temple_11.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "모락산",
+    "rom": "의왕의 전망대라 불리는 도심 속 봉우리",
+    "meta": [
+     "⛰ 385.8m",
+     "⏱ 두어 시간",
+     "🌆 시원한 전망"
+    ],
+    "desc": "높이 385.8m의 아담한 산이지만 주변 조망이 뛰어나 '의왕의 전망대'로 불린다. 정상에 서면 의왕 시가지와 멀리 수원까지 시원하게 펼쳐지고, 능선에는 옛 산성인 모락산성의 흔적이 남아 있다. 여러 등산로가 한 시간 안팎이라 가볍게 오르기 좋아 시민들이 즐겨 찾는다.",
+    "todo": [
+     "정상에서 시가지 조망",
+     "모락산성 능선 걷기"
+    ],
+    "tip": "개나리아파트·계원예술대 후문 등 들머리가 여럿이고 대개 한 시간 코스다. 여름엔 물을 넉넉히 챙긴다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "uljin": {
+  "nm": "울진",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "동해선 철도 개통으로 울진역 이용이 가능해졌고, 자가용이라면 7번 국도를 타고 동해안을 따라 내려간다. 서울 동서울터미널에서 시외버스로 약 4시간, 부산에서는 약 3시간 30분 거리로 수도권에선 멀지만 그만큼 사람에 덜 시달린다.",
+  "sep": "대게 살이 꽉 차는 2~3월이 미식의 절정이라 겨울에 한 번은 와야 한다. 반대로 초록이 짙어지는 늦봄~초여름엔 불영계곡 물빛과 금강송 숲이 가장 고와서, 무엇을 원하느냐에 따라 계절이 갈린다.",
+  "mood": "대게의 원조 마을이자, 동해가 가장 파랗게 부서지는 군. 절벽 위를 달리는 해안 스카이레일과 왕피천이 흘러드는 지하 석회동굴이 한 지역에 다 들어 있다.",
+  "see": "지하금강이라 불리는 성류굴, 바다 위 스카이레일과 스카이워크, 관동팔경 망양정, 그리고 금강송 숲.",
+  "spots": [
+   {
+    "name": "울진 성류굴",
+    "rom": "왕피천이 흘러드는 지하금강",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 1시간",
+     "🕯 사계절 15℃"
+    ],
+    "desc": "천연기념물로 지정된 470m 길이의 석회암 동굴로, 종유석과 석순이 촘촘해 '지하금강'이라 불린다. 굴 안으로 왕피천 물이 흘러들어 만든 지하호수가 조명을 받아 초록빛으로 일렁이는 장면이 압권이다. 밖이 아무리 더워도 내부는 늘 15℃ 안팎이라, 한여름 피서지로도 손에 꼽힌다.",
+    "todo": [
+     "좁고 낮은 구간이 있어 허리 숙여 통과하는 '탐험' 감각 즐기기",
+     "지하호수에 비친 종유석 반영 사진 담기"
+    ],
+    "tip": "바닥이 젖어 미끄러우니 운동화 필수. 좁은 구간이 있어 큰 배낭은 두고 가는 편이 낫다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%84%B1%EB%A5%98%EA%B5%B4.jpg/500px-%EC%84%B1%EB%A5%98%EA%B5%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Seongnyu09.jpg/500px-Seongnyu09.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seongnyu19.jpg/500px-Seongnyu19.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽변 해안스카이레일",
+    "rom": "동해 절벽 위를 천천히 달리는 무인 스카이레일",
+    "meta": [
+     "💴 탑승 약 9,000원",
+     "⏱ 반나절",
+     "🌊 바다 절벽 코스"
+    ],
+    "desc": "죽변항에서 봉수항까지 동해 절벽을 따라 약 2.8km를 천천히 달리는 무인 자동 스카이레일이다. 창밖으로 하트 모양 해변, 죽변등대, 드라마 '폭풍속으로' 세트장이 차례로 지나가 눈이 쉴 틈이 없다. 걷기엔 아깝고 차로는 못 보는 벼랑 위 풍경을, 딱 이 느린 속도로만 볼 수 있다.",
+    "todo": [
+     "전망대에서 하트해변 내려다보기",
+     "청대나무 숲과 어우러진 죽변등대 산책"
+    ],
+    "tip": "성수기 주말엔 탑승권이 일찍 매진되니 오전에 가는 편이 안전하다.",
+    "eat": "죽변항 회센터에서 갓 잡은 붉은대게(홍게)와 물회"
+   },
+   {
+    "name": "등기산 스카이워크",
+    "rom": "바다 위 유리 바닥 전망대",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 후포항 일출"
+    ],
+    "desc": "후포 등기산공원 끝, 바다 쪽으로 뻗은 '바다마중길'을 걸어 유리 바닥 전망대에 서면 발밑으로 바닷물이 그대로 비친다. 드라마 '갯마을 차차차' 촬영지로도 알려진 후포항이 한눈에 들어와, 낮에는 파란 바다, 해 질 녘엔 붉게 물든 포구를 오래 바라보게 된다. 입장료가 없어 부담 없이 들르기 좋다.",
+    "tip": "바다 바람이 강한 날이 많으니 겉옷 한 장 챙기면 좋다. 일출 명소로도 유명하다.",
+    "eat": "후포항 대게·홍게 거리"
+   },
+   {
+    "name": "불영사 · 불영계곡",
+    "rom": "물빛에 부처 그림자가 비치는 산속 절",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "💧 계곡 드라이브"
+    ],
+    "desc": "천축산 깊은 골짜기에 안긴 신라 고찰로, 연못에 산 그림자가 비쳐 부처의 모습 같다 하여 불영사라는 이름이 붙었다. 절로 향하는 15km 불영계곡 길은 맑은 물과 기암이 이어져 그 자체가 드라이브 코스이고, 가을 단풍철엔 온 골짜기가 붉게 물든다. 관광지의 소란과 떨어진, 조용히 걷기 좋은 절이다.",
+    "todo": [
+     "대웅보전 앞 연못에 비친 산 그림자 바라보기",
+     "불영계곡 물소리 들으며 천천히 산책"
+    ],
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buryeongsa.jpg/500px-Buryeongsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "금강소나무 숲길",
+    "rom": "조선 왕실이 지킨 금강송 성지",
+    "meta": [
+     "💴 무료(사전예약)",
+     "⏱ 반나절~하루",
+     "🌲 봄~가을 트레킹"
+    ],
+    "desc": "서면 소광리 일대, 곧게 뻗은 금강송이 하늘을 가리는 숲을 옛 보부상들이 넘던 길 그대로 걷는 코스다. 조선시대엔 '황장봉산'으로 지정돼 함부로 벨 수 없던 왕실의 나무들이라, 수백 년 된 소나무 사이를 지날 때 공기부터 다르다. 생태 보전을 위해 하루 인원을 제한하고 숲해설가와 함께 걷는다.",
+    "tip": "반드시 사전예약해야 입장할 수 있다(당일 방문 불가). 구간별로 4~7시간 걸리니 체력에 맞게 고른다.",
+    "eat": ""
+   },
+   {
+    "name": "망양정",
+    "rom": "관동팔경, 바다를 굽어보는 정자",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🌊 동해 조망"
+    ],
+    "desc": "관동팔경의 하나로, 왕피천이 바다와 만나는 언덕 위에 앉아 탁 트인 동해를 그대로 굽어본다. 예부터 시인 묵객이 찾아 글을 남긴 자리답게, 정자에 올라서면 왜 이곳이 여덟 절경에 들었는지 단번에 이해된다. 아래 왕피천 공원과 이어져 있어 가볍게 걷기에도 좋다.",
+    "tip": "해 뜨는 시간에 맞춰 오르면 정자 너머로 붉게 번지는 바다를 볼 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg/500px-%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "덕구온천",
+    "rom": "땅에서 저절로 솟는 국내 유일 자연용출 온천",
+    "meta": [
+     "💴 입장 약 9,000원",
+     "⏱ 반나절",
+     "♨️ 겨울 보양"
+    ],
+    "desc": "인공으로 데우지 않고 43℃ 물이 땅에서 그대로 솟는, 국내 유일의 자연용출 온천이다. 약알칼리성 온천수가 신경통·근육통에 좋다고 알려져 겨울철 대게 여행과 짝지어 찾는 사람이 많다. 원탕까지 이어지는 계곡 산책로를 걷다 몸을 담그면, 하루의 피로가 통째로 풀린다.",
+    "eat": "온천 나온 뒤 먹는 울진 대게찜 한 상",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Deok-gu_Hot_Spring.jpg/500px-Deok-gu_Hot_Spring.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "ulleung": {
+  "nm": "울릉",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "육지에서 배로만 닿는 섬. 포항·후포(울진)·묵호(강릉)에서 여객선으로 약 2시간 30분~3시간 30분. 서울은 강릉·포항까지 KTX 후 항구에서 배, 부산은 포항·후포에서 배로 갈아탄다.",
+  "sep": "5~6월과 9~10월이 좋다. 여름 성수기(7~8월)는 붐비고, 겨울은 높은 파도로 결항이 잦다. 봄가을은 바다가 비교적 잔잔해 배 뜰 확률이 높고 초록과 단풍이 깊다.",
+  "mood": "화산이 통째로 솟아 만든 절벽의 섬. 파도에 갇힌 만큼 아직 사람 손을 덜 탄, 육지에선 볼 수 없는 초록과 바위의 나라.",
+  "see": "성인봉 원시림, 나리분지, 봉래폭포, 다리로 건너는 관음도, 배로만 닿는 죽도와 독도, 저동항 촛대바위 일출.",
+  "spots": [
+   {
+    "name": "성인봉",
+    "rom": "울릉도 지붕에 오르는 원시림 길",
+    "meta": [
+     "⛰️ 해발 984m",
+     "⏱ 왕복 4~5시간",
+     "🌲 원시림·천연기념물"
+    ],
+    "desc": "울릉도에서 가장 높은 성인봉은 화산이 쌓아 올린 섬의 지붕이다. 도동에서 오르면 너도밤나무·섬단풍이 우거진 원시림 사이로 안개가 흐르고, 정상에 서면 발아래로 나리분지의 초록 분화구와 사방의 바다가 한꺼번에 펼쳐진다. 육지의 산과는 공기부터 다른, 섬 한가운데의 정적이 있다.",
+    "todo": [
+     "도동 코스로 올라 나리분지로 내려오는 종주",
+     "정상에서 분지와 바다 조망"
+    ],
+    "tip": "등산화 필수. 안개·비가 잦으니 미끄럼 주의하고, 이른 아침 출발이 좋다.",
+    "eat": "하산 후 나리분지에서 산채비빔밥과 씨껍데기술",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ulleung_island_from_above.jpg/500px-Ulleung_island_from_above.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "나리분지",
+    "rom": "울릉도 유일의 평지, 화산이 남긴 분화구",
+    "meta": [
+     "🌾 섬 유일 평지",
+     "🏔️ 칼데라 분지",
+     "🍲 산채·투막집"
+    ],
+    "desc": "절벽뿐인 울릉도에서 유일하게 하늘이 넓게 열리는 곳. 성인봉 북쪽, 화산이 무너져 만든 칼데라 안에 밭과 억새가 펼쳐진다. 울릉도 사람들이 가장 먼저 터를 잡은 마을이라 너와를 얹은 투막집이 남아 있고, 사방을 둘러싼 산등성이가 이 평지를 조용히 품는다.",
+    "todo": [
+     "억새밭과 투막집 둘러보기",
+     "산채정식 맛보기"
+    ],
+    "eat": "명이나물·부지깽이 등 울릉 산채가 가득한 산채비빔밥, 씨껍데기술"
+   },
+   {
+    "name": "봉래폭포",
+    "rom": "일 년 내내 마르지 않는 3단 폭포",
+    "meta": [
+     "💧 3단·높이 약 25m",
+     "💴 소액 입장료",
+     "❄️ 천연 에어컨 풍혈"
+    ],
+    "desc": "저동에서 성인봉 쪽으로 오르는 계곡 끝에 세 단으로 쏟아지는 폭포가 있다. 물이 마르는 법이 없어 사철 우렁찬 소리가 숲을 채운다. 폭포로 가는 길목의 풍혈은 바위틈에서 찬 바람이 새어 나오는 천연 냉장고라, 한여름에도 서늘한 공기가 온몸을 감싼다.",
+    "todo": [
+     "풍혈에서 찬 바람 쐬기",
+     "전망대에서 3단 폭포 보기"
+    ],
+    "tip": "입구에서 폭포까지 완만한 데크길로 약 15~20분. 입장료는 변동될 수 있으니 현장에서 확인.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KOCIS_Bongnae_Waterfall_%284925986942%29.jpg/500px-KOCIS_Bongnae_Waterfall_%284925986942%29.jpg"
+    ]
+   },
+   {
+    "name": "관음도",
+    "rom": "다리 건너 걸어 들어가는 초록 섬",
+    "meta": [
+     "🌉 보행연도교",
+     "🌊 바다 전망 최고",
+     "⏱ 반나절"
+    ],
+    "desc": "울릉도 북동쪽 끝, 본섬과 100여 미터 떨어진 무인도를 이제는 다리로 건너 걸어 들어간다. 섬을 한 바퀴 도는 산책로에 오르면 발아래로 짙푸른 바다가 아찔하게 펼쳐지고, 현지 사람들이 '울릉도 바다는 여기서 봐야 한다'고 말하는 이유를 눈으로 알게 된다.",
+    "todo": [
+     "연도교 건너 섬 한 바퀴 산책",
+     "전망 포인트에서 삼선암 조망"
+    ],
+    "tip": "바람이 강한 날이 많다. 데크 계단이 있어 편한 신발 권장.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ulleung_Gwaneumdo_2020OCT.jpg/500px-Ulleung_Gwaneumdo_2020OCT.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Administrative_Map_of_Uleung_Gun.png/500px-Administrative_Map_of_Uleung_Gun.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽도",
+    "rom": "배로만 닿는, 대나무와 더덕의 섬",
+    "meta": [
+     "⛴️ 배로만 진입",
+     "🎋 대나무 섬",
+     "🥬 명물 더덕"
+    ],
+    "desc": "울릉도 동북쪽 바다에 떠 있는 작은 섬. 도동·저동에서 배로 건너가 가파른 나선형 계단을 오르면, 온통 대나무와 더덕밭으로 덮인 평평한 섬 위가 나온다. 한 가족이 더덕 농사를 지으며 사는 이 고요한 섬은 사방이 절벽이라, 정상 산책로 어디서든 바다가 끝없이 열린다.",
+    "todo": [
+     "나선형 계단 오르기",
+     "더덕밭 산책로 걷기"
+    ],
+    "tip": "배편이 날씨에 좌우된다. 입도 인원·시간이 제한될 수 있어 사전 확인 필수.",
+    "eat": "죽도 더덕으로 만든 더덕구이·더덕무침",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ulleung_Jukdo_OCT2020.jpg/500px-Ulleung_Jukdo_OCT2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "독도",
+    "rom": "동해 끝, 마음으로 가는 섬",
+    "meta": [
+     "⛴️ 왕복 약 4시간",
+     "🌊 접안 날씨 의존",
+     "🇰🇷 우리 땅"
+    ],
+    "desc": "울릉도에서 약 87km 떨어진 동해의 끝. 여객선을 타고 두 시간 남짓 바다를 가르면, 사진으로만 보던 동도와 서도의 검은 바위가 눈앞에 우뚝 선다. 접안이 허락되는 날엔 20여 분 섬을 밟아볼 수 있는데, 그 짧은 시간이 오래도록 마음에 남는다.",
+    "todo": [
+     "접안 시 선착장에서 동도·서도 바라보기",
+     "괭이갈매기 무리 보기"
+    ],
+    "tip": "파도가 높으면 접안 없이 회항한다. 방문 인증서를 받아두면 기념이 된다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dokdo_Photo.jpg/500px-Dokdo_Photo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dokdo_Map_Ko.PNG/500px-Dokdo_Map_Ko.PNG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Location-of-Liancourt-rocks-ko.png/500px-Location-of-Liancourt-rocks-ko.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "저동항 촛대바위",
+    "rom": "오징어잡이 불빛과 촛대 위로 뜨는 해",
+    "meta": [
+     "🌅 일출 명소",
+     "🦑 오징어 야경",
+     "📷 효녀바위 전설"
+    ],
+    "desc": "울릉도의 대표 어항인 저동항 방파제 곁에 촛대를 세운 듯한 바위가 솟아 있다. 아버지를 기다리다 바위가 되었다는 효녀바위 전설이 서린 곳으로, 새벽이면 이 바위 뒤로 붉은 해가 떠올라 사람들이 카메라를 든다. 밤에는 오징어잡이 배의 집어등이 바다를 환히 밝혀, 낮과 밤의 얼굴이 전혀 다르다.",
+    "todo": [
+     "새벽 촛대바위 일출 보기",
+     "밤 오징어잡이 어화 야경 감상"
+    ],
+    "eat": "저동항 근처 오징어 물회, 따개비밥·홍합밥, 독도새우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jeodong_Fishing_Port_OCT2020.jpg/500px-Jeodong_Fishing_Port_OCT2020.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "ulsan": {
+  "nm": "울산",
+  "region": "🏔️ 경상 · 울산광역시",
+  "route": "서울→울산 KTX 약 2시간 10분(울산역=언양, 시내까지 리무진 30~40분) · 부산에서 광역전철·시외버스로 1시간 내외 · 명소가 넓게 흩어져 있어 렌터카·택시가 편하다",
+  "sep": "10월 중순~말 영남알프스 억새가 절정 · 여름엔 십리대숲이 짙푸르고 겨울 간절곶은 전국 해맞이 명소 · 동해 일출은 사철 좋다",
+  "mood": "'공업도시'라는 첫인상 뒤에, 7천 년 전 고래를 새긴 바위와 은빛으로 물결치는 억새 능선, 한반도에서 해가 가장 먼저 닿는 곶이 숨어 있다",
+  "see": "선사시대 고래 암각화·도심 속 십리대숲·억새 물결 영남알프스·동해 일출 명소·고래잡이 옛 항구",
+  "spots": [
+   {
+    "name": "대왕암공원",
+    "rom": "동해로 뻗은 붉은 바위와 국내 최장급 출렁다리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 일출 명소",
+     "🌉 출렁다리"
+    ],
+    "desc": "동해로 삐죽 뻗은 붉은 화강암 무리 위로 소나무가 뿌리내린 울산 동구의 바다 공원. 문무대왕비가 죽어 용이 되어 이 바위 아래 잠겼다는 전설이 전한다. 100년 넘은 해송숲을 지나 하얀 울기등대를 끼고 걷다 보면, 갯바위 사이로 출렁이는 짙푸른 바다와 국내 최장급 출렁다리가 나타난다. 아침 일출 때가 가장 붉고 벅차다.",
+    "todo": [
+     "해송숲길 산책 후 울기등대 보기",
+     "출렁다리 건너 갯바위 절경 감상",
+     "이른 아침 일출 맞이"
+    ],
+    "tip": "주차·입장 무료. 출렁다리는 바람 강한 날 통제될 수 있다. 일산해수욕장이 바로 옆이라 함께 묶기 좋다.",
+    "eat": "일산동 바닷가 물회·해산물, 동구 대게",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/500px-KU-Dwa2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daewangam_Park.jpg/500px-Daewangam_Park.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Daewangam_Park02.jpg/500px-Daewangam_Park02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "간절곶",
+    "rom": "한반도 육지에서 해가 가장 먼저 뜨는 곳",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌅 겨울 해맞이",
+     "💌 소망우체통"
+    ],
+    "desc": "한반도 육지에서 해가 가장 먼저 떠오르는 곶. 포항 호미곶보다 1분, 강릉 정동진보다 5분 빠르다고 한다. 낮은 잔디 언덕 위에 하얀 팔각 등대와 사람 키를 훌쩍 넘는 대형 '소망우체통'이 서 있고, 발밑으로 탁 트인 동해가 펼쳐진다. 연말연시엔 전국에서 해맞이 인파가 몰린다.",
+    "todo": [
+     "등대 앞에서 수평선 일출 맞이",
+     "소망우체통에 엽서 부치기",
+     "해안 산책로 걷기"
+    ],
+    "tip": "무료. 겨울 해돋이는 7시대에 떠 접근이 오히려 편하다. 12/31~1/1 해맞이 축제 때는 매우 붐빈다.",
+    "eat": "서생 간절곶 인근 붕장어·회, 서생 배",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg/500px-Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg"
+    ]
+   },
+   {
+    "name": "태화강 국가정원 (십리대숲)",
+    "rom": "도심을 가로지르는 대숲과 대한민국 두 번째 국가정원",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🎋 여름 대숲",
+     "✨ 밤 은하수길"
+    ],
+    "desc": "울산 도심 한복판을 흐르는 태화강 변에 조성된, 순천만에 이어 대한민국 두 번째 국가정원. 백미는 '십리대숲' — 강을 따라 십 리(약 4km)에 걸쳐 이어지는 대나무 숲길이다. 바람이 지날 때마다 사각이는 댓잎 소리를 들으며 걷다 보면 도시라는 걸 잊는다. 여름엔 짙푸른 그늘이, 밤엔 은하수길 조명과 계절 꽃정원이 반긴다.",
+    "todo": [
+     "십리대숲 대나무길 걷기",
+     "밤 조명 '은하수길' 산책",
+     "계절별 꽃정원·생태숲 구경"
+    ],
+    "tip": "무료·연중 개방. 도심이라 접근이 쉽다. 여름 대숲은 시원하지만 모기 대비. 태화강역·시내에서 가깝다.",
+    "eat": "울산 시내 언양·봉계 한우, 태화강변 카페",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/70/Mugeocheon.JPG/500px-Mugeocheon.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9c/Ulsan_Taehwagang_observatory.JPG/500px-Ulsan_Taehwagang_observatory.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Taehwa_River.jpg/500px-Taehwa_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "울주 대곡리 반구대 암각화",
+    "rom": "7천 년 전 고래를 새긴 바위, 유네스코 세계유산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🗿 선사시대 국보",
+     "🌏 세계유산"
+    ],
+    "desc": "7천 년 전 선사인이 대곡천 절벽에 고래 사냥 장면을 새긴 국보. 작살 맞은 고래, 새끼를 업은 고래, 배와 사냥꾼까지 300점 넘는 그림이 절벽 바위면 가득 새겨져 있다. 세계에서 가장 오래된 포경 기록으로 꼽히며, 2025년 인근 천전리 각석과 함께 '반구천의 암각화'로 유네스코 세계유산에 올랐다. 강 건너편에서 망원경으로 마주하는 그 아득함이 오히려 깊게 남는다.",
+    "todo": [
+     "전망대 망원경으로 암각화 관찰",
+     "반구대암각화박물관 실물 크기 모형 보기",
+     "천전리 각석까지 둘러보기"
+    ],
+    "tip": "무료. 암각화는 강 건너라 육안으론 작게 보이니 망원경·박물관 모형을 함께 본다. 물에 잠기는 시기엔 안 보일 수 있다. 주차장에서 숲길을 걸어 들어간다.",
+    "eat": "언양 불고기·봉계 한우(차로 20분)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/500px-Bangudae3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg/500px-Amlou2518_%EC%9A%B8%EC%A3%BC_%EB%8C%80%EA%B3%A1%EB%A6%AC_%EB%B0%98%EA%B5%AC%EB%8C%80_%EC%95%94%EA%B0%81%ED%99%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg/250px-Bangudae_Petroglyphs_%28replica%29_IMG_20161005_093305.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영남알프스 (신불산·간월재)",
+    "rom": "가을이면 은빛으로 물결치는 억새 능선",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 하루 산행",
+     "🍂 가을 억새",
+     "🥾 간월재 트레킹"
+    ],
+    "desc": "울주 남서쪽, 해발 1,000m 넘는 봉우리 아홉이 유럽 알프스처럼 늘어서 '영남알프스'라 불린다. 신불산과 간월산 사이 해발 900m 고갯마루 '간월재'는 가을이면 온통 은빛 억새로 뒤덮인다. 능선 가득 물결치는 억새 사이로 해가 기울면 온 들판이 붉게 타오른다. 울산에서 가장 벅찬 가을 풍경이다.",
+    "todo": [
+     "간월재 억새평원에서 능선 조망",
+     "신불산 정상 억새길 종주",
+     "해질녘 붉게 물든 억새 감상"
+    ],
+    "tip": "억새는 10월 중순~말이 절정. 간월재는 임도 트레킹(왕복 3~4시간)이라 등산화 필수. 가을 주말엔 등산객이 크게 몰린다. 배내고개·간월산자연휴양림 쪽에서 오른다.",
+    "eat": "언양 미나리·불고기, 배내골 산채정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장생포 고래문화마을",
+    "rom": "한때 고래잡이 배가 드나들던 옛 포구",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "🐋 고래박물관",
+     "👨‍👩‍👧 아이 동반"
+    ],
+    "desc": "1970년대까지 고래잡이 배가 드나들던 울산의 옛 포구. 지금은 고래를 잡던 시절 대신 고래를 기억하는 마을이 됐다. 그 시절 선원마을을 재현한 골목, 고래 뼈와 이야기가 담긴 고래박물관, 살아있는 돌고래를 보는 생태체험관, 그리고 언덕을 오르는 모노레일이 바다를 내려다본다. 아이와 함께 걷기 좋다.",
+    "todo": [
+     "고래박물관·생태체험관 관람",
+     "옛 선원마을 골목 산책",
+     "모노레일 타고 언덕에서 바다 조망"
+    ],
+    "tip": "고래문화마을 약 3,000원, 고래박물관 약 2,000원, 생태체험관 약 5,000원(통합권이 유리·변동가능). 대개 오전 9시~오후 6시(입장 5시반 마감). 시설별 휴관일이 있어 확인 필요.",
+    "eat": "장생포 고래고기(향토)·해물, 남구 삼산 먹자골목",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/7a/%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/500px-%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
+    ]
+   },
+   {
+    "name": "울산대교 전망대",
+    "rom": "공단의 불빛과 바다를 한눈에 담는 63m 전망대",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🌃 야경 명소",
+     "🌉 현수교 조망"
+    ],
+    "desc": "동구 화정산 위에 선 높이 63m 전망대. 발아래로 국내 최장급 현수교 울산대교가 바다를 가로지르고, 그 너머로 조선소·석유화학 공단과 동해, 울산의 일곱 명산이 한 프레임에 담긴다. 해 질 무렵 공단에 하나둘 불이 켜지면 '공업도시 울산'이 오히려 가장 아름다워지는 순간이 온다.",
+    "todo": [
+     "전망대에서 울산대교·공단 파노라마 조망",
+     "해 질 녘~야경 시간대 방문",
+     "염포산 둘레길과 연계 산책"
+    ],
+    "tip": "무료. 야경이 백미라 일몰 전후가 가장 좋다. 차로 올라가며, 방문 전 전망대 운영시간을 확인한다. 대왕암공원과 같은 동구라 묶기 좋다.",
+    "eat": "동구 방어진 회·물회, 꽃바위 해산물",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ulsan_Bridge_over_the_Taehwa_River.jpg/500px-Ulsan_Bridge_over_the_Taehwa_River.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "wando": {
+  "nm": "완도",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 남부터미널에서 완도행 고속버스 약 5시간 30분 / KTX 나주역 하차 후 버스 환승 / 부산에서 남해고속도로 약 4시간. 청산도·보길도는 완도항·화흥포항에서 배로 들어간다.",
+  "sep": "4~5월. 청산도 언덕이 노란 유채와 초록 청보리로 물결치고 슬로걷기축제가 열리는 때. 여름엔 명사십리 물놀이, 가을엔 완도수목원 난대림 단풍도 좋다.",
+  "mood": "육지의 끝이 아니라 섬들의 시작. 배를 타고 들어가면 시간이 천천히 느려지는 곳.",
+  "see": "느림의 섬 청산도, 윤선도의 낙원 보길도, 우리나라 유일의 난대림 수목원과 파도가 다듬은 아홉 계단 자갈해변.",
+  "spots": [
+   {
+    "name": "청산도",
+    "rom": "아시아 최초 슬로시티, 느림의 섬",
+    "meta": [
+     "⛴ 완도항서 배 약 50분",
+     "⏱ 하루",
+     "🌸 4월 유채·슬로걷기축제"
+    ],
+    "desc": "배에서 내리면 노란 유채와 초록 청보리가 언덕을 덮고, 돌담 두른 구들장 논이 계단처럼 이어진다. 영화 '서편제'에서 소리꾼이 진도아리랑을 부르며 걸어 내려오던 그 황톳길이 여기다. 걸음을 늦추는 순간 섬 전체가 천천히 다가온다.",
+    "todo": [
+     "서편제 촬영지 황톳길 걷기",
+     "슬로길 따라 완만한 언덕 넘기",
+     "범바위에서 나침반이 돌아가는 신비 체험"
+    ],
+    "tip": "완도항에서 차량을 실을 수 있는 배가 하루 5회 정도. 성수기·주말엔 차량 선적 예약이 빨리 마감되니 미리 예매한다. 섬 안 순환버스나 자전거 대여도 있다.",
+    "eat": "전복·톳·바다장어 정식, 청산도 막걸리 한 잔.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cheongsando2.jpg/500px-Cheongsando2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보길도 윤선도 원림",
+    "rom": "윤선도가 어부사시사를 지은 낙원",
+    "meta": [
+     "⛴ 배 이동",
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "📜 명승 제34호"
+    ],
+    "desc": "병자호란을 피해 제주로 가던 고산 윤선도가 절경에 반해 눌러앉은 섬. 세연정 앞 맑은 연못엔 정자 그림자가 어리고, 그는 이곳에서 '어부사시사'를 읊었다. 낙서재에서 책을 읽고 동천석실에 올라 섬을 굽어보던 조선 선비의 은둔 낙원이 그대로 남아 있다.",
+    "todo": [
+     "세연정 연못가에서 판석보 물길 보기",
+     "가장 높은 동천석실 올라 부용동 내려다보기",
+     "낙서재에서 윤선도의 은거 흔적 더듬기"
+    ],
+    "tip": "완도 화흥포항이나 노화도를 경유해 배를 타고 들어간다. 섬 안은 차로 도는 게 편하고, 예송리 갯돌해변도 함께 묶으면 좋다.",
+    "eat": "전복죽과 갯것 정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%EC%84%B8%EC%97%B0%EC%A0%95.jpg/500px-%EC%84%B8%EC%97%B0%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bogildo_nakseojae.jpg/500px-Bogildo_nakseojae.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "완도수목원",
+    "rom": "우리나라 유일의 난대림 수목원",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 반나절",
+     "🌿 상록활엽수림",
+     "🍁 가을 단풍"
+    ],
+    "desc": "겨울에도 잎이 지지 않는 상록활엽수 숲. 동백나무, 후박나무, 구실잣밤나무가 하늘을 가리는 초록 터널 아래를 걷는다. 우리나라 유일의 난대수목원으로, 아열대온실과 전문 정원들이 산자락을 따라 펼쳐진다.",
+    "todo": [
+     "상록활엽수 자생림 산책로 걷기",
+     "아열대온실에서 이국적인 식물 구경",
+     "전망대에서 다도해 조망"
+    ],
+    "tip": "규모가 넓어 걷는 코스를 미리 정하는 게 좋다. 겨울~초봄엔 동백이, 가을엔 단풍이 볼만하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wando_arboretum1.jpg/500px-Wando_arboretum1.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wando_arboretum.jpg/500px-Wando_arboretum.jpg"
+    ]
+   },
+   {
+    "name": "정도리 구계등",
+    "rom": "파도가 다듬은 아홉 계단 자갈해변",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌊 명승 제3호",
+     "🌅 노을"
+    ],
+    "desc": "모래가 아니라 둥근 청돌이 깔린 해변. 파도가 밀려왔다 빠질 때 자갈이 서로 부딪히며 자르르 구르는 소리가 난다. 물속으로 아홉 계단처럼 층을 이룬다 해서 구계등, 뒤로는 상록수 방풍림이 병풍처럼 섰다.",
+    "todo": [
+     "파도에 자갈 구르는 소리 듣기",
+     "방풍림 숲길 산책",
+     "노을 질 때 몽돌밭 걷기"
+    ],
+    "tip": "자갈(청돌)은 명승 보호구역이라 가져가면 안 된다. 몽돌밭이라 편한 신발이 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%99%84%EB%8F%84_%EC%A0%95%EB%8F%84%EB%A6%AC_%EA%B5%AC%EA%B3%84%EB%93%B1_%EC%82%AC%EC%A7%84.jpg/500px-%EC%99%84%EB%8F%84_%EC%A0%95%EB%8F%84%EB%A6%AC_%EA%B5%AC%EA%B3%84%EB%93%B1_%EC%82%AC%EC%A7%84.jpg"
+    ]
+   },
+   {
+    "name": "청해진 유적 (장도)",
+    "rom": "해상왕 장보고의 바다 요새",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "📜 사적 제308호",
+     "🚶 목교 도보"
+    ],
+    "desc": "통일신라 흥덕왕 때 장보고가 세운 해상무역 거점. 완도 본섬과 180m 목교로 이어진 작은 섬 장도에 토성과 우물, 제사터가 발굴돼 있다. 다리를 건너 섬을 한 바퀴 돌면, 동아시아 바다를 호령하던 천 년 전 청해진의 자취가 발밑에 있다.",
+    "todo": [
+     "목교 건너 장도 한 바퀴 돌기",
+     "발굴된 토성·우물터 살펴보기",
+     "인근 장보고기념관에서 해상무역사 보기"
+    ],
+    "tip": "장보고기념관·청해포구 세트장이 근처에 함께 있어 묶어 보기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chunghaejin_02.jpg/500px-Chunghaejin_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chunghaejin_03.jpg/120px-Chunghaejin_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chunghaejin_04.jpg/120px-Chunghaejin_04.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "신지 명사십리 해수욕장",
+    "rom": "4km 백사장, 남해안 대표 해변",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🏖 여름 물놀이",
+     "🌉 신지대교"
+    ],
+    "desc": "신지대교를 건너면 나오는 4km 가까운 백사장. 고운 울모래를 밟으면 뽀드득 소리가 난다 해서 우는 모래, 명사(鳴沙)다. 경사가 완만하고 물이 맑아 여름이면 가족 단위 피서객으로 붐빈다.",
+    "todo": [
+     "긴 백사장 맨발로 걷기",
+     "여름 해수욕·물놀이",
+     "해변 솔숲에서 쉬기"
+    ],
+    "tip": "완도 본섬에서 신지대교로 차로 바로 연결돼 접근이 쉽다. 여름 성수기엔 주차가 붐빈다.",
+    "eat": "해변 근처 회·조개구이.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sinji_beach.jpg/500px-Sinji_beach.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "완도타워",
+    "rom": "다도해 일몰과 완도항 야경 전망대",
+    "meta": [
+     "💴 전망대 약 3,000원",
+     "⏱ 1~2시간",
+     "🌅 일몰",
+     "🌃 야경"
+    ],
+    "desc": "완도읍이 내려다보이는 동망산 다도해일출공원 위 전망대. 통유리 너머로 완도항과 크고 작은 섬들이 흩뿌려진 다도해가 한눈에 담긴다. 해질녘이면 바다가 붉게 물들고, 밤에는 완도대교와 항구의 불빛이 반짝인다.",
+    "todo": [
+     "전망대에서 다도해 일몰 보기",
+     "완도항·완도대교 야경 감상",
+     "주변 다도해일출공원 산책로 걷기"
+    ],
+    "tip": "차로 정상까지 오를 수 있다. 일몰 시간에 맞춰 가면 노을과 야경을 함께 볼 수 있다.",
+    "eat": ""
+   }
+  ]
+ },
+ "wanju": {
+  "nm": "완주",
+  "region": "🌾 전라 · 전북특별자치도",
+  "route": "서울에서 KTX로 전주역·익산역까지 온 뒤 완주는 차로 20~40분. 자가용은 호남고속도로 삼례IC·소양IC로 빠진다. 전주 여행에 하루 얹기 딱 좋은 위치.",
+  "sep": "가을(10월 말~11월 초)이 절정. 대둔산 단풍과 화암사 계곡이 붉게 물든다. 봄엔 송광사 벚꽃길이 터널을 이룬다.",
+  "mood": "전주 바로 옆인데 사람은 훨씬 적다. 깊은 계곡 철계단 끝에서 '잘 늙은 절' 한 채를 만나러 가는, 조용한 산과 사찰의 고장.",
+  "see": "국보 목조건축을 품은 화암사·송광사, 명승 위봉폭포, 대둔산 구름다리, 그리고 옛 양곡창고를 고친 근대 예술촌.",
+  "spots": [
+   {
+    "name": "화암사",
+    "rom": "계곡 철계단 끝에 숨은 국보의 절",
+    "meta": [
+     "🏛 국보 극락전",
+     "⏱ 반나절",
+     "🍂 가을 단풍"
+    ],
+    "desc": "불명산 깊은 골짜기, 주차장에 차를 세우고 계곡을 따라 놓인 좁은 철제 계단을 오르면 그 끝에 절이 나타난다. 요란한 단청도 큰 대웅전도 없이, 극락전(국보 제316호)과 우화루가 낮게 앉아 있다. 화려하지 않아서 오히려 오래 마음에 남는, '잘 늙은 절'이라 불리는 곳이다.",
+    "todo": [
+     "극락전 처마 밑 하앙식 공포 뜯어보기",
+     "우화루 마루에 앉아 계곡 소리 듣기",
+     "진입 계곡 물길 따라 천천히 걷기"
+    ],
+    "tip": "주차장에서 절까지 도보 15~20분, 마지막 구간이 계곡 옆 철계단이라 비 온 뒤엔 미끄럽다. 운동화 권장.",
+    "eat": "경천저수지 인근 산채·백반집에서 소박한 시골 한 상.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/316_Geungnakjeon_hall_of_Hwaeomsa.jpg/500px-316_Geungnakjeon_hall_of_Hwaeomsa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "완주 송광사",
+    "rom": "봄이면 벚꽃 터널이 되는 평지 사찰",
+    "meta": [
+     "🏛 보물 대웅전",
+     "🌸 봄 벚꽃길",
+     "⏱ 두어 시간"
+    ],
+    "desc": "산을 오르지 않아도 되는, 드물게 평지에 자리한 큰 절이다. 웅장한 대웅전(보물 제1243호) 안에는 소조석가여래삼불좌상(국보)이 모셔져 있고, 천장엔 공양을 올리는 비천상이 떠 있다. 봄이면 절로 드는 길 양옆이 온통 벚꽃 터널이 되어, 완주에서 가장 사랑받는 봄 산책길이 된다.",
+    "todo": [
+     "대웅전 안 삼불좌상과 천장 비천상 올려다보기",
+     "십자 모양 종루(종각) 한 바퀴 돌기",
+     "봄 벚꽃길에서 천천히 걷기"
+    ],
+    "tip": "입장료 없이 둘러볼 수 있다. 벚꽃 절정(4월 초)엔 주말 진입로가 붐비니 이른 오전이 여유롭다.",
+    "eat": "소양면 오성한옥마을 카페거리가 차로 5분 거리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg/500px-%EC%86%A1%EA%B4%91%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84_4%EC%9B%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "위봉산성·위봉폭포",
+    "rom": "임금의 어진을 지키려 쌓은 산성과 60m 폭포",
+    "meta": [
+     "🏞 명승 폭포",
+     "🏯 조선 산성",
+     "🚗 드라이브"
+    ],
+    "desc": "조선시대, 전주 경기전에 모신 태조의 어진과 위패를 유사시 이곳으로 옮겨 지키려고 험한 능선에 성을 쌓았다. 그 아래로는 60m 높이의 2단 폭포가 깊은 계곡으로 쏟아진다. 판소리 명창 권삼득이 목을 틔우려 소리 연습을 했다는 곳으로, 물소리와 숲이 함께 우렁차다.",
+    "todo": [
+     "위봉산성 성문(서문) 앞에서 옛 방어선 그려보기",
+     "전망대에서 2단 폭포 물줄기 내려다보기",
+     "소양~위봉 고갯길 단풍 드라이브"
+    ],
+    "tip": "송광사 → 오성한옥마을 → 위봉산성 → 위봉폭포로 이어지는 고갯길 드라이브 코스로 묶으면 좋다. 폭포는 갈수기엔 수량이 준다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg/500px-%EC%9C%84%EB%B4%89%EC%82%B0%EC%84%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wibong_Falls_in_Wanju.jpg/500px-Wibong_Falls_in_Wanju.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "대둔산",
+    "rom": "케이블카와 구름다리로 오르는 호남의 금강",
+    "meta": [
+     "🚡 케이블카",
+     "🌉 금강구름다리",
+     "🍁 가을 단풍"
+    ],
+    "desc": "완주·논산·금산에 걸친 기암괴석의 산으로, '호남의 금강산'이라 불린다. 케이블카로 중턱까지 오르면 바위 봉우리 사이를 잇는 아찔한 금강구름다리와, 하늘로 곧게 솟은 삼선계단이 기다린다. 가을이면 붉은 단풍이 회색 바위를 감싸 사진마다 그림이 된다.",
+    "todo": [
+     "케이블카 타고 구름다리 구간까지 오르기",
+     "금강구름다리 건너 삼선계단 도전",
+     "정상 마천대에서 사방 능선 조망"
+    ],
+    "tip": "삼선계단은 급경사 일방통행이라 체력·고소공포 감안. 단풍 절정 주말엔 케이블카 대기가 길다.",
+    "eat": "대둔산 입구 식당촌의 산채비빔밥·도토리묵."
+   },
+   {
+    "name": "삼례문화예술촌",
+    "rom": "일제강점기 양곡창고가 예술 마을로",
+    "meta": [
+     "🏭 근대 양곡창고",
+     "🎨 미술관·책방",
+     "⏱ 두어 시간"
+    ],
+    "desc": "일제강점기에 이 땅의 쌀을 실어 나르려 지은 커다란 양곡창고들이, 지금은 미술관과 목공소, 책방으로 다시 태어났다. 낡은 벽돌과 나무 트러스는 그대로 두고 안만 채워, 아픈 역사를 지우지 않은 채 문화 공간이 되었다. 걷다 보면 창고 한 채 한 채가 각기 다른 전시로 이어진다.",
+    "todo": [
+     "옛 창고 구조 그대로 살린 전시관 둘러보기",
+     "책마을(북 갤러리)에서 오래 머물기",
+     "붉은 벽돌 외관 배경으로 사진 담기"
+    ],
+    "tip": "완주 주민은 무료입장. 삼례읍 기차역·비비정과 가까워 반나절 코스로 묶기 좋다.",
+    "eat": "삼례읍내 빵집·백반집, 그리고 근처 비비정 한우."
+   },
+   {
+    "name": "오성한옥마을",
+    "rom": "종남산 아래 한옥 스테이와 갤러리 마을",
+    "meta": [
+     "🏡 한옥 스테이",
+     "☕ 갤러리·카페",
+     "🌿 소양면"
+    ],
+    "desc": "종남산 자락, 위봉산성 가는 길목에 한옥들이 모여 작은 마을을 이룬다. 그중 아원고택은 오래된 한옥에 현대미술을 들여, 마루에 앉아 차 한 잔을 마시며 산 능선을 액자처럼 바라보는 곳으로 알려졌다. 붐비지 않는 완주에서 가장 '머물고 싶은' 동네다.",
+    "todo": [
+     "한옥 마루에 앉아 종남산 능선 바라보기",
+     "고택 갤러리에서 옛집과 현대미술 함께 보기",
+     "마을 카페에서 느리게 쉬어가기"
+    ],
+    "tip": "아원고택 등 일부 고택은 예약·유료 입장(음료 포함) 방식이니 방문 전 확인. 송광사·위봉산성과 묶어 돌기 좋다.",
+    "eat": "마을 안팎 한옥 카페와 소양면 로컬 식당."
+   },
+   {
+    "name": "비비정",
+    "rom": "만경강 옛 철교 위의 노을과 예술열차",
+    "meta": [
+     "🌅 만경강 노을",
+     "🚂 예술열차",
+     "⏱ 한두 시간"
+    ],
+    "desc": "만경강이 넓게 휘도는 강가에 오래된 정자 비비정이 서 있고, 그 옆 폐선된 철교 위에는 옛 기차 객차를 고쳐 만든 '비비정예술열차'가 놓여 있다. 강물 위 철교에서 마시는 차 한 잔과, 해 질 무렵 만경강을 물들이는 노을이 이곳의 이유다.",
+    "todo": [
+     "비비정 정자에 올라 만경강 굽이 내려다보기",
+     "철교 위 예술열차 카페에서 노을 기다리기",
+     "강변 산책로 따라 걷기"
+    ],
+    "tip": "노을이 하이라이트라 오후 늦게 방문 추천. 삼례문화예술촌과 차로 몇 분 거리라 함께 묶기 좋다.",
+    "eat": "인근 비비정마을의 한우·막걸리."
+   }
+  ]
+ },
+ "wonju": {
+  "nm": "원주",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 청량리역에서 KTX-이음 약 40분, 자동차로 영동·중앙고속도로 약 1시간 30분. 부산에서는 KTX·자동차 모두 3시간대. 강원의 관문이라 접근이 수월하다.",
+  "sep": "10월 말~11월 초 가을이 절정. 치악산 단풍이 능선을 타고 붉게 번지고, 반계리 은행나무가 황금빛으로 부푼다. 봄·여름엔 소금산 협곡의 초록 물길과 시원한 절벽이 좋다.",
+  "mood": "협곡 위 출렁다리에서 심장이 쿵 내려앉고, 산 위 미술관에선 마음이 고요해진다 — 원주는 스릴과 사색이 한 도시에 나란히 있다.",
+  "see": "100m 협곡 출렁다리 · 안도 다다오의 빛의 미술관 · 치악산 단풍 · 천 년 은행나무 · 도심 속 옛 감영",
+  "spots": [
+   {
+    "name": "소금산 그랜드밸리 (출렁다리)",
+    "rom": "협곡 위 100m, 스릴과 절경의 종합선물",
+    "meta": [
+     "💴 입장 약 9000원",
+     "⏱ 반나절",
+     "🌉 출렁·울렁다리",
+     "🚡 케이블카"
+    ],
+    "desc": "섬강이 굽이치는 간현 협곡 위, 높이 100m 길이 200m의 출렁다리를 건너면 발밑으로 초록 물길과 기암절벽이 아득하게 펼쳐진다. 울렁다리·잔도·전망대가 더해져 '그랜드밸리'로 커졌고, 2025년 초엔 케이블카까지 열려 협곡을 공중에서 건넌다. 해가 지면 나오라쇼의 빛이 절벽을 물들인다.",
+    "todo": [
+     "출렁다리 건너 협곡 내려다보기",
+     "절벽에 붙은 잔도길 걷기",
+     "케이블카 타거나 야간 나오라쇼 보기"
+    ],
+    "tip": "계단과 오르막이 많아 편한 신발이 필수. 주말·성수기엔 오전에 도착하는 게 여유롭다. 입장권은 지역 상품권으로 일부 환급되기도 하니 매표소에서 확인.",
+    "eat": "간현 인근의 매운탕·다슬기해장국"
+   },
+   {
+    "name": "뮤지엄 산",
+    "rom": "안도 다다오가 산 위에 그린 건축과 빛의 미술관",
+    "meta": [
+     "💴 입장 약 2만원",
+     "⏱ 반나절",
+     "🏛 안도 다다오",
+     "🎑 제임스 터렐"
+    ],
+    "desc": "오크밸리 능선 위, 물과 돌과 빛으로 지은 안도 다다오의 건축을 약 2.5km를 걸으며 통째로 감상한다. 워터가든 수면에 붉은 아치가 잔잔히 비치고, 백남준과 제임스 터렐의 빛 공간에선 시간이 멈춘 듯하다. 전시를 보러 가는 게 아니라, 걷는 길 자체가 작품이 되는 곳이다.",
+    "todo": [
+     "워터가든·플라워가든 산책",
+     "제임스 터렐관에서 빛 체험",
+     "명상관과 석조정원 둘러보기"
+    ],
+    "tip": "제임스 터렐관과 명상관은 시간 지정 예약제인 경우가 많으니 미리 확인. 야외 동선이 길어 관람에 2시간 이상 잡고, 날씨도 체크할 것.",
+    "eat": "관내 카페와 지정면 인근 식당",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Museum_SAN.tif/lossy-page1-500px-Museum_SAN.tif.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "치악산 (구룡사·비로봉)",
+    "rom": "비로봉 1288m, 구룡사와 사다리병창의 험준한 명산",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 종일",
+     "⛰ 비로봉 1288m",
+     "🍁 가을 단풍"
+    ],
+    "desc": "원주와 횡성에 걸친 치악산은 신라 의상대사가 세웠다는 구룡사에서 세렴폭포까지 완만한 계곡 산책으로 시작된다. 거기서 '사다리병창'이라 불리는 가파른 바윗길을 오르면 비로봉 정상, 능선마다 단풍이 불붙는 가을이 이 산의 절정이다. 은혜 갚은 꿩과 상원사 종소리 전설이 골짜기마다 서려 있다.",
+    "todo": [
+     "구룡사~세렴폭포 계곡길 걷기",
+     "체력 되면 사다리병창~비로봉 도전",
+     "단풍철(10월 말) 맞춰 방문하기"
+    ],
+    "tip": "비로봉까지는 왕복 5~6시간의 급경사라 초심자는 구룡사~세렴폭포 왕복만으로도 충분히 좋다. 겨울엔 결빙이 잦으니 아이젠을 챙길 것.",
+    "eat": "구룡사 입구의 산채비빔밥·더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chiaksan_as_seen_from_Birobong_Peak.jpg/500px-Chiaksan_as_seen_from_Birobong_Peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chiaksan_2018.jpg/500px-Chiaksan_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "원주 반계리 은행나무",
+    "rom": "천 년을 넘긴 높이 26m의 황금빛 거목",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🍂 11월 초 절정",
+     "🌳 천연기념물"
+    ],
+    "desc": "문막 들판 한가운데, 추정 나이 천 년을 훌쩍 넘긴 은행나무 한 그루가 사방 30m로 가지를 펼치고 서 있다. 11월 초 노랗게 물들면 나무 전체가 황금 구름처럼 부풀어, 전국에서 사진가들이 모여든다. 이 나무가 한 번에 물들면 이듬해 풍년이 든다는 이야기가 마을에 전해온다.",
+    "todo": [
+     "나무 아래에서 사방으로 뻗은 가지 올려다보기",
+     "황금빛 절정에 맞춰 사진 담기"
+    ],
+    "tip": "단풍 절정 시기는 해마다 달라 방문 전 단풍 소식을 확인하는 게 좋다. 이른 아침이 인파가 적고 빛도 곱다. 뿌리 보호를 위해 나무 밑동을 밟지 말 것.",
+    "eat": "문막읍 시내의 소박한 백반집",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ginkgo_Tree_of_Bangye-ri%2C_Summer.jpg/500px-Ginkgo_Tree_of_Bangye-ri%2C_Summer.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ginkgo_Tree_of_Bangye-ri_crown.jpg/250px-Ginkgo_Tree_of_Bangye-ri_crown.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ginkgo_Tree_of_Bangye-ri%2C_Winter.jpg/250px-Ginkgo_Tree_of_Bangye-ri%2C_Winter.jpg"
+    ]
+   },
+   {
+    "name": "강원감영",
+    "rom": "500년간 강원도 관찰사가 머문 도심 속 옛 관청",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏯 사적·보물",
+     "🌃 야간 조명"
+    ],
+    "desc": "조선 500년 동안 강원도를 다스린 관찰사의 청사가 원주 시내 한복판에 그대로 남아 있다. 보물로 지정된 선화당과 옛 정문 포정루를 지나 복원된 후원을 거닐면, 번화가 바로 옆인데도 시간이 느리게 흐른다. 밤이면 은은한 조명이 켜져 산책하기 좋은 도심의 쉼터가 된다.",
+    "todo": [
+     "선화당·포정루 등 옛 건물 둘러보기",
+     "복원된 후원 천천히 걷기",
+     "인근 전통시장까지 이어 걷기"
+    ],
+    "tip": "원주중앙시장·미로예술시장이 도보권이라 함께 묶어 걷기 좋다. 시내 중심이라 대중교통 접근도 편하다.",
+    "eat": "인근 원주중앙시장과 미로예술시장의 골목 먹거리",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg/500px-Back_Garden_of_Gangwongamyeong_Provincial_Office.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Back_Garden_of_Gangwongamyeong_in_night.jpg/250px-Back_Garden_of_Gangwongamyeong_in_night.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Night_view_of_Gangwongamyeong.jpg/250px-Night_view_of_Gangwongamyeong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "원주 한지테마파크",
+    "rom": "천 년 원주한지, 뜨고 물들이는 종이의 고장",
+    "meta": [
+     "💴 입장 무료·체험 유료",
+     "⏱ 1~2시간",
+     "📜 한지 체험",
+     "🎨 전시"
+    ],
+    "desc": "원주는 예부터 질 좋은 한지로 이름난 고장이다. 한지테마파크에서는 한지의 역사와 쓰임을 전시로 살펴보고, 직접 물에 종이를 떠서 말리고 물들이는 체험으로 손끝에 원주의 결을 남긴다. 매년 가을엔 원주한지문화제가 열려 도시 전체가 종이의 빛깔로 물든다.",
+    "todo": [
+     "한지 뜨기·염색 체험 해보기",
+     "한지 공예 전시 둘러보기"
+    ],
+    "tip": "체험 프로그램은 요일·시간 지정제로 운영되는 경우가 많으니 방문 전 예약·운영시간을 확인하는 게 좋다.",
+    "eat": "원주 시내 향토 음식점"
+   }
+  ]
+ },
+ "yanggu": {
+  "nm": "양구",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 동서울터미널에서 시외버스로 약 2시간 30분. 자가용은 서울→춘천→양구로 약 2시간(중앙·서울양양고속도로 경유). 부산에서는 중앙고속도로로 약 4시간 30분.",
+  "sep": "🍁 가을 — 두타연 계곡물이 가장 맑고 단풍이 물드는 때. 펀치볼 분지엔 사과가 붉어지고 시래기를 엮어 너는 풍경이 겹친다. 초여름 신록도 좋다.",
+  "mood": "대한민국의 한가운데, 50년간 닫혀 있던 계곡이 다시 맑게 흐르는 국토정중앙의 땅.",
+  "see": "민통선 안 청정 계곡 두타연, 하늘에서 보면 그릇 같은 원형 분지 펀치볼, 국토정중앙 배꼽마을과 화가 박수근.",
+  "spots": [
+   {
+    "name": "두타연",
+    "rom": "50년간 닫혀 있던 민통선 속 청정 계곡",
+    "meta": [
+     "🪖 DMZ·민통선",
+     "💧 열목어 서식",
+     "🚶 소지섭길"
+    ],
+    "desc": "한국전쟁 뒤 반세기 동안 사람의 발길이 끊겼다가 2003년에야 열린 계곡이다. 그 오랜 침묵 덕에 물은 바닥돌이 그대로 비칠 만큼 맑고, 차고 맑은 물에서만 사는 냉수성 어종 열목어가 폭포 아래 소에서 헤엄친다. 배우 소지섭이 기부해 이름 붙은 '생명사랑길'이 이 물길을 따라 이어진다.",
+    "todo": [
+     "폭포가 떨어지는 소(沼) 앞에서 물빛 확인하기",
+     "소지섭길 산책로 걷기",
+     "출렁다리 건너 계곡 조망"
+    ],
+    "tip": "민통선 안이라 자유 출입이 안 된다. 양구통일관에서 신분증을 내고 출입 신청·차량 등록을 해야 들어갈 수 있고, 개방 요일·시간이 계절에 따라 바뀌니 방문 전 확인은 필수다.",
+    "eat": "양구 시래기로 지은 시래기밥과 시래기국"
+   },
+   {
+    "name": "펀치볼·을지전망대",
+    "rom": "하늘에서 보면 화채 그릇, 원형 분지와 DMZ 전망대",
+    "meta": [
+     "🕳 원형 분지",
+     "🔭 DMZ 전망대",
+     "🍎 사과·시래기"
+    ],
+    "desc": "대암산·도솔산·대우산이 빙 둘러싼 거의 완벽한 원형 분지가 해안면 하나를 통째로 이룬다. 한국전쟁 때 종군기자가 움푹 팬 지형을 보고 '펀치볼(화채 그릇)'이라 부른 데서 이름이 왔다. 분지 북쪽 끝 을지전망대에 오르면 철책 너머 북녘 능선까지 시야가 트인다.",
+    "todo": [
+     "을지전망대에서 분지 전체 내려다보기",
+     "제4땅굴 견학",
+     "가을 사과밭·시래기 덕장 풍경 담기"
+    ],
+    "tip": "을지전망대와 제4땅굴은 두타연과 마찬가지로 양구통일관에서 출입 신청·신분증이 필요한 안보관광 구역이다. 단체·시간대 운영이 있어 일정을 미리 맞추는 게 좋다.",
+    "eat": "일교차 큰 분지에서 자란 해안면 사과, 시래기 정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png/330px-%EC%96%91%EA%B5%AC%EA%B5%B0%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%843.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg/120px-%ED%8E%80%EC%B9%98%EB%B3%BC%EC%A7%80%EA%B5%AC%EC%A0%84%ED%88%AC%EC%A0%84%EC%A0%81%EB%B9%841.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "국토정중앙 배꼽마을",
+    "rom": "경위도로 잰 대한민국 한가운데",
+    "meta": [
+     "📍 국토 정중앙",
+     "🔭 천문대",
+     "🌌 밤하늘"
+    ],
+    "desc": "경위도 좌표로 잰 우리 국토의 정중앙점이 양구 국토정중앙면(옛 남면)에 자리한다. 그래서 스스로를 '배꼽마을'이라 부르는 이곳엔 중앙점 표석과 국토정중앙천문대가 세워져 있다. 사방이 산으로 둘러싸여 빛 공해가 적은 밤이면 천문대 망원경 너머로 별이 촘촘하다.",
+    "todo": [
+     "국토정중앙점 표석에서 인증사진",
+     "천문대 별 관측 프로그램 참여"
+    ],
+    "tip": "천문대 별 관측은 날씨와 예약 상황에 따라 운영되니 방문 전 일정·예약을 확인하는 게 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "박수근미술관",
+    "rom": "양구가 낳은 국민화가의 생가 터",
+    "meta": [
+     "🎨 박수근",
+     "💴 입장 약 3,000원(변동)",
+     "⏱ 1~2시간"
+    ],
+    "desc": "'빨래터', '나무와 두 여인'으로 알려진 화가 박수근은 1914년 양구에서 태어났다. 그의 고향 정림리에 세운 이 미술관은 대표작과 드로잉, 유품을 품고 있다. 거친 화강암 질감을 닮은 낮은 돌담 건물이 그의 그림 세계와 조용히 닮아 있다.",
+    "todo": [
+     "박수근의 작품·유품 감상",
+     "야외 조각·정원 둘러보기"
+    ],
+    "tip": "월요일과 명절 당일은 휴관하는 경우가 많으니 방문 요일을 확인하고, 입장료는 변동될 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg/500px-%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "파로호",
+    "rom": "화천댐이 만든 대한민국 최북단 인공호수",
+    "meta": [
+     "🌊 최북단 인공호수",
+     "🎣 낚시",
+     "🏞 산 그림자"
+    ],
+    "desc": "1944년 화천댐이 물길을 막으며 생긴 거대한 호수로, 양구와 화천에 걸쳐 있는 남한 최북단 인공호수다. 산자락이 물에 잠겨 만든 구불구불한 물가에 아침이면 산 그림자와 물안개가 내려앉는다. 붕어·잉어가 많아 낚시꾼이 즐겨 찾는 자리이기도 하다.",
+    "todo": [
+     "호숫가에서 물안개 낀 아침 풍경 보기",
+     "선착장·전망 포인트에서 호수 조망"
+    ],
+    "tip": "호반 도로가 굽이지고 구간이 기니 드라이브로 돌아보기 좋다. 낚시는 지정 구역·시기를 확인한다.",
+    "eat": "파로호에서 잡은 민물고기로 끓인 매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg/500px-Pa_Ro_Ho_Stele_in_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg/500px-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98%E8%B7%AA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "양구선사박물관",
+    "rom": "파로호에 잠긴 옛 마을이 남긴 선사 유물",
+    "meta": [
+     "🗿 선사유적",
+     "💴 관람료 변동",
+     "⏱ 1시간"
+    ],
+    "desc": "파로호 물에 잠긴 지역과 해안면 일대에서 나온 구석기·신석기·청동기 유물을 모아 1997년 문을 연 향토 박물관이다. 야외에는 고인돌공원이 딸려 있어 아이와 함께 걸으며 오래된 돌의 시간을 만질 수 있다.",
+    "todo": [
+     "구석기~청동기 출토 유물 관람",
+     "야외 고인돌공원 산책"
+    ],
+    "tip": "월요일·1월 1일 등은 휴관하며, 관람료는 변동될 수 있으니 방문 전 확인한다. 국토정중앙·시내와 가까워 함께 묶기 좋다.",
+    "eat": ""
+   }
+  ]
+ },
+ "yangju": {
+  "nm": "양주",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 지하철 1호선 양주역·덕정역이나 7호선 도봉산역에서 바로 닿는다. 차로는 서울 도심에서 40~50분, 의정부·동두천과 이웃한 서울 북쪽 관문.",
+  "sep": "가을(9~10월). 나리공원 언덕이 천일홍으로 붉게 물드는 축제 시즌이 절정이고, 회암사지 억새와 왕릉 숲도 이때 가장 곱다. 봄 튤립·여름 계곡도 좋다.",
+  "mood": "서울에서 30분, 조선 최대 왕실 사찰터의 텅 빈 계단과 붉은 꽃 언덕 사이를 걷는 하루",
+  "see": "회암사지의 웅장한 절터, 천만송이 꽃 축제, 유네스코 왕릉, 화가의 미술관까지 한 도시 안에",
+  "spots": [
+   {
+    "name": "양주 회암사지",
+    "rom": "조선 최대 왕실 사찰이 남긴 거대한 빈 터",
+    "meta": [
+     "🏛️ 조선 최대 왕실 사찰터",
+     "💴 박물관 약 2,000원",
+     "⏱ 반나절"
+    ],
+    "desc": "무학대사가 머물던 조선 최대의 왕실 사찰이 불에 타 사라지고, 지금은 산자락을 따라 층층이 쌓인 돌축대와 주춧돌만 남았다. 건물이 없어 오히려 규모가 더 크게 느껴지는 자리다. 텅 빈 계단식 터를 천천히 오르면 사라진 절의 위세가 발밑으로 그려진다.",
+    "todo": [
+     "계단식 터를 아래에서 위로 걸어 올라가 규모 실감하기",
+     "회암사지박물관에서 발굴 유물과 복원 모형 보기",
+     "터 뒤편 살아있는 회암사까지 이어 걷기"
+    ],
+    "tip": "그늘이 거의 없는 넓은 개활지라 여름엔 모자·물 필수. 박물관 주차장을 이용하면 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ruin_of_Hoeam-sa.jpg/500px-Ruin_of_Hoeam-sa.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_01.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG/120px-Stele_for_master_Seon-gak_at_Hoeam_temple_site_in_Yangju%2C_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "양주 나리공원",
+    "rom": "언덕을 붉게 뒤덮는 천만송이 꽃밭",
+    "meta": [
+     "🌸 가을 천일홍 축제",
+     "💴 입장 무료",
+     "⏱ 2~3시간"
+    ],
+    "desc": "불곡산 자락 완만한 언덕이 계절마다 색을 갈아입는다. 가을이면 천만송이 천일홍과 해바라기가 능선을 통째로 붉고 노랗게 덮어, 어디서 찍어도 꽃이 배경이 된다. 봄에는 튤립, 여름엔 초록으로 이어지는 산책 명소다.",
+    "todo": [
+     "천만송이 천일홍 축제 기간(9~10월) 맞춰 방문",
+     "언덕 위 전망 포토존에서 꽃밭 전경 담기",
+     "천천히 산책로 한 바퀴 돌기"
+    ],
+    "tip": "축제 기간 주말은 붐빈다. 이른 오전이 사람도 적고 빛도 좋다. 입장은 무료.",
+    "eat": ""
+   },
+   {
+    "name": "온릉",
+    "rom": "7일 만에 폐위된 왕비, 단경왕후의 능",
+    "meta": [
+     "👑 유네스코 세계유산",
+     "💴 입장 약 1,000원",
+     "⏱ 1~2시간"
+    ],
+    "desc": "중종의 첫 왕비였으나 반정의 소용돌이에 왕비 자리에 오른 지 이레 만에 쫓겨난 단경왕후 신씨가 잠든 곳이다. 조선왕릉으로 유네스코 세계유산에 올라 있다. 소나무 우거진 숲길과 능침으로 이어지는 정적이, 한 사람의 짧고 아팠던 이야기와 겹쳐 오래 남는다.",
+    "todo": [
+     "숲길 따라 능침까지 천천히 걷기",
+     "홍살문·정자각 등 왕릉 구조 살펴보기"
+    ],
+    "tip": "월요일 휴무일 수 있으니 방문 전 개방일 확인. 장흥면에 있어 두리랜드·장흥관광지와 묶기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg/500px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg/250px-%EC%96%91%EC%A3%BC_%EC%98%A8%EB%A6%89_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "양주시립 장욱진미술관",
+    "rom": "'까치의 화가' 장욱진을 위한 흰 미술관",
+    "meta": [
+     "🎨 장욱진 회고",
+     "💴 입장 약 5,000원",
+     "⏱ 1~2시간"
+    ],
+    "desc": "까치와 나무, 소박한 사람을 즐겨 그린 화가 장욱진을 기리는 시립미술관이다. 건축상을 받은 하얀 건물 자체가 하나의 작품처럼 숲과 개울 사이에 놓여 있다. 그림을 잘 몰라도, 맑고 단정한 공간에 앉아 있는 것만으로 마음이 가라앉는다.",
+    "todo": [
+     "장욱진의 작은 그림들 가까이서 보기",
+     "건물 외관과 주변 개울 산책하기"
+    ],
+    "tip": "장흥관광지 안쪽에 있어 계곡 나들이와 함께 들르기 좋다. 실내라 날씨 궂은 날 대안으로도 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "필룩스 조명박물관",
+    "rom": "빛과 조명을 주제로 한 이색 박물관",
+    "meta": [
+     "💡 빛 테마 박물관",
+     "💴 입장 약 9,000원",
+     "⏱ 1~2시간"
+    ],
+    "desc": "촛불에서 현대 조명까지, '빛'이라는 하나의 주제로 채운 특별한 박물관이다. 어두운 전시실 안에서 빛이 만드는 색과 그림자를 체험하는 공간이 이어져, 아이와 함께여도 어른 혼자여도 흥미롭다. 사진 찍기 좋은 몽환적인 방들이 곳곳에 숨어 있다.",
+    "todo": [
+     "빛의 방·거울 공간에서 인생샷 남기기",
+     "시대별 조명 변천 전시 둘러보기"
+    ],
+    "tip": "실내 위주라 여름·겨울 날씨에 강하다. 요금이 있는 편이니 통합권·시간을 미리 확인.",
+    "eat": ""
+   },
+   {
+    "name": "두리랜드",
+    "rom": "배우 임채무가 30여 년 지켜온 놀이공원",
+    "meta": [
+     "🎡 가족 놀이공원",
+     "💴 입장 약 1.5만원",
+     "👨‍👩‍👧 아이 동반"
+    ],
+    "desc": "배우 임채무가 사재를 털어 오래도록 지켜온 것으로 유명한 가족형 놀이공원이다. 장흥 산자락에 30가지 넘는 놀이기구와 물놀이 시설이 소박하지만 정겹게 모여 있다. 화려한 대형 파크와는 다른, 손때 묻은 따뜻함이 있는 곳이다.",
+    "todo": [
+     "아이와 놀이기구·물놀이 즐기기",
+     "여름 시즌 수영장 개장 여부 확인하기"
+    ],
+    "tip": "장흥면에 있어 온릉·장욱진미술관과 동선이 겹친다. 성수기·운영시간은 방문 전 확인 권장.",
+    "eat": "장흥 일대는 오리·장어구이 전문점이 많아 나들이 후 한 끼로 좋다."
+   },
+   {
+    "name": "장흥관광지",
+    "rom": "송추·일영으로 이어지는 서울 근교 계곡·예술 마을",
+    "meta": [
+     "🏞️ 계곡 피서",
+     "🎨 가나아트파크",
+     "🌳 여름"
+    ],
+    "desc": "북한산·도봉산 자락을 따라 맑은 계곡물이 흐르고, 그 사이에 미술관과 카페, 조각공원이 들어선 서울 근교 대표 나들이 벨트다. 여름이면 발 담그기 좋은 계곡이, 봄가을이면 숲길과 예술 공간이 하루를 채운다. 도심에서 가장 가까운 초록 휴식처다.",
+    "todo": [
+     "여름 계곡에서 발 담그고 쉬기",
+     "가나아트파크 등 예술 공간 둘러보기",
+     "장흥 오리·닭요리로 마무리하기"
+    ],
+    "tip": "성수기 주말은 도로·주차가 붐빈다. 대중교통은 접근이 다소 불편하니 차량이 편하다.",
+    "eat": "송추·장흥의 오리주물럭, 백숙, 장어구이가 이 지역 대표 먹거리."
+   }
+  ]
+ },
+ "yangpyeong": {
+  "nm": "양평",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 경의중앙선 전철로 양수리·용문역까지 한 번에 (승용차 약 1시간). 부산은 KTX로 서울까지 온 뒤 전철 환승.",
+  "sep": "초여름(6~8월)엔 세미원 연꽃과 수련이 만개하고, 늦가을(11월 초)엔 용문사 천년 은행나무가 황금빛으로 물든다. 두물머리 물안개는 일교차 큰 이른 아침이면 사계절 내내 피어난다.",
+  "mood": "두 강이 몸을 섞어 한강이 되는 곳. 서울에서 한 시간, 물안개와 연꽃과 천년 은행나무가 기다린다.",
+  "see": "두물머리 새벽 물안개, 세미원 연꽃, 용문사 천년 은행나무.",
+  "spots": [
+   {
+    "name": "두물머리",
+    "rom": "남한강과 북한강이 만나 한강이 되는 자리",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌅 새벽 물안개",
+     "📷 포토존"
+    ],
+    "desc": "남한강과 북한강이 몸을 섞어 한강이 되는 자리다. 이른 아침이면 강 위로 물안개가 피어오르고, 사백 년 가까이 묵은 느티나무 한 그루가 그 안개 속에 실루엣으로 선다. 나룻배 한 척과 액자 모양 포토존만으로도 그림이 되는, 양평에서 가장 먼저 떠오르는 이름이다.",
+    "todo": [
+     "새벽에 도착해 물안개와 느티나무 실루엣 담기",
+     "액자 포토존에서 강 배경 인증샷",
+     "여름엔 강가 연밭 산책"
+    ],
+    "tip": "물안개는 일교차가 큰 이른 아침에 가장 짙게 핀다. 주차장에서 강까지 걸어 들어가며, 주말 낮엔 붐비니 해 뜰 무렵이 여유롭다.",
+    "eat": "양수리 일대 연잎밥·초계국수, 강변 카페의 커피 한 잔",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%2815%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%286%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG/250px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%285%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세미원",
+    "rom": "한강물을 연꽃으로 정화하는 물의 정원",
+    "meta": [
+     "💴 입장 약 5,000원(변동 가능)",
+     "⏱ 반나절",
+     "🪷 여름 연꽃",
+     "🚶 산책"
+    ],
+    "desc": "한강물을 연꽃과 수련으로 정화하는 물의 정원이다. 여름이면 수많은 연과 수련이 수면을 뒤덮고, 모네의 정원을 옮겨온 듯한 연못과 전통 정원 시설이 어우러진다. 배다리를 건너면 곧바로 두물머리로 이어져, 두 곳을 한 번에 묶어 걷기 좋다.",
+    "todo": [
+     "7~8월 연꽃·수련 만개 시기에 맞춰 가기",
+     "배다리 건너 두물머리까지 연결 산책",
+     "모네의 정원·세계수련원 둘러보기"
+    ],
+    "tip": "연꽃은 오전에 활짝 피고 한낮엔 오므린다. 이른 시간 방문을 추천하며, 두물머리와 묶어 반나절 코스로 잡으면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG/500px-%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg/120px-%EC%84%B8%EB%AF%B8%EC%97%B0_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "용문사",
+    "rom": "천년을 넘긴 은행나무가 지키는 절",
+    "meta": [
+     "💴 입장료 있음(변동 가능)",
+     "⏱ 반나절",
+     "🍁 11월 은행 단풍",
+     "⛰️ 계곡 산행"
+    ],
+    "desc": "천년을 넘게 살아온 은행나무가 절 마당을 지키는 곳이다. 높이 40m에 가까운 이 나무는 우리나라에서 가장 키 큰 은행나무(천연기념물)로, 11월 초 온몸이 황금빛으로 물들면 마당 전체가 노란 빛에 잠긴다. 용문산 계곡을 따라 오르는 길도 맑고 시원하다.",
+    "todo": [
+     "11월 초 은행나무 절정 단풍 보기",
+     "일주문에서 절까지 계곡길 걷기",
+     "정지국사탑 등 문화재 둘러보기"
+    ],
+    "tip": "단풍 절정 주말은 매우 붐비니 이른 오전 도착이 좋다. 주차 후 절까지 완만한 오르막을 걸어 올라간다.",
+    "eat": "용문산관광지 입구의 산채비빔밥·더덕구이, 도토리묵",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%295_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG/330px-%EC%9A%A9%EB%AC%B8%EC%82%AC%28%EC%96%91%ED%8F%89%291.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소나기마을",
+    "rom": "황순원 '소나기'를 옮겨놓은 문학 마을",
+    "meta": [
+     "💴 입장 약 2,000원(변동 가능)",
+     "⏱ 2~3시간",
+     "📖 문학 테마",
+     "👨‍👩‍👧 가족"
+    ],
+    "desc": "황순원의 단편 '소나기'를 테마로 꾸민 문학 마을이다. 수숫단 오솔길과 징검다리, 개울을 걸으며 소년과 소녀의 이야기 속으로 들어간다. 하루 몇 차례 인공 소나기가 쏟아지는 순간이면, 원두막으로 뛰어드는 소설 속 장면이 그대로 재현된다.",
+    "todo": [
+     "인공 소나기 시간에 맞춰 원두막 체험",
+     "수숫단 오솔길·징검다리 걷기",
+     "황순원 유품·작품 전시관 관람"
+    ],
+    "tip": "인공 소나기는 정해진 시각에만 내리니 도착하면 시간표부터 확인하자. 아이와 함께 천천히 걷기 좋은 곳이다.",
+    "eat": ""
+   },
+   {
+    "name": "구둔역",
+    "rom": "시간이 멈춘 폐역, 옛 간이역",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🎬 영화 촬영지",
+     "📷 레트로 감성"
+    ],
+    "desc": "2012년 중앙선 선로 이설로 열차가 끊긴 뒤 시간이 멈춘 간이역이다. 1940년대 목조 역사와 낡은 철길, 플랫폼이 그대로 남아 여러 영화·드라마와 뮤직비디오의 배경이 됐고, 국가등록문화유산으로 지정돼 있다. 소원을 적어 매다는 나무와 빈 선로 위 포토존이 있어, 필름 카메라를 들고 천천히 걷고 싶어지는 곳이다.",
+    "todo": [
+     "옛 목조 역사와 빈 철길에서 레트로 사진",
+     "소원나무에 쪽지 매달기",
+     "플랫폼·역명판 앞 포토존"
+    ],
+    "tip": "무료로 개방하며 작은 카페가 있다. 대중교통이 불편해 승용차를 추천하고, 노을 무렵 빛이 특히 곱다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gudun_Station.jpg/500px-Gudun_Station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yangsan": {
+  "nm": "양산",
+  "region": "🏔️ 경상 · 경상남도",
+  "route": "서울에서 KTX로 부산·울산까지 2시간대, 여기서 통도사·양산행 시내버스로 갈아탄다. 부산 지하철 2호선~양산선이 시내로 바로 닿고, 자가용은 경부고속도로 통도사IC가 관문이다. 부산 도심에서 30분 거리.",
+  "sep": "봄(3월 중순~4월 초)이 절정이다. 순매원 매화가 낙동강 기찻길을 하얗게 덮고, 황산공원 벚꽃과 유채가 강변을 따라 번지며, 통도사 홍매화(자장매)도 이맘때 핀다. 가을(10월 중순~11월 초)엔 영남알프스 신불산 능선이 은빛 억새로 물결친다.",
+  "mood": "부산 바로 위, 천년 고찰 통도사와 은빛 억새의 영남알프스, 낙동강 벚꽃길이 한 도시에. 산사의 고요와 강변의 봄이 나란히 있다.",
+  "see": "유네스코 세계유산 통도사, 억새 물결치는 영남알프스 능선, 낙동강을 따라 흐르는 봄꽃길.",
+  "spots": [
+   {
+    "name": "통도사",
+    "rom": "부처의 진신사리를 모신 불보사찰",
+    "meta": [
+     "💴 입장 무료(주차 약 2000원)",
+     "⏱ 반나절",
+     "🏯 유네스코 세계유산"
+    ],
+    "desc": "영축산 자락에 안긴 통도사는 부처의 진신사리를 모셔, 대웅전에 불상 대신 금강계단을 둔 '불보사찰'이다. 일주문에서 대웅전까지 이어지는 무풍한송로, 늙은 소나무들이 굽이치는 흙길만 걸어도 마음이 가라앉는다. 2018년 유네스코 세계유산에 오른, 천년을 견딘 절집이다.",
+    "todo": [
+     "무풍한송로 솔숲길 천천히 걷기",
+     "국보 금강계단·대웅전 둘러보기",
+     "성보박물관에서 불교 회화 보기"
+    ],
+    "tip": "3월 말~4월 초 자장매(홍매화)가 피면 사진 애호가로 붐빈다. 주차는 문화재구역 주차장을 이용한다.",
+    "eat": "산문 앞 국밥거리의 소고기국밥, 사찰 인근 산채정식.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Korea-Tongdosa-09.jpg/500px-Korea-Tongdosa-09.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korea-Tongdosa-01.jpg/500px-Korea-Tongdosa-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "통도사 서운암",
+    "rom": "장독대와 들꽃, 도자대장경의 암자",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌼 봄 들꽃"
+    ],
+    "desc": "통도사에서 산길로 조금 오르면 나오는 암자 서운암은, 수천 개 장독이 늘어선 장독대와 봄이면 언덕을 뒤덮는 금낭화·야생화로 알려졌다. 도자 기와에 새긴 십육만 도자대장경을 모신 장경각도 이곳에 있다. 큰 절의 위엄과는 다른, 소박하고 정겨운 산중 풍경이다.",
+    "todo": [
+     "장독대와 들꽃 언덕 산책",
+     "십육만 도자대장경 장경각 보기"
+    ],
+    "tip": "4월 말 금낭화가 절정이다. 통도사에 주차한 뒤 걸어 오르거나 차로도 접근할 수 있다."
+   },
+   {
+    "name": "영남알프스 신불산·간월재",
+    "rom": "은빛 억새가 물결치는 영남알프스 능선",
+    "meta": [
+     "💴 무료",
+     "⏱ 하루",
+     "🍂 가을 억새",
+     "🥾 등산"
+    ],
+    "desc": "해발 1000m가 넘는 아홉 봉우리가 모인 영남알프스, 그 한가운데 신불산은 가을이면 능선 가득 억새가 은빛으로 일렁이는 곳이다. 신불산과 간월산 사이 간월재에 서면 사방이 억새밭, 바람이 지날 때마다 능선 전체가 물결친다. 배내골에서 오르면 파래소폭포·신불재를 거치는 깊은 계곡 산행도 즐길 수 있다.",
+    "todo": [
+     "간월재 억새밭에서 능선 조망",
+     "파래소폭포까지 계곡 산행",
+     "가을 억새 절정기 일출·일몰 보기"
+    ],
+    "tip": "억새는 10월 중순~11월 초가 절정. 간월재만 왕복하면 배내2주차장 기준 4시간 안팎이다. 산 위는 기온이 낮으니 겉옷을 챙긴다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/74/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/8/83/%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg/500px-%EC%8B%A0%EB%B6%88%EC%82%B0_%EB%B0%B0%EB%82%B4%EA%B3%A0%EA%B0%9C_%EC%A0%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "순매원",
+    "rom": "낙동강 기찻길에 흩날리는 매화",
+    "meta": [
+     "💴 축제기 입장료 있음(변동)",
+     "⏱ 1~2시간",
+     "🌸 3월 매화"
+    ],
+    "desc": "원동역에서 낙동강을 따라 걸으면 닿는 매실 농원 순매원은, 3월이면 매화가 강가 언덕을 하얗게 뒤덮는다. 매화밭 너머로 낙동강이 흐르고, 그 사이 철길로 기차가 지날 때 흩날리는 꽃잎이 이곳만의 장면을 만든다. 봄이 오는 소리를 눈으로 보는 곳이다.",
+    "todo": [
+     "매화·낙동강·기차가 함께 담기는 포인트에서 사진",
+     "원동역에서 강변길 산책",
+     "원동매화축제 기간에 맞춰 방문"
+    ],
+    "tip": "매화는 3월 중순이 절정. 축제기엔 주차가 붐비니 기차로 원동역까지 와 도보 15분으로 가는 편이 편하다.",
+    "eat": "봄이면 유명한 원동 미나리 삼겹살, 원동역 인근 매실 먹거리."
+   },
+   {
+    "name": "홍룡폭포",
+    "rom": "천성산 골짜기에 무지개 걸리는 폭포",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌈 물보라 무지개",
+     "💦 여름 피서"
+    ],
+    "desc": "천성산 깊은 골짜기, 깎아지른 절벽에서 물줄기가 곧게 떨어지는 홍룡폭포는 물보라가 햇빛에 부서지며 무지개를 만든다 하여 붙은 이름이다. 폭포 곁 홍룡사는 원효대사가 창건했다 전하는 옛 절. 한여름에도 서늘한 물보라가 얼굴에 닿는, 숨은 피서지다.",
+    "todo": [
+     "폭포 앞에서 물보라 무지개 보기",
+     "홍룡사 경내 산책",
+     "천성산 둘레길 일부 걷기"
+    ],
+    "tip": "비 온 뒤 수량이 많을 때 물줄기가 가장 웅장하다. 통도사에서 차로 20분 안팎 거리라 함께 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonsung.JPG/500px-Cheonsung.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "황산공원",
+    "rom": "낙동강변 벚꽃과 유채가 번지는 강변공원",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌸 봄 벚꽃",
+     "🚴 자전거"
+    ],
+    "desc": "물금 낙동강변에 드넓게 펼쳐진 황산공원은 봄이면 벚꽃길이 분홍으로 물들고, 강 둔치엔 노란 유채가 번진다. 강을 따라 자전거를 타거나 캠핑장에서 하룻밤을 보내기에도 좋은, 양산 사람들의 사계절 나들이터다. 물금역에서 공원까지 이어지는 벚꽃길이 특히 유명하다.",
+    "todo": [
+     "봄 벚꽃길·유채밭 산책",
+     "강변 자전거·캠핑",
+     "물금벚꽃축제 야간 조명 감상"
+    ],
+    "tip": "벚꽃은 3월 말~4월 초. 물금벚꽃축제 기간엔 야간 조명이 켜져 야경도 볼만하다."
+   },
+   {
+    "name": "배내골",
+    "rom": "영남알프스 품에 안긴 청정 계곡 마을",
+    "meta": [
+     "💴 무료",
+     "⏱ 하루~1박",
+     "💦 여름 계곡",
+     "🏕 휴양"
+    ],
+    "desc": "영남알프스 산자락에 숨은 배내골은 맑은 물이 흐르는 깊은 계곡 마을이다. 한여름엔 발만 담가도 서늘하고, 파래소폭포로 이어지는 숲길과 펜션·캠핑장이 모여 1박2일 산중 휴양지로 사랑받는다. 도심을 벗어나 조용히 쉬고 싶을 때 찾는 곳이다.",
+    "tip": "여름 성수기엔 계곡 주변 숙소 예약이 빨리 마감된다. 신불산 등산 기점으로도 활용할 수 있다.",
+    "eat": "배내골 오리·닭백숙, 산채비빔밥."
+   }
+  ]
+ },
+ "yangyang": {
+  "nm": "양양",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 → 서울양양고속도로로 약 2시간(동서울터미널 시외버스도 2시간대). 서핑 성지라 뚜벅이보다 자차·렌터카가 편하다. 부산에서는 4시간 이상.",
+  "sep": "여름(6~8월)엔 서핑과 해변이 절정, 가을(9~10월)엔 남설악 단풍과 양양 송이가 최고. 일출은 사계절 다 좋다.",
+  "mood": "서핑 보드를 낀 청춘과 천년 고찰의 파도 소리가 한 동네에 겹쳐 있는 바다. 설악산 단풍까지 30분이면 닿는다.",
+  "see": "천년 고찰 낙산사, 절벽 위 하조대, 죽도·인구의 서핑, 남애항 미항, 남설악 주전골 단풍.",
+  "spots": [
+   {
+    "name": "낙산사",
+    "rom": "동해를 굽어보는 천년 관음도량",
+    "meta": [
+     "💴 무료(주차 약 4000원)",
+     "⏱ 반나절",
+     "🌅 일출 명소",
+     "🛕 3대 관음도량"
+    ],
+    "desc": "671년 의상대사가 창건했다는 천년 고찰이 동해 절벽 위에 앉아 있다. 파도 소리를 들으며 의상대 정자에 서면 붉은 아침 해가 수평선에서 올라오고, 바닷가 바위 위 홍련암 마루 밑으로는 지금도 파도가 드나든다. 2005년 큰 산불로 절 대부분이 탔지만 다시 일으켜 세운 자리라, 풍경 너머에 회복의 이야기가 겹쳐 있다.",
+    "todo": [
+     "의상대에서 동해 일출 보기",
+     "홍련암 마루 아래로 드나드는 파도 소리 듣기",
+     "해수관음상 앞에서 바다 전망 감상"
+    ],
+    "tip": "일출을 보려면 이른 새벽에 도착. 주차장에서 걸어 올라가며 여러 전각을 지난다. 바로 이어지는 낙산해수욕장과 묶기 좋다.",
+    "eat": "절 아래 낙산 일대에 물회와 활어회 식당이 많다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Korea-Naksansa_2215-07_grounds.JPG/500px-Korea-Naksansa_2215-07_grounds.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg/500px-%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EB%82%99%EC%82%B0%EC%82%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Korea-Naksansa_2170-07_Shillatap.JPG/500px-Korea-Naksansa_2170-07_Shillatap.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "양양 하조대",
+    "rom": "절벽 소나무와 하얀 등대의 일출 절경",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 일출 명소",
+     "📸 등대 뷰"
+    ],
+    "desc": "깎아지른 바위 절벽 위에 정자 하나가 소나무를 이고 서 있고, 그 옆 흰 등대까지 짧은 산책로가 이어진다. 조준과 하륜이 은둔했다는 이름의 유래처럼, 정자에 앉으면 발밑으로 파도가 바위를 때리는 소리만 가득하다. 명승으로 지정된 해안 절경이라 일출 때 하늘이 물들면 사진이 저절로 남는다.",
+    "todo": [
+     "하얀 등대까지 데크길 걷기",
+     "절벽 위 정자에서 파도 소리 듣기",
+     "일출 시간에 맞춰 방문"
+    ],
+    "tip": "등대 전망대는 개방 시간이 정해져 있으니 확인. 바로 옆 하조대해수욕장은 서핑·물놀이로 인기.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "죽도해변 · 인구 서핑",
+    "rom": "대한민국 서핑 1번지",
+    "meta": [
+     "💴 보드·강습 약 5~8만원",
+     "⏱ 반나절",
+     "🏄 서핑 성지",
+     "🌊 여름 성수기"
+    ],
+    "desc": "양양을 '서핑의 성지'로 만든 바로 그 해변들이다. 죽도암 아래 완만한 파도에 초보 강습이 이어지고, 인구·기사문 일대 골목엔 서프숍과 감성 카페, 야외 펍이 늘어서 낮엔 보드, 밤엔 음악이 흐른다. 강원 바다에서 이만큼 젊고 들뜬 공기를 가진 동네도 드물다.",
+    "todo": [
+     "입문 서핑 강습 신청",
+     "죽도암 전망대에서 해변 내려다보기",
+     "해변 앞 카페·펍에서 노을 보기"
+    ],
+    "tip": "성수기(7~8월) 주말은 주차·강습이 붐빈다. 강습은 대개 예약제이고, 파도·물때는 서프숍 안내를 따르는 게 안전하다.",
+    "eat": "서핑 후엔 해변가 수제버거·타코와 감성 카페가 많다."
+   },
+   {
+    "name": "남애항",
+    "rom": "강원 3대 미항으로 꼽히는 방파제 마을",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "⚓ 국가어항",
+     "🐟 활어회"
+    ],
+    "desc": "빨강·하양 등대가 마주 선 방파제와 작은 섬을 잇는 다리, 그 뒤로 정박한 배들이 그림처럼 놓인 항구다. 강원 3대 미항으로 불릴 만큼 아담하고 단정한 풍경이라, 방파제 끝까지 걸어 나가 바다를 등지고 마을을 돌아보는 맛이 있다. 아침 물때엔 갓 잡아 온 생선이 좌판에 오른다.",
+    "todo": [
+     "방파제 등대까지 걸어 나가기",
+     "항구 앞 섬으로 이어진 다리 건너기",
+     "좌판에서 제철 생선 구경"
+    ],
+    "tip": "일출·일몰 모두 사진 명소. 주차는 항구 주변 공영주차장 이용.",
+    "eat": "항구 활어회와 물회, 제철 양미리·가자미."
+   },
+   {
+    "name": "오색 주전골 · 흘림골",
+    "rom": "남설악의 물빛 계곡과 단풍",
+    "meta": [
+     "💴 무료(성수기 주차 유료)",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "♨️ 오색약수·온천"
+    ],
+    "desc": "설악산 남쪽 오색지구에서 시작하는 주전골은 맑은 물이 바위 사이를 흐르고 기암 봉우리가 병풍처럼 둘러선 계곡이다. 데크길이 잘 놓여 걷기 부담이 적은데도 가을이면 계곡 전체가 붉게 물들어 남설악 최고의 단풍길로 꼽힌다. 인근 흘림골, 톡 쏘는 오색약수, 오색온천까지 하루가 짧다.",
+    "todo": [
+     "주전골 데크길 따라 용소폭포까지 걷기",
+     "오색약수 한 모금 맛보기",
+     "단풍철 흘림골 코스 연계"
+    ],
+    "tip": "흘림골 탐방로는 통제·예약제로 운영되는 기간이 있으니 국립공원 공지 확인. 단풍 절정(10월 중순) 주말은 매우 혼잡하다.",
+    "eat": "오색지구 산채정식과 가을 송이요리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg/500px-%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C529%ED%98%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "휴휴암",
+    "rom": "파도가 닿는 바닷가 관음 기도처",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🛕 해변 사찰",
+     "📸 바위 절경"
+    ],
+    "desc": "바닷가 너른 바위 지대에 자리한 작은 암자로, 누워 있는 관음처럼 보인다는 바위와 거북 모양 바위, 그 위를 넘나드는 파도가 어우러진다. '쉬고 또 쉰다'는 이름처럼 파도 소리를 들으며 바위에 앉아 마음을 내려놓기 좋은 곳이라, 종교와 상관없이 조용히 바다를 마주하러 찾는 사람이 많다.",
+    "todo": [
+     "바닷가 바위 지대 산책",
+     "연화법당·관음상 둘러보기",
+     "파도 소리 들으며 바다 전망 감상"
+    ],
+    "tip": "미끄러운 바위 구간이 있으니 편한 신발 권장. 만조나 파도 높은 날은 바위 접근에 주의.",
+    "eat": ""
+   },
+   {
+    "name": "양양 진전사지 삼층석탑",
+    "rom": "산속 옛 절터에 홀로 선 통일신라 국보",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🗿 국보 제122호",
+     "🍃 한적한 산길"
+    ],
+    "desc": "둔전리 산자락, 지금은 터만 남은 옛 진전사 자리에 통일신라 석탑 하나가 천 년을 버티고 서 있다. 기단과 몸돌마다 불상과 팔부신중이 정교하게 새겨져 국보로 지정됐고, 관광객이 몰리지 않아 새소리와 바람만 도는 고요함이 오히려 이 자리의 매력이다. 화려한 명소에 지쳤을 때 찾기 좋은 여백 같은 곳.",
+    "todo": [
+     "석탑의 기단·몸돌 조각 자세히 보기",
+     "절터를 천천히 걸으며 옛 규모 상상하기"
+    ],
+    "tip": "진입로가 좁고 한적하니 내비 목적지를 정확히 설정. 낙산사와 같은 강현면권이라 동선에 끼우기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG/500px-%EC%96%91%EC%96%91_%EC%A7%84%EC%A0%84%EC%82%AC%EC%A7%80_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jinjeonsaji_03.JPG/250px-Jinjeonsaji_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jinjeonsaji_04.JPG/250px-Jinjeonsaji_04.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yecheon": {
+  "nm": "예천",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 자차로 중부내륙·중앙고속도로 타고 약 2시간 30분, 예천IC로 내려선다. 대중교통은 동서울터미널에서 예천행 시외버스로 3시간 안팎, 또는 영주역까지 기차로 온 뒤 버스 환승. 부산에서는 자차로 2시간 30분 정도.",
+  "sep": "가을(9~11월). 내성천이 회룡포를 감싸며 물빛이 가장 맑아지고, 강가 억새가 은빛으로 눕는다. 삼강주막 마당의 노란 은행나무와 낙동강 노을이 이맘때 가장 깊다. 봄 초록의 물돌이와 여름 뿅뿅다리 물놀이도 좋다.",
+  "mood": "강이 마을을 삼백오십 도로 휘감아 돌아, 뭍 위에 섬 하나를 빚어놓았다. 마지막 주막의 막걸리 한 사발, 천 년을 돌아온 윤장대. 예천은 물이 그린 그림 위에서 느리게 흐른다.",
+  "see": "물돌이 명승 회룡포, 낙동강 마지막 주막 삼강주막, 천년고찰 용문사, 돌담 고택마을 금당실, 계류 위 정자 초간정, 별과 우주의 예천천문우주센터.",
+  "spots": [
+   {
+    "name": "회룡포",
+    "rom": "강물이 350도로 휘감은 뭍 속의 섬마을",
+    "meta": [
+     "🏞 명승 제16호",
+     "💴 야외 무료",
+     "🍂 가을 물빛·억새"
+    ],
+    "desc": "내성천이 마을을 삼백오십 도로 휘감아 돌며, 육지 안에 갇힌 섬 같은 물돌이 마을을 만들어냈다. 강 건너 비룡산 자락 회룡대에 오르면, 모래톱을 두른 초록 들녘이 발밑에 둥글게 펼쳐진다. 마을로 건너가는 뿅뿅다리는 구멍 뚫린 철판이라, 물이 차오르면 뽕뽕 소리를 내며 발밑으로 강을 느끼게 한다.",
+    "todo": [
+     "장안사에서 회룡대 전망대까지 걸어 올라 물돌이 내려다보기",
+     "뿅뿅다리 건너 모래톱 마을 한 바퀴 걷기"
+    ],
+    "tip": "회룡대는 장안사 뒤 가파른 계단을 15분 남짓 올라야 한다. 편한 신발 필수. 여름 장마철엔 뿅뿅다리가 물에 잠길 수 있으니 방문 전 수위 확인.",
+    "eat": "용궁면 소재지의 용궁순대가 유명하고, 연탄불에 구운 오징어불고기도 별미다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hoeryongpo.jpg/500px-Hoeryongpo.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "예천 삼강주막",
+    "rom": "낙동강가에 남은 대한민국 마지막 주막",
+    "meta": [
+     "🏛 경북 민속문화재",
+     "🍶 막걸리·배추전",
+     "🌅 낙동강 노을"
+    ],
+    "desc": "낙동강과 내성천, 금천이 한자리에서 만나는 삼강나루에, 나그네와 보부상의 허기를 달래던 마지막 주막이 남아 있다. 1900년 무렵 지은 흙벽 초가로, 마지막 주모 유옥연 할머니가 세상을 뜬 뒤 복원되어 지금도 막걸리와 부침개를 낸다. 강바람에 은행나무가 흔들리는 마당에 앉으면, 오가던 뱃길과 옛사람들의 밤이 어렴풋이 떠오른다.",
+    "todo": [
+     "주막 마루에 앉아 막걸리에 배추전·두부 한 상 받기",
+     "수백 년 된 회화나무·은행나무와 나루터 강길 걷기"
+    ],
+    "tip": "주말·성수기엔 자리가 붐빈다. 회룡포에서 삼강주막까지 이어지는 강변 녹색길은 걷기 좋은 길로 꼽히니 시간이 되면 함께 걸어볼 것.",
+    "eat": "주막에서 직접 부치는 배추전·호박전과 두부, 막걸리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yecheon_Samgang_Jumak.jpg/500px-Yecheon_Samgang_Jumak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "용문사",
+    "rom": "한 바퀴 돌리면 경전을 읽은 셈, 천년고찰",
+    "meta": [
+     "🛕 870년 창건",
+     "🏆 윤장대 국보 제328호",
+     "🍁 가을 단풍"
+    ],
+    "desc": "용문산 자락 깊은 숲에 안긴 용문사는 신라 때 두운선사가 세운 천년고찰이다. 대장전 안의 윤장대는 회전하는 경전 보관대로, 한 바퀴 돌리면 경전을 한 번 읽은 것과 같은 공덕이 된다 전한다. 대장전과 윤장대가 국보로 승격된, 우리나라에 하나뿐인 귀한 유산. 산문을 지나 절 마당에 서면 세속의 소리가 뚝 끊긴다.",
+    "todo": [
+     "대장전 윤장대 앞에서 그 정교한 목조 장치 눈에 담기",
+     "울창한 숲길 산문에서 절 마당까지 천천히 오르기"
+    ],
+    "tip": "산 안쪽에 있어 진입로가 굽은 구간이 있으니 운전 주의. 문화재 보호를 위해 윤장대는 직접 돌릴 수 없고 눈으로 감상한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/500px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg/500px-%EC%98%88%EC%B2%9C_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84%EA%B3%BC_%EC%9C%A4%EC%9E%A5%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg/120px-%EC%9A%A9%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9E%A5%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "금당실 전통마을",
+    "rom": "돌담 사이 고택과 백 년 솔숲의 마을",
+    "meta": [
+     "🏡 고택·돌담길",
+     "🌲 천연기념물 송림",
+     "⏱ 반나절 산책"
+    ],
+    "desc": "물 위에 뜬 연꽃을 닮았다 하여 금당실. 십여 채의 오래된 기와집 사이로 돌담 골목이 굽이굽이 이어지고, 여러 채의 오래된 종택과 고택이 그대로 남아 있다. 마을 서쪽으로는 백 년, 이백 년 묵은 소나무 수백 그루가 팔백 미터 솔숲을 이룬다. 여름 홍수와 겨울 북서풍을 막으려 심은 이 송림이, 지금은 사계절 가장 고요한 산책길이 되었다.",
+    "todo": [
+     "천연기념물 금당실 송림 솔숲 그늘 걷기",
+     "돌담 골목 따라 고택과 종택 둘러보기"
+    ],
+    "tip": "마을이 실제 주거지이니 담장 안 사생활은 조용히 존중할 것. 솔숲은 무료 개방이며 그늘이 깊어 한여름 산책에 좋다.",
+    "eat": ""
+   },
+   {
+    "name": "예천 초간정",
+    "rom": "너럭바위 계류 위에 뜬 조선 선비의 정자",
+    "meta": [
+     "🏛 조선시대 정자",
+     "💧 계류·소나무",
+     "📷 사진 명소"
+    ],
+    "desc": "초간 권문해가 심신을 닦으려 세운 정자로, 우리나라 최초의 백과사전 『대동운부군옥』을 지은 그 선비의 자리다. 정자의 주춧돌이 계류 가 너럭바위에 바로 놓여, 물 위에 정자가 둥실 떠 있는 듯 보인다. 임진왜란과 병자호란에 두 번 불타고도 후손들이 다시 세운 집. 소나무 그늘과 흐르는 물소리만으로 마음이 씻긴다.",
+    "todo": [
+     "계류 건너편에서 물 위에 뜬 듯한 정자 담기",
+     "정자 마루에 앉아 물소리 들으며 쉬어가기"
+    ],
+    "tip": "금당실마을과 가까워 함께 묶으면 동선이 자연스럽다. 정자 마루 출입은 관리 상황에 따라 제한될 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%EC%B4%88%EA%B0%84%EC%A0%95.jpg/500px-%EC%B4%88%EA%B0%84%EC%A0%95.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "예천천문우주센터",
+    "rom": "밤하늘의 별과 우주를 체험하는 곳",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "🔭 20인치 천체망원경",
+     "👨‍👩‍👧 가족·야간관측"
+    ],
+    "desc": "별과 우주를 주제로 꾸민 체험형 테마파크다. 우주타워에서는 무중력 체험과 4D 영상, 우주인 훈련 체험을 즐길 수 있고, 별관측실의 508mm(20인치) 반사망원경으로는 밤하늘의 성운과 성단을 들여다본다. 낮에는 태양 흑점을 관측하는 프로그램도 있어, 낮과 밤 모두 우주를 만나는 하루가 된다.",
+    "todo": [
+     "야간 개방 시 천체망원경으로 별·행성 관측",
+     "우주타워 무중력·4D 체험 돌아보기"
+    ],
+    "tip": "입장료는 약 5,000원 수준이며 변동될 수 있다. 야간 별관측은 요일·날씨에 따라 운영이 달라지니 예약·운영시간을 미리 확인. 밤에는 산 위라 기온이 낮으니 겉옷을 챙길 것.",
+    "eat": ""
+   }
+  ]
+ },
+ "yeoju": {
+  "nm": "여주",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 강남에서 경강선 전철 여주역까지 약 1시간, 자가용은 영동고속도로 여주IC로 서울에서 1시간 안팎",
+  "sep": "봄·가을 — 4월엔 남한강 벚꽃과 강천섬 이팝나무, 11월엔 강천섬 은행나무길과 신륵사 강변 단풍이 절정이다",
+  "mood": "느리게 흐르는 남한강 곁에 세종대왕의 능과 강물 위 절, 도자기 가마가 나란한 물의 고장",
+  "see": "강변 절 신륵사, 세종대왕릉, 명성황후 생가, 은행나무 강천섬, 남한강 도자기 마을",
+  "spots": [
+   {
+    "name": "신륵사",
+    "rom": "남한강을 마주 보는 강변 천년 고찰",
+    "meta": [
+     "💴 입장 약 3000원",
+     "⏱ 반나절",
+     "🌊 강변 사찰",
+     "🍁 가을 단풍"
+    ],
+    "desc": "남한강이 눈앞에 흐르는, 우리나라에서 드문 강가에 앉은 절이다. 강월헌 정자에 서면 벽돌로 쌓은 다층전탑과 강물, 황포돛배가 한 폭에 담긴다. 해 질 녘 강에 노을이 번지면 절 전체가 붉게 물든다.",
+    "todo": [
+     "강월헌 정자에서 남한강 노을 바라보기",
+     "벽돌로 쌓은 다층전탑(보물) 앞에 서 보기",
+     "황포돛배 타고 강 위에서 절 바라보기"
+    ],
+    "tip": "절 앞 신륵사관광지에 주차장과 먹거리가 잘 정비돼 편하다. 강바람이 세니 가을·겨울엔 겉옷을 챙길 것.",
+    "eat": "남한강 민물매운탕과 여주 쌀로 지은 쌀밥 정식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg/500px-%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg/500px-Three-story_Stone_Pagoda_at_Silleuksa_Temple.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg/120px-Shingleuksa_Octagonal_Circular_Stone_Pagoda.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "세종대왕릉 (영릉)",
+    "rom": "세종대왕이 잠든 고요한 솔숲 능선",
+    "meta": [
+     "💴 입장 약 500원",
+     "⏱ 반나절",
+     "👑 조선 왕릉",
+     "🌲 능림 산책"
+    ],
+    "desc": "세종대왕과 소헌왕후가 함께 잠든 조선 최초의 합장릉이다. 홍살문에서 능까지 이어진 솔숲 길이 더없이 고요하고, 세종대왕역사문화관엔 해시계·자격루·측우기가 복원돼 있다. 왕의 길을 따라 걷다 보면 시간이 천천히 흐른다.",
+    "todo": [
+     "해시계·자격루·측우기 복원 과학기구 둘러보기",
+     "세종릉과 효종릉을 잇는 '왕의 숲길' 걷기"
+    ],
+    "tip": "산책로는 보통 5~10월에 개방한다. 능역이 넓으니 걷기 편한 신발이 좋다. 정식 명칭은 세종·효종 두 능을 합친 '영녕릉'이다.",
+    "eat": "능서·세종대왕면 일대의 여주 한정식과 쌀밥",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg/500px-%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EC%A0%84%EA%B2%BD%28%ED%95%AD%EA%B3%B5%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sejongjeon.JPG/120px-Sejongjeon.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg/120px-%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "명성황후 생가",
+    "rom": "구한말 황후가 나고 자란 옛집",
+    "meta": [
+     "💴 입장 무료(변동)",
+     "⏱ 1~2시간",
+     "🏯 조선 살림집",
+     "📖 근대사"
+    ],
+    "desc": "숙종 때 지어진 안채에서 명성황후가 태어나 여덟 살까지 살았다. 낮은 담과 정갈한 마당, 그가 공부하던 방 자리에 선 탄강구리비가 조용히 그 시절을 증언한다. 옆 감고당과 기념관까지 걸으면 격동의 근대사가 손에 잡힌다.",
+    "todo": [
+     "안채·사랑채·별당 살림집 구조 둘러보기",
+     "감고당과 명성황후 기념관 함께 보기"
+    ],
+    "tip": "생가 앞마당이 넓고 한적해 천천히 걷기 좋다. 능현동 일대라 세종대왕릉과 묶어 돌면 동선이 편하다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg/500px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%96%B4%EB%A6%B0_%EC%8B%9C%EC%A0%88_%EC%9E%90%EB%9D%BC%EB%82%9C_%EA%B3%B3%EC%97%90_%EB%B3%B5%EC%9B%90%EB%90%9C_%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%ED%97%9B%EA%B0%84_%EB%B3%B5%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg/120px-%EB%AA%85%EC%84%B1%ED%99%A9%ED%9B%84_%EC%83%9D%EA%B0%80_%EB%A7%88%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여주 고달사지",
+    "rom": "국보 승탑만 남은 폐사지의 적막",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🗿 국보 승탑",
+     "🌾 폐사지"
+    ],
+    "desc": "천 년 전 큰 절이 사라지고 넓은 터에 돌 문화재만 남았다. 잡초 사이 우뚝한 고달사지 승탑(국보)과 거대한 석불대좌가 텅 빈 하늘 아래 서 있다. 사람 드문 들판에서 시간의 무게를 오롯이 느끼는 곳이다.",
+    "todo": [
+     "국보 고달사지 승탑 앞에 서 보기",
+     "원종대사탑비·석불대좌 등 보물 찾아보기"
+    ],
+    "tip": "북내면 산자락이라 아주 조용하다. 안내판을 읽으며 천천히 걸으면 폐사지가 한결 깊게 다가온다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg/500px-%EA%B3%A0%EB%8B%AC%EC%82%AC%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여주 파사성",
+    "rom": "남한강을 굽어보는 신라 산성",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "⛰️ 산성 트레킹",
+     "🌅 강 전망"
+    ],
+    "desc": "파사산 능선을 따라 돌로 쌓은 신라 산성이다. 성벽을 오르면 발아래로 남한강이 크게 휘돌아 흐르고, 강과 들과 하늘이 한눈에 펼쳐진다. 임진왜란 때 승군이 고쳐 쌓은 돌 하나하나가 지금도 능선을 지킨다.",
+    "todo": [
+     "성벽 정상에서 남한강 물굽이 내려다보기",
+     "천서리에서 시작하는 등산로 오르기"
+    ],
+    "tip": "정상까지 30~40분 오르막이라 운동화가 필수다. 산 아래 천서리는 막국수촌으로 유명하다.",
+    "eat": "천서리 메밀 막국수와 편육",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG/500px-Pasaseong_Castle_at_Yeoju%2C_Korea_05.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_02.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG/330px-Pasaseong_Castle_at_Yeoju%2C_Korea_03.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "강천섬",
+    "rom": "남한강 가운데 은행나무 산책길",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌳 은행나무길",
+     "⛺ 피크닉·캠핑"
+    ],
+    "desc": "남한강 물길이 감싼 섬 하나가 통째로 공원이다. 가을이면 노랗게 물든 은행나무 길이 이어지고, 봄엔 하얀 이팝나무가 눈처럼 핀다. 자전거를 타거나 돗자리를 펴고 강바람에 하루를 흘려보내기 좋은 곳이다.",
+    "todo": [
+     "가을 은행나무 터널길 걷기",
+     "강가에 돗자리 펴고 피크닉하기",
+     "섬 한 바퀴 자전거 라이딩"
+    ],
+    "tip": "차는 강천섬 입구에 세우고 걸어서 들어간다(성수기엔 붐빈다). 그늘과 매점이 적으니 물과 간식을 챙길 것.",
+    "eat": ""
+   },
+   {
+    "name": "여주도자세상 (도예촌)",
+    "rom": "가마 불빛이 이어지는 도자기 마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🏺 도자 체험",
+     "🛍️ 도자기 쇼핑"
+    ],
+    "desc": "여주는 예부터 좋은 흙으로 도자기를 빚어 온 고장이다. 도예촌 골목마다 공방과 가마가 늘어서고, 직접 물레를 돌려 그릇을 빚어볼 수 있다. 손맛으로 빚은 찻잔 하나를 골라 오면 여행이 오래 남는다.",
+    "todo": [
+     "물레 체험으로 나만의 그릇 빚기",
+     "공방을 돌며 마음에 드는 도자기 고르기"
+    ],
+    "tip": "봄·가을 여주도자기축제 기간엔 볼거리와 할인이 많다. 체험은 미리 예약해 두면 편하다.",
+    "eat": "여주 쌀로 지은 가마솥 밥 정식"
+   }
+  ]
+ },
+ "yeoncheon": {
+  "nm": "연천",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울에서 자동차 1시간 30분(3번 국도·세종포천고속도로), 수도권 전철 1호선이 종점 연천역까지 닿는다.",
+  "sep": "여름과 가을. 여름엔 호로고루 해바라기밭과 재인폭포 협곡의 서늘함이, 가을엔 고대산 억새와 임진강 물안개가 절정이다.",
+  "mood": "휴전선이 코앞, 화산이 깎은 검은 협곡과 삼국의 성터가 나란히 선 경기 최북단.",
+  "see": "27만 년 화산 협곡(한탄강 유네스코 세계지질공원), 동아시아 첫 구석기 주먹도끼, 고구려·신라·고려의 성과 능(陵).",
+  "spots": [
+   {
+    "name": "재인폭포",
+    "rom": "27만 년 화산이 깎은 18m 협곡 폭포",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌊 한탄강 지질공원"
+    ],
+    "desc": "현무암 주상절리 절벽을 타고 18m 아래로 물줄기가 곧게 떨어진다. 27만 년 전 용암이 굳어 만든 검은 육각 기둥 사이로 옥빛 소(沼)가 고이고, 절벽 위 구름다리에 서면 협곡 전체가 발밑에 펼쳐진다. 줄을 타던 광대(才人) 부부의 슬픈 전설이 이름에 남았다.",
+    "todo": [
+     "출렁다리 위에서 협곡 내려다보기",
+     "폭포 아래 전망 데크까지 내려가 물소리 듣기"
+    ],
+    "tip": "여름 장마 뒤 수량이 가장 웅장하다. 주차장에서 폭포까지 데크와 전망 엘리베이터가 있어 접근이 편하다.",
+    "eat": "인근 연천읍·전곡의 민물어죽과 매운탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaein_Pokpo_180519001.jpg/500px-Jaein_Pokpo_180519001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jaein_Pokpo_180519002.jpg/500px-Jaein_Pokpo_180519002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "전곡선사유적지",
+    "rom": "동아시아 첫 아슐리안 주먹도끼가 나온 구석기 벌판",
+    "meta": [
+     "💴 박물관 관람 무료",
+     "⏱ 반나절",
+     "🪨 구석기 유적"
+    ],
+    "desc": "한탄강이 휘도는 넓은 벌판. 1978년 이곳에서 주한미군 병사가 주운 돌 하나가 세계 고고학 교과서를 바꿨다. 유럽·아프리카에만 있다던 아슐리안 주먹도끼가 동아시아에서 처음 확인된 자리다. 잔디밭을 걷다 매머드를 닮은 전곡선사박물관으로 들어가면 30만 년 전 사람들의 손끝과 마주친다.",
+    "todo": [
+     "전곡선사박물관에서 주먹도끼 실물 보기",
+     "드넓은 잔디 유적 벌판 산책하기"
+    ],
+    "tip": "5월 초 연천 전곡리 구석기축제 때는 가족 체험 행사가 많아 붐빈다. 벌판이 넓고 그늘이 적으니 볕 가릴 것과 물을 챙기자.",
+    "eat": "전곡시장의 순대와 닭볶음탕",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg/500px-%EC%97%B0%EC%B2%9C_%EC%A0%84%EA%B3%A1%EB%A6%AC_%EC%9C%A0%EC%A0%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "호로고루",
+    "rom": "임진강 절벽 위 고구려 성터, 해바라기와 노을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌻 여름 해바라기밭",
+     "🌇 일몰 명소"
+    ],
+    "desc": "임진강이 감아 도는 현무암 수직 절벽 위, 둘레 400m의 삼각형 고구려 성이 낮게 앉아 있다. 임진강이 국경이던 삼국시대의 강가 요새다. 여름이면 성 아래로 해바라기가, 가을이면 붉은 천일홍이 물결치고, 강 너머로 해가 떨어질 때 성벽의 실루엣이 가장 깊어진다.",
+    "todo": [
+     "성벽 능선을 따라 걸으며 임진강 내려다보기",
+     "여름 해바라기·가을 천일홍 밭에서 노을 맞기"
+    ],
+    "tip": "꽃밭 절정은 여름(해바라기)과 가을(천일홍)이다. 해질 무렵이 사진 명당이라 주말 일몰 때 사람이 몰린다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Horogoru.jpg/500px-Horogoru.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "숭의전",
+    "rom": "임진강 내려다보는 고려 왕들의 사당",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🏯 고려 사당"
+    ],
+    "desc": "조선을 세운 이성계가 앞선 왕조 고려의 왕들을 예우해 세운 사당. 태조 왕건을 비롯한 고려 네 임금과 충신 열다섯을 모신다. 아미산 자락, 임진강이 내려다보이는 조용한 언덕에 단정한 전각이 서 있어 왕조가 바뀐 자리의 예(禮)를 조용히 되새기게 한다.",
+    "tip": "규모가 크지 않아 호로고루·경순왕릉과 함께 임진강 미산·장남면 코스로 묶어 보기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%EC%88%AD%EC%9D%98%EC%A0%84.jpg/500px-%EC%88%AD%EC%9D%98%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "고대산",
+    "rom": "경기 최북단, DMZ를 굽어보는 억새 능선",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "⛰ 높이 832m",
+     "🍂 가을 억새"
+    ],
+    "desc": "경기와 강원의 경계에 솟은 832m 산. 정상에 오르면 철원 평야와 백마고지, 멀리 비무장지대가 한눈에 펼쳐진다. 끊긴 경원선의 마지막 봉우리로 등산객이 아끼는 곳이라, 가을이면 능선을 덮은 억새가 은빛으로 일렁인다.",
+    "todo": [
+     "정상에서 철원평야·DMZ 조망하기",
+     "가을 억새 능선 따라 걷기"
+    ],
+    "tip": "옛 신탄리역 방면에서 오르는 코스가 대표적이다. 정상까지 왕복 4~5시간이니 등산화와 물은 필수."
+   },
+   {
+    "name": "경순왕릉",
+    "rom": "경주를 떠나 임진강 가에 묻힌 신라 마지막 왕",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 30분~1시간",
+     "👑 신라 왕릉"
+    ],
+    "desc": "나라를 고려에 넘긴 신라의 마지막 임금 경순왕. 개경에서 생을 마쳐 그의 능은 경주가 아닌 이곳 임진강 가에 남았다. 경주 바깥에 있는 유일한 신라 왕릉이다. 소나무에 둘러싸인 조용한 능 앞에 서면 천 년 왕국의 마지막 장면이 스친다.",
+    "tip": "아담하고 고요한 곳이라 오래 머무는 코스는 아니다. 가까운 호로고루·숭의전과 장남·미산면 임진강 나들이로 이어 보자.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/3/30/Sillagyeongsunwangreung.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sillagyeongsunwangreung_front.jpg/120px-Sillagyeongsunwangreung_front.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "태풍전망대",
+    "rom": "임진강 건너 북녘이 가장 가까운 전망대",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🔭 안보관광",
+     "🪖 DMZ"
+    ],
+    "desc": "군사분계선에서 약 800m, 임진강 너머 북한 땅이 손에 잡힐 듯 가까운 전망대다. 망원경 앞에 서면 강 건너 초소와 능선이 또렷하고, 발밑으로는 분단의 강이 말없이 흐른다. 풍경을 즐기기보다 '경계'를 실감하러 오는 자리다.",
+    "todo": [
+     "망원경으로 북녘 땅과 임진강 조망하기",
+     "전망대 안보전시관 둘러보기"
+    ],
+    "tip": "민간인통제선 안이라 신분증이 필요하고 개방 시간과 출입 통제가 있으니 방문 전 연천군·부대 안내를 확인하자. 주차·매점 있음.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Taepung_Observation_Tower_stone.JPG/500px-Taepung_Observation_Tower_stone.JPG"
+    ]
+   }
+  ]
+ },
+ "yeongam": {
+  "nm": "영암",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 센트럴시티에서 영암·강진행 고속버스로 약 4시간, 또는 KTX로 나주·목포역까지 간 뒤 시외버스·렌터카 이용. 광주에서 차로 약 1시간, 부산에서는 약 3시간 30분.",
+  "sep": "봄 4월 초에는 왕인박사유적지 진입로가 벚꽃과 유채로 물들며 왕인문화축제가 열리고, 가을 10~11월에는 월출산 기암 능선에 단풍이 번지고 국화축제가 이어진다. 암릉 산행은 선선한 가을이 가장 좋다.",
+  "mood": "달이 뜬다는 이름 그대로, 남도 들판 한가운데 바위산이 병풍처럼 솟아오른 고장.",
+  "see": "호남의 소금강 월출산 구름다리와 기암 능선, 일본에 학문을 전한 백제 왕인박사의 자취, 2200년 도기의 옛 마을까지.",
+  "spots": [
+   {
+    "name": "월출산 국립공원",
+    "rom": "남도 들판에 솟은 바위 병풍, 호남의 소금강",
+    "meta": [
+     "💴 입장 무료(주차 별도)",
+     "⏱ 반나절~하루",
+     "🍁 가을 단풍",
+     "🥾 암릉 산행"
+    ],
+    "desc": "평평한 남도 들녘 위로 화강암 봉우리들이 칼날처럼 솟아 있어, 멀리서 보면 산 하나가 통째로 바위 병풍처럼 보인다. 시루봉과 매봉 사이 허공에 걸린 구름다리에 서면 발밑으로 기암괴석과 남도 평야가 아득히 펼쳐진다. 천황봉(약 809m)까지 오르는 길은 짧지만 가파른 암릉이라, 정상에서 마주하는 풍경이 그만큼 값지다.",
+    "todo": [
+     "구름다리 위에서 남도 들판 내려다보기",
+     "천황봉 정상에서 사방 능선 조망하기",
+     "가을 단풍철 능선 종주"
+    ],
+    "tip": "천황사·바람폭포 코스는 거리는 짧아도 급경사 철계단이 많아 등산화가 필수다. 단풍 성수기 주말엔 주차장이 일찍 찬다.",
+    "eat": "산 아래 마을 식당의 산채한정식과 갓 짜낸 손두부.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wolchulsan_mountain_peak.jpg/500px-Wolchulsan_mountain_peak.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Korea_physical_map.svg/500px-South_Korea_physical_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wol_gu.JPG/500px-Wol_gu.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영암 왕인박사유적지",
+    "rom": "일본에 학문을 전한 백제 학자의 고향",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🌸 봄 벚꽃",
+     "📚 역사·문화"
+    ],
+    "desc": "백제의 학자 왕인 박사는 논어와 천자문을 품고 일본으로 건너가 학문을 전했다고 전해지는데, 그가 태어났다는 자리를 월출산 자락에 유적지로 복원해 두었다. 봄이면 진입로가 온통 벚꽃과 유채로 물들어 왕인문화축제가 열리고, 꽃길 사이로 사당과 옛집이 정갈하게 이어진다.",
+    "todo": [
+     "벚꽃 필 무렵 진입로 꽃터널 걷기",
+     "왕인 사당과 복원된 유적지 둘러보기"
+    ],
+    "tip": "벚꽃과 왕인문화축제는 보통 4월 초에 절정이다. 이 시기 주변 도로가 크게 붐비니 이른 아침 방문을 권한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg/330px-%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_13.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg/500px-%E4%BC%9D%E7%8E%8B%E4%BB%81%E5%A2%93_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "도갑사",
+    "rom": "월출산 서쪽 자락의 천년 고찰",
+    "meta": [
+     "⏱ 1~2시간",
+     "🍁 가을 단풍",
+     "🛕 국보 해탈문",
+     "🌲 계곡·숲"
+    ],
+    "desc": "신라 말 도선국사가 세웠다고 전해지는 이 절은 월출산 서쪽 골짜기 깊숙이 자리해, 계곡 물소리와 숲 그늘이 절 마당까지 따라 들어온다. 국보로 지정된 해탈문을 지나 경내로 들면 오래된 석탑과 마애불이 조용히 세월을 견디고 있다.",
+    "todo": [
+     "국보 해탈문 지나 경내 거닐기",
+     "절 앞 계곡길 따라 숲 산책"
+    ],
+    "tip": "구림마을·왕인박사유적지와 가까워 함께 묶어 돌기 좋고, 템플스테이도 운영한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg/500px-Amlou2518_%EB%8F%84%EA%B0%91%EC%82%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EA%B4%91%EC%A0%9C%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG/330px-%EB%8F%84%EA%B0%91%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "구림 전통 한옥마을",
+    "rom": "천년 넘는 도기의 역사가 흐르는 옛 마을",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1~2시간",
+     "🏯 전통 한옥",
+     "🏺 도기 역사"
+    ],
+    "desc": "월출산 서쪽 자락에 기와집이 옹기종기 모인 구림마을은 천년 넘게 도기를 구워 온 유서 깊은 곳이다. 마을 앞 상대포는 옛날 중국·일본과 배가 드나들던 국제 나루터였다고 전해져, 돌담 골목을 걷다 보면 남도의 오랜 시간이 발끝에 닿는다. 곁의 도기박물관에서 그 역사를 눈으로 확인할 수 있다.",
+    "todo": [
+     "한옥 골목과 돌담길 걷기",
+     "영암도기박물관 관람하기",
+     "상대포 옛 나루터 둘러보기"
+    ],
+    "tip": "왕인박사유적지·도갑사와 지척이라 반나절 도보권으로 함께 묶기 좋다."
+   },
+   {
+    "name": "월출산 기찬랜드",
+    "rom": "월출산 정기를 담은 가족 물놀이·숲길",
+    "meta": [
+     "💴 시설별 상이",
+     "⏱ 2~3시간",
+     "👨‍👩‍👧 가족 나들이",
+     "💧 여름 물놀이"
+    ],
+    "desc": "월출산에서 내려온 맑은 물로 꾸민 기찬랜드는 여름이면 아이들이 첨벙대는 물놀이장과 시원한 계곡이 어우러진다. 산자락을 따라 이어진 기찬묏길과 조롱박 터널을 걸으면 초록 그늘이 머리 위로 드리워, 온 가족이 부담 없이 하루를 보내기 좋다.",
+    "todo": [
+     "여름 물놀이장에서 계곡물 즐기기",
+     "기찬묏길·조롱박 터널 숲길 산책"
+    ],
+    "tip": "물놀이장은 여름 성수기에만 개장하니 방문 전 개장 여부를 확인하는 게 좋다."
+   },
+   {
+    "name": "코리아 인터내셔널 서킷",
+    "rom": "F1 그랑프리가 열렸던 국제 자동차 경주장",
+    "meta": [
+     "💴 행사별 상이",
+     "⏱ 반나절",
+     "🏎 모터스포츠",
+     "🎫 이벤트 개최"
+    ],
+    "desc": "삼호읍 바닷가 간척지에 들어선 이 서킷은 2010년부터 여러 해 동안 F1 코리아 그랑프리가 열렸던 국제 규격 경주장이다. 굉음을 내며 질주하던 무대는 지금도 각종 모터스포츠 대회와 주행 체험 행사가 열려, 속도를 좋아하는 이들에게는 남도 여행의 색다른 목적지가 된다.",
+    "tip": "상시 개방된 관광지가 아니라 대회·행사 일정에 맞춰 방문해야 하니, 방문 전 개최 일정을 반드시 확인한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Korea_international_circuit.svg/330px-Korea_international_circuit.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yeongcheon": {
+  "nm": "영천",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 자동차로 약 3시간(경부·중앙고속), 동대구역에서 대구선 열차로 40분이면 영천역. 부산에서는 1시간 30분이면 닿는 경북 한가운데다.",
+  "sep": "봄 4월이 최고. 영천댐 순환도로 30리 벚꽃길이 절정에 오른다. 여기에 가을 맑고 건조한 밤이면 보현산 별하늘까지 덤으로 좋다.",
+  "mood": "밤이면 국내 최대 망원경이 별을 세고, 낮이면 천 년 절집의 나한을 마주하는 곳 — 영천은 하늘과 옛 시간이 유난히 가까운 동네다.",
+  "see": "천 년 절집의 오백나한과 국보 목조건축, 만원권 지폐에 실린 별 보는 망원경, 그리고 4월 호숫가 벚꽃 터널.",
+  "spots": [
+   {
+    "name": "은해사",
+    "rom": "팔공산 동쪽 자락의 조계종 본사 절집",
+    "meta": [
+     "💴 입장 무료(주차 약 3,000원)",
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🧘 템플스테이"
+    ],
+    "desc": "신라 809년에 세워진 팔공산 은해사는 조계종 제10교구 본사다. 일주문에서 절 마당까지 이어지는 소나무·계곡 길이 특히 좋아서, 걷는 동안 물소리와 솔향에 마음이 먼저 가라앉는다. 추사 김정희가 쓴 현판 글씨가 곳곳에 남아 있어 보물찾기 하듯 자꾸 올려다보게 된다.",
+    "todo": [
+     "일주문에서 보화루까지 계곡 숲길 천천히 걷기",
+     "추사 김정희 글씨 현판 찾아보기",
+     "산내 암자 백흥암·중암암까지 이어 걷기"
+    ],
+    "tip": "산내 암자까지 보려면 반나절이 넘게 걸린다. 단풍철 주말은 주차장이 금세 차니 오전에 도착하는 편이 편하다.",
+    "eat": "절 입구 식당가의 산채비빔밥과 더덕구이",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg/500px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84_%EC%95%84%EB%AF%B8%ED%83%80%EB%B6%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "보현산천문대",
+    "rom": "만원권 지폐 뒷면에 실린 국내 최대 반사망원경",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 반나절",
+     "🌌 별·은하수",
+     "🚗 정상 드라이브"
+    ],
+    "desc": "해발 1,124m 보현산 정상에 국내 최대 1.8m 반사망원경이 있는 국립 천문대다. 2007년 만원권 지폐 뒷면 '현대과학'을 상징하는 장비로 실렸을 만큼 상징적인 곳이다. 굽이굽이 산길을 올라 은빛 돔 앞에 서면 발아래로 능선이 겹겹이 펼쳐지고, 맑은 밤이면 은하수가 손에 잡힐 듯 쏟아진다.",
+    "todo": [
+     "구불구불한 정상 도로 드라이브",
+     "은빛 관측 돔과 능선 전망 감상",
+     "일몰 뒤 별·은하수 올려다보기"
+    ],
+    "tip": "관측 돔 내부는 평소 비공개이고, 별빛축제나 예약 견학 때에만 개방한다. 정상은 여름에도 서늘하니 겉옷 필수, 밤 산길 운전은 안개·결빙에 주의."
+   },
+   {
+    "name": "거조사(거조암)",
+    "rom": "표정이 다 다른 오백나한이 앉은 고려 목조건축",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🏛 국보 영산전",
+     "🧘 526 나한상"
+    ],
+    "desc": "팔공산 북쪽 자락의 조용한 절이다. 국보로 지정된 영산전은 1375년 고려 때 지은 목조건물로, 부석사·봉정사와 어깨를 나란히 하는 귀한 나이를 지녔다. 법당 안에는 526위의 돌 나한상이 빼곡히 앉아 있는데 웃고, 삐치고, 딴청 부리는 표정이 하나도 같지 않아 한참을 들여다보게 된다.",
+    "todo": [
+     "국보 영산전의 단정한 기둥과 지붕선 보기",
+     "526 나한상 표정 하나하나 찾아보기"
+    ],
+    "tip": "은해사에서 차로 가깝다. 관광지가 아니라 수행 도량이니 나한상 관람은 조용히, 사진 촬영 가능 여부는 현장 안내를 따른다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/500px-%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%95%94_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%B6%88%EC%83%81_%EB%B0%8F_%ED%83%B1%ED%99%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg/120px-%EC%98%81%EC%B2%9C_%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EB%82%B4%EB%B6%80_%EB%82%98%ED%95%9C%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영천댐 벚꽃길",
+    "rom": "호수를 따라 이어지는 30리 벚꽃 드라이브",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌸 4월 벚꽃",
+     "🚗 호반 드라이브"
+    ],
+    "desc": "영천댐이 만든 넓은 호수를 감싸고 순환도로가 이어진다. 4월이면 도로 양옆 벚나무가 터널처럼 꽃을 드리워, 창문을 내리고 천천히 달리면 꽃잎이 차 안으로 날아든다. 물빛과 벚꽃, 산 그림자가 한 화면에 담기는 경북의 대표 봄 드라이브 코스다.",
+    "todo": [
+     "호반 순환도로 천천히 드라이브",
+     "벚꽃 터널 구간 걸어보기",
+     "전망 좋은 지점에서 호수 사진 남기기"
+    ],
+    "tip": "벚꽃 절정은 대개 4월 초·중순 며칠뿐이다. 주말엔 순환도로가 정체되니 평일 이른 오전을 추천, 갓길 주차·무단횡단은 조심.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%EC%98%81%EC%B2%9C%EB%8C%90_%EB%8C%90%EC%B2%B4_%EC%A0%84%EB%A9%B41.jpg/500px-%EC%98%81%EC%B2%9C%EB%8C%90_%EB%8C%90%EC%B2%B4_%EC%A0%84%EB%A9%B41.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%EC%98%81%EC%B2%9C%EB%8C%90_%EB%8C%90%EC%B2%B4_%ED%9B%84%EB%A9%B4.jpg/500px-%EC%98%81%EC%B2%9C%EB%8C%90_%EB%8C%90%EC%B2%B4_%ED%9B%84%EB%A9%B4.jpg",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%98%81%EC%B2%9C%EB%8C%90_%EB%AA%A8%EB%8B%9D%EA%B8%80%EB%A1%9C%EB%A6%AC_%EC%97%AC%EC%88%98%EB%A1%9C.jpg/500px-%EC%98%81%EC%B2%9C%EB%8C%90_%EB%AA%A8%EB%8B%9D%EA%B8%80%EB%A1%9C%EB%A6%AC_%EC%97%AC%EC%88%98%EB%A1%9C.jpg"
+    ]
+   },
+   {
+    "name": "임고서원",
+    "rom": "포은 정몽주를 기리는 조선의 사액서원",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "📜 정몽주·단심가",
+     "🌳 노거수 은행나무"
+    ],
+    "desc": "고려의 충신 포은 정몽주의 충절을 기리려 1553년에 세운 서원이다. 단정한 강당과 사당이 산자락 아래 반듯하게 앉아 있고, 마당가에는 수백 년을 산 은행나무가 가을이면 온통 노랗게 물든다. '이 몸이 죽고 죽어…' 단심가의 주인공을 떠올리며 거닐면 오래된 마당이 한결 깊게 다가온다.",
+    "todo": [
+     "강당과 사당 돌아보기",
+     "포은 유물전시관·조옹대 함께 둘러보기",
+     "가을 은행나무 아래 산책"
+    ],
+    "tip": "옆에 포은 관련 전시관과 조옹대가 함께 있어 묶어 보기 좋다. 노랗게 물드는 가을 은행 단풍철이 가장 예쁘다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/250px-Replace_this_image_male-ko.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "최무선과학관",
+    "rom": "화약을 처음 만든 고려 발명가의 고향 과학관",
+    "meta": [
+     "💴 입장료 소액(변동 가능)",
+     "⏱ 1~2시간",
+     "👨‍👩‍👧 아이 체험",
+     "🚀 화약·화포"
+    ],
+    "desc": "화약과 화포를 처음 만들어 왜구를 물리친 고려 말 발명가 최무선이 태어난 곳이 바로 영천이다. 그의 업적을 담은 과학관에는 화약·로켓 원리를 손으로 만져보는 체험 전시가 가득해, 아이와 함께라면 반나절이 금세 지나간다. 야외에는 진포대첩의 화포를 재현한 전시물도 서 있다.",
+    "todo": [
+     "화약·화포 원리 체험 전시 둘러보기",
+     "진포대첩 재현 전시물 살펴보기"
+    ],
+    "tip": "아이 동반 가족에게 특히 잘 맞는다. 요금·운영시간은 변동 가능하니 방문 전 확인하고, 월요일 휴관인 경우가 많다.",
+    "eat": "금호읍 시내의 소머리국밥"
+   },
+   {
+    "name": "시안미술관",
+    "rom": "폐교를 고쳐 만든 시골 속 현대미술관",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 1~2시간",
+     "🎨 현대미술",
+     "🏫 폐교 리모델링"
+    ],
+    "desc": "문 닫은 시골 초등학교를 개조해 만든 사립 현대미술관이다. 옛 교실과 운동장의 흔적 위에 세련된 전시 공간이 얹혀, 시골 풍경과 현대미술이 낯설고도 정답게 어울린다. 넓은 마당과 야외 조각을 천천히 걸으며 쉬어 가기 좋은, 영천의 조용한 문화 쉼표.",
+    "todo": [
+     "기획전시 관람",
+     "야외 조각과 마당 산책",
+     "미술관 카페에서 쉬어 가기"
+    ],
+    "tip": "전시는 기간마다 바뀌니 방문 전 현재 전시를 확인하는 편이 좋다. 요금·휴관일은 변동 가능(대개 월요일 휴관)."
+   }
+  ]
+ },
+ "yeongdeok": {
+  "nm": "영덕",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울에서 KTX·SRT로 포항까지 간 뒤 버스·차로 약 40분, 또는 동서울터미널에서 영덕까지 고속버스 약 4시간. 부산에선 차로 약 2시간 30분 동해안을 따라 올라간다.",
+  "sep": "겨울(11월~이듬해 4월)이 최고다. 영덕대게가 살이 꽉 차는 제철이라 강구항이 가장 뜨겁고, 시린 동해 일출도 이 계절에 가장 맑다. 여름엔 고래불·장사 해변, 봄가을엔 블루로드 트레킹이 좋다.",
+  "mood": "대게 한 마리를 앞에 두고, 창밖으로는 집게발 등대와 파란 바다가 있는 곳. 걸어도 좋고 먹어도 좋은 동해안의 작은 항구 마을.",
+  "see": "강구항 대게거리, 해안을 따라 걷는 블루로드, 언덕 위 하얀 풍력발전기.",
+  "spots": [
+   {
+    "name": "강구항 · 대게거리",
+    "rom": "영덕대게가 시작되고 끝나는 항구",
+    "meta": [
+     "🦀 대게 제철 11~4월",
+     "⏱ 반나절",
+     "🍜 대게 먹거리"
+    ],
+    "desc": "오십천이 바다와 만나는 자리에 대게잡이 배들이 빼곡히 들어찬 항구다. 항구를 낀 약 3km 대게거리엔 김이 오르는 찜솥과 붉게 익은 대게를 내건 식당이 줄줄이 이어진다. 드라마 '그대 그리고 나'의 무대로도 알려져, 다리 위에서 내려다보는 항구 야경이 오래 기억에 남는다.",
+    "todo": [
+     "대게 위판장에서 갓 올라온 시세 구경하기",
+     "강구대교 위에서 항구 전경 내려다보기"
+    ],
+    "tip": "대게는 무게로 값을 매기고 자연산·수입산 시세 차가 크다. 흥정 전에 몇 집을 둘러보고 kg당 가격과 손질비 포함 여부를 확인하는 게 좋다. 주말·성수기 점심때는 대게거리 주차가 붐빈다.",
+    "eat": "찜 대게, 대게살 비빔밥, 대게 내장에 밥을 비벼 먹는 마무리.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/500px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영덕 블루로드",
+    "rom": "쪽빛 바다와 나란히 걷는 해안 트레킹길",
+    "meta": [
+     "🚶 도보 트레킹",
+     "⏱ 코스별 반나절~하루",
+     "🌊 해안 절경",
+     "💴 무료"
+    ],
+    "desc": "해파랑길 중 영덕 구간을 부르는 이름으로, 대게누리공원에서 강구항·축산항을 지나 고래불해수욕장까지 약 64km 해안을 잇는다. 파도 소리를 옆에 두고 솔숲과 갯바위, 등대를 지나며 걷다 보면 왜 걷기 좋은 길로 꼽히는지 알게 된다.",
+    "todo": [
+     "가장 인기 있는 B코스 '푸른대게의 길' 걸어보기",
+     "축산항 죽도산 전망대에서 바다 조망"
+    ],
+    "tip": "네 개 코스로 나뉜다. 전 구간은 부담스럽고, B코스(약 15km, 5시간 안팎)나 짧게 A코스 일부만 골라 걷는 이가 많다. 그늘이 적은 구간이 있어 여름엔 물과 모자를 챙기는 게 좋다.",
+    "eat": "코스 중간 축산항·강구항에서 물회나 회덮밥으로 요기."
+   },
+   {
+    "name": "해맞이공원 · 창포말등대",
+    "rom": "대게 집게발이 감싼 하얀 등대",
+    "meta": [
+     "🌅 일출 명소",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "산불로 헐벗었던 언덕을 공원으로 되살린 곳으로, 그 끝에 대게의 집게발이 하얀 등대를 감싸 안은 창포말등대가 서 있다. 조형등대다운 이 독특한 실루엣 뒤로 동해가 펼쳐져, 해가 떠오르는 새벽이면 바다가 통째로 붉게 물든다.",
+    "todo": [
+     "등대 전망대에서 탁 트인 동해 바라보기",
+     "해안 데크길 따라 산책하기"
+    ],
+    "tip": "블루로드 A코스와 풍력발전단지가 위아래로 이어져 함께 묶어 걷기 좋다. 일출을 노린다면 겨울 해 뜨는 시각을 미리 확인하고 방한을 단단히.",
+    "eat": ""
+   },
+   {
+    "name": "영덕 풍력발전단지",
+    "rom": "언덕 위에서 도는 24기의 하얀 바람개비",
+    "meta": [
+     "🌬️ 풍력 24기",
+     "💴 무료",
+     "⏱ 반나절",
+     "📸 인생샷"
+    ],
+    "desc": "해맞이공원 위 창포리 언덕에 하얀 풍력발전기 24기가 바다를 배경으로 천천히 돌아간다. 파란 하늘과 초록 언덕, 그 위를 가르는 거대한 날개가 이국적인 풍경을 만들어, 노을 질 무렵과 별이 뜨는 밤이면 특히 그림 같다.",
+    "todo": [
+     "바람개비공원·산책로 걷기",
+     "신재생에너지관에서 풍력 원리 둘러보기"
+    ],
+    "tip": "단지 안에 오토캠핑장과 놀이터가 있어 아이 동반 가족에게 좋다. 언덕이라 바람이 세고 체감온도가 낮으니 겉옷을 챙기자.",
+    "eat": ""
+   },
+   {
+    "name": "고래불해수욕장",
+    "rom": "긴 금빛 백사장이 펼쳐진 넓은 해변",
+    "meta": [
+     "🏖️ 여름 해수욕",
+     "⏱ 반나절",
+     "🌲 송림 그늘",
+     "💴 무료"
+    ],
+    "desc": "고려 때 이색이 고래가 물을 뿜으며 노는 걸 보았다 하여 이름 붙었다고 전하는 해변으로, 발에 잘 붙지 않는 고운 모래가 약 8km(옛말로 명사이십리)나 이어진다. 물이 얕고 맑아 가족 물놀이에 좋고, 뒤편 울창한 송림이 한여름에도 시원한 그늘을 내어준다.",
+    "todo": [
+     "맨발로 백사장 오래 걷기",
+     "송림 그늘에서 쉬어가기"
+    ],
+    "tip": "백사장이 길어 붐벼도 여유롭다. 여름 성수기 외에는 한적해 노을 산책 코스로도 좋다.",
+    "eat": "인근 병곡·축산에서 대게·물가자미(미주구리) 요리."
+   },
+   {
+    "name": "벌영리 메타세쿼이아 숲",
+    "rom": "한 사람이 20년간 가꿔 무료로 연 비밀의 숲",
+    "meta": [
+     "🌲 숲길 산책",
+     "💴 무료",
+     "⏱ 1~2시간"
+    ],
+    "desc": "영덕 출신의 한 개인이 20여 년간 메타세쿼이아와 편백·측백을 심어 가꾼 사유지 숲을, 사람들에게 무료로 열어둔 곳이다. 편도 400여 m 남짓한 숲길 양옆으로 곧게 뻗은 나무들이 하늘을 가리고, 철계단을 오르면 전망대에서 동해까지 내려다보인다.",
+    "todo": [
+     "곧게 뻗은 나무 사이 숲길 천천히 걷기",
+     "전망대에서 숲과 바다 함께 조망"
+    ],
+    "tip": "개인이 호의로 개방한 공간이라 조용히, 흔적을 남기지 않고 즐기는 배려가 필요하다. 편백 향이 짙은 여름 초록과 늦가을 단풍이 아름답다.",
+    "eat": ""
+   },
+   {
+    "name": "장사상륙작전 전승기념공원",
+    "rom": "학도병들이 상륙한 바닷가의 전승 기념지",
+    "meta": [
+     "🕯️ 역사 기념지",
+     "⏱ 1~2시간",
+     "🌊 해변 인접"
+    ],
+    "desc": "인천상륙작전을 돕기 위한 양동작전으로, 1950년 평균 나이 열일곱의 학도병들이 이 바닷가에 상륙했다. 그 희생을 기려 조성한 공원엔 파도를 헤치고 뭍으로 뛰어오르는 학도병 군상과 위령탑이 서 있고, 실물 크기로 재현한 상륙함 문산호가 눈길을 끈다.",
+    "todo": [
+     "재현된 상륙함 문산호 내부 관람",
+     "학도병 군상 앞에서 그날의 이야기 되새기기"
+    ],
+    "tip": "바로 옆 장사해수욕장과 이어져 여름엔 물놀이와 함께 둘러볼 수 있다. 상륙함 관람은 운영시간을 미리 확인하는 게 좋다.",
+    "eat": ""
+   }
+  ]
+ },
+ "yeongdong": {
+  "nm": "영동",
+  "region": "🏞️ 충청 · 충청북도",
+  "route": "서울에서 기차(ITX·무궁화호)로 영동역(경부선)까지 약 2시간, 자동차로 경부고속도로 약 2시간 반. 부산에서도 기차·고속도로로 2시간대면 닿는다.",
+  "sep": "여름엔 물한계곡과 옥계폭포에서 더위를 씻기 좋고, 포도가 익는 8~9월엔 포도·와인축제로 마을이 달다. 가을 단풍철 월류봉과 반야사 벼랑 풍경도 곱다.",
+  "mood": "달이 머물다 가는 벼랑, 국악 가락과 포도향이 함께 흐르는 충북의 남쪽 끝 고장.",
+  "see": "월류봉·반야사의 벼랑 풍경, 물한계곡의 맑은 물, 국악의 고장 난계 이야기, 그리고 포도와 와인.",
+  "spots": [
+   {
+    "name": "월류봉",
+    "rom": "달도 머물다 가는 벼랑 위 봉우리",
+    "meta": [
+     "⏱ 반나절",
+     "🍁 가을 단풍",
+     "🚶 둘레길"
+    ],
+    "desc": "초강천 물길이 발 아래를 휘감아 도는 벼랑 위로 봉우리가 우뚝 솟았다. 달빛이 능선을 따라 물 흐르듯 머물다 간다 하여 붙은 이름이다. 강가에 선 월류정과 어우러진 풍경이 한천팔경의 으뜸으로 꼽힌다.",
+    "todo": [
+     "강 건너에서 월류정과 봉우리를 한 컷에 담기",
+     "월류봉 둘레길 걸으며 물돌이 감상"
+    ],
+    "tip": "주차장에서 정자까지 가깝다. 이른 아침이나 해질 무렵 물안개가 낄 때 특히 아름답다.",
+    "eat": "황간역 근처 올갱이국(다슬기 해장국)",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg/500px-%EC%9B%94%EB%A5%98%EB%B4%89_%EC%82%AC%EC%A7%841.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/YD-Wollryubong.jpg/500px-YD-Wollryubong.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/YDh-Kwc1.jpg/500px-YDh-Kwc1.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "반야사",
+    "rom": "벼랑 끝 문수전과 돌호랑이의 절",
+    "meta": [
+     "⏱ 반나절",
+     "🐯 호랑이 너덜",
+     "🌸 배롱나무"
+    ],
+    "desc": "백화산 자락, 강물이 발 아래로 흐르는 벼랑 끝에 문수전이 아슬하게 매달려 있다. 대웅전 뒤 300m 돌너덜이 산비탈에 웅크린 호랑이처럼 보여 '호랑이 절'로도 불린다. 한여름이면 오래된 배롱나무가 붉게 피어난다.",
+    "todo": [
+     "문수전에 올라 굽이치는 강 내려다보기",
+     "산비탈의 호랑이 형상 돌너덜 찾아보기"
+    ],
+    "tip": "문수전까지 계단과 비탈길이 있으니 편한 신발이 좋다. 굽이치는 강을 낀 벼랑에 자리한 오래된 고찰이다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%EB%B0%98%EC%95%BC%EC%82%AC1.JPG/500px-%EB%B0%98%EC%95%BC%EC%82%AC1.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg/500px-%EB%B0%98%EC%95%BC%EC%82%AC_%ED%98%B8%EB%9E%91%EC%9D%B4%EB%8F%8C%EB%84%88%EB%8D%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "노근리 평화공원",
+    "rom": "쌍굴다리에 남은 전쟁의 기억",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🕊 평화·역사"
+    ],
+    "desc": "1950년 여름 피난민이 희생된 노근리 사건의 현장이다. 총탄 자국이 그대로 남은 쌍굴다리와 나란히, 위령탑과 평화기념관이 들어선 공원을 조용히 걷는다. 아픈 역사를 담담히 마주하고 아이와 함께 배우기 좋은 곳이다.",
+    "tip": "쌍굴다리는 공원에서 도보로 이어지며, 벽면의 실탄 자국에 표시가 되어 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/No_Gun_Ri_bridge-1960.jpg/500px-No_Gun_Ri_bridge-1960.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korean_refugees_mid-1950.jpg/500px-South_Korean_refugees_mid-1950.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Map_of_NoGeunRi.png/500px-Map_of_NoGeunRi.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "옥계폭포",
+    "rom": "박연폭포로도 불리는 심천의 물줄기",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "💧 여름 피서"
+    ],
+    "desc": "심천면 옥계리, 약 20m 높이 벼랑에서 곧게 떨어지는 물줄기가 시원하게 쏟아진다. 국악의 아버지 난계 박연과 얽혀 박연폭포라고도 불리며, 충청북도가 지정한 관광명소다. 무더운 날엔 물소리만으로도 더위가 가신다.",
+    "tip": "주차장에서 폭포까지 걷는 길이 짧아 가볍게 다녀오기 좋다. 비 온 뒤 수량이 많을 때 더 웅장하다."
+   },
+   {
+    "name": "영동 와인터널",
+    "rom": "포도의 고장이 빚은 지하 와인 저장고",
+    "meta": [
+     "🍇 포도·와인",
+     "🍷 와인 시음",
+     "⏱ 1~2시간"
+    ],
+    "desc": "영동은 전국에서 손꼽히는 포도·와인 산지다. 서늘한 터널을 활용한 공간에서 지역 와인을 구경하고 맛보고 사갈 수 있다. 한여름에도 안이 시원해 가족 나들이로 부담이 없다.",
+    "todo": [
+     "지역 농가 와인 시음해 보기",
+     "마음에 든 와인 한 병 기념으로 사가기"
+    ],
+    "tip": "입장료·시음은 소액이지만 시즌마다 다르니 방문 전 확인. 해마다 가을(보통 9월) 영동포도축제·와인축제가 열린다.",
+    "eat": "제철 영동 포도(8~9월)와 포도즙"
+   },
+   {
+    "name": "난계국악박물관",
+    "rom": "국악의 고장, 난계 박연을 만나다",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🎵 국악·체험"
+    ],
+    "desc": "영동은 세종 때 아악을 정비한 난계 박연의 고향, '국악의 고장'이다. 편경·편종 같은 전통 악기와 옛 악보를 눈으로 보고, 2층 체험장에선 직접 악기를 소리 내볼 수 있다. 아이와 함께 오면 더 즐겁다.",
+    "todo": [
+     "편경·편종 등 전통 국악기 관람하기",
+     "2층 체험장에서 직접 악기 연주해 보기"
+    ],
+    "tip": "인근 난계국악기제작촌·국악체험촌과 묶어 둘러보기 좋다. 매년 가을 난계국악축제가 열린다."
+   },
+   {
+    "name": "송호국민관광지",
+    "rom": "금강 물돌이를 감싼 노송 숲의 강가",
+    "meta": [
+     "⏱ 반나절",
+     "🌲 소나무 숲",
+     "🏕 캠핑"
+    ],
+    "desc": "양산면 금강 물줄기가 크게 휘도는 강가에 수백 년 묵은 노송 숲이 펼쳐진다. 양산팔경 자락의 이름난 강변 관광지로, 강변을 따라 산책하거나 그늘 아래 앉아 물소리를 듣기 좋다. 오토캠핑장이 있어 여름밤 야영지로 인기다.",
+    "todo": [
+     "강변 소나무 숲길 천천히 걷기",
+     "여울가에 발 담그고 쉬어가기"
+    ],
+    "tip": "여름 성수기 캠핑장은 예약이 필수다. 강물이 깊은 구간이 있어 물놀이는 주의한다."
+   },
+   {
+    "name": "물한계곡",
+    "rom": "민주지산이 품은 맑고 깊은 계곡",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "💧 여름 피서"
+    ],
+    "desc": "상촌면 민주지산 자락, 이름처럼 물이 차고 맑은 깊은 계곡이다. 울창한 원시림 사이로 흐르는 물길과 크고 작은 소가 이어져, 한여름에도 서늘한 공기가 감돈다. 가벼운 계곡 산책부터 민주지산 등산까지 폭이 넓다.",
+    "todo": [
+     "계곡을 따라 이어진 데크길 걷기",
+     "맑은 물에 발 담그고 더위 식히기"
+    ],
+    "tip": "여름 성수기엔 사람이 몰려 아침 일찍 가는 편이 좋다. 등산은 시간과 체력을 넉넉히 잡는다."
+   }
+  ]
+ },
+ "yeonggwang": {
+  "nm": "영광",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울→영광 시외버스 약 4시간, 또는 KTX 정읍·광주송정역에서 차로 40~60분. 부산에서는 차로 약 4시간 30분. 명소가 흩어져 있고 대중교통이 뜸해 자차·렌터카를 권한다.",
+  "sep": "가을(9월 중순~하순)이 절정 — 불갑사 꽃무릇이 산자락을 붉게 물들이고, 서해 노을은 공기 맑은 가을·겨울에 가장 진하다. 굴비·해수욕이 그리우면 초여름도 좋다.",
+  "mood": "서해로 지는 노을과 산을 뒤덮은 붉은 꽃무릇, 그리고 천 년을 건너온 굴비 냄새. 영광은 크게 서두르지 않아도 마음이 물드는 고장이다.",
+  "see": "백수해안도로 낙조, 불갑사 꽃무릇, 백제불교 최초 도래지, 법성포 굴비거리와 숲쟁이.",
+  "spots": [
+   {
+    "name": "백수해안도로",
+    "rom": "서해로 지는 노을을 달리는 길",
+    "meta": [
+     "🌅 서해 낙조",
+     "🚗 드라이브 약 16km",
+     "🚶 노을 데크길"
+    ],
+    "desc": "백수읍 해안 절벽을 따라 굽이치는 16km 남짓의 드라이브 길로, 우리나라에서 손꼽히는 낙조 명소다. 해가 칠산바다로 떨어지는 시간이면 바다도 하늘도 붉게 물들고, 절벽 아래로 놓인 나무 데크길을 걸으면 파도 소리가 발밑까지 올라온다. '한국의 아름다운 길'로도 이름난 구간이라 창을 내리고 천천히 지나기만 해도 충분하다.",
+    "todo": [
+     "일몰 30분 전 도착해 노을 데크길 걷기",
+     "노을전시관에 들러 조망 포인트 확인하기"
+    ],
+    "tip": "일몰 시각을 미리 확인하고 30분 전에는 자리를 잡는 게 좋다. 낙조 명당은 해질 무렵 붐비니 여유 있게 움직이자.",
+    "eat": "해안도로 인근 식당에서 백합·바지락 등 서해 조개 요리를 곁들이기 좋다."
+   },
+   {
+    "name": "불갑사와 불갑산 꽃무릇",
+    "rom": "백제 불교의 첫 도량, 가을엔 붉은 꽃바다",
+    "meta": [
+     "💴 주차료 별도",
+     "🌺 9월 꽃무릇",
+     "🍁 가을 단풍"
+    ],
+    "desc": "백제 침류왕 때 마라난타 존자가 처음 세웠다고 전하는 오래된 절로, 보물로 지정된 대웅전과 뒤편 참식나무 군락(천연기념물)이 깊은 세월을 품고 있다. 무엇보다 9월 중순이면 절 일대와 산자락이 온통 붉은 꽃무릇(석산)으로 뒤덮여, 초록 숲 사이로 번지는 붉은 물결을 보러 전국에서 사람이 몰린다.",
+    "todo": [
+     "대웅전과 참식나무 숲 둘러보기",
+     "꽃무릇 군락 사이 산책로 걷기"
+    ],
+    "tip": "꽃무릇은 해마다 9월 중순~하순에 절정이며 상사화 축제가 열린다. 축제 기간엔 주차장이 금세 차니 아침 일찍 가는 편이 낫다.",
+    "eat": "산 아래 식당가에서 산채비빔밥이나 더덕구이로 든든하게."
+   },
+   {
+    "name": "백제불교 최초 도래지",
+    "rom": "바다 건너 불교가 처음 닿은 자리",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌅 서해 노을"
+    ],
+    "desc": "384년 인도 승려 마라난타가 바닷길로 백제에 들어와 불교를 처음 전했다고 전하는 곳이다. 인도 간다라 양식을 본뜬 상징문과 사면대불, 부용루, 간다라 유물관이 이국적인 분위기를 자아내고, 언덕에 올라서면 법성포 앞바다로 지는 노을이 한눈에 들어온다. 낯선 듯 고요한 풍경이 오래 남는다.",
+    "todo": [
+     "간다라 유물관과 사면대불 둘러보기",
+     "부용루에 올라 서해 조망하기"
+    ],
+    "tip": "법성포와 나란히 붙어 있어 굴비거리·숲쟁이와 함께 묶어 반나절 코스로 돌기 좋다.",
+    "eat": "바로 옆 법성포 굴비정식으로 이어가기 딱 좋은 위치.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg/500px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EC%82%AC%EB%A9%B4%EB%8C%80%EB%B6%88.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg/120px-%EB%B0%B1%EC%A0%9C%EB%B6%88%EA%B5%90%EC%B5%9C%EC%B4%88%EB%8F%84%EB%9E%98%EC%A7%80_%EB%B6%80%EC%9A%A9%EB%A3%A8.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "법성포",
+    "rom": "천 년 굴비의 본고장, 숲쟁이 그늘까지",
+    "meta": [
+     "🐟 영광굴비",
+     "🌿 숲쟁이 산책",
+     "🎏 단오제(음력 5월)"
+    ],
+    "desc": "예부터 칠산바다 조기잡이로 흥청였던 포구로, 참조기를 소금에 절여 해풍에 말린 '영광굴비'의 고장이다. 굴비거리에는 노랗게 마르는 굴비가 처마마다 걸려 있고, 포구를 굽어보는 숲쟁이꽃동산의 오래된 느티나무 그늘은 걷기에 그만이다. 음력 단오 무렵이면 이름난 법성포단오제로 온 동네가 들썩인다.",
+    "todo": [
+     "굴비거리에서 굴비 구경하고 맛보기",
+     "숲쟁이꽃동산 느티나무 숲길 걷기"
+    ],
+    "tip": "굴비는 크기·산지에 따라 값 차이가 크다. 참조기 굴비인지 확인하고, 보리굴비는 조금 더 짭조름하다.",
+    "eat": "굴비정식·보리굴비 백반이 대표. 짭짤한 굴비 한 마리에 밥 한 공기가 순식간이다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg/500px-%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "칠산타워",
+    "rom": "칠산바다를 발밑에 둔 전망대",
+    "meta": [
+     "💴 입장료 별도(변동)",
+     "🔭 유리바닥 전망",
+     "🌅 낙조"
+    ],
+    "desc": "백수해안도로 초입에 우뚝 선 전망 타워로, 꼭대기에 오르면 칠산바다와 영광대교, 굽이치는 해안도로가 한 폭으로 펼쳐진다. 발아래가 훤히 보이는 유리 바닥 구간에서는 아찔한 재미도 있고, 해 질 무렵이면 통유리 너머로 붉게 타는 노을을 편하게 감상할 수 있다.",
+    "todo": [
+     "전망층 유리바닥에서 바다 내려다보기",
+     "해 질 녘 노을 감상"
+    ],
+    "tip": "입장료·운영시간은 시즌에 따라 바뀔 수 있으니 방문 전 확인. 백수해안도로 드라이브와 자연스럽게 이어진다.",
+    "eat": "타워 주변 카페에서 노을을 보며 커피 한 잔."
+   },
+   {
+    "name": "가마미해수욕장",
+    "rom": "솔숲과 낙조가 있는 서해 바다",
+    "meta": [
+     "🏖 서해 해수욕장",
+     "🌲 소나무 숲",
+     "🌅 낙조"
+    ],
+    "desc": "홍농읍 쪽 서해에 자리한 아담한 해수욕장으로, 완만한 백사장 뒤로 오래된 소나무 숲이 그늘을 드리운다. '남도의 와이키키'라 불릴 만큼 물이 잔잔해 가족 단위로 찾기 좋고, 해 질 무렵이면 잔잔한 바다 위로 노을이 길게 깔린다. 여름엔 물놀이, 그 외 계절엔 조용한 산책지로 그만이다.",
+    "todo": [
+     "솔숲 그늘에서 쉬어가기",
+     "썰물 때 갯벌 거닐기"
+    ],
+    "tip": "여름 성수기엔 붐비지만 봄·가을엔 한적하다. 물때(밀물·썰물)를 확인하면 갯벌 체험도 가능하다.",
+    "eat": "인근 포구·식당에서 제철 해산물과 백합칼국수."
+   }
+  ]
+ },
+ "yeongju": {
+  "nm": "영주",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "서울 청량리에서 중앙선 KTX·무궁화로 영주역까지 약 2시간, 부산에서는 차로 약 3시간. 소백산 자락이라 역·터미널에서 명소까지는 차로 움직이는 게 편하다.",
+  "sep": "5월 말이 최고 — 소백산 비로봉 능선이 연분홍 철쭉으로 뒤덮인다. 가을엔 부석사 은행나무 길과 무섬마을 새벽 물안개가 깊고, 겨울 소백산 눈꽃(상고대)도 별미다.",
+  "mood": "선비의 고장이자 소백산이 병풍처럼 두른 곳. 천 년 고찰의 배흘림기둥에 기대 노을을 보고, 물돌이 마을의 외나무다리를 건너는 느린 하루.",
+  "see": "부석사 무량수전과 안양루 노을, 한국 최초 서원 소수서원, 물이 감아 도는 무섬마을, 철쭉으로 물드는 소백산.",
+  "spots": [
+   {
+    "name": "부석사",
+    "rom": "봉황산 중턱, 천 년을 견딘 무량수전",
+    "meta": [
+     "💴 입장료 변동가능",
+     "⏱ 반나절",
+     "🍁 가을 은행·단풍"
+    ],
+    "desc": "676년 의상대사가 세운 고찰로, 국보 무량수전이 봉황산 능선에 살포시 앉아 있다. 일주문에서 돌계단을 밟아 오르면 안양루 너머로 소백산맥 겹능선이 파도처럼 펼쳐지고, 늦은 오후엔 그 위로 노을이 붉게 번진다. 세계유산에 이름을 올린, 한국에서 가장 아름다운 절집 중 하나다.",
+    "todo": [
+     "무량수전 배흘림기둥에 손을 대고 천 년의 결 느끼기",
+     "안양루에 올라 소백산맥 위로 지는 노을 보기",
+     "조사당 처마 밑 선비화(골담초) 찾기"
+    ],
+    "tip": "일주문에서 무량수전까지 오르막 도보 15분. 노을이 백미이니 해 지기 한 시간 전에 맞춰 가면 좋다.",
+    "eat": "영주 사과와 영주 한우 — 부석면 일대에 사과 과수원이 많다",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg/500px-%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg/500px-%EB%AC%B8%EA%B2%BD_%EB%8C%80%EC%8A%B9%EC%82%AC_%EB%AA%A9%EA%B0%81%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%84%A4%EB%B2%95%EC%83%81.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소수서원",
+    "rom": "죽계천 소나무 숲에 선 한국 최초의 사액서원",
+    "meta": [
+     "💴 통합권 약 3,000원",
+     "⏱ 반나절",
+     "🌲 학자수 소나무숲"
+    ],
+    "desc": "1543년 세워진 한국 최초의 사액서원으로, 조선 선비들이 학문을 닦던 곳이다. 수백 년 된 적송이 하늘을 가린 '학자수' 숲을 지나면 죽계천 맑은 물소리가 따라온다. 세계유산에 등재된 정갈한 강학 공간에서 옛 선비의 호흡이 느껴진다.",
+    "todo": [
+     "경렴정 정자에 앉아 죽계천 바라보기",
+     "죽계천 바위에 새긴 '경(敬)'자와 붉은 '백운동' 글씨 찾기",
+     "학자수 소나무 숲길 천천히 걷기"
+    ],
+    "tip": "소수서원·선비촌·소수박물관을 묶은 통합권이 있다. 바로 옆 선비촌과 함께 둘러보면 반나절이 알차다.",
+    "eat": "순흥면의 순흥묵밥(태평초) — 메밀묵과 김치를 넣어 끓인 향토음식",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/500px-Sosuseowon.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sosuseowoninside.jpg/500px-Sosuseowoninside.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg/500px-%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90_%EA%B0%95%ED%95%99%EB%8B%B9.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "무섬마을",
+    "rom": "물이 마을을 휘감아 도는 물돌이 마을",
+    "meta": [
+     "💴 무료",
+     "⏱ 반나절",
+     "🌉 외나무다리"
+    ],
+    "desc": "내성천이 마을의 세 면을 휘감아 도는 물돌이 마을로, 넓은 백사장 위로 가느다란 외나무다리가 강을 가로지른다. 초가와 기와 고택이 옹기종기 모인 골목엔 조선의 시간이 그대로 멈춰 있다. 새벽 물안개가 다리를 감쌀 때가 가장 아름답다.",
+    "todo": [
+     "백사장 위 외나무다리 조심조심 건너기",
+     "초가·기와 고택 사이 좁은 골목 걷기",
+     "10월 무섬외나무다리축제 즈음 방문하기"
+    ],
+    "tip": "여름 물놀이와 가을 새벽 물안개가 백미다. 마을 입구에 주차하고 도보로 둘러보는 게 정석.",
+    "eat": "인근 내성천 은어와 영주 한우",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/7/7b/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg/330px-%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "소백산 국립공원",
+    "rom": "비로봉 능선을 뒤덮는 5월의 철쭉 바다",
+    "meta": [
+     "⏱ 종일",
+     "🌸 5월 철쭉",
+     "❄️ 겨울 눈꽃"
+    ],
+    "desc": "영주와 단양에 걸친 해발 1,440m의 명산으로, 5월 말이면 비로봉 정상 능선이 연분홍 철쭉으로 물든다. 부드럽게 이어지는 초원 능선을 걸으면 바람이 온몸을 훑고, 겨울엔 나뭇가지마다 하얀 상고대가 피어난다. 국립공원 특유의 광활한 하늘길이 펼쳐진다.",
+    "todo": [
+     "비로봉 정상에 올라 철쭉 능선 바라보기",
+     "희방탐방지원센터에서 연화봉 방향 능선 걷기",
+     "연화봉 소백산천문대 둘러보기"
+    ],
+    "tip": "5월 말 철쭉철과 겨울 눈꽃철이 성수기. 능선은 바람이 매우 강하니 방풍옷을 꼭 챙긴다.",
+    "eat": "풍기읍 인삼과 인삼갈비 — 소백산 자락 풍기가 인삼 주산지",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sobaeksan.jpg/500px-Sobaeksan.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sobaeksan_2.jpg/500px-Sobaeksan_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg/500px-%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%97%B0%ED%99%94%EB%B4%89_20171227_093228_Pano.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "선비촌",
+    "rom": "소수서원 옆, 조선 선비 마을에서의 하룻밤",
+    "meta": [
+     "💴 통합권 약 3,000원",
+     "⏱ 2시간",
+     "🏠 한옥 체험"
+    ],
+    "desc": "소수서원 바로 옆에 조선 시대 선비 마을을 그대로 재현한 곳으로, 기와집과 초가가 담장을 맞대고 늘어서 있다. 대장간·저잣거리를 지나 고택 마루에 앉으면 옛 양반가의 하루가 눈앞에 그려진다. 한옥에서 하룻밤 머물며 선비의 생활을 체험할 수도 있다.",
+    "todo": [
+     "기와·초가 고택 마당과 대청마루 둘러보기",
+     "저잣거리·대장간에서 옛 생활 엿보기",
+     "고택 한옥스테이로 하룻밤 묵기"
+    ],
+    "tip": "소수서원 통합권으로 함께 입장한다. 한옥 숙박은 예약이 따로 필요하니 미리 확인할 것.",
+    "eat": "순흥 향토음식 태평초(순흥묵밥)"
+   },
+   {
+    "name": "희방폭포",
+    "rom": "소백산이 쏟아내는 영남 제일의 물줄기",
+    "meta": [
+     "💴 입장료 변동가능",
+     "⏱ 2~3시간",
+     "💧 28m 폭포"
+    ],
+    "desc": "소백산 자락에 걸린 28m 높이의 폭포로, 영남 지방에서 가장 큰 폭포로 꼽힌다. 계곡을 따라 가파른 돌길을 오르면 물줄기가 우렁차게 쏟아지며 물보라와 서늘한 바람을 뿌린다. 폭포 위 절벽에 자리한 희방사와 이어져, 소백산 산행의 들머리로도 좋다.",
+    "todo": [
+     "폭포 전망대에서 쏟아지는 물줄기 마주하기",
+     "폭포 위 희방사까지 올라가 보기",
+     "죽령 방향 소백산 등산로와 연계하기"
+    ],
+    "tip": "주차장에서 폭포까지 가파른 오르막 도보 20분. 한여름에 시원하고, 비 온 뒤 수량이 많을 때가 장관이다.",
+    "eat": "풍기 인삼과 풍기 냉면",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Huibang_Waterfall_%282%29.jpg/500px-Huibang_Waterfall_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yeongwol": {
+  "nm": "영월",
+  "region": "⛰️ 강원 · 강원특별자치도",
+  "route": "서울 청량리역에서 무궁화호로 약 2시간, 자동차는 중앙고속도로로 약 2시간 30분. 부산에서는 차로 약 4시간.",
+  "sep": "가을. 공기가 맑아 별마로천문대 밤하늘이 가장 또렷하고, 청령포·장릉 솔숲과 산자락이 단풍으로 물든다. 여름엔 동강 래프팅과 시원한 계곡·동굴이 좋다.",
+  "mood": "강물이 세 겹으로 감아 도는 산골 — 어린 임금이 유배 오고 방랑 시인이 잠든 땅, 밤이 되면 도시가 잊은 별이 쏟아진다.",
+  "see": "단종의 유배지 청령포와 왕릉, 한반도를 꼭 닮은 강굽이, 국내 최대급 별 천문대, 붉은 예술공원까지.",
+  "spots": [
+   {
+    "name": "청령포",
+    "rom": "세 면이 강에 갇힌, 단종의 소나무 숲 유배지",
+    "meta": [
+     "💴 입장 약 3,000원",
+     "⏱ 반나절",
+     "⛵ 나룻배로 진입",
+     "🌲 소나무 숲"
+    ],
+    "desc": "서쪽은 험한 절벽, 나머지 삼면은 강이 감아 도는 섬 같은 땅이다. 어린 임금 단종이 세조에게 왕위를 빼앗기고 이곳에 유배되어 짧은 생을 보냈다. 지금도 나룻배를 타야 들어갈 수 있고, 솔숲 사이로 단종이 한양을 그리며 쌓았다는 돌탑과 600년 관음송이 그대로 남아 있다.",
+    "todo": [
+     "나룻배 타고 강 건너 청령포로 들어가기",
+     "단종이 쌓았다는 돌탑 '망향탑' 찾아보기",
+     "600년 관음송 아래에서 솔향 맡기"
+    ],
+    "tip": "나룻배로만 들어갈 수 있어 물이 불면 운항이 멈춘다. 매표 후 배 시간을 확인하고, 여름 오후엔 그늘 진 솔숲이 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg/500px-Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CheongRyeongpo_Eoso.JPG/250px-CheongRyeongpo_Eoso.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Korea_Yeongwol_Sketch_08_%288229312256%29.jpg/120px-Korea_Yeongwol_Sketch_08_%288229312256%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "장릉",
+    "rom": "수도권 밖 유일한 왕릉, 단종이 잠든 곳",
+    "meta": [
+     "💴 입장 약 2,000원",
+     "⏱ 1~2시간",
+     "👑 유네스코 세계유산",
+     "🍁 가을 단풍"
+    ],
+    "desc": "유배지에서 사약을 받고 세상을 떠난 단종의 무덤이다. 영월 호장 엄흥도가 시신을 몰래 거두어 묻어, 한양 100리 안에 두던 왕릉 규정을 벗어난 유일한 능이 됐다. 소나무들이 하나같이 능을 향해 절하듯 굽은 모습이 오래 기억에 남는다.",
+    "todo": [
+     "능을 향해 굽은 소나무들 바라보기",
+     "엄흥도 정려각에서 충절의 사연 읽기"
+    ],
+    "tip": "조선왕릉으로 유네스코 세계유산에 올라 있다. 청령포와 장릉을 묶어 반나절 코스로 돌기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg/500px-A_panoramin_view_of_Jangreung%2C_Yeongwol%2C_March_2018.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg/120px-%EB%B3%B4%EB%AC%BC_%EC%A0%9C1536%ED%98%B8_%EC%9B%94%EC%A4%91%EB%8F%84%28%EC%A0%9C1%EB%A9%B4_%EC%9E%A5%EB%A6%89%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Danjong_jangreung.jpg/120px-Danjong_jangreung.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "별마로천문대",
+    "rom": "봉래산 정상, 국내 최대급 시민 천문대",
+    "meta": [
+     "💴 관측 약 6,000원",
+     "⏱ 저녁~밤",
+     "🔭 국내 최대급",
+     "🌌 쏟아지는 별"
+    ],
+    "desc": "해발 약 800m 봉래산 꼭대기에 앉은 천문대다. '별을 보는 편안한 정상'이라는 이름처럼, 도시 불빛이 닿지 않는 영월의 검은 하늘에 별이 쏟아진다. 대형 망원경으로 달 표면과 토성 고리를 눈으로 확인하고, 옥상 전망대에서 영월 시가지와 산 능선을 내려다본다.",
+    "todo": [
+     "대형 망원경으로 달·행성 관측하기",
+     "천체투영관(플라네타리움)에서 별자리 해설 듣기",
+     "해질 무렵 정상 전망대에서 노을 보기"
+    ],
+    "tip": "야간 관측은 예약제로 운영될 때가 많으니 미리 확인한다. 정상은 여름 밤에도 서늘하니 겉옷 필수. 날이 흐리면 관측이 취소될 수 있다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg/330px-%EB%B3%B4%EC%A1%B0%EA%B4%80%EC%B8%A1%EC%8B%A4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg/120px-%EC%A0%84%EB%A7%9D%EB%8C%80%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%98%81%EC%9B%94%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg/120px-%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_%EC%A0%84%ED%8C%8C%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한반도지형",
+    "rom": "강이 휘돌아 빚은 한반도 모양의 땅",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "🗺 명승·람사르습지",
+     "📷 전망 포인트"
+    ],
+    "desc": "평창강이 크게 휘돌아 나가며 만든 땅이 신기하게도 한반도를 꼭 닮았다. 절벽은 동해안을, 백사장은 서해를 닮아 '한반도 속 한반도'라 불린다. 전망대까지 솔숲 길을 15분쯤 오르면, 발아래 초록 반도가 강물에 떠 있는 풍경이 펼쳐진다.",
+    "todo": [
+     "전망대에 올라 한반도 모양 내려다보기",
+     "선암마을에서 뗏목·카누 체험(운영 시)"
+    ],
+    "tip": "주차장에서 전망대까지 도보 15분 남짓 오르막이다. 물안개 낀 이른 아침 풍경이 특히 좋고, 입장은 무료다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg/500px-Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg/120px-%ED%95%9C%EB%B0%98%EB%8F%84%EC%8A%B5%EC%A7%80_%EC%B4%9D%EA%B4%84%EB%8F%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "젊은달 와이파크",
+    "rom": "붉은 대나무 숲, 감성 사진 성지 예술공원",
+    "meta": [
+     "💴 입장 약 15,000원",
+     "⏱ 2~3시간",
+     "🎨 미술·설치",
+     "📷 인생사진"
+    ],
+    "desc": "산골 마을 한복판에 들어선 대형 야외 미술 공원이다. 강렬한 붉은색 파빌리온과 붉은 대나무 숲, 거대한 달 조형이 넓은 부지에 흩어져 있다. 어디에 서도 그림이 되는 색감 덕에 사진 찍는 이들의 발길이 끊이지 않는다.",
+    "todo": [
+     "붉은 파빌리온과 붉은 대나무 숲 걷기",
+     "곳곳의 설치미술 사이에서 사진 찍기"
+    ],
+    "tip": "실내외 전시가 넓게 흩어져 있어 편한 신발이 좋다. 성수기 주말엔 대기가 생길 수 있어 오전 방문을 권한다.",
+    "eat": ""
+   },
+   {
+    "name": "고씨굴",
+    "rom": "4억 년이 빚은 석회동굴",
+    "meta": [
+     "💴 입장 약 5,000원",
+     "⏱ 1~2시간",
+     "🕯 천연기념물",
+     "💧 종유석·석순"
+    ],
+    "desc": "4억 년 전부터 물이 석회암을 깎아 만든 동굴이다. 임진왜란 때 고씨 일가가 이 안에 숨어 난을 피했다 해서 고씨굴이라 불린다. 좁은 통로와 종유석·석순 사이를 지나면 한여름에도 서늘한 지하 세계가 이어진다.",
+    "todo": [
+     "종유석·석순 사이 관람로 따라 걷기",
+     "동굴 속에만 사는 생물의 흔적 찾아보기"
+    ],
+    "tip": "내부는 계단과 좁은 구간이 많아 편한 신발이 필수다. 연중 서늘하니 겉옷을 챙기면 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gossi_Cave.jpg/330px-Gossi_Cave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gossicave.jpg/500px-Gossicave.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "요선암 돌개구멍",
+    "rom": "주천강 너럭바위에 팬 항아리 구멍들",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1시간",
+     "🪨 천연기념물",
+     "💦 맑은 계곡"
+    ],
+    "desc": "주천강이 화강암 너럭바위를 오래 문질러, 크고 작은 항아리 모양 구멍을 수없이 파놓았다. 매끈한 바위 위로 맑은 물이 흐르고, '신선을 맞이하는 바위'라는 요선암 이름처럼 물빛이 곱다. 바로 위 절벽의 요선정과 마애불도 함께 볼 수 있다.",
+    "todo": [
+     "너럭바위 위 돌개구멍들 구경하기",
+     "위쪽 요선정과 마애여래좌상까지 올라보기"
+    ],
+    "tip": "이끼 낀 바위가 미끄러우니 물가에선 조심한다. 여름엔 발 담그기 좋지만 물살 센 구간은 피한다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg/500px-%EC%98%81%EC%9B%94_%EB%AC%B4%EB%A6%89%EB%A6%AC_%EC%9A%94%EC%84%A0%EC%95%94_%EB%8F%8C%EA%B0%9C%EA%B5%AC%EB%A9%8D_%28%EC%B2%9C%EC%97%B0%EA%B8%B0%EB%85%90%EB%AC%BC_%EC%A0%9C543%ED%98%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "김삿갓 유적지",
+    "rom": "방랑 시인이 잠든 산골, 그 이름을 딴 마을",
+    "meta": [
+     "💴 입장 무료",
+     "⏱ 1~2시간",
+     "📜 문학·유적",
+     "⛰ 산골 계곡"
+    ],
+    "desc": "삿갓을 눌러쓰고 전국을 떠돌며 세상을 풍자한 시인 김병연, 곧 김삿갓이 마지막 생을 보내고 묻힌 곳이다. 그를 기려 마을 이름까지 '김삿갓면'이 됐다. 맑은 계곡을 따라 그의 묘와 문학관, 시비들이 이어져 조용히 걷기 좋다.",
+    "todo": [
+     "김삿갓 문학관에서 그의 방랑과 풍자시 살펴보기",
+     "계곡 길 따라 묘와 시비 둘러보기"
+    ],
+    "tip": "영월 남동쪽 끝 산골이라 다른 명소와는 거리가 있다. 방향이 가까운 고씨굴과 함께 묶기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Korea_Yeongwol_Sketch_01_%288228243829%29.jpg/500px-Korea_Yeongwol_Sketch_01_%288228243829%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yeongyang": {
+  "nm": "영양",
+  "region": "🏔️ 경상 · 경상북도",
+  "route": "기차역이 없는 내륙 오지. 서울 동서울터미널에서 영양행 시외버스 약 4시간(하루 몇 편뿐). 자가용은 중앙고속도로 서안동IC를 지나 약 3시간 30분, 부산에서는 약 3시간. 군내 대중교통이 드물어 렌터카·자가용을 권한다.",
+  "sep": "여름밤(6~8월)이 주인공. 광공해 없는 하늘에 은하수가 쏟아지고 6~7월엔 반딧불이가 날아든다. 봄가을은 서석지 연꽃과 산나물·단풍이 좋다.",
+  "mood": "전국에서 손꼽히게 별이 잘 보이는 고장. 낮보다 밤이, 사람보다 자연이 주인공인 조용한 오지.",
+  "see": "선비의 옛 정원과 한글 최초 조리서, 그리고 국제 인증을 받은 밤하늘보호공원.",
+  "spots": [
+   {
+    "name": "영양 서석지",
+    "rom": "담양 소쇄원과 어깨를 나란히 한 조선 3대 정원",
+    "meta": [
+     "💴 관람 무료",
+     "⏱ 1~2시간",
+     "🌸 7월 연꽃"
+    ],
+    "desc": "1613년 석문 정영방이 조성한 연못 정원이다. 물속과 물가에 60여 개의 서석(瑞石)이 저마다 이름을 달고 앉아 있고, 그 사이로 경정 정자와 오래된 은행나무가 그림처럼 어우러진다. 담양 소쇄원, 보길도 부용동과 함께 우리나라를 대표하는 옛 정원으로 꼽힌다.",
+    "todo": [
+     "경정 마루에 앉아 연못 전체를 한눈에 담기",
+     "돌 하나하나에 붙은 이름 읽어보기"
+    ],
+    "tip": "7월 중순이면 연못에 연꽃이 피어 가장 아름답다. 규모가 아담하니 천천히 걸으며 봐야 진가가 보인다.",
+    "eat": "인근에서 영양고추를 넣은 얼큰한 향토 음식을 맛볼 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%EC%84%9C%EC%84%9D%EC%A7%80.jpg/500px-%EC%84%9C%EC%84%9D%EC%A7%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "두들마을 (음식디미방)",
+    "rom": "한글로 쓴 가장 오래된 여성 조리서가 태어난 마을",
+    "meta": [
+     "📖 최초 한글 조리서",
+     "⏱ 반나절",
+     "🍲 반가음식 체험"
+    ],
+    "desc": "석보면 언덕 위 재령 이씨 집성촌으로, 돌담과 고택이 정갈하게 늘어선 마을이다. 1670년경 정부인 안동 장씨(장계향)가 이곳에서 궁체로 써낸 《음식디미방》은 동아시아에서 여성이 쓴 가장 오래된 한글 조리서로 꼽힌다. 지금도 마을에서 그 옛 반가 음식을 재현해 낸다.",
+    "todo": [
+     "석계고택과 옛 담장길 천천히 걷기",
+     "음식디미방 체험관에서 재현 음식 맛보기"
+    ],
+    "tip": "체험 식사는 예약제로 운영되는 경우가 많으니 방문 전 확인하는 게 좋다.",
+    "eat": "《음식디미방》 조리법을 되살린 전통 반가 상차림.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/5/58/Korea-Eumsikdimibang-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+     "https://upload.wikimedia.org/wikipedia/commons/6/64/Korea-Eumsikdimibang-02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+    ]
+   },
+   {
+    "name": "선바위와 남이포",
+    "rom": "강물이 갈라놓은 절벽, 남이 장군의 전설이 서린 물굽이",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🏞 강변 절벽"
+    ],
+    "desc": "입암면에서 반변천과 동천이 만나며 빚어낸 물굽이에, 붓끝처럼 우뚝 솟은 선바위가 강물을 지키듯 서 있다. 조선 세조 때 남이 장군이 역모의 무리를 벤 곳이라는 전설이 남아 남이포라 불린다. 절벽 아래로 흐르는 맑은 물빛과 기암이 어우러져 영양의 대표 풍경으로 통한다.",
+    "todo": [
+     "선바위관광지 전망 지점에서 물굽이 내려다보기",
+     "강변 산책로 따라 걷기"
+    ],
+    "tip": "여름 오후 햇빛이 절벽에 비칠 때 물빛이 가장 곱다."
+   },
+   {
+    "name": "주실마을 · 조지훈문학관",
+    "rom": "'승무'의 시인이 나고 자란 청록파의 고향",
+    "meta": [
+     "💴 문학관 무료",
+     "⏱ 1~2시간",
+     "📚 문학 산책"
+    ],
+    "desc": "일월면 주실마을은 한양 조씨 집성촌이자 시인 조지훈이 태어난 곳이다. 그의 생가 호은종택과 오래된 숲길 '주실 숲'이 마을을 감싸고, 지훈문학관에는 '승무'와 청록파 시절의 자취가 정갈하게 전시돼 있다. 시 한 줄 읽으며 천천히 걷기 좋은 마을이다.",
+    "todo": [
+     "지훈문학관에서 육필 원고와 시 읽어보기",
+     "마을 숲길 '지훈 시공원' 산책"
+    ],
+    "tip": "가을 단풍철에 마을 숲길이 특히 곱다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/ko/thumb/a/ac/%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg/500px-%EC%A1%B0%EC%A7%80%ED%9B%88%EC%8B%9C%EB%B9%84.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "영양 국제밤하늘보호공원",
+    "rom": "국제 인증을 받은 별빛 보호구역",
+    "meta": [
+     "💴 반딧불이천문대 관람료 약 있음(변동)",
+     "⏱ 저녁~밤",
+     "✨ 은하수·반딧불이"
+    ],
+    "desc": "수비면 반딧불이 생태공원 일대는 2015년 국제밤하늘협회(IDA)로부터 국제밤하늘공원으로 인증받은 곳이다. 인공조명이 거의 없어 맑은 밤이면 은하수가 눈으로 보이고, 초여름엔 반딧불이가 별처럼 날아다닌다. 도시에서는 볼 수 없는 진짜 밤하늘을 만나는 자리다.",
+    "todo": [
+     "반딧불이천문대에서 별 관측 프로그램 참여",
+     "맑은 밤 은하수 사진 담기"
+    ],
+    "tip": "반딧불이는 대체로 6~7월에 나타난다. 달이 밝지 않은 그믐 무렵이 별 보기에 가장 좋고, 여름밤에도 산속이라 겉옷을 챙기는 게 좋다.",
+    "eat": "인근 수비·일월 일대의 산나물 정식."
+   },
+   {
+    "name": "봉감모전오층석탑 (산해리 오층모전석탑)",
+    "rom": "강가 밭 가운데 홀로 선 국보 벽돌탑",
+    "meta": [
+     "🏛 국보",
+     "💴 무료",
+     "⏱ 30분"
+    ],
+    "desc": "입암면 산해리, 반변천이 흐르는 밭 가운데 벽돌 모양으로 다듬은 돌을 층층이 쌓아 올린 오층 모전석탑이 서 있다. 통일신라 때 세워진 것으로 보이며, 1층 몸돌에 불상을 모시던 감실이 남아 있다. 주변에 절터의 흔적만 남아, 탑 하나가 들판을 지키는 풍경이 유독 오래 기억에 남는다.",
+    "tip": "찾아가는 길이 한적한 시골길이니 내비게이션에 '봉감모전석탑' 또는 '산해리 오층모전석탑'으로 검색한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg/500px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg/330px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg/120px-%EC%98%81%EC%96%91_%EC%82%B0%ED%95%B4%EB%A6%AC_%EC%98%A4%EC%B8%B5%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "일월산",
+    "rom": "해와 달을 가장 먼저 맞는 영양의 진산",
+    "meta": [
+     "🥾 등산",
+     "⏱ 반나절",
+     "🌄 일출·자생화"
+    ],
+    "desc": "해발 1,219m로 영양에서 가장 높은 산이다. '동해에서 솟는 해와 달을 가장 먼저 본다'는 이름처럼 정상에서 맞는 일출이 각별하고, 산세가 비교적 험하지 않아 걷기에 순한 편이다. 산자락의 일월산 자생화공원에는 계절마다 야생화가 피어난다.",
+    "todo": [
+     "정상 부근에서 탁 트인 능선과 일출 감상",
+     "자생화공원에서 제철 야생화 보기"
+    ],
+    "tip": "정상 인근까지 임도가 이어지지만 겨울철엔 결빙에 주의한다. 산속 날씨 변화가 크니 여벌 옷을 챙긴다."
+   }
+  ]
+ },
+ "yeosu": {
+  "nm": "여수",
+  "region": "🌾 전라 · 전라남도",
+  "route": "서울 용산에서 KTX·SRT로 여수엑스포역까지 약 3시간, 부산에서 자동차로 약 3시간 반. 역 바로 옆에 엑스포·오동도가 붙어 있어 뚜벅이 여행도 편하다.",
+  "sep": "동백이 피는 3~4월과, 밤바다가 가장 낭만적인 5~6월·9~10월. 한여름 밤은 뜨겁고 붐비지만 그만큼 포차 골목이 활기차다.",
+  "mood": "낮엔 남해의 섬과 다리, 밤엔 포차의 불빛과 버스킹. '여수 밤바다'는 노래가 아니라 진짜였다.",
+  "see": "동백섬 오동도, 일출 암자 향일암, 바다 위를 나는 케이블카, 그리고 노래로 유명해진 밤바다.",
+  "spots": [
+   {
+    "name": "오동도",
+    "rom": "방파제 끝에 숨은 동백섬, 여수의 얼굴",
+    "meta": [
+     "🚋 동백열차 편도 약 1000원",
+     "⏱ 반나절",
+     "🌸 봄 동백"
+    ],
+    "desc": "768m 방파제를 걸어 들어가면 대나무와 동백이 우거진 작은 섬이 나온다. 3~4월이면 붉은 동백이 발밑까지 뚝뚝 떨어져 길을 물들이고, 등대 전망대에 오르면 여수 앞바다가 한눈에 펼쳐진다.",
+    "todo": [
+     "방파제 걸어 들어가거나 동백열차 타고 섬 입구까지",
+     "오동도 등대 전망대에서 남해 조망",
+     "동백 필 때 섬 산책로 한 바퀴"
+    ],
+    "tip": "섬 입구까지 걷는 길이 방파제 산책로다. 힘들면 동백열차 이용. 동백은 보통 3~4월이 절정이라 시기를 맞추면 길바닥까지 붉다.",
+    "eat": "근처 교동시장·서시장에서 갓김치와 서대회무침",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/500px-Yeosu_Odongdo_20180929_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yeosu_Odongdo_20180929_003.jpg/330px-Yeosu_Odongdo_20180929_003.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Yeosu_Odongdo_20180929_001.jpg/330px-Yeosu_Odongdo_20180929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "향일암",
+    "rom": "돌산도 끝, 해를 향한 절벽 암자",
+    "meta": [
+     "💴 입장 약 2500원",
+     "⏱ 반나절",
+     "🌅 새해 일출"
+    ],
+    "desc": "돌산도 남쪽 끝, 기암절벽 사이 좁은 바위틈을 몸을 틀어 지나 오르면 남해 수평선이 발아래로 툭 열린다. 새해 첫날이면 일출제가 열려 전국에서 사람이 모이고, 바위 곳곳에 소원을 눌러둔 동전이 반짝인다.",
+    "todo": [
+     "바위틈 돌계단 통과해 대웅전까지 오르기",
+     "해수관음상 앞에서 남해 수평선 바라보기",
+     "맑은 새벽이면 일출 노려보기"
+    ],
+    "tip": "주차장에서 암자까지 가파른 오르막 10~15분. 새해와 주말 성수기는 매우 붐비니 이른 아침을 권한다. 입장료는 변동 가능.",
+    "eat": "돌산 갓김치, 돌산 갯장어(하모) 샤부샤부",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/500px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG/120px-The_Buddhist_Goddess_of_Mercy_at_Temple_of_Hyangiram_20091205.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Banyamun_of_Hyangiram_in_2017.jpg/120px-Banyamun_of_Hyangiram_in_2017.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여수 해상케이블카",
+    "rom": "자산공원과 돌산을 잇는 바다 위 케이블카",
+    "meta": [
+     "💴 왕복 약 13000원~",
+     "⏱ 왕복 약 40분",
+     "🌃 야경 명소"
+    ],
+    "desc": "자산공원과 돌산공원 사이 바다 위를 케이블카가 미끄러진다. 바닥이 투명한 크리스탈 캐빈에 타면 발밑으로 남해가 아찔하게 흐르고, 해가 지면 돌산대교와 밤바다의 불빛이 캐빈 아래로 잘게 흩어진다.",
+    "todo": [
+     "바닥이 투명한 크리스탈 캐빈 골라 타기",
+     "해질 무렵 탑승해 야경 노리기",
+     "돌산공원 전망대에서 바다 내려다보기"
+    ],
+    "tip": "크리스탈 캐빈은 대수가 적어 대기가 길다. 일몰~야간 시간대가 가장 인기라 미리 예약하는 편이 낫다. 요금은 캐빈 종류·왕복 여부에 따라 변동.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Yeosu_cablecar_station_2.jpg/500px-Yeosu_cablecar_station_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yeosu_cablecar_station.jpg/120px-Yeosu_cablecar_station.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yeosu_cablecar_station_platform.jpg/120px-Yeosu_cablecar_station_platform.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여수 밤바다·낭만포차",
+    "rom": "노래가 된 밤바다, 종포해양공원의 포차 불빛",
+    "meta": [
+     "🍤 포차 안주 약 20000원~",
+     "⏱ 저녁~밤",
+     "🎸 버스킹"
+    ],
+    "desc": "종포해양공원 바닷가에 낭만포차가 줄지어 불을 켜면, 어디선가 기타 소리와 함께 '여수 밤바다'가 흘러나온다. 돌산대교의 색색 조명이 물 위로 번지고, 바다를 앞에 두고 앉아 나누는 한 잔이 이 도시의 밤을 완성한다.",
+    "todo": [
+     "종포해양공원·이순신광장 밤바다 산책",
+     "낭만포차에서 해산물 안주에 한 잔",
+     "버스커 공연 구경하기"
+    ],
+    "tip": "낭만포차는 계절·요일에 따라 운영 시간이 다르고 주말 저녁은 대기가 길다. 앉기 전 메뉴판 가격을 확인하고 소지품에 유의하자.",
+    "eat": "갯장어·새조개·간장게장 등 남해 해산물"
+   },
+   {
+    "name": "돌산대교",
+    "rom": "여수 밤을 물들이는 사장교",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🌉 야간 조명"
+    ],
+    "desc": "여수 본토와 돌산도를 잇는 돌산대교는 밤이 되면 시시각각 색이 바뀌는 조명으로 바다를 물들인다. 자산공원 전망대나 유람선 위에서 바라보면 돌산대교와 거북선대교의 불빛이 겹쳐 여수 밤바다의 상징이 된다.",
+    "todo": [
+     "자산공원에서 다리 야경 내려다보기",
+     "다리 아래 해안 산책로 걷기",
+     "야간 유람선에서 조명 감상"
+    ],
+    "tip": "낮보다 밤이 훨씬 예쁘다. 자산공원은 케이블카 승강장과 붙어 있어 케이블카·야경을 한 번에 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dolsan_Bridge_20230501.jpg/500px-Dolsan_Bridge_20230501.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dolsan_bridge_memorial_tower.jpg/120px-Dolsan_bridge_memorial_tower.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg/120px-Korea-Yeosu-Dolsan_Bridge_at_night-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여수 진남관",
+    "rom": "조선 수군의 본영, 국보의 대청",
+    "meta": [
+     "💴 무료",
+     "⏱ 약 1시간",
+     "🏯 국보"
+    ],
+    "desc": "임진왜란 당시 전라좌수영의 중심 건물로, 하나의 마루 위에 우뚝 선 거대한 목조 건축이다. 예순여덟 개의 기둥이 떠받친 넓은 대청에 서면 이순신 장군이 지휘하던 수군의 본영이 눈앞에 그려진다.",
+    "todo": [
+     "웅장한 목조 대청의 규모 눈으로 재보기",
+     "이순신광장·거북선까지 걸어 내려가기"
+    ],
+    "tip": "해체·보수 정비로 관람이 제한되는 시기가 있으니 방문 전 개방 여부를 확인하자. 이순신광장과는 도보로 가깝다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg/500px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EA%B0%80%EA%B5%AC.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg/330px-%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80%EB%82%B4%EB%B6%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "여수엑스포 해양공원",
+    "rom": "박람회가 떠난 자리, 빅오쇼와 아쿠아리움",
+    "meta": [
+     "💴 빅오쇼 무료·아쿠아리움 별도",
+     "⏱ 반나절",
+     "🐳 아쿠아리움"
+    ],
+    "desc": "2012년 세계박람회가 열렸던 바닷가에는 지금도 스카이타워와 빅오(Big-O)가 남아 있다. 밤이면 바다 위 분수 스크린으로 빅오쇼가 펼쳐지고, 바로 옆 대형 아쿠아리움에선 벨루가와 바다사자가 유리 너머로 헤엄친다.",
+    "todo": [
+     "밤에 빅오쇼(해상 분수·영상 쇼) 관람",
+     "아쿠아리움에서 벨루가·해양생물 구경",
+     "스카이타워에서 바다 전망 즐기기"
+    ],
+    "tip": "빅오쇼는 계절·요일에 따라 운영 여부와 시간이 달라 사전 확인이 필수. 여수엑스포역·오동도와 가까워 도착 첫날 묶기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Big-O.JPG/500px-Big-O.JPG?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2012_Yeosu_Expo_Mascot_20180929_001.jpg/500px-2012_Yeosu_Expo_Mascot_20180929_001.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Yeosu_EXPO_gate.jpg/500px-Yeosu_EXPO_gate.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   }
+  ]
+ },
+ "yesan": {
+  "nm": "예산",
+  "region": "🏞️ 충청 · 충청남도",
+  "route": "서울 센트럴시티에서 예산행 시외버스 약 2시간, 자차로 서해안·당진영덕고속도로 2시간 안팎. 장항선 무궁화호 예산역, SRT는 삽교역이 가깝다.",
+  "sep": "봄과 가을이 가장 좋다. 봄엔 수덕사 진입로와 예당호 물가에 벚꽃이 피고, 가을엔 덕숭산 단풍과 예당호 출렁다리 야경·음악분수(4~11월 운영)가 절정이다.",
+  "mood": "국보를 품은 산사, 국내 최장급 출렁다리, 그리고 백종원이 되살린 시장까지 — 예산은 '보고 걷고 먹고 쉬는' 네 박자가 조용히 다 있는 충남의 속살이다.",
+  "see": "덕숭산 수덕사 국보 대웅전, 예당호 위를 가로지르는 400m 출렁다리, 추사 김정희와 윤봉길의 고향, 밤마다 북적이는 백종원 예산시장.",
+  "spots": [
+   {
+    "name": "예당호 출렁다리",
+    "rom": "국내 최장급, 물 위를 걷는 402m",
+    "meta": [
+     "💴 입장 무료",
+     "🌉 국내 최장급 출렁다리",
+     "🌙 야경·음악분수"
+    ],
+    "desc": "국내에 손꼽히는 규모의 저수지인 예당호 수면 위로 약 400m 다리가 길게 뻗어 있다. 한가운데 서면 발밑으로 넓은 물이 출렁이고, 바람이 불면 다리도 살짝 흔들려 심장이 간지럽다. 해가 지면 조명이 켜지고 음악분수가 물을 뿜어 올려, 낮과 밤이 완전히 다른 풍경을 준다.",
+    "todo": [
+     "다리 한가운데서 사방으로 트인 호수 조망 담기",
+     "해질녘 남아 야간 조명·음악분수 보기",
+     "호숫가 데크길 산책"
+    ],
+    "tip": "음악분수는 대략 4~11월에만 운영하고 겨울엔 쉰다. 주말 저녁은 붐비니 분수 시간표를 미리 확인하고 주차는 서둘러 자리 잡는 편이 좋다.",
+    "eat": "예당호는 붕어찜·어죽으로 유명한 낚시터라, 호수 주변 식당에서 얼큰한 어죽 한 그릇이 제격이다."
+   },
+   {
+    "name": "수덕사",
+    "rom": "700년을 견딘 국보 대웅전",
+    "meta": [
+     "💴 입장 무료",
+     "🏛 국보 대웅전",
+     "🍂 가을 단풍"
+    ],
+    "desc": "덕숭산 자락에 안긴 백제 고찰로, 1308년에 지어진 대웅전이 국보로 남아 있다. 못을 거의 쓰지 않은 목조 골격이 700년 세월을 그대로 버텨온 모습은, 오래된 나무의 결까지 눈으로 만지게 한다. 일주문에서 대웅전까지 이어지는 숲길은 가을이면 단풍으로 물들어 걷는 내내 마음이 가라앉는다.",
+    "todo": [
+     "대웅전 목조 구조와 배흘림기둥 천천히 보기",
+     "일주문~대웅전 숲길 걷기",
+     "덕숭산 능선 짧은 산행"
+    ],
+    "tip": "국가지정문화재 보유 사찰 관람료가 폐지되어 입장은 무료다. 주차장에서 절까지 완만한 오르막을 걸어야 하니 편한 신발이 낫다.",
+    "eat": "절 입구 상가에 산채비빔밥·더덕구이 같은 담백한 사찰 인근 밥집이 모여 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sudeoksa_Daeungjeon_20231224_01.jpg/500px-Sudeoksa_Daeungjeon_20231224_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/South_Korea_adm_location_map.svg/500px-South_Korea_adm_location_map.svg.png?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg/330px-%EC%88%98%EB%8D%95%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "추사고택",
+    "rom": "추사체가 태어난 집",
+    "meta": [
+     "💴 입장 무료",
+     "✍️ 추사 김정희",
+     "⏱ 1~2시간"
+    ],
+    "desc": "조선 최고의 명필이자 '세한도'의 주인공 추사 김정희가 나고 자란 집이다. 반듯한 한옥 마당과 기둥에 걸린 주련의 글씨를 보고 있으면, 그 유려한 추사체가 어떤 공기 속에서 자랐는지 어렴풋이 그려진다. 바로 옆 기념관에는 추사의 글씨와 삶이 정리되어 있어 함께 둘러보기 좋다.",
+    "todo": [
+     "고택 기둥의 주련 글씨 읽어보기",
+     "추사기념관에서 세한도 이야기 보기",
+     "인근 백송·묘역까지 산책"
+    ],
+    "tip": "고택과 기념관 모두 무료 관람이다. 마을이 조용하고 그늘이 적으니 한여름엔 모자를 챙기면 좋다.",
+    "eat": "신암면 들녘 가까운 곳이라 예산 특산 사과와 제철 농산물을 근처에서 만날 수 있다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kim_Jeong-hui.jpg/330px-Kim_Jeong-hui.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chusa-Buliseonrando-01.jpg/330px-Chusa-Buliseonrando-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "남연군묘",
+    "rom": "왕을 낳은 명당, 도굴당한 무덤",
+    "meta": [
+     "💴 입장 무료",
+     "⚰️ 흥선대원군 부친 묘",
+     "📜 오페르트 도굴 사건"
+    ],
+    "desc": "흥선대원군이 '2대에 걸쳐 왕이 나올 명당'이라는 말을 믿고 아버지를 이곳으로 옮겨 모신 무덤이다. 실제로 이장 뒤 손자 고종이 왕위에 올랐고, 1868년엔 독일 상인 오페르트가 이 묘를 도굴하려다 실패한 사건까지 벌어졌다. 가야산을 등지고 홀로 앉은 봉분 앞에 서면, 조선 말의 야심과 격동이 한자리에 겹쳐 보인다.",
+    "todo": [
+     "봉분 뒤 가야산 지세 눈으로 읽어보기",
+     "오페르트 도굴 사건 배경 떠올리며 걷기",
+     "인근 가야사지·상가리 마을 둘러보기"
+    ],
+    "tip": "너른 잔디밭에 봉분만 있는 단출한 유적이라 20~30분이면 충분하다. 수덕사·덕산온천과 같은 덕산권이라 묶어 다니기 좋다.",
+    "eat": "덕산면 소재지에서 예산 한우나 소머리국밥으로 든든하게 채우기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tomb_of_Prince_Namyeongun_01.jpg/500px-Tomb_of_Prince_Namyeongun_01.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tomb_of_Prince_Namyeongun_02.jpg/500px-Tomb_of_Prince_Namyeongun_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "예산시장 (백종원 시장)",
+    "rom": "밤마다 줄 서는 시골 장터",
+    "meta": [
+     "💴 음식값 저렴",
+     "🍜 백종원 시장",
+     "🌙 야시장"
+    ],
+    "desc": "요리연구가 백종원의 고향 예산에서, 스러져가던 상설시장이 2023년 재생 프로젝트로 완전히 되살아났다. 국밥·꽈배기·닭볶음탕 같은 노포 음식에 젊은 주점이 섞여, 저녁이면 좁은 장터 골목이 사람으로 꽉 찬다. 시골 오일장의 정과 요즘 감성이 한데 부딪히는, 예산에서 가장 시끌벅적한 곳이다.",
+    "todo": [
+     "장터국밥·꽈배기 등 노포 음식 맛보기",
+     "저녁 시간 활기찬 야시장 분위기 즐기기",
+     "예산 사과로 만든 먹거리 사기"
+    ],
+    "tip": "주말 저녁은 대기가 길고 주차가 어렵다. 조금 이른 시간에 가거나 인근 공영주차장을 이용하고, 휴장일은 미리 확인하는 게 좋다.",
+    "eat": "시장 안에서 다 해결된다 — 국밥, 닭볶음탕, 꽈배기, 그리고 예산 막걸리 한잔."
+   },
+   {
+    "name": "덕산온천",
+    "rom": "조선시대부터 이어온 온천마을",
+    "meta": [
+     "💴 입장료 시설별 상이",
+     "♨️ 온천",
+     "❄️ 겨울 추천"
+    ],
+    "desc": "조선시대 기록에도 등장하는 오래된 온천지로, 덕숭산 자락에 온천 호텔과 목욕탕이 모여 있다. 수덕사·남연군묘를 걷고 난 저녁, 따뜻한 온천물에 몸을 담그면 하루의 피로가 스르르 풀린다. 특히 쌀쌀한 계절에 김이 피어오르는 노천탕에 앉아 있으면 이만한 호사가 없다.",
+    "todo": [
+     "산사 답사 후 온천으로 마무리하기",
+     "노천탕에서 겨울 정취 즐기기",
+     "덕산 일대 하룻밤 숙박"
+    ],
+    "tip": "시설마다 입장료·운영시간이 다르니 미리 확인하자. 수덕사·남연군묘·윤봉길 유적이 모두 덕산권이라 온천을 코스 끝에 넣으면 동선이 깔끔하다.",
+    "eat": "온천 주변 식당가에서 삼계탕·한정식으로 몸을 데우고 하루를 정리하기 좋다."
+   },
+   {
+    "name": "충의사 (윤봉길 의사 유적)",
+    "rom": "젊은 청년이 떠난 자리",
+    "meta": [
+     "💴 입장 무료",
+     "🇰🇷 윤봉길 의사",
+     "📜 국가 사적"
+    ],
+    "desc": "1932년 상하이 훙커우 공원 의거의 주인공, 매헌 윤봉길 의사가 태어나고 자란 곳이다. 그를 기리는 사당 충의사와 생가 저한당·광현당이 한 경역에 사적으로 보존되어 있다. '장부출가생불환(대장부는 집을 나서면 살아 돌아오지 않는다)'이라 적고 젊은 나이에 고향을 떠난 청년의 흔적 앞에 서면, 조용한 마당이 묵직하게 다가온다.",
+    "todo": [
+     "생가 저한당·광현당 둘러보기",
+     "충의사 사당과 기념관에서 의거 자료 보기",
+     "어록탑 앞에서 남긴 글 읽기"
+    ],
+    "tip": "무료 관람이며 넓지 않아 1시간이면 충분하다. 덕산면 안에 있어 수덕사·덕산온천과 함께 묶으면 이동이 짧다.",
+    "eat": "덕산 소재지의 국밥·백반집에서 소박하게 한 끼 해결하기 좋다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg/500px-%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg/500px-%EC%82%AC%EC%A7%842%28%EA%B9%80%EA%B5%AC%EC%84%A0%EC%83%9D%EA%B3%BC_%EC%9C%A4%EB%B4%89%EA%B8%B8%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg/330px-%E5%B0%B9%E5%A5%89%E5%90%89%E6%85%B0%E9%9C%8A%E7%A2%91.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "예산황새공원",
+    "rom": "우리 땅에 황새를 되돌린 곳",
+    "meta": [
+     "💴 입장 무료",
+     "🕊 황새 복원",
+     "👨‍👩‍👧 가족 나들이"
+    ],
+    "desc": "한때 한반도에서 사라졌던 텃새 황새를 다시 자연으로 돌려보내는 국내 황새 복원의 거점이다. 커다란 사육장과 관찰동을 따라 걸으면 우아하게 다리를 접고 선 황새들을 가까이서 볼 수 있고, 넓은 습지와 논이 어우러진 풍경이 마음을 넉넉하게 한다. 황새는 예산군의 군조이기도 하다.",
+    "todo": [
+     "황새 사육장·관찰동에서 황새 가까이 보기",
+     "습지 탐방로 산책",
+     "아이와 함께 생태 전시관 둘러보기"
+    ],
+    "tip": "입장은 무료이며 그늘이 적은 야외라 여름엔 모자와 물을 챙기자. 휴관일과 관찰 시간대를 미리 확인하면 황새를 더 잘 볼 수 있다.",
+    "eat": "광시면은 예산 한우로 이름난 동네라, 근처 한우타운에서 소고기 한 끼를 즐기기 좋다."
+   }
+  ]
+ },
+ "yongin": {
+  "nm": "용인",
+  "region": "🏙️ 수도권 · 경기도",
+  "route": "서울 강남에서 에버랜드행 광역버스로 약 1시간, 또는 분당선 기흥역에서 용인경전철(에버라인) 환승. 자차는 영동·경부고속도로로 접근이 쉽다.",
+  "sep": "봄(4~5월) — 에버랜드 튤립·장미가 절정이고 민속촌 봄나들이가 좋다. 가을 단풍과 할로윈 축제 시즌도 매력적이다.",
+  "mood": "서울에서 한 시간, 하루를 통째로 삼키는 테마파크의 도시. 놀이공원과 워터파크, 조선의 마을과 사극 세트가 한 도시에 모여 있다.",
+  "see": "에버랜드·캐리비안베이의 스릴, 한국민속촌·대장금파크의 옛 정취, 백남준아트센터·호암미술관의 예술까지 한자리에.",
+  "spots": [
+   {
+    "name": "에버랜드",
+    "rom": "국내 최대 테마파크, 사계절 축제의 심장",
+    "meta": [
+     "💴 종일권 약 62,000원",
+     "⏱ 하루",
+     "🌷 봄 튤립축제",
+     "🎢 T익스프레스"
+    ],
+    "desc": "계절마다 튤립·장미·할로윈·눈꽃축제로 정원 전체가 색을 갈아입는 곳. 목재 롤러코스터 T익스프레스는 첫 낙하에서 배 속이 붕 뜨고, 사파리 버스를 타면 사자와 곰이 창밖으로 성큼 다가온다. 판다 가족이 사는 판다월드도 오래도록 사랑받는 명소다.",
+    "todo": [
+     "T익스프레스 첫 낙하 체험",
+     "사파리월드 버스투어",
+     "계절 꽃축제 정원 산책"
+    ],
+    "tip": "주말·성수기는 오픈런을 권한다. 공식 앱으로 대기시간을 확인하고 스마트줄서기를 활용하면 동선이 편하다. 주차료는 별도.",
+    "eat": "파크 내 축제 먹거리 외에, 나오는 길 포곡읍 쪽 손칼국수·백숙집이 든든하다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EA%B4%80%EB%9E%8C%EC%B0%A8_%EC%A0%95%EC%9B%90_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg/500px-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "한국민속촌",
+    "rom": "조선 500년이 살아 숨 쉬는 마을",
+    "meta": [
+     "💴 입장 약 32,000원",
+     "⏱ 반나절",
+     "🏯 전통가옥 270여 동",
+     "🎭 사극 촬영지"
+    ],
+    "desc": "초가와 기와가 늘어선 흙길을 걷다 보면 갓 쓴 사또와 거지 분장 배우들이 능청스레 말을 건넨다. 마당에서는 농악과 줄타기, 마상무예 공연이 펼쳐지고 수많은 사극과 예능이 이곳에서 찍혔다. 가을엔 코스모스, 겨울엔 눈 덮인 초가지붕이 그림처럼 남는다.",
+    "todo": [
+     "마상무예·줄타기 공연 관람",
+     "전통 혼례·저잣거리 구경",
+     "사극 배경 그대로 사진 남기기"
+    ],
+    "tip": "입구에서 공연 시간표를 먼저 확인하고 동선을 짜면 알차다. 여름엔 그늘이 적으니 물과 모자는 필수.",
+    "eat": "촌 안 저잣거리의 국밥·파전·동동주가 정취를 더한다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TightropewalkerKoreanFolkVillage.jpg/330px-TightropewalkerKoreanFolkVillage.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HousesKoreanFolkVillage.jpg/120px-HousesKoreanFolkVillage.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Korean.Folk.Village-Minsokchon-07.jpg/120px-Korean.Folk.Village-Minsokchon-07.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "캐리비안 베이",
+    "rom": "국내 최초 워터파크, 여름의 성지",
+    "meta": [
+     "💴 성수기 약 70,000원",
+     "⏱ 하루",
+     "🌊 파도풀·유수풀",
+     "🏄 여름"
+    ],
+    "desc": "에버랜드 옆에 붙은 대형 워터파크. 실내존은 사계절 따뜻하고, 여름 야외존의 거대한 파도풀과 아찔한 슬라이드가 진짜 재미다. 튜브에 몸을 맡기고 유수풀을 한 바퀴 도는 것만으로 더위가 말끔히 씻긴다.",
+    "todo": [
+     "야외 파도풀에서 파도 맞기",
+     "메가 슬라이드 도전",
+     "유수풀 튜브 라이딩"
+    ],
+    "tip": "여름 성수기는 요금과 인파가 최고조다. 실내존만 이용하면 사계절 더 저렴하게 즐길 수 있다. 라커·타월은 별도.",
+    "eat": "파크 내 스낵바와 푸드코트로 해결. 나오는 길엔 포곡읍 식당가.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg/500px-%EC%BA%90%EB%A6%AC%EB%B9%84%EC%95%88%EB%B2%A0%EC%9D%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "용인 대장금파크",
+    "rom": "사극이 태어나는 거대 야외 세트",
+    "meta": [
+     "💴 입장 약 9,000원",
+     "⏱ 반나절",
+     "🏯 국내 최대급 사극 세트",
+     "📷 인생사진"
+    ],
+    "desc": "주몽·이산·해를 품은 달 등 수많은 사극이 촬영된 국내 최대급 규모의 오픈세트다. 궁궐과 저잣거리, 성곽이 실제 크기로 서 있어 걷는 내내 드라마 속으로 걸어 들어간 기분이 든다. 한복을 빌려 입고 기와 처마 아래에서 사진을 남기는 사람이 많다.",
+    "todo": [
+     "궁궐·저잣거리 세트 산책",
+     "한복 대여 후 촬영",
+     "성곽 위 전망 포인트 오르기"
+    ],
+    "tip": "백암면 외곽이라 대중교통이 불편해 자차를 권한다. 그늘이 적으니 여름 한낮은 피하는 편이 좋다.",
+    "eat": "인근 백암면의 백암순대와 순대국밥이 이 지역 별미로 꼽힌다.",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jumong_site_2.jpg/500px-Jumong_site_2.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    ]
+   },
+   {
+    "name": "백남준아트센터",
+    "rom": "비디오아트 거장의 이름을 단 미술관",
+    "meta": [
+     "💴 무료",
+     "⏱ 1~2시간",
+     "🎨 미디어아트",
+     "🚶 민속촌 인근"
+    ],
+    "desc": "세계적 비디오아트 선구자 백남준의 이름을 딴 경기도립 미술관. TV 모니터를 쌓아 만든 대형 설치작 앞에 서면 수십 년 전 예술가가 상상한 미래가 지금도 낯설고 신선하게 다가온다. 한국민속촌과 가까워 함께 묶어 둘러보기 좋다.",
+    "todo": [
+     "대표 미디어아트 설치작 감상",
+     "기획전시 둘러보기"
+    ],
+    "tip": "관람 무료지만 월요일 휴관을 확인하자. 상갈역에서 도보권이고 한국민속촌과 연계하기 좋다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DankookU-Paiknamjun.JPG/500px-DankookU-Paiknamjun.JPG"
+    ]
+   },
+   {
+    "name": "호암미술관",
+    "rom": "전통 정원 희원을 품은 미술관",
+    "meta": [
+     "💴 입장 약 12,000원",
+     "⏱ 반나절",
+     "🏯 전통정원 희원",
+     "🖼 고미술·기획전"
+    ],
+    "desc": "에버랜드 인근에 자리한 미술관으로, 삼성 창업주가 모은 고미술 컬렉션과 수준 높은 기획전이 열린다. 진짜 백미는 미술관 앞 전통 정원 '희원'이다. 연못과 담장, 정자가 계절마다 옷을 갈아입어 조용히 걷기 좋은 사진 명소로 꼽힌다.",
+    "todo": [
+     "전통정원 희원 산책",
+     "기획전시 관람"
+    ],
+    "tip": "예약제로 운영하는 시기가 있어 방문 전 홈페이지 확인이 안전하다. 에버랜드와 셔틀로 연계된다.",
+    "eat": "",
+    "imgs": [
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hoammuseum.jpg/500px-Hoammuseum.jpg"
+    ]
+   },
+   {
+    "name": "와우정사",
+    "rom": "거대한 와불이 누운 이색 사찰",
+    "meta": [
+     "💴 무료",
+     "⏱ 1시간",
+     "🛕 세계 최대급 와불",
+     "🔔 통일의 종"
+    ],
+    "desc": "산자락에 누운 세계 최대급 규모의 와불과 황금빛 불두가 인상적인 사찰. 여느 절과 분위기가 사뭇 달라 이국적이고, 통일을 기원하는 종과 오색 소원등이 어우러져 색다른 풍경을 만든다. 조용히 소원을 빌며 한 바퀴 돌기 좋다.",
+    "todo": [
+     "누운 와불과 황금 불두 보기",
+     "통일의 종·소원등 둘러보기"
+    ],
+    "tip": "관람 무료지만 산길이라 계단이 있다. 주차는 가능하니 자차 이동이 편하다.",
+    "eat": ""
+   }
+  ]
+ }
+});

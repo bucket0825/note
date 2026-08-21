@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<title>일본 여행지도 · 실지도 (프로토타입)</title>
+<title>여행지도 · 일본 & 국내 (maydly)</title>
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="common.css">
@@ -17,57 +17,106 @@
   font-weight:700;color:var(--ink);white-space:nowrap;box-shadow:0 1px 4px rgba(0,0,0,.12)}
 .lp:hover .dot{background:var(--clover-deep)}
 .leaflet-container{background:#dcebf2;font-family:inherit}
+/* 국가 전환 탭 (topbar 아래 고정) */
+.ctabs{position:fixed;top:56px;left:0;right:0;z-index:640;display:flex;gap:6px;padding:7px 12px;background:var(--bg,#faf8f3);border-bottom:1px solid var(--line,#e8e2d5)}
+#map{top:108px !important}          /* topbar56 + ctabs52 */
+.search-box{top:118px !important}
+.ctab{flex:1;padding:9px 8px;border-radius:11px;border:1px solid var(--line,#e8e2d5);background:#fff;color:var(--sub,#7d7566);
+  font-weight:750;font-size:.95rem;cursor:pointer;transition:all .15s;letter-spacing:-.3px}
+.ctab.on{background:var(--clover,#4c8c4a);color:#fff;border-color:var(--clover,#4c8c4a);box-shadow:0 2px 8px rgba(76,140,74,.28)}
+.maploading{position:absolute;inset:0;display:none;align-items:center;justify-content:center;background:rgba(250,248,243,.85);
+  z-index:400;font-weight:700;color:var(--clover,#4c8c4a)}
+.maploading.on{display:flex}
 </style>
 </head>
 <body>
-<div class="topbar"><div class="mark">🍀</div><div class="t">일본 여행지도<small>maydly · 실지도</small></div>
+<div class="topbar"><div class="mark">🍀</div><div class="t">여행지도<small>maydly · 일본 &amp; 국내</small></div>
   <div class="badge">검색·핀</div>
-  <a href="사진출처.html" style="margin-left:8px;font-size:.72rem;color:#4c8c4a;text-decoration:none;white-space:nowrap;align-self:center">사진 출처 →</a></div>
+  <a id="creditLink" href="사진출처.html" style="margin-left:8px;font-size:.72rem;color:#4c8c4a;text-decoration:none;white-space:nowrap;align-self:center">사진 출처 →</a></div>
+<div class="ctabs">
+  <button class="ctab on" data-c="kr" onclick="renderCountry('kr')">🇰🇷 국내 162곳</button>
+  <button class="ctab" data-c="jp" onclick="renderCountry('jp')">🗾 일본 803곳</button>
+</div>
 <div class="search-box">
-  <input id="citySearch" type="text" autocomplete="off" placeholder="🔍 도시 검색 (예: 이마바리 · 고치 · 나루토)">
+  <input id="citySearch" type="text" autocomplete="off" placeholder="🔍 도시 검색 (예: 경주 · 여수 · 강릉 · 남해)">
   <div class="search-results" id="searchResults"></div>
 </div>
-<div id="map"></div>
+<div id="map"><div class="maploading" id="maploading">일본 지도 불러오는 중…</div></div>
 <div class="preview" id="preview"></div>
 <div class="detail" id="detail"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="data/tvimg.js"></script>
-<script src="data/cityimg.js"></script>
-<script src="data/city.js"></script>
-<script src="data/order.js"></script>
-<script src="common.js"></script>
-<script src="data/batch1.js"></script>
-<script src="data/batch2.js"></script>
-<script src="data/batch3.js"></script>
-<script src="data/batch4.js"></script>
-<script src="data/batch5.js"></script>
-<script src="data/batch6.js"></script>
-<script src="data/photos.js"></script>
-<script src="data/guides.js"></script>
-<script src="data/guides_시코쿠.js"></script>
-<script src="data/guides_북방.js"></script>
-<script src="data/guides_도호쿠.js"></script>
-<script src="data/guides_주고쿠.js"></script>
-<script src="data/guides_규슈.js"></script>
-<script src="data/guides_간사이.js"></script>
-<script src="data/guides_주부.js"></script>
-<script src="data/guides_간토.js"></script>
-<script src="data/guides_잔여.js"></script>
+<!-- 국내 데이터 먼저(가벼움) → 백업 → 리셋 -->
+<script src="data/city_kr.js"></script>
+<script src="data/guides_kr.js"></script>
 <script>
-var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([37.6,137.2],5);
-// 무료 타일 (CARTO Voyager · 키 불필요) — 부드럽고 깔끔
+  window.CITY_KR = CITY; window.COORDS_KR = COORDS;
+  window.CITY = {}; window.COORDS = {};   // 일본 로드가 국내를 오염시키지 않게 리셋
+</script>
+<script src="common.js"></script>
+<script>
+/* ===== 통합 여행지도: 국내 ↔ 일본 탭 전환 ===== */
+var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{
-  maxZoom:12, minZoom:4, subdomains:'abcd',
-  attribution:'© OpenStreetMap · © CARTO'
+  maxZoom:13, minZoom:5, subdomains:'abcd', attribution:'© OpenStreetMap · © CARTO'
 }).addTo(map);
 
-(window.ORDER||Object.keys(CITY)).forEach(function(k){
-  var pos = COORDS[k]; var c = CITY[k]; if(!pos||!c) return;
-  var icon = L.divIcon({className:'', html:'<div class="lp"><div class="dot"><b>🍀</b></div><div class="lab">'+ (c.nm||k) +'</div></div>', iconSize:[0,0], iconAnchor:[0,0]});
-  L.marker(pos,{icon:icon}).addTo(map).on('click',function(){ showPreview(k); });
-});
-setupSearch(map);
+var MARKERS = [];
+var JP_LOADED = false;
+var VIEW = { kr:{c:[36.4,127.9], z:7}, jp:{c:[37.6,137.2], z:5} };
+var PH = { kr:'🔍 도시 검색 (예: 경주 · 여수 · 강릉 · 남해)', jp:'🔍 도시 검색 (예: 이마바리 · 고치 · 나루토)' };
+
+function drawMarkers(){
+  MARKERS.forEach(function(m){ map.removeLayer(m); }); MARKERS = [];
+  (window.ORDER || Object.keys(CITY)).forEach(function(k){
+    var pos = COORDS[k], c = CITY[k]; if(!pos||!c) return;
+    var icon = L.divIcon({className:'', html:'<div class="lp"><div class="dot"><b>🍀</b></div><div class="lab">'+(c.nm||k)+'</div></div>', iconSize:[0,0], iconAnchor:[0,0]});
+    var m = L.marker(pos,{icon:icon}).addTo(map).on('click', (function(kk){ return function(){ showPreview(kk); }; })(k));
+    MARKERS.push(m);
+  });
+}
+var _searchReady = false;
+
+function activate(cc){
+  window.CITY   = (cc==='jp') ? window.CITY_JP   : window.CITY_KR;
+  window.COORDS = (cc==='jp') ? window.COORDS_JP : window.COORDS_KR;
+  window.ORDER  = (cc==='jp') ? window.ORDER_JP  : null;
+  drawMarkers();
+  if(!_searchReady){ try{ setupSearch(map); }catch(e){} _searchReady = true; }  // 검색은 1회만, window.CITY 참조로 활성국가 반영
+  map.setView(VIEW[cc].c, VIEW[cc].z);
+  document.querySelectorAll('.ctab').forEach(function(t){ t.classList.toggle('on', t.getAttribute('data-c')===cc); });
+  document.getElementById('citySearch').placeholder = PH[cc];
+  document.getElementById('creditLink').href = (cc==='jp') ? '사진출처.html' : '../travel-kr/사진출처.html';
+}
+
+function loadJP(done){
+  if(JP_LOADED){ done(); return; }
+  var ld = document.getElementById('maploading'); ld.classList.add('on');
+  var files = ['data/tvimg.js','data/cityimg.js','data/city.js','data/order.js',
+    'data/batch1.js','data/batch2.js','data/batch3.js','data/batch4.js','data/batch5.js','data/batch6.js',
+    'data/photos.js','data/guides.js','data/guides_시코쿠.js','data/guides_북방.js','data/guides_도호쿠.js',
+    'data/guides_주고쿠.js','data/guides_규슈.js','data/guides_간사이.js','data/guides_주부.js','data/guides_간토.js','data/guides_잔여.js'];
+  // 일본 로드 전 현재 CITY/COORDS 비워 일본 데이터만 담기
+  window.CITY = {}; window.COORDS = {};
+  var i = 0;
+  (function next(){
+    if(i >= files.length){
+      window.CITY_JP = CITY; window.COORDS_JP = COORDS; window.ORDER_JP = window.ORDER || null;
+      JP_LOADED = true; ld.classList.remove('on'); done(); return;
+    }
+    var s = document.createElement('script'); s.src = files[i++];
+    s.onload = next; s.onerror = next; document.head.appendChild(s);
+  })();
+}
+
+function renderCountry(cc){
+  if(cc==='jp'){ loadJP(function(){ activate('jp'); }); }
+  else { activate('kr'); }
+}
+
+// 초기 국가: URL ?c=jp 면 일본, 아니면 국내 (딥링크 지원)
+var _initC = (new URLSearchParams(location.search).get('c')==='jp') ? 'jp' : 'kr';
+renderCountry(_initC);
 </script>
 </body>
 </html>
