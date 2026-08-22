@@ -28,7 +28,7 @@
   z-index:400;font-weight:700;color:var(--clover,#4c8c4a)}
 .maploading.on{display:flex}
 /* 내 장소 저장 */
-.myfab{position:fixed;right:14px;bottom:18px;z-index:700;display:flex;flex-direction:column;gap:9px;align-items:flex-end}
+.myfab{position:fixed;right:14px;bottom:18px;z-index:700;display:none;flex-direction:column;gap:9px;align-items:flex-end}
 .myfab button{border:none;border-radius:999px;font-weight:750;font-size:13.5px;cursor:pointer;box-shadow:0 4px 14px rgba(50,70,55,.28);font-family:inherit;padding:11px 16px}
 .myfab .mf-add{background:var(--clover,#4c8c4a);color:#fff}
 .myfab .mf-add.arm{background:#e0663c}
@@ -42,8 +42,8 @@
 .pbox,.plbox{background:#fff;width:min(460px,100%);border-radius:18px 18px 0 0;padding:20px}
 .plbox{max-height:75vh;overflow-y:auto}
 .pbox h3,.plbox h3{margin:0 0 14px;font-size:16px;display:flex;justify-content:space-between;align-items:center}
-.pcats{display:flex;gap:8px;margin-bottom:13px}
-.pcats button{flex:1;padding:12px 6px;border:1.5px solid var(--line);border-radius:12px;background:#fff;cursor:pointer;font-family:inherit;font-size:13px;font-weight:650;color:var(--sub)}
+.pcats{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:13px}
+.pcats button{flex:1 1 21%;min-width:62px;padding:10px 4px;border:1.5px solid var(--line);border-radius:11px;background:#fff;cursor:pointer;font-family:inherit;font-size:12.5px;font-weight:650;color:var(--sub)}
 .pcats button.on{border-color:var(--clover);background:var(--clover-soft,#eef4ec);color:var(--clover-deep,#357a51)}
 .pbox input,.pbox textarea{width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:14px;font-family:inherit;margin-bottom:10px;color:var(--ink)}
 .pbox textarea{resize:vertical;min-height:56px}
@@ -59,6 +59,31 @@
 .plitem .pdel{border:none;background:none;color:#c55;cursor:pointer;font-size:12.5px;font-weight:600;flex:0 0 auto}
 .plempty{color:var(--sub);text-align:center;padding:30px 0;font-size:13.5px;line-height:1.7}
 .xbtn{border:none;background:none;font-size:18px;cursor:pointer;color:var(--sub)}
+.mypin.live{border-style:dashed;box-shadow:0 2px 7px rgba(60,140,90,.5)}
+.sync-intro{font-size:12.5px;color:var(--sub);line-height:1.65;background:var(--clover-soft,#eef4ec);padding:11px 13px;border-radius:11px;margin-bottom:13px}
+.sync-add{margin:6px 0 4px}
+.sync-add input{width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:13.5px;font-family:inherit;margin-bottom:8px;color:var(--ink)}
+.sync-row{display:flex;gap:8px}
+.sync-row select{flex:1;min-width:0;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:13px;color:var(--ink);background:#fff}
+.sync-add-btn{flex:0 0 auto;padding:10px 18px;border:none;border-radius:10px;background:var(--clover,#4c8c4a);color:#fff;font-weight:700;font-family:inherit;cursor:pointer}
+.sync-file{margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.sync-file button{width:100%;padding:11px;border:1px dashed var(--line);border-radius:10px;background:#fff;color:var(--sub);font-family:inherit;font-size:13px;cursor:pointer}
+.syncitem{display:flex;gap:10px;padding:10px 0;border-bottom:1px solid var(--line);align-items:center}
+.syncitem .si-in{flex:1;min-width:0}
+.syncitem .si-nm{font-weight:700;font-size:13.5px}
+.syncitem .si-sub{font-size:11px;color:var(--sub);margin-top:2px;font-family:monospace}
+.syncitem .si-del{border:none;background:none;color:#c55;cursor:pointer;font-size:12px;font-weight:600;flex:0 0 auto}
+.pin-pop{min-width:150px}
+.pp-cat{display:inline-block;font-size:11px;font-weight:700;color:#fff;padding:2px 10px;border-radius:999px;margin-bottom:6px}
+.pp-name{font-weight:700;font-size:14px;margin-bottom:3px;color:var(--ink);line-height:1.3}
+.pp-memo{font-size:12px;color:var(--sub);margin-bottom:4px;line-height:1.5;max-height:64px;overflow:auto}
+.pp-btns{display:flex;flex-direction:column;gap:6px;margin-top:9px}
+.pp-btns button{border:none;border-radius:8px;padding:10px;font-size:13px;font-weight:700;font-family:inherit;cursor:pointer;color:#fff}
+.pp-nv{background:#03c75a}
+.pp-gg{background:#4285f4}
+.pp-ed{background:#7a8089}
+.pp-live{font-size:11.5px;color:#8a8f98;text-align:center;padding:4px}
+.leaflet-popup-content{margin:12px 14px}
 </style>
 </head>
 <body>
@@ -66,8 +91,9 @@
   <div class="badge">검색·핀</div>
   <a id="creditLink" href="사진출처.html" style="margin-left:8px;font-size:.72rem;color:#4c8c4a;text-decoration:none;white-space:nowrap;align-self:center">사진 출처 →</a></div>
 <div class="ctabs">
-  <button class="ctab on" data-c="kr" onclick="renderCountry('kr')">🇰🇷 국내 162곳</button>
-  <button class="ctab" data-c="jp" onclick="renderCountry('jp')">🗾 일본 803곳</button>
+  <button class="ctab on" data-c="kr" onclick="renderCountry('kr')">🇰🇷 국내</button>
+  <button class="ctab" data-c="jp" onclick="renderCountry('jp')">🗾 일본</button>
+  <button class="ctab" data-c="my" onclick="renderCountry('my')">🔖 내 지도</button>
 </div>
 <div class="search-box">
   <input id="citySearch" type="text" autocomplete="off" placeholder="🔍 도시 검색 (예: 경주 · 여수 · 강릉 · 남해)">
@@ -79,6 +105,7 @@
 <button id="fixedBack" class="fixed-back" onclick="closeDetail()">‹ 지도로</button>
 <!-- 내 장소 -->
 <div class="myfab">
+  <button class="mf-list" onclick="openSync()">🗺️ 지도 연동</button>
   <button class="mf-list" onclick="openPList()">📑 내 장소</button>
   <button class="mf-add" id="mfAdd" onclick="armAdd()">➕ 장소 추가</button>
 </div>
@@ -86,9 +113,15 @@
 <div class="pmodal" id="pmodal"><div class="pbox">
   <h3 id="pmTitle">📍 내 장소 저장</h3>
   <div class="pcats" id="pcats">
-    <button data-cat="food" onclick="selCat('food',this)">🍜 맛집</button>
+    <button data-cat="rice" onclick="selCat('rice',this)">🍚 밥</button>
+    <button data-cat="cafe" onclick="selCat('cafe',this)">☕ 카페</button>
+    <button data-cat="drink" onclick="selCat('drink',this)">🍷 술</button>
+    <button data-cat="see" onclick="selCat('see',this)">👀 볼것</button>
+    <button data-cat="todo" onclick="selCat('todo',this)">🎯 할것</button>
+    <button data-cat="shop" onclick="selCat('shop',this)">🛍️ 쇼핑</button>
     <button data-cat="photo" onclick="selCat('photo',this)">📸 촬영지</button>
-    <button data-cat="spot" onclick="selCat('spot',this)">🏛 관광지</button>
+    <button data-cat="studio" onclick="selCat('studio',this)">🎬 촬영장</button>
+    <button data-cat="stay" onclick="selCat('stay',this)">🏨 숙소</button>
   </div>
   <input id="pName" autocomplete="off" placeholder="장소 이름 (예: OO식당 · OO전망대)">
   <textarea id="pMemo" placeholder="메모 (선택) — 뭐가 좋았는지, 꿀팁 등"></textarea>
@@ -97,6 +130,29 @@
 <div class="plist-sheet" id="plist"><div class="plbox">
   <h3><span>📑 내 장소</span><button class="xbtn" onclick="closePList()">×</button></h3>
   <div id="plitems"></div>
+</div></div>
+<div class="plist-sheet" id="sync"><div class="plbox">
+  <h3><span>🗺️ 지도 연동</span><button class="xbtn" onclick="closeSync()">×</button></h3>
+  <div class="sync-intro">구글 <b>My Maps(내 지도)</b> 공유링크를 넣으면, 그 지도에 장소를 저장할 때마다 여기에 <b>자동 반영</b>됩니다.<br><span style="color:#b06a3c">※ 구글맵 ⭐별표저장은 구글이 막아 불가 — My Maps를 쓰세요.</span></div>
+  <div id="syncList"></div>
+  <div class="sync-add">
+    <input id="syncUrl" autocomplete="off" placeholder="구글 My Maps 공유링크 붙여넣기">
+    <div class="sync-row">
+      <select id="syncCat">
+        <option value="photo">📸 촬영지</option>
+        <option value="rice">🍚 밥</option>
+        <option value="cafe">☕ 카페</option>
+        <option value="drink">🍷 술</option>
+        <option value="see">👀 볼것</option>
+        <option value="todo">🎯 할것</option>
+        <option value="shop">🛍️ 쇼핑</option>
+        <option value="studio">🎬 촬영장</option>
+        <option value="stay">🏨 숙소</option>
+      </select>
+      <button class="sync-add-btn" onclick="addMyMap()">+ 연동</button>
+    </div>
+  </div>
+  <div class="sync-file"><button onclick="importPlaces()">📥 파일에서 한 번 가져오기 (네이버 등 JSON)</button></div>
 </div></div>
 
 
@@ -113,7 +169,7 @@
 /* ===== 통합 여행지도: 국내 ↔ 일본 탭 전환 ===== */
 var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{
-  maxZoom:13, minZoom:5, subdomains:'abcd', attribution:'© OpenStreetMap · © CARTO'
+  maxZoom:14, minZoom:2, subdomains:'abcd', attribution:'© OpenStreetMap · © CARTO'
 }).addTo(map);
 
 var MARKERS = [];
@@ -142,7 +198,9 @@ function activate(cc){
   document.querySelectorAll('.ctab').forEach(function(t){ t.classList.toggle('on', t.getAttribute('data-c')===cc); });
   document.getElementById('citySearch').placeholder = PH[cc];
   document.getElementById('creditLink').href = (cc==='jp') ? '사진출처.html' : '../travel-kr/사진출처.html';
-  window.COUNTRY = cc; if(window.renderMyPlaces) renderMyPlaces();
+  window.COUNTRY = cc;
+  var fab=document.querySelector('.myfab'); if(fab) fab.style.display='none';   // 내 장소 FAB는 '내 지도' 탭에서만
+  if(window.renderMyPlaces) renderMyPlaces();
 }
 
 function loadJP(done){
@@ -167,7 +225,28 @@ function loadJP(done){
 
 function renderCountry(cc){
   if(cc==='jp'){ loadJP(function(){ activate('jp'); }); }
+  else if(cc==='my'){ activateMy(); }
   else { activate('kr'); }
+}
+
+/* '내 지도' 탭 — 나라 구분 없이 전세계 저장 장소만 */
+function activateMy(){
+  MARKERS.forEach(function(m){ map.removeLayer(m); }); MARKERS=[];
+  if(window.hidePreview) hidePreview(); if(window.closeDetail) closeDetail();
+  window.COUNTRY='my';
+  document.querySelectorAll('.ctab').forEach(function(t){ t.classList.toggle('on', t.getAttribute('data-c')==='my'); });
+  var s=document.getElementById('citySearch'); if(s) s.placeholder='🔍 내 저장 장소 검색';
+  var fab=document.querySelector('.myfab'); if(fab) fab.style.display='flex';
+  if(window.renderMyPlaces) renderMyPlaces();
+  fitMyPlaces();
+  if(window.loadMyMaps) loadMyMaps(function(){ renderMyPlaces(); fitMyPlaces(); });   // 구글 My Maps 자동 로드
+}
+function fitMyPlaces(){
+  var all=(window.MYPLACES||[]).concat(window.LIVEPLACES||[]);
+  if(all.length){
+    var b=L.latLngBounds(all.map(function(p){return [p.lat,p.lng];}));
+    map.fitBounds(b,{padding:[50,50],maxZoom:11});
+  } else { map.setView([30,128],3); }
 }
 
 // 초기 국가: URL ?c=jp 면 일본, 아니면 국내 (딥링크 지원)
@@ -178,9 +257,16 @@ renderCountry(_initC);
 /* ===== 내 장소 저장 (localStorage · 추후 구글 동기화로 교체) ===== */
 var MYPLACES = [];
 try { MYPLACES = JSON.parse(localStorage.getItem('maydly_travel_places')||'[]'); } catch(e){ MYPLACES=[]; }
+var MYMAPS = [];
+try { MYMAPS = JSON.parse(localStorage.getItem('maydly_travel_mymaps')||'[]'); } catch(e){ MYMAPS=[]; }
+var LIVEPLACES = [];   // 구글 My Maps에서 실시간으로 불러온 장소(저장 안 함, 항상 최신)
 var MYMARKERS = [];
 var _armed=false, _pendLL=null, _selCat=null, _editId=null;
-var CATS = { food:{e:'🍜',l:'맛집',c:'#e0663c'}, photo:{e:'📸',l:'촬영지',c:'#3d7fd6'}, spot:{e:'🏛',l:'관광지',c:'#4c8c4a'} };
+var CATS = {
+  rice:{e:'🍚',l:'밥',c:'#e0663c'}, cafe:{e:'☕',l:'카페',c:'#a9764e'}, drink:{e:'🍷',l:'술',c:'#9c4f6d'},
+  see:{e:'👀',l:'볼것',c:'#2f9e8f'}, todo:{e:'🎯',l:'할것',c:'#d9a021'}, shop:{e:'🛍️',l:'쇼핑',c:'#d94f8a'},
+  photo:{e:'📸',l:'촬영지',c:'#3d7fd6'}, studio:{e:'🎬',l:'촬영장',c:'#5a54b0'}, stay:{e:'🏨',l:'숙소',c:'#7d6bb0'}
+};
 function saveMP(){ try{ localStorage.setItem('maydly_travel_places', JSON.stringify(MYPLACES)); }catch(e){} }
 function armAdd(){ _armed=!_armed; document.getElementById('mtip').classList.toggle('on',_armed); document.getElementById('mfAdd').classList.toggle('arm',_armed); document.getElementById('mfAdd').textContent=_armed?'✕ 취소':'➕ 장소 추가'; }
 map.on('click', function(e){ if(_armed){ _pendLL=e.latlng; armAdd(); openPModal(null); } });
@@ -206,20 +292,146 @@ function savePlace(){
 }
 function renderMyPlaces(){
   MYMARKERS.forEach(function(m){ map.removeLayer(m); }); MYMARKERS=[];
-  var cc=window.COUNTRY||'kr';
-  MYPLACES.filter(function(p){ return p.country===cc; }).forEach(function(p){
-    var cat=CATS[p.cat]||CATS.spot;
-    var icon=L.divIcon({className:'', html:'<div class="mypin" style="background:'+cat.c+'"><b>'+cat.e+'</b></div>', iconSize:[26,26], iconAnchor:[13,26]});
-    var m=L.marker([p.lat,p.lng],{icon:icon,zIndexOffset:1000}).addTo(map).on('click', (function(pp){ return function(){ openPModal(pp); }; })(p));
+  if((window.COUNTRY||'kr')!=='my') return;   // 내 장소는 '내 지도' 탭에서만(전세계)
+  MYPLACES.concat(LIVEPLACES).forEach(function(p){
+    var cat=CATS[p.cat]||CATS.photo;
+    var icon=L.divIcon({className:'', html:'<div class="mypin'+(p.live?' live':'')+'" style="background:'+cat.c+'"><b>'+cat.e+'</b></div>', iconSize:[26,26], iconAnchor:[13,26]});
+    var m=L.marker([p.lat,p.lng],{icon:icon,zIndexOffset:1000}).addTo(map);
+    m.bindPopup(pinPopupHTML(p), {minWidth:170, className:'pin-pop-wrap'});
     MYMARKERS.push(m);
   });
 }
 window.renderMyPlaces = renderMyPlaces;
+
+/* ===== 핀 클릭 팝업: 네이버지도·구글맵·수정 3버튼 ===== */
+function escJs(s){ return String(s==null?'':s).replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/[\r\n]+/g,' '); }
+function pinPopupHTML(p){
+  var cat=CATS[p.cat]||CATS.photo;
+  var h='<div class="pin-pop"><span class="pp-cat" style="background:'+cat.c+'">'+cat.e+' '+esc(cat.l)+'</span><div class="pp-name">'+esc(p.name||'(무명)')+'</div>';
+  if(p.memo) h+='<div class="pp-memo">'+esc(p.memo)+'</div>';
+  h+='<div class="pp-btns">';
+  var isKR=(p.lat>=33 && p.lat<=38.8 && p.lng>=124.5 && p.lng<=130.0);   // 한국 본토·제주 범위(해외는 네이버 제외)
+  if(isKR) h+='<button class="pp-nv" onclick="openNaver('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">네이버지도에서 열기</button>';
+  h+='<button class="pp-gg" onclick="openGoogle('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">구글맵에서 열기</button>';
+  if(!p.live && p.id) h+='<button class="pp-ed" onclick="editPin(\''+p.id+'\')">✏️ 수정</button>';
+  else if(p.live && p.mid) h+='<button class="pp-ed" onclick="openMyMapsEdit(\''+escJs(p.mid)+'\')">🗺️ My Maps에서 수정</button>';
+  h+='</div></div>';
+  return h;
+}
+function openNaver(lat,lng,name){
+  var q=(name && name!=='(무명)' && name!=='(이름없음)') ? name : (lat+','+lng);
+  window.open('https://map.naver.com/p/search/'+encodeURIComponent(q),'_blank');
+}
+function openGoogle(lat,lng,name){
+  if(name && name!=='(무명)' && name!=='(이름없음)')
+    window.open('https://www.google.com/maps/search/'+encodeURIComponent(name)+'/@'+lat+','+lng+',16z','_blank');
+  else
+    window.open('https://www.google.com/maps/search/?api=1&query='+lat+','+lng,'_blank');
+}
+function editPin(id){ var p=MYPLACES.filter(function(x){return x.id===id;})[0]; if(p){ map.closePopup(); openPModal(p); } }
+function openMyMapsEdit(mid){ window.open('https://www.google.com/maps/d/edit?mid='+encodeURIComponent(mid),'_blank'); }
+
+/* ===== 구글 My Maps 자동연동 (프록시·토큰 없이 브라우저에서 직접 KML 읽기) ===== */
+function saveMM(){ try{ localStorage.setItem('maydly_travel_mymaps', JSON.stringify(MYMAPS)); }catch(e){} }
+function extractMid(s){ s=(s||'').trim(); var m=s.match(/[?&]mid=([^&\s]+)/); if(m) return decodeURIComponent(m[1]); m=s.match(/[A-Za-z0-9_\-]{18,}/); return m? m[0] : s; }
+function kmlUrl(mid){ return 'https://www.google.com/maps/d/kml?mid='+encodeURIComponent(mid)+'&forcekml=1'; }
+function parseKML(txt, mm){
+  var d=new DOMParser().parseFromString(txt,'text/xml');
+  var pms=d.getElementsByTagName('Placemark'); var n=0;
+  for(var i=0;i<pms.length;i++){
+    var p=pms[i];
+    if(!p.getElementsByTagName('Point').length) continue;   // 핀(Point)만 — 경로·영역 제외
+    var co=p.getElementsByTagName('coordinates')[0]; if(!co) continue;
+    var parts=(co.textContent||'').trim().split(',');
+    var lng=parseFloat(parts[0]), lat=parseFloat(parts[1]);
+    if(isNaN(lat)||isNaN(lng)) continue;
+    var nm=((p.getElementsByTagName('name')[0]||{}).textContent||'(무명)').trim();
+    var dsc=(p.getElementsByTagName('description')[0]||{}).textContent||'';
+    var tmp=document.createElement('div'); tmp.innerHTML=dsc; dsc=(tmp.textContent||'').trim();
+    var cat=mm.cat||'photo';
+    var EMO={'🍚':'rice','☕':'cafe','🍷':'drink','👀':'see','🎯':'todo','🛍️':'shop','📸':'photo','🎬':'studio','🏨':'stay'};   // 이름 앞 이모지로 카테고리 자동 인식
+    for(var e in EMO){ if(nm.indexOf(e)===0){ cat=EMO[e]; nm=nm.slice(e.length).trim(); break; } }
+    LIVEPLACES.push({ name:nm, lat:lat, lng:lng, memo:dsc, cat:cat, mid:mm.mid, source:'mymaps:'+(mm.label||''), live:true });
+    n++;
+  }
+  return n;
+}
+function loadMyMaps(cb){
+  LIVEPLACES=[];
+  if(!MYMAPS.length){ if(cb)cb(0); return; }
+  var done=0, total=0;
+  MYMAPS.forEach(function(mm){
+    fetch(kmlUrl(mm.mid)).then(function(r){ return r.text(); })
+      .then(function(t){ total+=parseKML(t,mm); })
+      .catch(function(e){ console.warn('My Maps 로드 실패', mm.mid, e); })
+      .then(function(){ done++; if(done===MYMAPS.length){ if(cb)cb(total); } });
+  });
+}
+function addMyMap(){
+  var raw=document.getElementById('syncUrl').value; var mid=extractMid(raw);
+  if(!mid || mid.length<15){ alert('구글 My Maps 공유링크를 넣어주세요'); return; }
+  if(MYMAPS.some(function(x){return x.mid===mid;})){ alert('이미 연동된 지도예요'); return; }
+  var cat=document.getElementById('syncCat').value;
+  var label=(CATS[cat]||{}).l||'지도';
+  var btn=document.querySelector('.sync-add-btn'); btn.textContent='연동 중…'; btn.disabled=true;
+  fetch(kmlUrl(mid)).then(function(r){ if(!r.ok) throw 0; return r.text(); })
+    .then(function(t){
+      var d=new DOMParser().parseFromString(t,'text/xml');
+      var cnt=d.getElementsByTagName('Point').length;
+      if(!cnt){ alert('이 지도에서 저장된 핀을 찾지 못했어요.\n\nMy Maps가 "링크가 있는 모든 사용자 보기"로 공유됐는지, 지도에 핀이 있는지 확인해주세요.'); return; }
+      MYMAPS.push({mid:mid,label:label,cat:cat}); saveMM();
+      document.getElementById('syncUrl').value='';
+      renderSyncList();
+      loadMyMaps(function(){ renderMyPlaces(); fitMyPlaces(); });
+      alert('연동 완료! 이 지도에서 '+cnt+'곳을 불러왔어요.\n앞으로 My Maps에 저장하면 앱 열 때마다 자동 반영됩니다.');
+    })
+    .catch(function(){ alert('이 링크를 불러올 수 없어요. My Maps 공유 설정("링크가 있는 모든 사용자")을 확인해주세요.'); })
+    .then(function(){ btn.textContent='+ 연동'; btn.disabled=false; });
+}
+function removeMyMap(mid){
+  if(!confirm('이 지도 연동을 해제할까요? (My Maps 원본은 그대로예요)')) return;
+  MYMAPS=MYMAPS.filter(function(x){return x.mid!==mid;}); saveMM();
+  renderSyncList(); loadMyMaps(function(){ renderMyPlaces(); fitMyPlaces(); });
+}
+function renderSyncList(){
+  var el=document.getElementById('syncList');
+  if(!MYMAPS.length){ el.innerHTML='<div class="plempty" style="padding:14px 0">아직 연동된 지도가 없어요.<br>아래에 구글 My Maps 공유링크를 넣어보세요.</div>'; return; }
+  el.innerHTML=MYMAPS.map(function(mm){ var cat=CATS[mm.cat]||CATS.photo;
+    return '<div class="syncitem"><div style="font-size:18px">'+cat.e+'</div><div class="si-in"><div class="si-nm">'+esc(mm.label)+' 지도</div><div class="si-sub">'+esc(mm.mid.slice(0,16))+'…</div></div><button class="si-del" onclick="removeMyMap(\''+esc(mm.mid)+'\')">해제</button></div>';
+  }).join('');
+}
+function openSync(){ renderSyncList(); document.getElementById('sync').classList.add('on'); }
+function closeSync(){ document.getElementById('sync').classList.remove('on'); }
+
+/* 가져오기: 네이버·구글 등에서 뽑은 장소 JSON 파일 병합 (좌표 중복 제외) */
+function importPlaces(){
+  var inp=document.createElement('input'); inp.type='file'; inp.accept='.json,application/json';
+  inp.onchange=function(){ var f=inp.files&&inp.files[0]; if(!f) return;
+    var r=new FileReader(); r.onload=function(){ try{ mergePlaces(JSON.parse(r.result)); }catch(e){ alert('파일을 읽을 수 없어요. JSON 형식인지 확인해주세요.'); } };
+    r.readAsText(f); };
+  inp.click();
+}
+function mergePlaces(arr){
+  if(!Array.isArray(arr)){ alert('형식이 올바르지 않아요 (배열이 아님)'); return; }
+  var seen={}; MYPLACES.forEach(function(p){ seen[(+p.lat).toFixed(5)+','+(+p.lng).toFixed(5)]=1; });
+  var added=0, dup=0;
+  arr.forEach(function(p){
+    if(p==null||p.lat==null||p.lng==null) return;
+    var key=(+p.lat).toFixed(5)+','+(+p.lng).toFixed(5);
+    if(seen[key]){ dup++; return; }
+    MYPLACES.push({ id:'p'+Date.now()+Math.floor(Math.random()*1e6), name:p.name||'(이름없음)', lat:+p.lat, lng:+p.lng, cat:(CATS[p.cat]?p.cat:'photo'), memo:p.memo||'', country:p.country||'my', source:p.source||'import', ts:Date.now() });
+    seen[key]=1; added++;
+  });
+  saveMP();
+  if((window.COUNTRY||'')!=='my'){ renderCountry('my'); } else { renderMyPlaces(); fitMyPlaces(); }
+  alert(added+'곳을 가져왔어요!'+(dup?' (중복 좌표 '+dup+'곳 제외)':''));
+}
 function openPList(){
-  var el=document.getElementById('plitems'); var cc=window.COUNTRY||'kr';
-  var list=MYPLACES.filter(function(p){ return p.country===cc; }).sort(function(a,b){ return b.ts-a.ts; });
-  if(!list.length){ el.innerHTML='<div class="plempty">아직 저장한 장소가 없어요.<br><b>➕ 장소 추가</b> → 지도를 눌러 저장해보세요.<br>('+((cc==='jp')?'일본':'국내')+' 탭 기준)</div>'; }
-  else { el.innerHTML=list.map(function(p){ var cat=CATS[p.cat]||CATS.spot;
+  var el=document.getElementById('plitems');
+  var list=MYPLACES.slice().sort(function(a,b){ return b.ts-a.ts; });
+  var head=document.querySelector('#plist h3 span'); if(head) head.textContent='📑 내 장소 ('+list.length+')';
+  if(!list.length){ el.innerHTML='<div class="plempty">아직 저장한 장소가 없어요.<br><b>📥 가져오기</b>로 네이버·구글 장소를 넣거나<br><b>➕ 장소 추가</b>로 지도를 눌러 저장하세요.</div>'; }
+  else { el.innerHTML=list.map(function(p){ var cat=CATS[p.cat]||CATS.photo;
     return '<div class="plitem"><div class="pe">'+cat.e+'</div><div class="pin"><div class="pnm">'+esc(p.name)+' <span style="font-size:11px;color:#aaa;font-weight:500">'+cat.l+'</span></div>'+(p.memo?'<div class="pmemo">'+esc(p.memo)+'</div>':'')+'</div><button class="pdel" onclick="delPlace(\''+p.id+'\')">삭제</button></div>';
   }).join(''); }
   document.getElementById('plist').classList.add('on');
