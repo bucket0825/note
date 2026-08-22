@@ -82,6 +82,7 @@
 .pp-nv{background:#03c75a}
 .pp-gg{background:#4285f4}
 .pp-ed{background:#7a8089}
+.pp-sv{background:#e8912a}
 .pp-live{font-size:11.5px;color:#8a8f98;text-align:center;padding:4px}
 .leaflet-popup-content{margin:12px 14px}
 </style>
@@ -315,6 +316,7 @@ function pinPopupHTML(p){
   var isKR=(p.lat>=33 && p.lat<=38.8 && p.lng>=124.5 && p.lng<=130.0);   // 한국 본토·제주 범위(해외는 네이버 제외)
   if(isKR) h+='<button class="pp-nv" onclick="openNaver('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">네이버지도에서 열기</button>';
   h+='<button class="pp-gg" onclick="openGoogle('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">구글맵에서 열기</button>';
+  h+='<button class="pp-sv" onclick="openStreetView('+p.lat+','+p.lng+')">📷 거리뷰로 확인</button>';
   if(!p.live && p.id) h+='<button class="pp-ed" onclick="editPin(\''+p.id+'\')">✏️ 수정</button>';
   else if(p.live && p.mid) h+='<button class="pp-ed" onclick="openMyMapsEdit(\''+escJs(p.mid)+'\')">🗺️ My Maps에서 수정</button>';
   h+='</div></div>';
@@ -332,6 +334,7 @@ function openGoogle(lat,lng,name){
 }
 function editPin(id){ var p=MYPLACES.filter(function(x){return x.id===id;})[0]; if(p){ map.closePopup(); openPModal(p); } }
 function openMyMapsEdit(mid){ window.open('https://www.google.com/maps/d/edit?mid='+encodeURIComponent(mid),'_blank'); }
+function openStreetView(lat,lng){ window.open('https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+lat+','+lng,'_blank'); }
 
 /* ===== 구글 My Maps 자동연동 (프록시·토큰 없이 브라우저에서 직접 KML 읽기) ===== */
 function saveMM(){ try{ localStorage.setItem('maydly_travel_mymaps', JSON.stringify(MYMAPS)); }catch(e){} }
