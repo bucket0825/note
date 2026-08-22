@@ -165,6 +165,7 @@
   window.CITY = {}; window.COORDS = {};   // 일본 로드가 국내를 오염시키지 않게 리셋
 </script>
 <script src="common.js?v=3"></script>
+<script src="data/myplaces.js?v=1"></script>
 <script>
 /* ===== 통합 여행지도: 국내 ↔ 일본 탭 전환 ===== */
 var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
@@ -257,6 +258,7 @@ renderCountry(_initC);
 /* ===== 내 장소 저장 (localStorage · 추후 구글 동기화로 교체) ===== */
 var MYPLACES = [];
 try { MYPLACES = JSON.parse(localStorage.getItem('maydly_travel_places')||'[]'); } catch(e){ MYPLACES=[]; }
+if(!MYPLACES.length && window.SEED_PLACES) MYPLACES = window.SEED_PLACES.slice();   // 기본 566곳(명진 편집 시 localStorage 우선)
 var MYMAPS = [];
 try { MYMAPS = JSON.parse(localStorage.getItem('maydly_travel_mymaps')||'[]'); } catch(e){ MYMAPS=[]; }
 var LIVEPLACES = [];   // 구글 My Maps에서 실시간으로 불러온 장소(저장 안 함, 항상 최신)
