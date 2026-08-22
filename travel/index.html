@@ -75,6 +75,7 @@
 .syncitem .si-del{border:none;background:none;color:#c55;cursor:pointer;font-size:12px;font-weight:600;flex:0 0 auto}
 .pin-pop{min-width:150px}
 .pp-cat{display:inline-block;font-size:11px;font-weight:700;color:#fff;padding:2px 10px;border-radius:999px;margin-bottom:6px}
+.pp-embed{width:100%;height:220px;border:0;border-radius:10px;margin:4px 0 8px;background:#eef0f2;display:block}
 .pp-name{font-weight:700;font-size:14px;margin-bottom:3px;color:var(--ink);line-height:1.3}
 .pp-memo{font-size:12px;color:var(--sub);margin-bottom:4px;line-height:1.5;max-height:64px;overflow:auto}
 .pp-btns{display:flex;flex-direction:column;gap:6px;margin-top:9px}
@@ -300,7 +301,7 @@ function renderMyPlaces(){
     var cat=CATS[p.cat]||CATS.photo;
     var icon=L.divIcon({className:'', html:'<div class="mypin'+(p.live?' live':'')+'" style="background:'+cat.c+'"><b>'+cat.e+'</b></div>', iconSize:[26,26], iconAnchor:[13,26]});
     var m=L.marker([p.lat,p.lng],{icon:icon,zIndexOffset:1000}).addTo(map);
-    m.bindPopup(pinPopupHTML(p), {minWidth:170, className:'pin-pop-wrap'});
+    m.bindPopup(pinPopupHTML(p), {minWidth:300, maxWidth:340, className:'pin-pop-wrap'});
     MYMARKERS.push(m);
   });
 }
@@ -310,13 +311,13 @@ window.renderMyPlaces = renderMyPlaces;
 function escJs(s){ return String(s==null?'':s).replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/[\r\n]+/g,' '); }
 function pinPopupHTML(p){
   var cat=CATS[p.cat]||CATS.photo;
-  var h='<div class="pin-pop"><span class="pp-cat" style="background:'+cat.c+'">'+cat.e+' '+esc(cat.l)+'</span><div class="pp-name">'+esc(p.name||'(무명)')+'</div>';
+  var h='<div class="pin-pop"><span class="pp-cat" style="background:'+cat.c+'">'+cat.e+' '+esc(cat.l)+'</span>';
+  h+='<div class="pp-name">'+esc(p.name||'(무명)')+'</div>';
   if(p.memo) h+='<div class="pp-memo">'+esc(p.memo)+'</div>';
   h+='<div class="pp-btns">';
   var isKR=(p.lat>=33 && p.lat<=38.8 && p.lng>=124.5 && p.lng<=130.0);   // 한국 본토·제주 범위(해외는 네이버 제외)
   if(isKR) h+='<button class="pp-nv" onclick="openNaver('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">네이버지도에서 열기</button>';
   h+='<button class="pp-gg" onclick="openGoogle('+p.lat+','+p.lng+',\''+escJs(p.name)+'\')">구글맵에서 열기</button>';
-  h+='<button class="pp-sv" onclick="openStreetView('+p.lat+','+p.lng+')">📷 거리뷰로 확인</button>';
   if(!p.live && p.id) h+='<button class="pp-ed" onclick="editPin(\''+p.id+'\')">✏️ 수정</button>';
   else if(p.live && p.mid) h+='<button class="pp-ed" onclick="openMyMapsEdit(\''+escJs(p.mid)+'\')">🗺️ My Maps에서 수정</button>';
   h+='</div></div>';
