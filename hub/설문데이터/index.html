@@ -128,7 +128,7 @@
 
 <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
-  import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged, setPersistence, browserLocalPersistence } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+  import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, getRedirectResult, signOut, onAuthStateChanged, setPersistence, browserLocalPersistence } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
   import { getFirestore, collection, query, orderBy, onSnapshot, updateDoc, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
 
   // ── 설정 (subin-routine 재사용, 공개 apiKey는 비밀 아님) ──
@@ -140,13 +140,21 @@
   const app = initializeApp(cfg);
   const auth = getAuth(app), db = getFirestore(app);
   setPersistence(auth, browserLocalPersistence);
+  // 리다이렉트 로그인에서 돌아온 경우 결과 처리(팝업 폴백 대응)
+  getRedirectResult(auth).catch((e)=>{ showGateErr('로그인 처리 중 문제가 있었어요. 다시 로그인 버튼을 눌러주세요.'); });
 
   let DATA = [], unsubs = [], bufs = {}, activeFilter = 'all';
   const $ = (id)=>document.getElementById(id);
 
   $('loginBtn').addEventListener('click', async ()=>{
-    try{ await signInWithPopup(auth, new GoogleAuthProvider()); }
-    catch(e){ showGateErr('로그인이 취소되었거나 실패했어요. 다시 시도해주세요.'); }
+    const provider = new GoogleAuthProvider();
+    try{
+      await signInWithPopup(auth, provider);
+    }catch(e){
+      // 팝업이 서드파티 저장소 차단 등으로 실패 → 전체화면 리다이렉트 로그인으로 폴백
+      try{ await signInWithRedirect(auth, provider); }
+      catch(e2){ showGateErr('로그인에 실패했어요. 크롬 주소창 오른쪽의 눈/쿠키 아이콘에서 이 사이트 쿠키를 허용하거나, 사파리로 열어보세요.'); }
+    }
   });
   $('logoutBtn').addEventListener('click', ()=> signOut(auth));
   $('q').addEventListener('input', render);
