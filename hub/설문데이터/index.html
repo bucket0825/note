@@ -134,14 +134,14 @@
   // ── 설정 (subin-routine 재사용, 공개 apiKey는 비밀 아님) ──
   const cfg = { apiKey:"AIzaSyBfyRE7CNENjgSfe25xHAdr87gOllpYtvM", authDomain:"subin-routine.firebaseapp.com", projectId:"subin-routine" };
   const ALLOWED = "bucket0825@gmail.com";
-  const COLLECTION = "maydly_inquiries"; // 실가동 문의함 (시안 폼과 동일 컬렉션 · 260829 전환)
+  const COLLECTIONS = ["maydly_inquiries_test", "maydly_inquiries"]; // 두 서랍 합쳐 표시(기존 누적 _test + 260828 갈라진 분) · 폼 저장처는 _test
   const STATUSES = ['신규','상담중','예약','완료'];
 
   const app = initializeApp(cfg);
   const auth = getAuth(app), db = getFirestore(app);
   setPersistence(auth, browserLocalPersistence);
 
-  let DATA = [], unsub = null, activeFilter = 'all';
+  let DATA = [], unsubs = [], bufs = {}, activeFilter = 'all';
   const $ = (id)=>document.getElementById(id);
 
   $('loginBtn').addEventListener('click', async ()=>{
@@ -159,7 +159,7 @@
       $('who').textContent = (user.displayName||'명진');
       subscribe();
     } else {
-      if(unsub){ unsub(); unsub=null; }
+      unsubs.forEach(u=>u()); unsubs=[];
       $('dash').style.display='none'; $('gate').style.display='flex';
       if(user && user.email !== ALLOWED){
         showGateErr('이 계정('+user.email+')은 열람 권한이 없어요. bucket0825@gmail.com으로 로그인해주세요.');
@@ -169,31 +169,40 @@
   });
 
   function subscribe(){
-    if(unsub) unsub();
-    const qy = query(collection(db, COLLECTION), orderBy('ts','desc'));
-    unsub = onSnapshot(qy, (snap)=>{
-      DATA = snap.docs.map(d=>{
-        const x = d.data();
-        const dt = x.ts && x.ts.toDate ? x.ts.toDate() : new Date();
-        return { id:d.id, name:x.name||'', keep:x.keep||'', insta:x.insta||'', status:x.status||'신규', iso: toISO(dt) };
-      });
-      render();
-    }, (err)=>{
-      $('tbody').innerHTML = '<tr><td colspan="5" class="empty">데이터를 불러오지 못했어요.<br>보안 규칙이 아직 설정되지 않았을 수 있어요.</td></tr>';
+    unsubs.forEach(u=>u()); unsubs=[]; bufs={};
+    COLLECTIONS.forEach((col)=>{
+      const qy = query(collection(db, col), orderBy('ts','desc'));
+      const u = onSnapshot(qy, (snap)=>{
+        bufs[col] = snap.docs.map(d=>{
+          const x = d.data();
+          const dt = x.ts && x.ts.toDate ? x.ts.toDate() : new Date(0);
+          return { id:d.id, col:col, name:x.name||'', keep:x.keep||'', insta:x.insta||'', status:x.status||'신규', iso: toISO(dt), tsMs: dt.getTime() };
+        });
+        mergeRender();
+      }, (err)=>{ bufs[col] = bufs[col]||[]; mergeRender(); });
+      unsubs.push(u);
     });
+  }
+  function mergeRender(){
+    const all = [];
+    COLLECTIONS.forEach(c=>{ (bufs[c]||[]).forEach(it=>all.push(it)); });
+    all.sort((a,b)=> b.tsMs - a.tsMs);
+    DATA = all;
+    render();
   }
 
   window.cycleStatus = async (id)=>{
     const e = DATA.find(x=>x.id===id); if(!e) return;
     const next = STATUSES[(STATUSES.indexOf(e.status)+1)%STATUSES.length];
-    try{ await updateDoc(doc(db, COLLECTION, id), { status: next }); }
+    try{ await updateDoc(doc(db, e.col, id), { status: next }); }
     catch(err){ alert('상태 변경 실패(권한 확인 필요)'); }
   };
   window.delEntry = async (id)=>{
     const e = DATA.find(x=>x.id===id);
-    const who = e ? (e.name||'이 문의') : '이 문의';
+    if(!e) return;
+    const who = e.name||'이 문의';
     if(!confirm('「'+who+'」 문의를 삭제할까요?\n삭제하면 되돌릴 수 없어요.')) return;
-    try{ await deleteDoc(doc(db, COLLECTION, id)); }
+    try{ await deleteDoc(doc(db, e.col, id)); }
     catch(err){ alert('삭제 실패(권한 확인 필요)'); }
   };
   window.setFilter = (k)=>{ activeFilter=k; render(); };
