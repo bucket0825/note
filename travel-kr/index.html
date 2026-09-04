@@ -39,10 +39,10 @@
 <script src="data/guides_kr.js?v=3"></script>
 <script>
 var map = L.map('map',{zoomControl:true,attributionControl:true}).setView([36.4,127.9],7);
-// 무료 타일 (CARTO Voyager · 키 불필요) — 부드럽고 깔끔
-L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{
-  maxZoom:13, minZoom:6, subdomains:'abcd',
-  attribution:'© OpenStreetMap · © CARTO'
+// 무료 타일 (OpenStreetMap 공식 · 키 불필요) — CARTO는 키 요구로 워터마크가 떠서 교체(260904)
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
+  maxZoom:19, minZoom:6,
+  attribution:'© OpenStreetMap'
 }).addTo(map);
 
 (window.ORDER||Object.keys(CITY)).forEach(function(k){
